@@ -1,3 +1,21 @@
-# test
+# Notes:
+- [Biology]()
+- [Business]()
+- [Computer Science]()
+- [English]()
+- [Français]()
+- [Maths]()
+- [Music]()
 
-sandwich
+# Anki Decks
+- [Biology]()
+- [Business]()
+- [Computer Science]()
+- [English]()
+- [Français]()
+- [Maths]()
+- [Music]()
+
+# Other:
+- [Study Methods & Tips]()
+- [Resources]()
