@@ -1,5 +1,7 @@
 # Leaving Cert Notes
 
+[Github Pages](https://cutthroat78.github.io/Leaving-Cert-Notes/)
+
 This is my repo of notes for the leaving cert
 
 I will no longer be working on this repo, when I take my exams in 2023
