@@ -13,3 +13,4 @@ When I am no longer working on this repo but you want to make changes or modify 
 ## Links to help make/edit notes
 - [Dropdown in Markdown](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78)
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
+- [Markdown to CSV Converter (& Vice Versa)](https://tableconvert.com/markdown-to-csv)
