@@ -1,11 +1,5 @@
 # Study Methods & Tips
 
-<details>
-<summary>Methods</summary>
-WIP
-</details>
+## Methods
 
-<details>
-<summary>Tips</summary>
-WIP
-</details>
+## Tips
