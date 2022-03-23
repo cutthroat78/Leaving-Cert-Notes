@@ -1,5 +1,5 @@
 # Biology Notes
-| "Chapter/Section"                           | Paper Slides     | Slides |
+| Chapter/Section                             | Paper Slides     | Slides |
 |---------------------------------------------|------------------|--------|
 | A search for a definition of life           | Yes              | Yes    |
 | Scientific method                           | Yes              | Yes    |
@@ -15,7 +15,7 @@
 | Ecology                                     | No               | No     |
 | Environmental Factors                       | No               | No     |
 # Business Notes
-| "Chapter/Section"                           | Covering/Covered | Slides |
+| Chapter/Section                             | Covering/Covered | Slides |
 |---------------------------------------------|------------------|--------|
 | 1                                           | Yes              | Yes    |
 | 2                                           | Yes              | Yes    |
