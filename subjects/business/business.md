@@ -1,36 +1,36 @@
 # Business
-- [Answering Exam Questions](answering-exam-questions.md)
+[Answering Exam Questions](answering-exam-questions.md)
 ## Unit 1: Introduction to People in Business
-- [1. People in Business](topics/1-people-in-business.md)
-- [2. Consumer Conflict]()
-- [3. Industrial Relations]()
+[1. People in Business](topics/1-people-in-business.md)
+[2. Consumer Conflict]()
+[3. Industrial Relations]()
 ## Unit 2: Enterprise
-- 4. Enterprise
+4. Enterprise
 ## Unit 3: Managing 1
-- [5. Introduction to Management]()
-- [6. Management Skills: Leading and Motivating]()
-- [7. Management Skills: Communicating]()
-- 8. Management Activities: Planning, Organising and Controlling
+[5. Introduction to Management]()
+[6. Management Skills: Leading and Motivating]()
+[7. Management Skills: Communicating]()
+8. Management Activities: Planning, Organising and Controlling
 ## Unit 4: Managing 2
-- 9. Human Resource Management
-- 10. Managing Chanvge
-- 11. Insurance and Taxation
-- 12. Monitoring a Business: Ratio Analysis
-- 13. Finance
+9. Human Resource Management
+10. Managing Chanvge
+11. Insurance and Taxation
+12. Monitoring a Business: Ratio Analysis
+13. Finance
 ## Unit 5: Business in Action
-- 14. Identifying Business Opportunities
-- 15. Business Start-Up
-- 16. Market Analysis
-- 17. The Marketing Mix
-- 18. Business Expansion
+14. Identifying Business Opportunities
+15. Business Start-Up
+16. Market Analysis
+17. The Marketing Mix
+18. Business Expansion
 ## Unit 6: Domestic Environment
-- 19. Categories of Industury
-- 20. Business Organisations
-- 21. Business, the Economy and Government
-- 22. Community Development
-- 23. Ethical, Social and Environmental Responsibility
+19. Categories of Industury
+20. Business Organisations
+21. Business, the Economy and Government
+22. Community Development
+23. Ethical, Social and Environmental Responsibility
 ## Unit 7: International Environment
-- 24. International Trade
-- 25. The European Union
-- 26. Global Business
-- 27. The Applied Business Question (ABQ)
+24. International Trade
+25. The European Union
+26. Global Business
+27. The Applied Business Question (ABQ)
