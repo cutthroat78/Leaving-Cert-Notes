@@ -22,8 +22,8 @@ SEE Method:
 
 SEE Method Example:
 
-<span style="color=blue">Manager:</span> <span style="color=red">Responsible for day to day running</span> <span style="color=green">e.g. controls staff, roster, job list etc.</span>
+Manager: Responsible for day to day running e.g. controls staff, roster, job list etc.
 
-- Blue = State
-- Red = Explain
-- Green = Example
+- "Manager:" = State
+- "Responsible for day to day running" = Explain
+- "e.g. controls staff, roster, job list etc." = Example
