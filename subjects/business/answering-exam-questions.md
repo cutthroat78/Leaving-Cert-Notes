@@ -1,6 +1,6 @@
 # Answering Exam Questions
 
-### Exams Words:
+## Exams Words:
 
 - Discuss
 - Evaluate
@@ -12,7 +12,7 @@
 - Describe
 - Explain
 
-### Structure to Answer Questions:
+## Structure to Answer Questions:
 
 SEE Method:
 
@@ -20,10 +20,10 @@ SEE Method:
 2. Explain
 3. Example
 
-SEE Method Example:
+### SEE Method Example:
 
 Manager: Responsible for day to day running e.g. controls staff, roster, job list etc.
 
-- "Manager:" = State
-- "Responsible for day to day running" = Explain
-- "e.g. controls staff, roster, job list etc." = Example
+- "Manager:" = State Part
+- "Responsible for day to day running" = Explain Part
+- "e.g. controls staff, roster, job list etc." = Example Part
