@@ -44,7 +44,7 @@
 - [Biology Notes PDF](https://drive.google.com/file/d/1vCKGg53VXN_6mu1CWFtk6oz-Kx5f7wJG/view) - PDF with Notes
 - [Drive Folder of Short Exam Questions](https://drive.google.com/drive/folders/1T-OjSWuZksZHZ6GoPKHa7YyjJHPH-NFG) - A Google Drive folder full of Short Exam Questions
 - [Experiment Questions PDF](https://drive.google.com/file/d/1y_wheYdWDrZucSNYjsZfFJx0adBDgxXF/view) - PDF with Questions on Mandatory Practicals
-- [Introduction to macromolecules | Khan Academy](https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecues/a/introduction-to-macromolecules) - Article with Info on Macromolecules
+- [Introduction to macromolecules - Khan Academy](https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecues/a/introduction-to-macromolecules) - Article with Info on Macromolecules
 - [Amoeba Weebly Site](http://questjoey.weebly.com/index.html) - Website with Info on Amoeba
 
 ## Business
