@@ -1,7 +1,7 @@
 # Business
 - [Answering Exam Questions](answering-exam-questions.md)
 ## Unit 1: Introduction to People in Business
-- [1. People in Business]()
+- [1. People in Business](topics/1-people-in-business.md)
 - [2. Consumer Conflict]()
 - [3. Industrial Relations]()
 ## Unit 2: Enterprise
