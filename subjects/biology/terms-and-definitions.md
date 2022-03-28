@@ -7,6 +7,7 @@
 -->
 ## Unit 1
 ### 1. Scientific Method
+
 | Term | Definition |
 | --- | --- |
 | Biology | The Study of living things (organisms) |
@@ -18,7 +19,9 @@
 | Principle or Law | A proven theory |
 | Replicate(s) | Make a duplicate(s) of **an experiment or procedure** |
 | Theory | A proven hypothesis |
+
 ### 2. Characteristics of Life
+
 | Term | Definition |
 | --- | --- |
 | Anabolism | Chemical reaction where smaller molecules are joined togetherto form larger molecules |
@@ -32,12 +35,16 @@
 | Nutrition | The obtaining or making of food by living organisms |
 | Reproduction | The creating of new individuals of its own kind by an organism (by either sexual or asexual means) |
 | Response | The reacting of an organism to stimuli |
+
 ### 3. Nutrition
+
 | Term | Definition |
 | --- | --- |
 | Anabolism | Chemical reactions where smaller molecules are joined together to form larger molecules |
 | Catabolism | Chemical reactions where larger molecules are broken down tosmaller molecules |
+
 ### 4./5. Ecology
+
 | Term | Definition |
 | --- | --- |
 | Symbiosis \* | Relationship between (different) species in which at least one benefits |
@@ -77,14 +84,18 @@
 | Secondary Consumer | An organism which feeds on the primary **consumer** |
 | Tertiary Consumer | An organism which feeds on the secondary consumer |
 | Trophic Level | The position of an organism in a food chain |
+
 ## Unit 2
 ### 1. Cell Structure
+
 | Term | Definition |
 | --- | --- |
 | Eukaryotic Cell\* | Cells which have a nucleus and other membrane bound organelles. |
 | Prokaryotic Cell\* | Cells which **DO NOT** have a nucleus and other membrane bound organelles. |
 | Selectively Permeable | Only some substances are allowed through |
+
 ### 2. Cell Metabolism
+
 | Term | Definition |
 | --- | --- |
 | Metabolism | All the chemical reactions that occurs in organisms |
@@ -98,15 +109,19 @@
 | Diffusion | The movement of [gas or liquid] molecules from a region of higher concentration to a region of lower concentration |
 | Osmosis | The movement of water molecules from a region of high water concentration to a region of low water concentration across a S.P.M selectively permeable membrane or The movement of water molecules along a concentration gradient across a SPM or Movement of water molecules from a more dilute solution to a more concentrated solution across a selectively permeable membrane |
 | Turgor | The state of fullness in a plant cell due to the intake of water |
+
 ### 4. Cell Diversity
+
 | Term | Definition |
 | --- | --- |
 | Tissue | Group of similar cells. |
 | Tissue culture | Cells grown on (or in) medium **or** cells grown outside organism |
 | Organ | A group of tissues that work together |
 | Organ System | A group of organs that work together |
+
 ## Unit 3
 ### 2. Organisation & The Vascular Structures
+
 | Term | Definition |
 | --- | --- |
 | Meristem | A region of mitosis in a plant |
@@ -116,7 +131,9 @@
 | Capillary | Blood vessel that links an arteriole to a venule |
 | Closed circulatory system | When blood remains within blood vessels as it travels around the body |
 | Open circulatory system | When blood does not remain within (leaves) blood vessels as it travels around the body |
+
 ### 3. Transport & Nutrition and Extended Study
+
 Cohesion-Tension Model of Xylem Transport
 | Term | Definition |
 | --- | --- |
@@ -138,7 +155,9 @@ Cohesion-Tension Model of Xylem Transport
 | Cohesion | The force of attraction between molecules of water |
 | Adhesion | The force of attraction between molecules of water and the xylem vessel (wall) |
 | Tension | A pulling force |
+
 ### 4. Breathing and Excretion
+
 | Term | Definition |
 | --- | --- |
 | Excretion | The getting rid of waste products of metabolism |
