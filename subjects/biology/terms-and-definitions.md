@@ -133,8 +133,8 @@
 | Open circulatory system | When blood does not remain within (leaves) blood vessels as it travels around the body |
 
 ### 3. Transport & Nutrition and Extended Study
-
 Cohesion-Tension Model of Xylem Transport
+
 | Term | Definition |
 | --- | --- |
 | Autotrophic [organism] | Capable of producing its own food |
