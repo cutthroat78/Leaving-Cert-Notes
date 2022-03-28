@@ -14,5 +14,6 @@ When I am no longer working on this repo but you want to make changes or modify 
 - [Dropdown in Markdown](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78)
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
 - [Markdown to CSV Converter (& Vice Versa)](https://tableconvert.com/markdown-to-csv)
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 <!-- Example of a comment -->
