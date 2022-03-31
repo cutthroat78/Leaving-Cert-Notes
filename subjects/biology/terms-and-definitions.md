@@ -2,7 +2,7 @@
 (\* = Higher level)
 <!--
 | Term | Definition |
-|-|-|
+| --- | --- |
 | _ | _ |
 -->
 ## Unit 1
