@@ -1,7 +1,7 @@
 # Timetable
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-|-|-|-|-|-|-|
+| --- | --- | --- | --- | --- | --- |
 | 8:50 | Tutorial | Tutorial | Woodwork/Biology (1/2) | Tutorial | Tutorial |
 | 9:00 | English | Irish/Computer Science | Woodwork/Biology (2/2) | Maths | English |
 | 9:50 | French/Engineering | Maths | Irish/Computer Science | Music/Phys-Chem/Art/Geography | Irish/Computer Science |
