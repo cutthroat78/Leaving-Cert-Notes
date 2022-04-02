@@ -1,0 +1,3 @@
+# deprivation
+
+Français: la privation

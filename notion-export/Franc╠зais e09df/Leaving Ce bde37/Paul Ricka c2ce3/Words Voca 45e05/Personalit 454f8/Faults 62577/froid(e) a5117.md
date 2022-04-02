@@ -1,0 +1,3 @@
+# froid(e)
+
+Anglais: unfriendly

@@ -1,0 +1,3 @@
+# consacrer
+
+Anglais: to dedicate

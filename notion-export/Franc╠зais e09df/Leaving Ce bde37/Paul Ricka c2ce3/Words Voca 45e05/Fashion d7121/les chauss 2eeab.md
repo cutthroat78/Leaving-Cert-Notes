@@ -1,0 +1,3 @@
+# les chaussettes
+
+Anglais: socks

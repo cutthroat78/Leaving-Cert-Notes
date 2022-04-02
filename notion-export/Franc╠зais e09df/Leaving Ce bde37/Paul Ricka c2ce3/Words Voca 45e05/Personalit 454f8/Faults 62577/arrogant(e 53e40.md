@@ -1,0 +1,3 @@
+# arrogant(e)
+
+Anglais: arrogant

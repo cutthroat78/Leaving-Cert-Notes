@@ -1,0 +1,3 @@
+# fainéant(e)
+
+Anglais: lazy

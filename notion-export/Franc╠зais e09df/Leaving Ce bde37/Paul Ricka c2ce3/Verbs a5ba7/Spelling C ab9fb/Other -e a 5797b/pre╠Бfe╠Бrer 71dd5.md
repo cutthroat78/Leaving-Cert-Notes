@@ -1,0 +1,3 @@
+# préférer
+
+Anglais: to prefer

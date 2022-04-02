@@ -1,0 +1,3 @@
+# chaleureux
+
+Anglais: warm/charismatic

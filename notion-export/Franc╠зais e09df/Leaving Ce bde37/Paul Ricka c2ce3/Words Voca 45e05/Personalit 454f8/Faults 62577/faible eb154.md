@@ -1,0 +1,3 @@
+# faible
+
+Anglais: weak

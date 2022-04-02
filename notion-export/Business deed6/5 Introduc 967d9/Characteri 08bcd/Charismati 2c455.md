@@ -1,0 +1,3 @@
+# Charismatic
+
+Explanation: Inspiring, passionate

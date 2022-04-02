@@ -1,0 +1,3 @@
+# ennuyeux/enneyeuse
+
+Anglais: boring

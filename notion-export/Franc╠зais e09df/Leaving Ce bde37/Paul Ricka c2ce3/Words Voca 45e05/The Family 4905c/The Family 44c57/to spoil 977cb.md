@@ -1,0 +1,3 @@
+# to spoil
+
+Français: gâcher

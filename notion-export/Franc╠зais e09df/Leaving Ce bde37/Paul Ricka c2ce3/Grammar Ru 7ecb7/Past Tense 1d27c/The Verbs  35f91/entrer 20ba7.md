@@ -1,0 +1,3 @@
+# entrer
+
+Anglais: to enter

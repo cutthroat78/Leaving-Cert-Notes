@@ -1,0 +1,5 @@
+﻿Name,Function,Description,Example
+Integer,int,Positive Whole Numbers,10
+Float,float,Decimal Numbers,8.37
+String,str,A collection of characters,"""John"""
+Boolean,bool,True/False,True

@@ -1,0 +1,3 @@
+# Bass Clef
+
+Symbol: 𝄢

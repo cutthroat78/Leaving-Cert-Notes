@@ -1,0 +1,3 @@
+# timid(e)
+
+Anglais: shy

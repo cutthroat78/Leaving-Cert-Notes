@@ -1,0 +1,3 @@
+# gentil(le)
+
+Anglais: kind

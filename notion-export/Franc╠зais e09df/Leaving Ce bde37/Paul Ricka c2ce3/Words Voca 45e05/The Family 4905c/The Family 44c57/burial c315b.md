@@ -1,0 +1,3 @@
+# burial
+
+Français: un enterrement

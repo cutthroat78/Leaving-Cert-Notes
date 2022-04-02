@@ -1,0 +1,3 @@
+# sérieux/sérieuse
+
+Anglais: serious

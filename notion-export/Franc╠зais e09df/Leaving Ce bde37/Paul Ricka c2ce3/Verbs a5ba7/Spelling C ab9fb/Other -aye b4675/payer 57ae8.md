@@ -1,0 +1,3 @@
+# payer
+
+Anglais: to pay

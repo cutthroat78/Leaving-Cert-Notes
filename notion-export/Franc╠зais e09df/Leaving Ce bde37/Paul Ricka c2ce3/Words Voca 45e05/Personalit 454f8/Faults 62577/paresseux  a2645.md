@@ -1,0 +1,3 @@
+# paresseux/paresseuse
+
+Anglais: lazy

@@ -1,0 +1,3 @@
+# snob
+
+Anglais: snobbish

@@ -1,0 +1,3 @@
+# struggle
+
+Français: la lutte

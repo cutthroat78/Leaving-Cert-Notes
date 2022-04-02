@@ -1,0 +1,3 @@
+# généreux/généreuse
+
+Anglais: generous

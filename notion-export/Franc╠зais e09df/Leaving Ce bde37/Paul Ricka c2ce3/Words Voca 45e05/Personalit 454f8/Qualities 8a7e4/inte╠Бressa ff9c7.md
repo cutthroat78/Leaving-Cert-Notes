@@ -1,0 +1,3 @@
+# intéressant(e)
+
+Anglais: interesting

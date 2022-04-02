@@ -1,0 +1,3 @@
+# gros
+
+Adjective (English]): big

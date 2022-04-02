@@ -1,0 +1,3 @@
+# Multiple
+
+Symbol: *

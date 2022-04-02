@@ -1,0 +1,3 @@
+# joli
+
+Adjective (English]): pretty

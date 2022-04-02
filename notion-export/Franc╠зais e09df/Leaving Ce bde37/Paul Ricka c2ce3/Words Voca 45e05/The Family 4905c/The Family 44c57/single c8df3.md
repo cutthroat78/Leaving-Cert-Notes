@@ -1,0 +1,3 @@
+# single
+
+Français: célibataire

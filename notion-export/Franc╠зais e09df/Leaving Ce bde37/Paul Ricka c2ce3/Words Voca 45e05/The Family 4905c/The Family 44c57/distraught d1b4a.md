@@ -1,0 +1,3 @@
+# distraught, lost
+
+Français: désemparé

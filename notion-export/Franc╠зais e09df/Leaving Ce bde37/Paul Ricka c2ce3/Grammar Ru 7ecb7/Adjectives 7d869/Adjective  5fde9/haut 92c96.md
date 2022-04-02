@@ -1,0 +1,3 @@
+# haut
+
+Adjective (English]): high
