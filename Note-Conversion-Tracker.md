@@ -15,6 +15,7 @@
 | The Human Breathing System                  | No               | No     |
 | Ecology                                     | No               | No     |
 | Environmental Factors                       | No               | No     |
+| Nutrient Recycling                          | No               | No     |
 
 # Business Notes
 
@@ -43,3 +44,4 @@
 | 20                                          | Yes              | Yes    |
 | 21                                          | No               | No     |
 | 22                                          | No               | No     |
+| Business Ethics                             | No               | No     |

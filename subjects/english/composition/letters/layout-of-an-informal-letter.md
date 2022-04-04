@@ -1,4 +1,4 @@
-# Layout of a Informal/Personal Letter
+# Layout of an Informal/Personal Letter
 
 Your address →
 top right corner

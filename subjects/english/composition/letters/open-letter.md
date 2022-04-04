@@ -8,7 +8,7 @@
 - To defend oneself, express a strong view or make an appeal
 - Open letters are often aimed at an individual or group but are intended to be shared with the public
 
-## Fomat of an Open Letter
+## Format of an Open Letter
 
 The name of the author and date usually appear at the top of the letter, as in Sassoon’s example. However there is no hard and fast rule and if you prefer to sign at the end you may do so
 

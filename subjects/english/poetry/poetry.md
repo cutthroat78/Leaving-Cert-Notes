@@ -2,11 +2,11 @@
 
 ### Rudyard Kipling
 
-[If](Poetry%20dcb71/If%20b873e.md)
+[If](if.md)
 
 ### William Butler Yeats (W. B. Yeats)
 
-[**The Lake Isle of Innisfree**](Poetry%20dcb71/The%20Lake%20I%20f61d0.md)
+[The Lake Isle of Innisfree](the-lake-isle-of-innisfree.md)
 
 ### Elizabeth Bishop
 
