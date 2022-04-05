@@ -10,6 +10,7 @@
 - [Nutrition (& Food)]()
 - [Ecology, Ecosystem, Biosphere, Habitat & Niche]()
 - [Environmental Factors]()
+- [Nutrient Recycling](topics/unit-1/nutrient-recycling/nutrient-recycling.md)
 ## Units 2 - The Cell
 - [Video Playlist of Unit 2](https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1)
 - [The Cell]()
