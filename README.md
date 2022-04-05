@@ -20,7 +20,6 @@ When I am no longer working on this repo but you want to make changes or modify 
 
 ## To Dos
 - Look into git(hub) stuff for computer science class
-- Order topics in Biology by using Biology book order
 - Convert maths notes that was sent to me into digital notes
 - Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
 - Convert fill in the blank sheet urinary system diagram to notion
