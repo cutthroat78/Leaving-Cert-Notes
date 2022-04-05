@@ -1,0 +1,5 @@
+# Set Works (Set A)
+- [Romeo & Juilet Overture by Tchaikovsky](romeo-and-juliet.md)
+- [Bohemian Rhapsody by Queen](bohemian-rhapsody.md)
+- [Piano Quartet No. 1 by Gerald Barry](piano-quartet.md)
+- [Cantata 78 "Jesu Der Du Meine Seele” by Bach](cantata-78.md)

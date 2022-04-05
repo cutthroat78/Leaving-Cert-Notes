@@ -24,3 +24,16 @@ These are a set of <u>moral rules and standards</u> that provide guidelimes for 
 - Needs to reamin up to date
 - Difficult to enforce
 - Training costs (time and money)
+
+## Corporate Social Responsibility (CSR)
+It is duty of a business to treat everyone they come into contact with honestly and fairly, making a positive contribution to the environment they operate in
+
+### CSR of a company to its stakeholders
+
+| Investors | Honest and transparent reporting of the company's financial position; pay out reasonable dividends based on profits |
+| Employees | Pay a fair wage; provide proper working conditions and hours |
+| Customers | Be honest in advertising and when informing the consumer about ingredients, processes and sustainability of materials; ensure customers are not misled or hurt in any way |
+| Suppliers | Follow a fair tendering process; pay promptly; avoid taking on too much credit |
+| Government | Pay tax owed to Revenue in full and on time; obey the law |
+
+

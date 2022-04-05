@@ -10,4 +10,7 @@
 25% is 100 Marks
 (Max is 400 Marks)
 
-[Practicals](Exam%20Struc%2022f25/Practicals%20fca8f.md)
+
+## Practicals
+- [Ukulele Practical](ukulele-practical.md)
+- [Performing Practical](performing-practical.md)
