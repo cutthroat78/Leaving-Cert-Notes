@@ -19,6 +19,7 @@ When I am no longer working on this repo but you want to make changes or modify 
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## To Dos
+- Add anki file links for finding decks to resources page
 - Look into git(hub) stuff for computer science class
 - Convert maths notes that was sent to me into digital notes
 - Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
