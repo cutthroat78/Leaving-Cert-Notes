@@ -134,3 +134,57 @@ Biological Control is a method of controlling pests (including weeds) and diseas
 - No chemical used
 - No chemical residues left on plants
 - No leaching of chemicals into soil or water courses
+
+(insert diagram here)
+
+# Human Impact on an Ecosystem 3
+Waste Management
+
+## Need to Know
+- 
+
+## Waste Management
+
+Waste Management _
+
+_
+
+Urban rubbish is mostly dust, dirt, hair, paper, food scraps, metal, glass and plastic
+
+Traditional disposal has been to bury rubbish in landfill sites or incinerate
+
+### Landfill Operation
+
+The area being filled has a <u>rubberized landfill liner</u> in place (exposed on the left in photo)
+
+This prevents leaching materials migrating downward trhough the underlying rock
+
+(insert image here)
+
+### One of the following is necessary
+
+_
+
+### Waste Management in forestry
+
+_
+
+#### Foresty Solutions
+
+_
+
+### Problems with Waste Disposal
+
+_
+
+#### Possible Solutions
+
+_
+
+### Suggestions for Waste Minimisation
+
+_
+
+## Role of Micro-organisms in Waste Management
+
+_ 

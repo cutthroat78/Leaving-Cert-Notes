@@ -19,6 +19,8 @@ When I am no longer working on this repo but you want to make changes or modify 
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## To Dos
+- Convert this [quizlet](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx)
+- Ask Biology teacher for missing slides
 - Add anki file links for finding decks to resources page
 - Look into git(hub) stuff for computer science class
 - Convert maths notes that was sent to me into digital notes
