@@ -16,6 +16,7 @@
 | Ecology                                     | No               | No     |
 | Environmental Factors                       | No               | No     |
 | Nutrient Recycling                          | No               | No     |
+| Pyramid of Numbers                          | No               | No     |
 
 # Business Notes
 

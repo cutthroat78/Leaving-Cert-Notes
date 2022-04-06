@@ -34,3 +34,8 @@
 | 14:30 | Music/Phys-Chem/Art/Geography | PE || French/Engineering | Music/Phys-Chem/Art/Geography |
 
 (The time column doesn't apply to Wednesdays)
+
+# Homework
+
+| Subject | What to Do | Due |
+|-|-|-|

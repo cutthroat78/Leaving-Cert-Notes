@@ -1,41 +1,22 @@
 # Layout of a Formal Letter
 
-Your address →
-top right corner
+# Convert this to steps
 
-date underneath →
-
-12 Clogher Road,
-Crumlin,
-Dublin 12
-24th November 2021
-
-I.D Sports,
-Jervis Centre,
-Dublin 2
-
- 
-← Recipients address
-left side, one line underneath the date
+![Formal Letter](formal-letter.png)
 
 (skip the line)
 
+```
 Dear Sir/Madam / Mr/Ms {name}, (← salutation)
+                             (start under the ,)
+                             I would like to address a situation that arose when I visited your store on Tuesday 22nd November
+                             {paragraph 2}
+                             {paragraph 3}
+                                                                                      (skip a line after the body of the letter and sign off on right hand side of the page)
 
-                        (start under the , ↑)
-
-                                                I would like to address a situation that arose when I visited your store on Tuesday 22nd November
-
-{paragraph 2}
-
-{paragraph 3}
-
-(skip a line after the body of the letter and sign off on right hand side of the page ↓)
-
-Yours faithfully/Yours sincerely, (← sign off with either phrases) 
-
-                                                                                       {name} (← sign off with name)
-
+                                                                                      Yours faithfully/Yours sincerely, (← sign off with either phrases) 
+                                                                                        {name} (← sign off with name)
+```
 ---
 
 If you start the letter with Dear Sir/Madam you MUST sign off "Your sincerely". If you start with Mr or Ms {name} then you sign off "Yours faithfully".
