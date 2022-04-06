@@ -29,7 +29,7 @@
 | 9:50 | French/Engineering | Maths | Irish/Computer Science | Music/Phys-Chem/Art/Geography | Irish/Computer Science |
 | 10:50 | Maths | Music/Phys-Chem/Art/Geography | Break | English | Maths |
 | 11:50 | Break | Break | Business | Break | Break |
-| 12:30 | Woodwork/Biology (2/2) | Business | French/Engineering | Irish/Computer Science | Business |
+| 12:30 | Woodwork/Biology | Business | French/Engineering | Irish/Computer Science | Business |
 | 13:30 | Business | Woodwork/Biology | English | Relation & Sexual Education | French/Engineering |
 | 14:30 | Music/Phys-Chem/Art/Geography | PE || French/Engineering | Music/Phys-Chem/Art/Geography |
 
