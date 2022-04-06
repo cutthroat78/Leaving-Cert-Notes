@@ -41,7 +41,7 @@
 | Term | Definition |
 | --- | --- |
 | Anabolism | Chemical reactions where smaller molecules are joined together to form larger molecules |
-| Catabolism | Chemical reactions where larger molecules are broken down tosmaller molecules |
+| Catabolism | Chemical reactions where larger molecules are broken down to smaller molecules |
 
 ### 4./5. Ecology
 
