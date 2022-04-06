@@ -37,5 +37,6 @@
 
 # Homework
 
-| Subject | What to Do | Due |
-|-|-|-|
+| Subject | What to Do | Due | Done? |
+|-|-|-|-|
+| No | Homework | Set | Yet |
