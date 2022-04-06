@@ -1,14 +1,13 @@
 # Leaving Cert Notes
-
 [Github Pages](https://cutthroat78.github.io/Leaving-Cert-Notes/)
 
 This is my repo of notes for the leaving cert
 
 I will no longer be working on this repo, when I take my exams in 2023
 
-If you would like to add any notes, make any suggestions or simply want to help in anyways, create and issue
+If you would like to add any notes, make any suggestions or simply want to help in anyways, create an issue
 
-When I am no longer working on this repo but you want to make changes or modify the notes for yourself, plrease fork this repo and work on it there. I suggest that you keep the forked repo public to allow other to use the notes and help contribute to them
+When I am no longer working on this repo but you want to make changes or modify the notes for yourself, please fork this repo and work on it there. I suggest that you keep the forked repo public to allow other to use the notes and help contribute to them
 
 <!-- Example of a comment -->
 
@@ -84,3 +83,5 @@ When I am no longer working on this repo but you want to make changes or modify 
 - Music: Pick songs for music class (3, 4 or 6)
 - English: Go through a dolls house study booklet and get rid of things that are not needed
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
+### Anki
+- Put all topics in lists in anki file
