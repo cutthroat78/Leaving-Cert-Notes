@@ -26,8 +26,6 @@ When I am no longer working on this repo but you want to make changes or modify 
 - Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
 - Convert fill in the blank sheet urinary system diagram to notion
 - Redeem verse 2023 english ebook
-- Make french notes on conditional tense
-- Make French notes on all future tenses
 - Convert english room relationships pages that was sent me over whatsapp
 - Make notes for poetry techniques
 - French: Make notes on imperfect/l’imparfait tense and perfect/le parfait tense (past tenses)
@@ -62,26 +60,34 @@ When I am no longer working on this repo but you want to make changes or modify 
 - Consider moving school slides to seperate page(s)
 - Convert heart diagram that is written on small piece of paper in my green folder
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet into notion
+- Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
+### Biology
+### Business
+### Computer Science
+### English
+- Go through a dolls house study booklet and get rid of things that are not needed
+### French
 - Digitize JC Hardback 1
 - Digitize Justine Era LC Hardback
-- Music: Convert sheets on . (dotted) notes and rests
-- Music: Sort out treble key signatures page
-- Music: Add below to music note notes
-  Add:
+- Add an example to Past Tense page
+- Convert anki jc decks to digital notes
+- Convert fete d’anniversaire booklet into digital notes
+- Digitize JC Hardback 2
+- Write difference between future tenses into digital notes
+- Convert these quizlet decks: [1](https://quizlet.com/_a5hp63?x=1jqt&i=3whdjx) [2](https://quizlet.com/_b6jeex?x=1jqt&i=3whdjx)
+- Make french notes on conditional tense
+- Make French notes on all future tenses
+### Maths
+### Music
+- Convert sheets on . (dotted) notes and rests
+- Sort out treble key signatures page
+- Add below to music note notes:
   - Dotted Crochet
   - Dotted minim
   - Semiquaver
   - The dot (Adds half the value of the note it follows)
     A dotted crochet always has a quaver after it
-- Music: Look through this [link](https://www.curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Music/) and put info on exams and subjects onto pages
-- French: Add an example to Past Tense page
-- French: Convert anki jc decks to digital notes
-- French: Convert fete d’anniversaire booklet into notion
-- French: Digitize JC Hardback 2
-- French: Write difference between future tenses into notion
-- French: Convert these quizlet decks: [1](https://quizlet.com/_a5hp63?x=1jqt&i=3whdjx) [2](https://quizlet.com/_b6jeex?x=1jqt&i=3whdjx)
-- Music: Pick songs for music class (3, 4 or 6)
-- English: Go through a dolls house study booklet and get rid of things that are not needed
-- Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
+- Look through this [link](https://www.curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Music/) and put info on exams and subjects onto pages
+- Pick songs for music class (3, 4 or 6)
 ### Anki
-- Learn how to make diagram cards
+- Test and learn how to use [image occlusion](https://ankiweb.net/shared/info/1111933094)
