@@ -1,7 +1,5 @@
 # Anki
-- Add ☆ to converted pages and pieces of pages
-- Rather than making own anki decks. Make anki decks a collection of other peoples notes and some of my own
-- Later on sort all of the cards in each subject to make things more affective and have an **ultimate** deck
+- Put star on part that after it is onwards in file that I need to convert into anki
 - Idea: Convert previous exam paper questions into anki decks
 
 ## List of search terms to try and find as many anki decks as possible
@@ -29,3 +27,15 @@
 - [Offical Anki Website Shared Decks](https://ankidecks.com/decks)
 - [https://www.cram.com](https://www.cram.com/)
 - [https://www.reddit.com/r/TheLeavingCert/](https://www.reddit.com/r/TheLeavingCert/) (search for decks)
+
+## Biology Notes Converted
+
+| Topic | Converted? |
+| - | - |
+| Characteristics of life | No |
+
+## Business Notes Converted
+
+| Topic | Converted? |
+| - | - |
+| People in business | No |
