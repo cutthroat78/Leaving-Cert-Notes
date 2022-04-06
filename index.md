@@ -6,7 +6,6 @@
 - [French](subjects/french/french.md)
 - [Maths](subjects/maths/maths.md)
 - [Music](subjects/music/music.md)
-
 # Anki Decks
 - [Biology](anki/biology.apkg)
 - [Business](anki/business.apkg)
@@ -15,11 +14,9 @@
 - [French](anki/french.apkg)
 - [Maths](anki/maths.apkg)
 - [Music](anki/music.apkg)
-
 # Other
 - [Study Methods & Tips](other/study.md)
 - [Resources](other/resources.md)
-
 # Timetable
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -40,3 +37,43 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | No | Homework | Set | Yet |
+
+# Calendar
+
+| Event | Information | Date (& Time) |
+|-|-|-|
+| Dublin Zoo Biology Trip | Costs €7, Bring Money/Leap for Luas, We will be doing Ecology experiments there and then will go/look around the zoo | Tuesday, 26/04/2022 |
+| Last day of school | I am not sure if this is last day of class or last day of exams | Wednesday, 27/04/2022 |
+| Trip to Belfast | I think it will Cost €13, but not certain. We will be going to a museum and a titanic museum thing | ? |
+| Computer Science Test | No info yet | ? |
+| French Test | Test on imperfect past tense. Sometime after Friday break. I think the teacher may forget about this test and it will not happen | ? |
+
+<!--
+# Homework Archive:
+## 5th Year
+- Biology - Page 297 diagrams 27.5 and 27.6 into hardback - 07/03/2022
+- English - Personal Essay (5 paragraphs): Write a personal essay in which you explore your sense of what a particular place means to you - 14/02/2022
+- English - Room Booklet Comprehension Questions - 14/02/2022
+- Biology - Finish Homeostasis Worksheet - 01/03/2022
+- Maths - Questions 8, 9 and 11 - 03/03/2022
+- [ ] Biology - page 301 question 1 & 2 - 08/03/2022
+- [ ] French - Do page 142 Questions  - 14/03/2022
+- [ ] Biology - do digital and physical write up on breathing rate test - 14/03/2022
+- [ ] Business - page 458 Do Question A, B and C - 21/03/2022
+- [ ] Biology - 
+  - [x] 1. Watch video on teams 
+  - [ ] 2. Copy diagram
+    - [ ] a. urinary system handout
+    - [x] b. label nephron diagram
+    - [ ] c. copy diagram of nephron from pg. 316 of textbook into hardback
+- [ ] Maths - page 142 questions: 3, 5, 8, 12 - 21/03/2022
+- [ ] Biology - workbook page 87 - 16/03/2022
+- [ ] Biology - 2016 Q12 on sheet - 21/03/2022
+- [ ] French - Do question that is in markdown file on my pinephone - 23/03/2022
+- [ ] Biology - Do Question 1 + 2 on Page 457 - 30/03/2022
+- [ ] French - Do five questions on page - 31/03/2022
+- [ ] English - Question 1-4 - 31/03/2022
+- [ ] English - Write a paragraph on one of the Relationships in Room  - 01/04/2022
+- [ ] Biology - Workbook Page 113 Q 1 (part e of 1), 2, 3, 4, 5, 6, 7 - 05/04/2022
+- [ ] Biology - Study definitions scientific method - 05/04/2022
+-->
