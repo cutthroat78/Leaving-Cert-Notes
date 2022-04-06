@@ -84,4 +84,4 @@ When I am no longer working on this repo but you want to make changes or modify 
 - English: Go through a dolls house study booklet and get rid of things that are not needed
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
 ### Anki
-- Put all topics in lists in anki file
+- Learn how to make diagram cards
