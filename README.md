@@ -17,6 +17,15 @@ When I am no longer working on this repo but you want to make changes or modify 
 - [Markdown to CSV Converter (& Vice Versa)](https://tableconvert.com/markdown-to-csv)
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+## Plan
+- [ ] 1. Convert and setup the notion export and sort all that out
+- [ ] 2. Sort out all my Biology Experiments
+- [ ] 3. Convert all Biology paper and digital slides
+- [ ] 4. Start converting all subject topics to anki
+  - [ ] Convert tables to standard cards (with or without reverse), if the table is hard to study with standard cards use cloze cards
+  - [ ] Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
+  - [ ] Use image occlusion cards to learn diagrams
+
 ## To Dos
 - Convert this [quizlet](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx)
 - Ask Biology teacher for missing slides
