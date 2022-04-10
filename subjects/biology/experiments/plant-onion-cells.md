@@ -2,7 +2,7 @@
 
 # Title: To Prepare and examine plant (onion) cells, unstained and stained, using the light microscope
 
-### Materials/Equipment/Apparatus:
+## Materials/Equipment/Apparatus
 
 - Microscope
 - Microscope slides
@@ -19,7 +19,7 @@
 - Iodine stain
 - Absorbent paper
 
-### Procedure/Method:
+## Procedure/Method
 
 1. Set up microscope
 2. Place a drop of water on a slide
@@ -35,18 +35,16 @@
 12. Repeat the above steps using iodine stain instead of water
 13. Draw labelled diagrams at low power (x40) and at high power (x400)
 
-### Labelled Diagram:
+## Labelled Diagram
 
 ![20211006_145748.jpg](Plant%20(Oni%201c938/20211006_145748.jpg)
-
----
 
 ![20211006_145754.jpg](Plant%20(Oni%201c938/20211006_145754.jpg)
 
 ![20211006_145852.jpg](Plant%20(Oni%201c938/20211006_145852.jpg)
 
-### Conclusion:
+## Conclusion
 
 We were able to prepare, see and identify the cells and parts of the cell in the onion
 
-[Cell Pictures](Plant%20(Oni%201c938/Cell%20Pictu%206a78d.csv)
+[Cell Pictures]()

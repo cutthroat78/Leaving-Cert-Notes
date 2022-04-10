@@ -1,8 +1,6 @@
-# Enzyme Immobilisation
-
 # Title: Prepare one enzyme immobilisation and examine its application
 
-### Materials/Equipment/Apparatus (+ Chemicals):
+## Materials/Equipment/Apparatus (+ Chemicals)
 
 - Retort stand
 - Plasic bottle (bioreacter)
@@ -18,7 +16,7 @@
 - Water
 - Stirring tool
 
-## Procedure/Method:
+## Procedure/Method
 
 ### A. Preparing the Immobilised Enzyme
 
@@ -38,15 +36,15 @@
 5. Repeat the test every 2 minutes until glucose appears in the beaker
 6. Run off the remaining product from the bottle into a beaker and look at it’s turbidity (cloudiness)
 
-### Safety/Risks:
+## Safety/Risks
 
 - Tie back hair
 
-### Labelled Diagram:
+## Labelled Diagram
 
 [Results:](Enzyme%20Imm%2031f54/Results%20052b4.csv)
 
-### Conclusion:
+## Conclusion
 
 We have found out that immobilised enzymes can’t function and work as they typically work compared to free enzymes.
 

@@ -1,26 +1,26 @@
 # Effect of Heated Denaturation on Enzyme Activity
 
-# Title:
+# Title
 
-### Materials/Equipment/Apparatus:
+## Materials/Equipment/Apparatus
 
 - 
 
-### Procedure/Method:
+## Procedure/Method
 
 1. 
 
-### Safety/Risks:
+## Safety/Risks
 
 - 
 
-### Labelled Diagram:
+## Labelled Diagram
 
 ![Untitled](Effect%20of%20%20a7b1b/Untitled.png)
 
-### Results:
+## Results
 
-### Conclusion:
+## Conclusion
 
 ![Untitled](Effect%20of%20%20a7b1b/Untitled%201.png)
 
