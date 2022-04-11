@@ -34,6 +34,7 @@
 
 - [Plant (Onion) Cells]()
 - [Osmosis Demonstration]()
+- [Heart Dissection]()
 - [Breathing Rate]()
 ## Food Tests
 - [A Test for Starch]()
