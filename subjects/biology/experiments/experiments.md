@@ -2,10 +2,10 @@
 
 | Experiments                                                                               | Done in Class | Did Paper Write Up | Digitsed |
 |-------------------------------------------------------------------------------------------|---------------|--------------------|----------|
-| Testing Food for Starch                                                                   | Yes           | No                | No      |
-| Testing Food for Reducing Sugar                                                           | Yes           | No                | No      |
-| Testing Food for Fat                                                                      | Yes           | No                | No      |
-| Testing Food for Protein                                                                  | Yes           | No                | No      |
+| Testing Food for Starch                                                                   | Yes           | Yes                | No      |
+| Testing Food for Reducing Sugar                                                           | Yes           | Yes                | No      |
+| Testing Food for Fat                                                                      | Yes           | Yes                | No      |
+| Testing Food for Protein                                                                  | Yes           | Yes                | No      |
 | Identifying Flora and Fauna using keys                                                    | No            | No                 | No       |
 | Identify a variety of Habitats                                                            | No            | No                 | No       |
 | Identify and use various apparatus required for collection methods in an Ecological study | No            | No                 | No       |
@@ -13,12 +13,12 @@
 | "Quantitative Survey: Animals, Methods: _"                                                | No            | No                 | No       |
 | "Investigating Abiotic Factors, Factors: 1. 2. 3."                                        | No            | No                 | No       |
 | Looking at Animal (cheek) cells                                                           | No            | No                 | No       |
-| (Using the microscope &) Looking at Plant Cells                                           | Yes           | No                | No      |
-| pH and Enzyme Activity                                                                    | Yes           | No                | No      |
-| Temp and Enzyme Activity                                                                  | Yes           | No                | No      |
-| Enzyme Denaturation                                                                       | Yes           | No                 | No       |
-| Enzyme Immobilisation                                                                     | Yes           | No                 | No       |
-| Osmosis                                                                                   | Yes           | No                 | No       |
+| (Using the microscope &) Looking at Plant Cells                                           | Yes           | Yes                | No      |
+| pH and Enzyme Activity                                                                    | Yes           | Yes                | No      |
+| Temp and Enzyme Activity                                                                  | Yes           | Yes                | No      |
+| Enzyme Denaturation                                                                       | Yes           | Yes                 | No       |
+| Enzyme Immobilisation                                                                     | Yes           | Yes                 | No       |
+| Osmosis                                                                                   | Yes           | Yes                | No       |
 | Photosynthesis                                                                            | No            | No                 | No       |
 | Fermentation of Alcohol                                                                   | No            | No                 | No       |
 | Isolating DNA                                                                             | No            | No                 | No       |
