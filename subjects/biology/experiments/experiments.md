@@ -25,7 +25,7 @@
 | Leaf Yeast Growth                                                                         | No            | No                 | No       |
 | Heart Dissection                                                                          | Yes           | No                 | No       | <!--Everyone did write except for me, I need to get a write up--->
 | Exercise and the Pulse Rate                                                               | No            | No                 | No       |
-| Exercise and the Breathing Rate                                                           | Yes           | No                 | No       |
+| Exercise and the Breathing Rate                                                           | Yes           | Yes                 | No       |
 | TS of a Dicot Stem                                                                        | No            | No                 | No       |
 | IAA as a Growth Regulator                                                                 | No            | No                 | No       |
 | Germination                                                                               | No            | No                 | No       |
