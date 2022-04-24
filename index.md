@@ -43,7 +43,6 @@
 | Event | Information | Date (& Time) |
 |-|-|-|
 | Dublin Zoo Biology Trip | Costs €7, Bring Money/Leap for Luas, We will be doing Ecology experiments there and then will go/look around the zoo | Tuesday, 26/04/2022 |
-| Last day of school | I am not sure if this is last day of class or last day of exams | Wednesday, 27/04/2022 |
 | Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | ? |
 | Computer Science Test | No info yet | ? |
 | French Test | Test on imperfect past tense. Sometime after Friday break. I think the teacher may forget about this test and it will not happen | ? |
