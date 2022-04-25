@@ -1,8 +1,4 @@
 # Exam Structure
-- [Breakdown of Marks](breakdown-of-marks.md)
-- [Marking Criteria](marking-criteria.md)
-- [Modes of Comparison (2023)](modes-of-comparison.md)
-- [Comprehension: Question B](comprehension-question-b.md)
 ## Paper 1:
 - Comprehension
 - Compositions
