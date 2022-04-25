@@ -26,4 +26,10 @@
 
 ## What would you like to do in life? / after the leaving cert?
 
+## 
+
+| French | English |
+|-|-|
+| 
+
 ## Uncategorised

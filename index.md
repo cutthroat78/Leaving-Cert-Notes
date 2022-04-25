@@ -36,14 +36,16 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| No | Homework | Set | Yet |
+| English | Finish off sample question on Control and Violence  | Wednesday, 27/04/2022 | No |
+| French | Get vocab from top of sheet and highlighted words on sheet and put into hardback | Wednesday, 27/04/2022  | No |
 
 # Calendar
 
 | Event | Information | Date (& Time) |
 |-|-|-|
 | Dublin Zoo Biology Trip | Costs €7, Bring Money/Leap for Luas, We will be doing Ecology experiments there and then will go/look around the zoo | Tuesday, 26/04/2022 |
-| Day Off for bank Holiday | | Monday, 27/04/2022 |
+| French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
+| Day Off for bank Holiday | | Monday, ?/05/2022 |
 | Summer Exams Start | | 24/05/2022 |
 | Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | ? |
 | Computer Science Test | No info yet | ? |
