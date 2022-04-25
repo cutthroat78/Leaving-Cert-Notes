@@ -36,7 +36,34 @@ The 1870s were dominated by strict Victorian social codes and laws that severely
 
 ---
 
-[Lexis](Study%20Guid%20ac920/Lexis%20df36a.csv)
+## Lexis
+
+| Word          | Definition |
+|---------------|------------|
+| Heroine       |            |
+| Embittered    |            |
+| Sophisticated |            |
+| Infantilising |            |
+| Fundamental   |            |
+| Conceived     |            |
+| Unbearable    |            |
+| Superior      |            |
+| Despair       |            |
+| Patronising   |            |
+| Deceit        |            |
+| Unscrupulous  |            |
+| Rescinds      |            |
+| Cynical       |            |
+| Rejoices      |            |
+| Overbearing   |            |
+| Humanism      |            |
+| Infallible    |            |
+| Fraternal     |            |
+| Superficial   |            |
+| Foreshadows   |            |
+| Fiery         |            |
+| Disillusioned |            |
+
 
 ## **Connecting/link words for writing:**
 

@@ -54,13 +54,14 @@ When I am no longer working on this repo but you want to make changes or modify 
 - Computer Science: ASCII vs Unicode card and voice message Cathal sent me
 - Computer Science: Convert hexadecimal cards
 ### English
+- Look through teams for notes to add
 - Redeem verse 2023 english ebook
 - Convert english room relationships pages that was sent me over whatsapp
 - Make notes for poetry techniques
 - English: Move notes in [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf) to English digital
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
-- Convert this [quizlet](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx)
+- Convert this [quizlet](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx) and [this](https://quizlet.com/ie/553977705/la-question-dopinion-flash-cards/)
 - Digitize JC Hardback 1
 - Digitize JC Hardback 2
 - Digitize Justine Era LC Hardback
