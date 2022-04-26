@@ -43,14 +43,13 @@
 
 | Event | Information | Date (& Time) |
 |-|-|-|
-| Dublin Zoo Biology Trip | Costs €7, Bring Money/Leap for Luas, We will be doing Ecology experiments there and then will go/look around the zoo | Tuesday, 26/04/2022 |
 | French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
 | Day Off for bank Holiday | | Monday, 02/05/2022 |
 | Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Wednesday, 18/05/2022 |
 | Summer Exams Start | | Tuesday, 24/05/2022 |
 | Computer Science Test | No info yet | ? |
-| French Test | Test on imperfect past tense. Sometime after Friday break. I think the teacher may forget about this test and it will not happen | ? |
 | Leaving Cert Exams Start | The date is a **GUESS** and maybe not be accurate to the actual date | 01/06/2023 |
+<!--| French Test | Test on imperfect past tense. Sometime after Friday break. I think the teacher may forget about this test and it will not happen | ? | -->
 
 <!--
 # Homework Archive:
