@@ -1,7 +1,6 @@
 # Grammar/Rules/How Tos
-- [Adjectives]()
+- [Adjectives](adjectives.md)
 - [Verbs](verbs/verbs.md)
-- [How to Write a Diary Entry](how-to-write-a-diary-entry.md)
 ## Tenses
 - [Past Tense]()
 - [Near Future Tense]()
