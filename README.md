@@ -61,7 +61,7 @@ When I am no longer working on this repo but you want to make changes or modify 
 - English: Move notes in [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf) to English digital
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
-- Convert this [quizlet](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx), [this](https://quizlet.com/ie/553977705/la-question-dopinion-flash-cards/), and [this](https://quizlet.com/_99oq03?x=1jqt&i=3whdjx)
+- Convert this 
 - Digitize JC Hardback 1
 - Digitize JC Hardback 2
 - Digitize Justine Era LC Hardback
@@ -69,7 +69,12 @@ When I am no longer working on this repo but you want to make changes or modify 
 - Convert anki jc decks to digital notes
 - Convert fete d’anniversaire booklet into digital notes
 - Write difference between future tenses into digital notes
-- Convert these quizlet decks: [1](https://quizlet.com/_a5hp63?x=1jqt&i=3whdjx) [2](https://quizlet.com/_b6jeex?x=1jqt&i=3whdjx)
+- Convert these quizlet decks: 
+  - [1](https://quizlet.com/_a5hp63?x=1jqt&i=3whdjx) 
+  - [2](https://quizlet.com/_b6jeex?x=1jqt&i=3whdjx) 
+  - [3](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx)
+  - [4](https://quizlet.com/ie/553977705/la-question-dopinion-flash-cards/) 
+  - [5](https://quizlet.com/_99oq03?x=1jqt&i=3whdjx)
 - Make french notes on conditional tense
 - Make French notes on all future tenses
 - French: Make notes on imperfect/l’imparfait tense and perfect/le parfait tense (past tenses)
