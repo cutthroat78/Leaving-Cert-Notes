@@ -36,11 +36,11 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Finish off sample question on Control and Violence | Thursday, 28/04/2022 | No |
-| English | _ | Thursday, 28/04/2022 | No |
+| English | Finish off sample question on Control and Violence | Friday, 29/04/2022 | No |
+| English | Finish Question on sheet that we were doing on Wednesday class | Friday, 29/04/2022 | No |
 | French | Get vocab from top of sheet and highlighted words on sheet and put into hardback | Wednesday, 27/04/2022  | No |
-| Biology | Do Question 11, Ecology Exam Question | Next Biology Class on Monday | No |
-| French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais" (Should phones be banned in Irish schools) | 28/04/2022 | No |
+| Biology | Do Question 11, Ecology Exam Question | Monday, 02/05/2022 | No |
+| French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
 
 # Calendar
 
@@ -52,7 +52,6 @@
 | Summer Exams Start | Could possibily change date | Monday, 23/05/2022 |
 | Computer Science Test | No info yet | ? |
 | Leaving Cert Exams Start | The date is a **GUESS** and maybe not be accurate to the actual date | 01/06/2023 |
-<!--| French Test | Test on imperfect past tense. Sometime after Friday break. I think the teacher may forget about this test and it will not happen | ? | -->
 
 <!--
 # Homework Archive:
