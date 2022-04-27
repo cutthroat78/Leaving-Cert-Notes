@@ -1,3 +1,0 @@
-# les chaussures
-
-Anglais: shoes

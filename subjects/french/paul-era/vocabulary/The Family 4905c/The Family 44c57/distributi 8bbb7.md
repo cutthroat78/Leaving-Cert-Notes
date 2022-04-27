@@ -1,3 +1,0 @@
-# distribution
-
-Français: la répartition

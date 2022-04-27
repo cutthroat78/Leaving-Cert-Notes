@@ -1,3 +1,0 @@
-# maladroit(e)
-
-Anglais: clumsy

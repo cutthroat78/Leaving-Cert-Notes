@@ -1,3 +1,0 @@
-# ouvert(e)
-
-Anglais: open

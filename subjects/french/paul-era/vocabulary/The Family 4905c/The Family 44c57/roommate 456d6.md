@@ -1,3 +1,0 @@
-# roommate
-
-Français: un colocataire

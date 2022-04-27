@@ -1,3 +1,0 @@
-# bruit
-
-Anglais: noise

@@ -1,3 +1,0 @@
-# brunes
-
-Anglais: brunettes

@@ -1,3 +1,0 @@
-# les collants
-
-Anglais: tights

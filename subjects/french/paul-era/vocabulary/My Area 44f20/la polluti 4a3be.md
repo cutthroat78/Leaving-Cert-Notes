@@ -1,3 +1,0 @@
-# la pollution
-
-Anglais: Pollution

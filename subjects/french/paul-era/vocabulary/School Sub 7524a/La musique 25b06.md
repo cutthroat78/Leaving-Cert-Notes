@@ -1,3 +1,0 @@
-# La musique
-
-Anglais: Music

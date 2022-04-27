@@ -1,3 +1,0 @@
-# la chance
-
-Anglais: luck

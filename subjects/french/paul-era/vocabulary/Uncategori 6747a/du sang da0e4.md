@@ -1,3 +1,0 @@
-# du sang
-
-Anglais: blood

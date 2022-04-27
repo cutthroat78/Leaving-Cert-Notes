@@ -1,3 +1,0 @@
-# amical(e)
-
-Anglais: friendly

@@ -1,3 +1,0 @@
-# La science
-
-Anglais: science

@@ -1,3 +1,0 @@
-# happiness
-
-Français: le bonheur

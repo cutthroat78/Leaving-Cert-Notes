@@ -1,3 +1,0 @@
-# blondes
-
-Anglais: blondes

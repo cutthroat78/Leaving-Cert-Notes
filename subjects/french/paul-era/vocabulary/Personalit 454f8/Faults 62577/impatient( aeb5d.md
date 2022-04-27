@@ -1,3 +1,0 @@
-# impatient(e)
-
-Anglais: impatient

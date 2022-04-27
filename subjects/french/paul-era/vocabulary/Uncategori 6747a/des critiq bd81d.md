@@ -1,3 +1,0 @@
-# des critiques
-
-Anglais: criticism

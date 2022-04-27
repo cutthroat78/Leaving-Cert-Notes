@@ -1,3 +1,0 @@
-# Le droit
-
-Anglais: law

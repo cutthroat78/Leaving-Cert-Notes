@@ -1,3 +1,0 @@
-# médecin
-
-Anglais: doctor

@@ -1,3 +1,0 @@
-# politeness
-
-Français: la politesse

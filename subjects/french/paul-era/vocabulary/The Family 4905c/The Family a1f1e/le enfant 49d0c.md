@@ -1,3 +1,0 @@
-# le enfant
-
-Anglais: child

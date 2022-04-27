@@ -1,3 +1,0 @@
-# apprécier
-
-Anglais: appreciate

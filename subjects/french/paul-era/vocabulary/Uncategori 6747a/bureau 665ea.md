@@ -1,3 +1,0 @@
-# bureau
-
-Anglais: office

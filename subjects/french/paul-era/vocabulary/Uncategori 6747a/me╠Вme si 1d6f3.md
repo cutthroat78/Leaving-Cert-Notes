@@ -1,3 +1,0 @@
-# même si
-
-Anglais: although

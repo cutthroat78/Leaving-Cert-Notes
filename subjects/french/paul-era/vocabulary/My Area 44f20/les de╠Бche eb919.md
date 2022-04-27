@@ -1,3 +1,0 @@
-# les déchets
-
-Anglais: waste

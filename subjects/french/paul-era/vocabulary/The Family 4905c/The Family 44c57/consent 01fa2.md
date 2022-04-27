@@ -1,3 +1,0 @@
-# consent
-
-Français: le consentement

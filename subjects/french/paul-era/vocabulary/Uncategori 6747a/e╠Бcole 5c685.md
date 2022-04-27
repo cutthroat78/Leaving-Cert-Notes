@@ -1,3 +1,0 @@
-# école
-
-Anglais: school

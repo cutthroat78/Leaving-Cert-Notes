@@ -1,3 +1,0 @@
-# Mais
-
-Anglais: But

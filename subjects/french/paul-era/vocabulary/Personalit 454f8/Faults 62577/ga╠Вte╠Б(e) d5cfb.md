@@ -1,3 +1,0 @@
-# gâté(e)
-
-Anglais: spoilt

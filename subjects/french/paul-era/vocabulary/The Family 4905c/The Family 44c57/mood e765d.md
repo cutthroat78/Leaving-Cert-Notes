@@ -1,3 +1,0 @@
-# mood
-
-Français: humeur (f)

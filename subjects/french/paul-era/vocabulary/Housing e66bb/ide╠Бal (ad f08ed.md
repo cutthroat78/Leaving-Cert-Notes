@@ -1,3 +1,0 @@
-# idéal (adjective)
-
-Anglais: ideal

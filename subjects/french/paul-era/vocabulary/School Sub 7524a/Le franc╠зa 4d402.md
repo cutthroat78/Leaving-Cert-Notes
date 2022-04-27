@@ -1,3 +1,0 @@
-# Le français
-
-Anglais: French

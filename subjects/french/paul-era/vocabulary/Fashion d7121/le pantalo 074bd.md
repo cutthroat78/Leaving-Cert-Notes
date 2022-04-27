@@ -1,3 +1,0 @@
-# le pantalon
-
-Anglais: trousers

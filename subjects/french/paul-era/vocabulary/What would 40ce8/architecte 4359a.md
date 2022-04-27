@@ -1,3 +1,0 @@
-# architecte
-
-Anglais: architect

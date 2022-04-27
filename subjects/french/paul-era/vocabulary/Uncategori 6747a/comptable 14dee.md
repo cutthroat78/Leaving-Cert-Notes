@@ -1,3 +1,0 @@
-# comptable
-
-Anglais: accountant

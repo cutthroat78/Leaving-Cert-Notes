@@ -1,3 +1,0 @@
-# les bijoux
-
-Anglais: jewelry

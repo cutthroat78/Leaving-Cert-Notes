@@ -1,3 +1,0 @@
-# continuer
-
-Anglais: to continue

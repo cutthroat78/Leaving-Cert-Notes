@@ -1,3 +1,0 @@
-# wisdom
-
-Français: la sagesse

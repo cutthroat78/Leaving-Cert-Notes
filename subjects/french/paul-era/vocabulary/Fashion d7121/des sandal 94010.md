@@ -1,3 +1,0 @@
-# des sandales
-
-Anglais: sandals

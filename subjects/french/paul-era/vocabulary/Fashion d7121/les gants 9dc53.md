@@ -1,3 +1,0 @@
-# les gants
-
-Anglais: gloves

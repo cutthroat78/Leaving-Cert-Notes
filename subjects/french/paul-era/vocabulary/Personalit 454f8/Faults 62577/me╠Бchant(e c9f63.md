@@ -1,3 +1,0 @@
-# méchant(e)
-
-Anglais: mean

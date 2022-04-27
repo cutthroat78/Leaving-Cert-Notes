@@ -1,3 +1,0 @@
-# anxieux/anxieuse
-
-Anglais: anxious

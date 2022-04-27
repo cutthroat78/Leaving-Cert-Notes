@@ -1,3 +1,0 @@
-# behaviour
-
-Français: le comportement

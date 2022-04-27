@@ -1,3 +1,0 @@
-# La géographie
-
-Anglais: Geography

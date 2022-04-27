@@ -1,3 +1,0 @@
-# L’architecture
-
-Anglais: architecture

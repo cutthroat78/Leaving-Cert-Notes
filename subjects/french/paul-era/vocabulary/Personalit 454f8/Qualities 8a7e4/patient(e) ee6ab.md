@@ -1,3 +1,0 @@
-# patient(e)
-
-Anglais: patient

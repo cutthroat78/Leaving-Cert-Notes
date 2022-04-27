@@ -1,3 +1,0 @@
-# les gens
-
-Anglais: people

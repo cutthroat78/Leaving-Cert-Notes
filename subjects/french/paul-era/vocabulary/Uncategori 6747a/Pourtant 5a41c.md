@@ -1,3 +1,0 @@
-# Pourtant
-
-Anglais: However

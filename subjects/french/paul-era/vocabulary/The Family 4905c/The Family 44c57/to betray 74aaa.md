@@ -1,3 +1,0 @@
-# to betray
-
-Français: trahir

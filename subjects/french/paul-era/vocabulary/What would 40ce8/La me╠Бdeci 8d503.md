@@ -1,3 +1,0 @@
-# La médecine
-
-Anglais: medicine

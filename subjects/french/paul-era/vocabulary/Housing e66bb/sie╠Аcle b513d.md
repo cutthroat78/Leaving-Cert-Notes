@@ -1,3 +1,0 @@
-# siècle
-
-Anglais: century

@@ -1,3 +1,0 @@
-# toujours
-
-Anglais: always

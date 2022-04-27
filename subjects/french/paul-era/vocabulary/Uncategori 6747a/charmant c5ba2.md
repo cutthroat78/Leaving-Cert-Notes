@@ -1,3 +1,0 @@
-# charmant
-
-Anglais: charming

@@ -1,3 +1,0 @@
-# la tante
-
-Anglais: aunt

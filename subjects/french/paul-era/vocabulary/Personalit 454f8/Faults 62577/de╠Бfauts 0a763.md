@@ -1,3 +1,0 @@
-# défauts
-
-Anglais: faults

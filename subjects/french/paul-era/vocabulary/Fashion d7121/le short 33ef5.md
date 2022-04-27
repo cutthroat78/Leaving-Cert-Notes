@@ -1,3 +1,0 @@
-# le short
-
-Anglais: shorts

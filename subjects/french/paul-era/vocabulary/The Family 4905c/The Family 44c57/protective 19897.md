@@ -1,3 +1,0 @@
-# protective
-
-Français: protecteur/protectrice

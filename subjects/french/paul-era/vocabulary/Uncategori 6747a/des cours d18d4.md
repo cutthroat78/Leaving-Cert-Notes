@@ -1,3 +1,0 @@
-# des cours
-
-Anglais: classes

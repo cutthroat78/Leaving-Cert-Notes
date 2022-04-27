@@ -1,3 +1,0 @@
-# les graffitis
-
-Anglais: graffiti

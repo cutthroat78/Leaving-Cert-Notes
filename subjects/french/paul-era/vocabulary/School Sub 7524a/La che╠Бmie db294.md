@@ -1,3 +1,0 @@
-# La chémie
-
-Anglais: Chemistry

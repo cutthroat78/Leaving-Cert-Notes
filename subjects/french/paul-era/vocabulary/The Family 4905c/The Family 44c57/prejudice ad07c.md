@@ -1,3 +1,0 @@
-# prejudice
-
-Français: un préjugé

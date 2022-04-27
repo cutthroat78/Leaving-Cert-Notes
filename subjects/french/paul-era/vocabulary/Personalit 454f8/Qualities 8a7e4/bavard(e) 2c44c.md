@@ -1,3 +1,0 @@
-# bavard(e)
-
-Anglais: chatty

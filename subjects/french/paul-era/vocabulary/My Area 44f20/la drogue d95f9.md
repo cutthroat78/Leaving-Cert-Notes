@@ -1,3 +1,0 @@
-# la drogue
-
-Anglais: Drugs

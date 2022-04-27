@@ -1,3 +1,0 @@
-# en velours
-
-Anglais: velvet

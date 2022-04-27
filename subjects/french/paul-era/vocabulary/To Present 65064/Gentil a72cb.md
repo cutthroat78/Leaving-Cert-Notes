@@ -1,3 +1,0 @@
-# Gentil
-
-Anglais: Kinds

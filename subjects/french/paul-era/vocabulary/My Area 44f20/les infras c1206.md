@@ -1,3 +1,0 @@
-# les infrastructures
-
-Anglais: infrastructure

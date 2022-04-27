@@ -1,3 +1,0 @@
-# income
-
-Français: le revenu

@@ -1,3 +1,0 @@
-# en soie
-
-Anglais: silk

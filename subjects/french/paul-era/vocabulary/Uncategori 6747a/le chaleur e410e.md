@@ -1,3 +1,0 @@
-# le chaleur
-
-Anglais: heat

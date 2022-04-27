@@ -1,3 +1,0 @@
-# Le commerce
-
-Anglais: Business

@@ -1,3 +1,0 @@
-# moi-même
-
-Anglais: myself

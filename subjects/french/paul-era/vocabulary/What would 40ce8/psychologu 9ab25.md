@@ -1,3 +1,0 @@
-# psychologue
-
-Anglais: psychologist

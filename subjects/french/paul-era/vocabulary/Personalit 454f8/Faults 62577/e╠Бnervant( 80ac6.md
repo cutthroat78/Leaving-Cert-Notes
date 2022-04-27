@@ -1,3 +1,0 @@
-# énervant(e)
-
-Anglais: annoying

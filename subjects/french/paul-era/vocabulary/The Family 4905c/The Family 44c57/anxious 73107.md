@@ -1,3 +1,0 @@
-# anxious
-
-Français: soucieux/euse

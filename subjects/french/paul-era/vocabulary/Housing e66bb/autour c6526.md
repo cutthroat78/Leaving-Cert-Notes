@@ -1,3 +1,0 @@
-# autour
-
-Anglais: around

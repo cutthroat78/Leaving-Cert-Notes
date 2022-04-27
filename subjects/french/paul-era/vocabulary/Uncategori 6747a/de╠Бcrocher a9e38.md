@@ -1,3 +1,0 @@
-# décrocher
-
-Anglais: to achieve

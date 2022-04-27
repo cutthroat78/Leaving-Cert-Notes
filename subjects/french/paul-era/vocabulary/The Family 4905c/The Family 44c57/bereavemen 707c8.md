@@ -1,3 +1,0 @@
-# bereavement
-
-Français: le deuil

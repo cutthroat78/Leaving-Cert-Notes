@@ -1,3 +1,0 @@
-# pregnant
-
-Français: enceinte

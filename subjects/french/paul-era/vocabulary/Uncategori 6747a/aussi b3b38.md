@@ -1,3 +1,0 @@
-# aussi
-
-Anglais: also

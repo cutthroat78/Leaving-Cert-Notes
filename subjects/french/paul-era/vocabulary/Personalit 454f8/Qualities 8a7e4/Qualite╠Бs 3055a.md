@@ -1,3 +1,0 @@
-# Qualités
-
-Anglais: Qualities

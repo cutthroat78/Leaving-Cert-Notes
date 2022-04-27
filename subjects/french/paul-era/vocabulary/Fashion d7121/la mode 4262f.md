@@ -1,3 +1,0 @@
-# la mode
-
-Anglais: fashion

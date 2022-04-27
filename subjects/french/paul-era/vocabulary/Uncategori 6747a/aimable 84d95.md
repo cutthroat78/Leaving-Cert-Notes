@@ -1,3 +1,0 @@
-# aimable
-
-Anglais: likeable

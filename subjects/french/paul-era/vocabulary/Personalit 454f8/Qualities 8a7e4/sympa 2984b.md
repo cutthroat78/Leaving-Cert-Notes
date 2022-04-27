@@ -1,3 +1,0 @@
-# sympa
-
-Anglais: nice

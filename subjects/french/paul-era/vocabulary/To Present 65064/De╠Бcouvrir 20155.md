@@ -1,3 +1,0 @@
-# Découvrir
-
-Anglais: To discover

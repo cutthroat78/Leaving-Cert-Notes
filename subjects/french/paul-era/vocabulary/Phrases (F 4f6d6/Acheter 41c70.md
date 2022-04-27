@@ -1,3 +1,0 @@
-# Acheter
-
-Anglais: To buy

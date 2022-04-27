@@ -1,3 +1,0 @@
-# L’histoire
-
-Anglais: History

@@ -1,3 +1,0 @@
-# to offend
-
-Français: froisser

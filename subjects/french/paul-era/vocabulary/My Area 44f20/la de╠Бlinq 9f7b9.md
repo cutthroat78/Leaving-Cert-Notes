@@ -1,3 +1,0 @@
-# la délinquance
-
-Anglais: delinquency

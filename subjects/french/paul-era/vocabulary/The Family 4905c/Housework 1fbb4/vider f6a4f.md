@@ -1,3 +1,0 @@
-# vider
-
-Anglais: to empty

@@ -1,3 +1,0 @@
-# vivre
-
-Anglais: to live

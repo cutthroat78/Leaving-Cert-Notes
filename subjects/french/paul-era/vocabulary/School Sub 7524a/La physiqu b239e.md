@@ -1,3 +1,0 @@
-# La physique
-
-Anglais: Physics

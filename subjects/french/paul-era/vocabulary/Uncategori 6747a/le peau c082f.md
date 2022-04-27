@@ -1,3 +1,0 @@
-# le peau
-
-Anglais: skin

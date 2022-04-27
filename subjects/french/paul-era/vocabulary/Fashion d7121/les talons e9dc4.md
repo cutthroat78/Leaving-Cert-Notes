@@ -1,3 +1,0 @@
-# les talons
-
-Anglais: heels

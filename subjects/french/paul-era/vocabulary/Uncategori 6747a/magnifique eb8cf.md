@@ -1,3 +1,0 @@
-# magnifique
-
-Anglais: magnificent

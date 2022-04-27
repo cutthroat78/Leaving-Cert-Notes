@@ -1,3 +1,0 @@
-# compréhensif/compréhensive
-
-Anglais: understanding

@@ -1,3 +1,0 @@
-# génial(e)
-
-Anglais: brilliant

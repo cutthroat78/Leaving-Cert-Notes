@@ -1,3 +1,0 @@
-# constraint
-
-Français: une contrainte

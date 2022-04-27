@@ -1,3 +1,0 @@
-# ceremony
-
-Français: la cérémonie

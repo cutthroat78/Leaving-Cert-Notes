@@ -1,3 +1,0 @@
-# La biologie
-
-Anglais: Biology

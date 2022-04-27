@@ -1,3 +1,0 @@
-# to cheat
-
-Français: tromper

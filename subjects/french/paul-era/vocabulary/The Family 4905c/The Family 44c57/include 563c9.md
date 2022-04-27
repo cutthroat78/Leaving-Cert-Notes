@@ -1,3 +1,0 @@
-# include
-
-Français: comprendre, inclure

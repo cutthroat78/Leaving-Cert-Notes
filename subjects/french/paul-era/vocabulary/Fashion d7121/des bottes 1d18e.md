@@ -1,3 +1,0 @@
-# des bottes
-
-Anglais: boots

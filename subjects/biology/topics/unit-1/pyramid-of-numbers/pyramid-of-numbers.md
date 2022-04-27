@@ -90,6 +90,79 @@ _
 
 ## Adaptive Techniques
 
+__
+
+## Predation
+
+Predation: the act, of some animals (predators), of capturing and killing othr animals for food
+
+<u>Predator:</u> animals that hunts, captures and kills other animals (prey) for food
+
+Predators have evolved adaptive techniques to survive, e.g. wolf has keen hearing and eyesight, strong muscles, sharp teeth, camouflage and hunts in packs
+
+### Positive Effects of Predation
+1. Stabilises the community. Keeps population numbers under control
+2. Predators control the number of heribovres and so prevent overgrazing
+3. Predators eliminate the less well adapted (weaker) prey
+
+### Adaptations of Predators
+- Keen senses and sharp teeth
+- <u>Catch easiest prey - old and sick (less energy used)</u>
+- Change diet to suit prey available e.g. foxes
+- <u>Live and hunt in packs</u>
+- Migrate to where prey is plentiful
+- <u>Camouflage</u>
+
+Three examples of Adaptations of Predators:
+1. Hawks have excellent eyesight
+2. Ladybirds have strong mouth parts
+3. <u>Cheetahs can run at 60 km/h</u>
+4. <u>Wolves are sharp teeth</u>
+5. <u>Lions have excellent sense of smell</u>
+
+### Adaptions of Prey
+
 _
 
+(loads of slides skipped here)
 
+### Predator / Prey Relationship (Wolf / Deer in Alaska)
+
+![]()
+
+#### Notes on Graph
+1. When the deer population increased, the wolf population had more food and increased too
+2. As the wolf population increased, the number of deer being killed increased - resulting in a decline in the deer population
+3. When the deer population declined, there was less food for the wolves and they declined in numbers too
+4. This led to an increase in the deer population
+5. _
+6. _
+7. _
+8. _
+
+_
+
+## In Summary: Predator/Prey Relationships
+- As prey INCREASES, predators INCREASES
+- As there are more predators the prey will DECREASE and then therefore predators DECREASE
+- Eventually numbers of prey will increase, starting the cycle once more
+
+## _
+
+_
+
+## Parasitism
+
+![]()
+
+<u>Parasitism: When one organism (the parasite) benefits from another (the host) and does harm to it</u>
+
+E.g. 
+- Fleas on a dog (ectoparasites)
+- Liverfluke in cattle/sheep (endoparasites)
+
+Parasites do harm to their hosts but usually do not kill them too quickly
+
+## Symbiosis
+
+<u>Symbiosis ("living together"): where two organisms of different species have a close, _</u>

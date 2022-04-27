@@ -1,3 +1,0 @@
-# chanter
-
-Anglais: to sing

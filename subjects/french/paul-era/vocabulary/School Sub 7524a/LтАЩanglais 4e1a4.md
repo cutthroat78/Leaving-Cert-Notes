@@ -1,3 +1,0 @@
-# L’anglais
-
-Anglais: English

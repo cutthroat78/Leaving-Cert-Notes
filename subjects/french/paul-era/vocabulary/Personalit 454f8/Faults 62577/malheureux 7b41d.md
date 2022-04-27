@@ -1,3 +1,0 @@
-# malheureux/malheureuse
-
-Anglais: unhappy

@@ -1,3 +1,0 @@
-# sincère
-
-Anglais: sincere

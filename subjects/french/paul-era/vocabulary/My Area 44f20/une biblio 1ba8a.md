@@ -1,3 +1,0 @@
-# une bibliothèque
-
-Anglais: library

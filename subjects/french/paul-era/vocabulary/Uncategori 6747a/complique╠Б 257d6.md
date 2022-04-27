@@ -1,3 +1,0 @@
-# compliqué
-
-Anglais: complicate

@@ -1,3 +1,0 @@
-# Socialable
-
-Anglais: Social

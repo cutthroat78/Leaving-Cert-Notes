@@ -1,3 +1,0 @@
-# le jean
-
-Anglais: jeans

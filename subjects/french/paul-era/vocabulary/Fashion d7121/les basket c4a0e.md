@@ -1,3 +1,0 @@
-# les baskets
-
-Anglais: trainers

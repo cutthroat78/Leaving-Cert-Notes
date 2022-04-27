@@ -1,3 +1,0 @@
-# heureux/heureuse
-
-Anglais: happy

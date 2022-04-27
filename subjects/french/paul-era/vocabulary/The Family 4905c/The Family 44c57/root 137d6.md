@@ -1,3 +1,0 @@
-# root
-
-Français: une racine
