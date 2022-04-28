@@ -38,6 +38,7 @@
 |-|-|-|-|
 | English | Finish off sample question on Control and Violence | Friday, 29/04/2022 | No |
 | English | Finish Question on sheet that we were doing on Wednesday class | Friday, 29/04/2022 | No |
+| Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
 | French | Get vocab from top of sheet and highlighted words on sheet and put into hardback | Wednesday, 27/04/2022  | No |
 | Biology | Do Question 11, Ecology Exam Question | Monday, 02/05/2022 | No |
 | French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
@@ -46,12 +47,18 @@
 
 | Event | Information | Date (& Time) |
 |-|-|-|
-| French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
 | Day Off for bank Holiday | | Monday, 02/05/2022 |
+| UCD Future You Mentoring Trip to UCD | We will be collected from school at 9am and brought back to school 2.30pm and Lunch will be provided to us in UCD | Tuesday, 03/05/2022 |
 | Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Wednesday, 18/05/2022 |
 | Summer Exams Start | Could possibily change date | Monday, 23/05/2022 |
 | Computer Science Test | No info yet | ? |
 | Leaving Cert Exams Start | The date is a **GUESS** and maybe not be accurate to the actual date | 01/06/2023 |
+
+<!--
+# Calendar Archive:
+## 5th Year:
+| French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
+-->
 
 <!--
 # Homework Archive:
