@@ -36,12 +36,12 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
+| French | Get vocab from top of sheet and highlighted words on sheet and put into hardback notes | Wednesday, 27/04/2022  | No |
+| French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
 | English | Finish off sample question on Control and Violence | Friday, 29/04/2022 | No |
 | English | Finish Question on sheet that we were doing on Wednesday class | Friday, 29/04/2022 | No |
 | Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
-| French | Get vocab from top of sheet and highlighted words on sheet and put into hardback | Wednesday, 27/04/2022  | No |
 | Biology | Do Question 11, Ecology Exam Question | Monday, 02/05/2022 | No |
-| French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
 
 # Calendar
 
