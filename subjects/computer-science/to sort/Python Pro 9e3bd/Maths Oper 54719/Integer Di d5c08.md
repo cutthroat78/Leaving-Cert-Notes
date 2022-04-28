@@ -1,3 +1,0 @@
-# Integer Division
-
-Symbol: //

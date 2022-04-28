@@ -1,3 +1,0 @@
-# "" (")
-
-Names: Double Quotes

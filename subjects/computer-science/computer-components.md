@@ -1,4 +1,5 @@
 # Computer Component
+
 | Term | Definitions | Example/Explanation |
 | - | - | - |
 | Hardware | Physical components of a computers | screen (output), keyboard (input), CPU (central processing unit) (input & output), mouse (input), GPU (graphics processing unit) (input & output) |

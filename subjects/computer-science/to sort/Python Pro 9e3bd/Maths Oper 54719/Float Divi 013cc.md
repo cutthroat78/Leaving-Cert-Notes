@@ -1,3 +1,0 @@
-# Float Division
-
-Symbol: /
