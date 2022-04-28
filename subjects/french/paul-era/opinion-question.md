@@ -14,3 +14,5 @@ It is marked out of 30
 4. <u>Quant à moi (as for myself) / personellement (personally)</u> + give your personal experience of this topic, if relevant (as for me ....)
 5. Give your conclusion which may include a solution, <u>En conclusion (to conclude) / afin de conclure (As to conclude)</u> + conclusion
 6. Try to include a relevant idiom or proverb
+
+[Opinion Question Structuring Phrases](vocabulary.md#Opinion_Question_Structuring_Phrases)

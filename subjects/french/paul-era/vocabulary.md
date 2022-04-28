@@ -652,6 +652,30 @@
 | ingénieur                     | engineer                  |
 | travailleur social(e)         | social worker             |
 
+## Opinion Question Structuring Phrases
+
+| French | English |
+|-|-|
+| Pour commencer | To start / firstly |
+| Deuxiement | Secondly |
+| Ensuite | Then |
+| De plus | Furthermore | 
+| Enfin | In the end / finally |
+| En bref | Briefly |
+| Pour conclure | To conclude |
+
+## Argumentative Phrases
+
+| French | English |
+|-|-|
+| À mon avis | In my opinion |
+| Je pense que | I think that |
+| Je crois que | I believe that |
+| Selon _ | According to |
+| Il va sans dire que | It goes without saying that |
+| Bien sûr | Of course |
+| D'un cóté | On one hand |
+| De l'autre côté | On the other hand | 
 
 ## Uncategorised
 
