@@ -1,4 +1,4 @@
-# Vocabulary/Phrases
+# Vocabulary & Phrases
 
 ## To Present Yourself (Vocab)
 
@@ -443,7 +443,7 @@
 | à peu pròs, le même âge | More or less the same age |
 | depuis sept ans           | for seven years           |
 
-## Phrases (For Diary Entries)
+## Phrases for Diary Entries
 
 | French                                                                             | English                                                                     |
 |------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|

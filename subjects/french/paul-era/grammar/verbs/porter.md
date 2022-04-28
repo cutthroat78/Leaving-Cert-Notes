@@ -1,16 +1,4 @@
-# Grammar/Rules/How Tos
-- [Adjectives](adjectives.md)
-## Tenses
-- [Past Tense]()
-- [Near Future Tense]()
-- [Future Tense]()
-- [Conditional Tense](conditional-tense.md)
-
-## Verbs
-- [The Modal Verbs](verbs/modal-verbs.md)
-- [Spelling Changes to Verbs](verbs/spelling-changes-to-verbs.md)
-
-## Porter - To Wear
+# Porter - To Wear
 
 | Français          | Anglais          |
 |-------------------|------------------|

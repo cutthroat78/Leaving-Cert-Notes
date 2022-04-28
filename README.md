@@ -54,7 +54,7 @@ When I am no longer working on this repo but you want to make changes or modify 
 - Computer Science: ASCII vs Unicode card and voice message Cathal sent me
 - Computer Science: Convert hexadecimal cards
 ### English
-- Look through teams for notes to add
+- Go through notes on Teams
 - Redeem verse 2023 english ebook
 - Convert english room relationships pages that was sent me over whatsapp
 - Make notes for poetry techniques
