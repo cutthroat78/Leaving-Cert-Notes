@@ -53,6 +53,7 @@
 | sympa | nice |
 | travailleur/travailleuse | hard-working |
 | vif/vive | bright/lively |
+
 ### Faults
 
 | French                 | English        |
