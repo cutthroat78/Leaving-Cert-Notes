@@ -15,4 +15,27 @@ It is marked out of 30
 5. Give your conclusion which may include a solution, <u>En conclusion (to conclude) / afin de conclure (As to conclude)</u> + conclusion
 6. Try to include a relevant idiom or proverb
 
-[Opinion Question Structuring Phrases](vocabulary.md#Opinion_Question_Structuring_Phrases)
+## Opinion Question Structuring Phrases
+
+| French | English |
+|-|-|
+| Pour commencer | To start / firstly |
+| Deuxiement | Secondly |
+| Ensuite | Then |
+| De plus | Furthermore | 
+| Enfin | In the end / finally |
+| En bref | Briefly |
+| Pour conclure | To conclude |
+
+## Argumentative Phrases
+
+| French | English |
+|-|-|
+| À mon avis | In my opinion |
+| Je pense que | I think that |
+| Je crois que | I believe that |
+| Selon _ | According to |
+| Il va sans dire que | It goes without saying that |
+| Bien sûr | Of course |
+| D'un cóté | On one hand |
+| De l'autre côté | On the other hand | 
