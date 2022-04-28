@@ -1,3 +1,0 @@
-# recevoir
-
-Ending: reçu

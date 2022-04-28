@@ -1,3 +1,0 @@
-# arriver
-
-Anglais: to arrive

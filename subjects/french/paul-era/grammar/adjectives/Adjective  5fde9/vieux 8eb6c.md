@@ -1,3 +1,0 @@
-# vieux
-
-Adjective (English]): old

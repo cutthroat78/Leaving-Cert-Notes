@@ -1,3 +1,0 @@
-# mourrir
-
-Anglais: to die

@@ -1,3 +1,0 @@
-# lire
-
-Ending: lu

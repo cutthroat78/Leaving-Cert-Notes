@@ -1,3 +1,0 @@
-# dire
-
-Ending: dit

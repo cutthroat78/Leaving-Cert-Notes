@@ -1,3 +1,0 @@
-# savoir
-
-Ending: su

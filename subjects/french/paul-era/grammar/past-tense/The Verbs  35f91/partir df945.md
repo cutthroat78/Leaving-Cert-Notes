@@ -1,3 +1,0 @@
-# partir
-
-Anglais: to leave

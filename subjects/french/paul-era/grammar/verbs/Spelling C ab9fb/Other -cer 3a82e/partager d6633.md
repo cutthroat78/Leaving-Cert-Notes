@@ -1,3 +1,0 @@
-# partager
-
-Anglais: to share

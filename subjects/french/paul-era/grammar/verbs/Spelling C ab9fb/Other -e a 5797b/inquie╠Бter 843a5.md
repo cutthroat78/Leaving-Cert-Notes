@@ -1,3 +1,0 @@
-# inquiéter
-
-Anglais: to worry

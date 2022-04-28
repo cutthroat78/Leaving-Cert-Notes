@@ -3,18 +3,13 @@
 ## Si Clauses
 ### Si + Present + Future (SPF)
 This construction is used for events that are likely to take place. The present tense follows the si clause, as it is the situation that is required before the other action (future) can occur.
-#### Examples:
+#### Examples
+
 | French | English |
 |-|-|
 | S'il falt beau, nous irons à la plage. | If the weather is nice, we will go to the beach. | 
-| 
-<!--Convert These>
-<!-- Je te téléphoneral si jai le temps.
-I will call you if I have the time.
-Elle achètera la jupe si elle a
-assez d'argent.
-She will buy the skirt if she has
-enough money.-->
+| Je te téléphoneral si jai le temps. | I will call you if I have the time. |
+| Elle achètera la jupe si elle a assez d'argent. | She will buy the skirt if she has enough money. | 
 
 ### Si + Imperfect + Conditional (SIC)
 This construction is used for events that are unlikely to take place. The imperfect

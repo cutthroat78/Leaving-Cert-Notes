@@ -1,3 +1,0 @@
-# ouvrir
-
-Ending: ouvert

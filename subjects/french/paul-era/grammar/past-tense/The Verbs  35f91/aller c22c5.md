@@ -1,3 +1,0 @@
-# aller
-
-Anglais: to go

@@ -1,3 +1,0 @@
-# répéter
-
-Anglais: to repeat

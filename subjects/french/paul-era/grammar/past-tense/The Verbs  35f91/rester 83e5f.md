@@ -1,3 +1,0 @@
-# rester
-
-Anglais: to stay

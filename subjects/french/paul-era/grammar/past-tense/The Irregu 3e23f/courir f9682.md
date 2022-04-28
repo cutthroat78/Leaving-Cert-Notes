@@ -1,3 +1,0 @@
-# courir
-
-Ending: couru

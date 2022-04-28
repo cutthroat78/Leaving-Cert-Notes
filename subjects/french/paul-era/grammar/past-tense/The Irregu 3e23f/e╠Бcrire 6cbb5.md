@@ -1,3 +1,0 @@
-# écrire
-
-Ending: écrit

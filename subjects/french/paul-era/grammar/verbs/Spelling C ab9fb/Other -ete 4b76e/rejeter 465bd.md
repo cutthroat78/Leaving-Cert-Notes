@@ -1,3 +1,0 @@
-# rejeter
-
-Anglais: to reject

@@ -1,3 +1,0 @@
-# grand
-
-Adjective (English]): tall

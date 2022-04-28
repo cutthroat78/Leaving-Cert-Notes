@@ -1,3 +1,0 @@
-# devoir
-
-Ending: dû

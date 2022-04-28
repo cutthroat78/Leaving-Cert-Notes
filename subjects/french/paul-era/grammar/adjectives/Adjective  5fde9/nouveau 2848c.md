@@ -1,3 +1,0 @@
-# nouveau
-
-Adjective (English]): new

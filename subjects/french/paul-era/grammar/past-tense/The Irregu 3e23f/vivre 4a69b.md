@@ -1,3 +1,0 @@
-# vivre
-
-Ending: vécu

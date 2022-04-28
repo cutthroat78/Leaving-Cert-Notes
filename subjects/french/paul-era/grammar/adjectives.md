@@ -16,4 +16,20 @@ The adjectives in the below table are placed before the noun
 
 Example: La beau femme
 
-[Adjective Placement Exceptions](Adjectives%207d869/Adjective%20%205fde9.csv)
+## Adjective Placement Exceptions
+
+Adjectif (Français),Adjective (English])
+beau,beautiful
+bon,good
+cher,expensive
+grand,tall
+gros,big
+haut,high
+jeune,young
+joli,pretty
+mauvais,wrong
+méchant,mean
+petit,small / short
+vieux,old
+vrai,real
+nouveau,new

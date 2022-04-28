@@ -1,3 +1,0 @@
-# avoir
-
-Ending: eu

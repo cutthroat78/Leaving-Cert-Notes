@@ -1,3 +1,0 @@
-# effrayer
-
-Anglais: to frighten

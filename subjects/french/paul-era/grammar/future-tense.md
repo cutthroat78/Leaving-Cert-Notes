@@ -2,7 +2,7 @@
 
 le futur simple (the future)
 
-## Steps:
+## Steps
 
 1. Take the infinitive
     
@@ -13,7 +13,7 @@ le futur simple (the future)
     e.g. Je dancerai (I will dance)
     
 
-### Steps for -RE Verbs:
+### Steps for -RE Verbs
 
 1. Take the infinitive
     
@@ -28,6 +28,22 @@ le futur simple (the future)
     e.g. Tu entendras (You will hear)
     
 
-[Future Tense Endings](Future%20Ten%2010b52/Future%20Ten%20780fa.csv)
+## Future Tense Endings
 
-[Irregular Stems](Future%20Ten%2010b52/Irregular%20%203691f.csv)
+| Pronoun    | Ending | Example of -ER Verbs (Jouer) | Example of -IR Verbs (Finir) | Example of -RE Verbs (Rendre) |
+|------------|--------|------------------------------|------------------------------|-------------------------------|
+| je         | -ai    | je jouerai                   | je finirai                   | je rendrai                    |
+| tu         | -as    | tu joueras                   | tu finiras                   | tu rendras                    |
+| il/elle/on | -a     | il/elle/on jouera            | il/elle/on finira            | il/elle/on rendra             |
+| nous       | -ons   | nous jouerons                | nous finirons                | nous rendrons                 |
+| vous       | -ez    | vous jouerez                 | vous finirez                 | vous rendrez                  |
+| ils/elles  | -ont   | ils/elles joueront           | ils/elles finiront           | ils/elles rendront            |
+
+## Irregular Stems
+
+| Infintive            | Examples with Stems (in Blue) | Stems |
+|----------------------|-------------------------------|-------|
+| Aller (To go)        | J’irai (I will go)            | ir-   |
+| Être (To be)         | Je serai (I will be)          | ser-  |
+| Avoir (To have)      | J’aurai (I will have)         | aur-  |
+| Faire (To do / make) | Je ferai (I will do / make)   | fer-  |

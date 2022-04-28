@@ -1,3 +1,0 @@
-# beau
-
-Adjective (English]): beautiful

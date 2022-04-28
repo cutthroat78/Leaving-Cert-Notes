@@ -1,3 +1,0 @@
-# méchant
-
-Adjective (English]): mean

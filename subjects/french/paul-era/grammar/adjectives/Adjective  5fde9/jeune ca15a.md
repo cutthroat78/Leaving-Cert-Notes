@@ -1,3 +1,0 @@
-# jeune
-
-Adjective (English]): young

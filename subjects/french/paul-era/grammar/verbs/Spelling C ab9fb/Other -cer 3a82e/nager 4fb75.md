@@ -1,3 +1,0 @@
-# nager
-
-Anglais: to swim

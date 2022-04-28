@@ -1,3 +1,0 @@
-# essayer
-
-Anglais: to try

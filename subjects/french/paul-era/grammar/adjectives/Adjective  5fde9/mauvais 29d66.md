@@ -1,3 +1,0 @@
-# mauvais
-
-Adjective (English]): wrong

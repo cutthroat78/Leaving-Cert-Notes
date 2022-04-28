@@ -1,3 +1,0 @@
-# prendre
-
-Ending: pris
