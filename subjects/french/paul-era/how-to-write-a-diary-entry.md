@@ -20,4 +20,4 @@ Je viens de passer une journée magnique avec mon meilleur(e) ami(e) ____. Je su
 {name}
 ```
 
-[Phrases for Diary Entries](vocabulary.md#Phrases_for_Diary_Entries)
+[Phrases for Diary Entries](vocabulary.md#Phrases for Diary Entries)
