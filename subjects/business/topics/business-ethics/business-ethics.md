@@ -35,5 +35,3 @@ It is duty of a business to treat everyone they come into contact with honestly 
 | Customers | Be honest in advertising and when informing the consumer about ingredients, processes and sustainability of materials; ensure customers are not misled or hurt in any way |
 | Suppliers | Follow a fair tendering process; pay promptly; avoid taking on too much credit |
 | Government | Pay tax owed to Revenue in full and on time; obey the law |
-
-

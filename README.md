@@ -26,6 +26,7 @@ When I am no longer working on this repo but you want to make changes or modify 
 ## To Dos
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
+- Look at using dropdown menus to minimize the amount of markdown files/menus
 ### Biology
 - Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
 - Convert fill in the blank sheet urinary system diagram to notion
