@@ -100,6 +100,9 @@ Two examples are:
 - Sequence
 
 ### Terms
+
+| Term | Definition
+|-|-|
 | Accelerando | Gradually getting quicker |
 | Andante | At a walking pace |
 | Allegro | Fast & Lively |
