@@ -9,6 +9,8 @@ If you would like to add any notes, make any suggestions or simply want to help 
 
 When I am no longer working on this repo but you want to make changes or modify the notes for yourself, please fork this repo and work on it there. I suggest that you keep the forked repo public to allow other to use the notes and help contribute to them
 
+Add ```<!--In Anki-->``` to any title that it's content has been converted to anki
+
 <!-- Example of a comment -->
 ## Links to help make/edit notes
 - [Dropdown in Markdown](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78)
