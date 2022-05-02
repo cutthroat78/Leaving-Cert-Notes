@@ -47,7 +47,6 @@
 
 | Event | Information | Date (& Time) |
 |-|-|-|
-| Day Off for bank Holiday | | Monday, 02/05/2022 |
 | UCD Future You Mentoring Trip to UCD | We will be collected from school at 9:15 AM and brought back to school 2.30pm and Lunch will be provided to us in UCD | Tuesday, 03/05/2022 |
 | Scifest Contest | | Thursday, 05/05/2022 |
 | Possible Hiking Class Trip | | Friday, 06/05/2022 |
