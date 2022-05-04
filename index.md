@@ -1,11 +1,94 @@
 # Notes
-- [Biology](subjects/biology/biology.md)
-- [Business](subjects/business/business.md)
-- [Computer Science](subjects/computer-science/computer-science.md)
-- [English](subjects/english/english.md)
-- [French](subjects/french/french.md)
-- [Maths](subjects/maths/maths.md)
-- [Music](subjects/music/music.md)
+## Biology
+### The Study of Living Organisms
+- [Syllabus & Exam Structure](syllabus-and-exam-structure.md)
+- [Experiments](experiments/experiments.md)
+- [Terms & Definitions](terms-and-definitions.md)
+### Units 1 - The Study of Life
+- [Video Playlist for Unit 1](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
+- [(A Search for a) Definition of Life & Characteristics of Life]()
+- [Scientific Method]()
+- [Nutrition (& Food)]()
+#### Ecology
+- [Ecology, Ecosystem, Biosphere, Habitat & Niche]()
+- [Environmental Factors]()
+- [Nutrient Recycling](topics/unit-1/nutrient-recycling/nutrient-recycling.md)
+- [Pyramid of Numbers](topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md)
+### Units 2 - The Cell
+- [Video Playlist of Unit 2](https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1)
+- [The Cell]()
+### Units 3 - The Organism
+- [Video Playlist of Unit 3](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
+- [Skeletal System]()
+- [The Digestive System]()
+- [Enzymes & Metabolism]()
+- [The Circulatory System]()
+- [Movement of Molecules Across Cell Membranes]()
+- [Homeostasis]()
+- [The Human Breathing System]()
+- [Excretion]()
+
+## Business
+- [Answering Exam Questions](answering-exam-questions.md)
+### Unit 1: Introduction to People in Business
+- [1. People in Business](topics/1-people-in-business/1-people-in-business.md)
+- [2. Consumer Conflict]()
+- [3. Industrial Relations]()
+### Unit 2: Enterprise
+- [4. Enterprise]()
+### Unit 3: Managing 1
+- [5. Introduction to Management]()
+- [6. Management Skills: Leading and Motivating]()
+- [7. Management Skills: Communicating]()
+- [8. Management Activities: Planning, Organising and Controlling]()
+### Unit 4: Managing 2
+- [9. Human Resource Management]()
+- [10. Managing Change]()
+- [11. Insurance and Taxation]()
+- [12. Monitoring a Business: Ratio Analysis]()
+- [13. Finance]()
+### Unit 5: Business in Action
+- [14. Identifying Business Opportunities]()
+- [15. Business Start-Up]()
+- [16. Market Analysis]()
+- [17. The Marketing Mix]()
+- [18. Business Expansion]()
+### Unit 6: Domestic Environment
+- [19. Categories of Industury]()
+- [20. Business Organisations]()
+- [21. Business, the Economy and Government]()
+- [22. Community Development]()
+- [23. Ethical, Social and Environmental Responsibility]()
+### Unit 7: International Environment
+- [24. International Trade]()
+- [25. The European Union]()
+- [26. Global Business]()
+- [27. The Applied Business Question (ABQ)]()
+## Computer Science
+- [Exam Structure](exam-structure.md)
+- [Python Programming](python-programming.md)
+- [Data](data.md)
+- [Data Feminism](data-feminism.md)
+- [Artificial Intelligence](AI.md)
+- [Computer Components](computer-components.md)
+## English
+- [Summer Exam Stuff](summer-exam.md)
+
+- [Composition](composition/composition.md)
+- [Poetry](poetry/poetry.md)
+### Texts
+- [Casablanca](texts/casablanca.md)
+- [A Doll's House](texts/dolls-house/dolls-house.md)
+- [Room](texts/room/room.md)
+### Exam Structure
+- [Exam Structure](exam-structure/exam-structure.md)
+- [Breakdown of Marks](exam-structure/breakdown-of-marks.md)
+- [Marking Criteria](exam-structure/marking-criteria.md)
+- [Modes of Comparison (2023)](exam-structure/modes-of-comparison.md)
+- [Comprehension: Question B](exam-structure/comprehension-question-b.md)
+## [French](subjects/french/french.md)
+## [Maths](subjects/maths/maths.md)
+## [Music](subjects/music/music.md)
 # Anki Decks
 - [Biology](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
 - [Business]()
@@ -49,12 +132,13 @@
 
 | Event | Information | Date (& Time) |
 |-|-|-|
-| UCD Future You Mentoring Trip to UCD | We will be collected from school at 9:15 AM and brought back to school 2.30pm and Lunch will be provided to us in UCD | Tuesday, 03/05/2022 |
 | Scifest Contest | | Thursday, 05/05/2022 |
-| Possible Hiking Class Trip | | Friday, 06/05/2022 |
+| trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains| Friday, 06/05/2022 |
+| French Oral Exams Start | | 16/05/2022 |
+| French Aural Exam | | 18/06/2022 |
 | Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Thursday, 19/05/2022 |
 | Sports Day | | Friday, 20/05/2022 | 
-| Summer Exams Start | Could possibily change date | Monday, 23/05/2022 |
+| Summer Exams Start | Could possibily change date, it is planned that have between 1 and 2 exams each day until we are off | Monday, 23/05/2022 |
 | Computer Science Test | No info yet | ? |
 | Leaving Cert Exams Start | The date is a **GUESS** and maybe not be accurate to the actual date | 01/06/2023 |
 

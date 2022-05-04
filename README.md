@@ -66,10 +66,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - English: Move notes in [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf) to English digital
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
-- Convert this 
-- Digitize JC Hardback 1
-- Digitize JC Hardback 2
-- Digitize Justine Era LC Hardback
+- Convert page of oral exam stuff into digital notes
 - Add an example to Past Tense page
 - Convert anki jc decks to digital notes
 - Convert fete d’anniversaire booklet into digital notes
@@ -87,6 +84,9 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - French: Page 129 of textbook, move Irregular futur simple stems into notion
 - French: Look into journal intime notes in French Teams chat
 - French: Stuff in this [link](https://cdetb-my.sharepoint.com/personal/17matthewrenehan_clogherroadcc_ie/_layouts/15/doc.aspx?sourcedoc=%7Bd1105639-1571-4b56-a55c-44c4498a1576%7D&action=edit) (word I did in class once)
+- Digitize JC Hardback 1
+- Digitize JC Hardback 2
+- Digitize Justine Era LC Hardback
 ### Maths
 - Maths: Look through maths ebook for things to put into digital notes
 - Maths: Rules in Maths ebook section 2.6 anki and/or digital notes
