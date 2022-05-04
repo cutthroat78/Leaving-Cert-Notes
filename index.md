@@ -42,6 +42,8 @@
 | English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 04/05/2022 | No |
 | Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
+| Biology | Finish Ecology Booklet | Next Monday Biology Class | No |
+| Biology | Finish Ecology Exam Questions | Next Monday Biology Class | No |
 
 # Calendar
 

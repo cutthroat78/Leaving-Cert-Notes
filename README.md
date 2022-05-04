@@ -30,6 +30,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
 - Look at using dropdown menus to minimize the amount of markdown files/menus
 ### Biology
+- Finish Ecology bookley from Dublin Zoo
+- COnvert hand written notes on Teams that were made when I was out for UCD
 - Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
 - Convert fill in the blank sheet urinary system diagram to notion
 - Ask Biology teacher for missing slides
