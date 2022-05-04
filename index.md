@@ -86,9 +86,42 @@
 - [Marking Criteria](exam-structure/marking-criteria.md)
 - [Modes of Comparison (2023)](exam-structure/modes-of-comparison.md)
 - [Comprehension: Question B](exam-structure/comprehension-question-b.md)
-## [French](subjects/french/french.md)
-## [Maths](subjects/maths/maths.md)
-## [Music](subjects/music/music.md)
+## French
+### Paul Rickard Era (5th Year)
+- [Vocabulary & Phrases](paul-era/vocabulary.md)
+- [How to write a Diary Entry](paul-era/how-to-write-a-diary-entry.md)
+- [The Opinion Question](paul-era/opinion-question.md)
+#### Grammar
+- [Adjectives](paul-era/grammar/adjectives.md)
+##### Tenses
+- [Past Tense](paul-era/grammar/tenses/past-tense.md)
+- [Near Future Tense](paul-era/grammar/tenses/near-future-tense.md)
+- [Future Tense](paul-era/grammar/tenses/future-tense.md)
+- [Conditional Tense](paul-era/grammar/tenses/conditional-tense.md)
+##### Verbs
+- [The Modal Verbs](paul-era/grammar/verbs/modal-verbs.md)
+- [Spelling Changes to Verbs](paul-era/verbs/spelling-changes-to-verbs.md)
+- [Porter - To Wear](paul-era/grammar/verbs/porter.md)
+
+## Maths
+## Music
+- [Exam Structure(s) and Marking](exam-structure/exam-structure.md)
+- [Music Theory](music-theory/music-theory.md)
+- [Elements of Music](elements-of-music/elements-of-music.md)
+- [The Orchestra](orchestra/orchestra.md)
+### Music Theory
+- [Note Names and Values]()
+- [Clefs]()
+#### Treble
+- [Treble Notes]()
+- [Treble Key Signatures]()
+#### Bass
+- [Bass Notes]()
+### Set Works (Set A)
+- [Romeo & Juilet Overture by Tchaikovsky](set-works/romeo-and-juliet.md)
+- [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
+- [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)
+- [Cantata 78 "Jesu Der Du Meine Seele” by Bach](set-works/cantata-78.md)
 # Anki Decks
 - [Biology](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
 - [Business]()
@@ -123,6 +156,7 @@
 | French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
 | English | Finish off sample question on Control and Violence | Wednesday, 04/05/2022 | No |
 | English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 04/05/2022 | No |
+| English | Do a question on the sheet, the teacher gave us | Thursday, 05/05/2022 | No |
 | Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
 | Biology | Finish Ecology Booklet | Next Monday Biology Class | No |
@@ -133,7 +167,7 @@
 | Event | Information | Date (& Time) |
 |-|-|-|
 | Scifest Contest | | Thursday, 05/05/2022 |
-| trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains| Friday, 06/05/2022 |
+| Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 |
 | French Oral Exams Start | | 16/05/2022 |
 | French Aural Exam | | 18/06/2022 |
 | Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Thursday, 19/05/2022 |

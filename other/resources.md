@@ -1,7 +1,5 @@
 # Resources
-
 ## Resources for All Subjects
-
 - [Studyclix](https://studyclix.ie/) - Website with Notes, Previous Exam Questions, Quizzes, Past Papers and Marking Schemes
 - [Leaving Cert Help Notes](https://leaving-cert-helpnotes.blogspot.com/2014/10/links-to-all-my-posts-by-subject.html) - Website with Notes
 - [StudyJams](https://studyjams.scholastic.com/) - Website with Notes
@@ -18,7 +16,6 @@
 - [Curriculum Online](https://www.curriculumonline.ie) - Find Info about Every Leaving Cert Subject
 
 ## Resources for All Languages (Irish, French, German, Spanish, Japanese Etc.)
-
 - [Duolingo](https://www.duolingo.com/) - A gamified approach to learning a language (App and Website)
 - [Drops](https://languagedrops.com/) - Learn Vocabulary of a langauge (App and Website)
 - [Scripts](https://languagedrops.com/scripts) - Learn to write in different Writing Systems (App & Website) (Good for Japanese, Mandarin and Russian)
@@ -30,7 +27,6 @@
 - [Toucan](https://jointoucan.com/) - Browser Extenion that helps build vocabulary by replacing words on websites with words in your target language
 
 ## Biology
-
 - [Biology Bugbears](https://www.youtube.com/channel/UCGuBY43N719wlQ0e17nbKRQ) - YouTube Videos for Revision
 - [Amobea Sisters](https://www.youtube.com/c/AmoebaSisters) - YouTube Videos for Revision
 - [Mr C Biology - Biology Notes](https://www.mrcbiology.com/) - Website with Notes
@@ -48,44 +44,35 @@
 - [Amoeba Weebly Site](http://questjoey.weebly.com/index.html) - Website with Info on Amoeba
 
 ## Business
-
 - [SGC Business Notes](https://sgcbusiness.com/business-notes/) - Website with Notes
 
 ## Chemistry
-
 - [The Conical Flask](https://www.theconicalflask.ie/chemistry) - Website with Notes, Task Sheets and Quizzes
 
 ## Computer Science
-
 - [The LCCS Guide](https://www.lccs.ie/) - Website with Notes
 
 ## English
-
 - [Thug Notes](https://www.wisecrack.co/thug-notes) - Videos about Literature/Texts told by a "Gangster"
 - [Aoife's Notes](http://www.aoifesnotes.com/leaving-cert/) - Website with Notes
 
 ## Français
-
 - TV5Monde: [Android](https://play.google.com/store/apps/details?id=com.tv5monde.apprendre&hl=en_US&gl=US), [Apple](https://apps.apple.com/us/app/tv5monde-learn-french/id1482250598) - Learn French by watching videos
 - France24 French Stream - A 24/7 YouTube News Stream in French by France24:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9foWyMSATM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Geography
-
 - [Leaving Certificate Geography](http://lcgeography.preswex.ie/) - Website with Notes
 
 ## History
-
 - [Blogspot History Notes](http://myleavingcertnotes.blogspot.com/) - Blogspot Site with some Notes
 
 ## Irish
-
 - Caoga Caoga: [Android](https://play.google.com/store/apps/details?id=com.defuncart.caogacaoga&hl=en_US&gl=US), [Apple](https://apps.apple.com/ie/app/caoga-caoga-learn-irish/id1336431902) - Learn Irish Vocabulary
 - [Irish Game Learn Irish](https://play.google.com/store/apps/details?id=com.bonemakes.gameandlearn&hl=en_US&gl=US) - Android game to help learn Irish
 - [Irish Number Whizz](https://play.google.com/store/apps/details?id=com.geoglot.numbers.irish&hl=en&gl=US) - Android App to Learn Irish Numbers
 
 ## Japanese
-
 - [Renshuu](https://www.renshuu.org/) - Website and App to learn Japanese
 - [Kana Pro](https://kana.pro/) - Website to learn the Kana systems
 - Kana Heroes: [Android](https://play.google.com/store/apps/details?id=com.monacrea.KanaHeroes&hl=en_IE&gl=US), [Apple](https://apps.apple.com/us/app/kana-heroes-hiragana-katakana/id1533364206) - Game to learn Kana systems
@@ -94,16 +81,11 @@
 - Infinite Japanese: [Android](https://play.google.com/store/apps/details?id=com.jernung.infinite.jpn), [Apple](https://apps.apple.com/us/app/infinite-japanese/id1298380683) - Game to help learn Japanese vocabulary
 
 ## Maths
-
 - [Maths Points](http://mathspoints.ie/) - Website with Worksheets, Exam Papers and Cheat Sheets
 
 ## Music
-
+### Set Works A
 - [Spotify Playlist with All Studied Pieces of Music (Set A) (For Listening Exam)](https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link)
-    
-    [https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link](https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link)
-    
-
+<!--Add YouTube Playlist of music set works for A and maybe add other set works for other years-->
 ## Physics
-
 - [The Physics Teacher](http://thephysicsteacher.ie/) - Website with Notes
