@@ -184,7 +184,6 @@
 
 | Event | Information | Date (& Time) |
 |-|-|-|
-| Scifest Contest | | Thursday, 05/05/2022 |
 | Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 |
 | French Oral Exams Start | | 16/05/2022 |
 | French Aural Exam | | 18/06/2022 |
