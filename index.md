@@ -1,5 +1,6 @@
 # Notes
-## Biology
+<details><summary><h2>Biology</h2></summary>
+  
 ### The Study of Living Organisms
 - [Syllabus & Exam Structure](syllabus-and-exam-structure.md)
 - [Experiments](experiments/experiments.md)
@@ -27,8 +28,10 @@
 - [Homeostasis]()
 - [The Human Breathing System]()
 - [Excretion]()
-
-## Business
+  
+</details>
+<details><summary><h2>Business</h2></summary>
+  
 - [Answering Exam Questions](answering-exam-questions.md)
 ### Unit 1: Introduction to People in Business
 - [1. People in Business](topics/1-people-in-business/1-people-in-business.md)
@@ -64,14 +67,19 @@
 - [25. The European Union]()
 - [26. Global Business]()
 - [27. The Applied Business Question (ABQ)]()
-## Computer Science
+  
+</details>
+<details><summary><h2>Computer Science</h2></summary>
+  
 - [Exam Structure](exam-structure.md)
 - [Python Programming](python-programming.md)
 - [Data](data.md)
 - [Data Feminism](data-feminism.md)
 - [Artificial Intelligence](AI.md)
 - [Computer Components](computer-components.md)
-## English
+</details>
+<details><summary><h2>English</h2></summary>
+  
 - [Summer Exam Stuff](summer-exam.md)
 
 - [Composition](composition/composition.md)
@@ -86,7 +94,10 @@
 - [Marking Criteria](exam-structure/marking-criteria.md)
 - [Modes of Comparison (2023)](exam-structure/modes-of-comparison.md)
 - [Comprehension: Question B](exam-structure/comprehension-question-b.md)
-## French
+</details>
+  
+<details><summary><h2>French</h2></summary>
+  
 ### Paul Rickard Era (5th Year)
 - [Vocabulary & Phrases](paul-era/vocabulary.md)
 - [How to write a Diary Entry](paul-era/how-to-write-a-diary-entry.md)
@@ -102,9 +113,13 @@
 - [The Modal Verbs](paul-era/grammar/verbs/modal-verbs.md)
 - [Spelling Changes to Verbs](paul-era/verbs/spelling-changes-to-verbs.md)
 - [Porter - To Wear](paul-era/grammar/verbs/porter.md)
+  
+</details>
 
-## Maths
-## Music
+<details><summary><h2>Maths</h2></summary>
+</details>
+<details><summary><h2>Music</h2></summary>
+
 - [Exam Structure(s) and Marking](exam-structure/exam-structure.md)
 - [Music Theory](music-theory/music-theory.md)
 - [Elements of Music](elements-of-music/elements-of-music.md)
@@ -122,6 +137,9 @@
 - [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
 - [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)
 - [Cantata 78 "Jesu Der Du Meine Seele” by Bach](set-works/cantata-78.md)
+  
+</details>
+
 # Anki Decks
 - [Biology](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
 - [Business]()
