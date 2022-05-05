@@ -177,20 +177,21 @@
 | English | Do a question on the sheet, the teacher gave us | Thursday, 05/05/2022 | No |
 | Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
-| Biology | Finish Ecology Booklet | Next Monday Biology Class | No |
-| Biology | Finish Ecology Exam Questions | Next Monday Biology Class | No |
+| Biology | Finish Ecology Booklet | Monday, 09/05/2022 | No |
+| Biology | Finish Ecology Exam Questions | Monday, 09/05/2022 | No |
 
 # Calendar
 
-| Event | Information | Date (& Time) |
+| Event | Information | Date | Time |
 |-|-|-|
-| Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 |
-| French Oral Exams Start | | 16/05/2022 |
-| French Aural Exam | | 18/06/2022 |
-| Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Thursday, 19/05/2022 |
-| Sports Day | | Friday, 20/05/2022 | 
-| Summer Exams Start | Could possibily change date, it is planned that have between 1 and 2 exams each day until we are off | Monday, 23/05/2022 |
-| Computer Science Test | No info yet | ? |
+| Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 | |
+| French Oral Exams Start | | 16/05/2022 | |
+| French Aural Exam | | 18/06/2022 | |
+| Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Thursday, 19/05/2022 | |
+| Sports Day | | Friday, 20/05/2022 | |
+| Summer Exams Start | Could possibily change date, it is planned that have between 1 and 2 exams each day until we are off | Monday, 23/05/2022 | |
+| Computer Science Test | No info yet | ? | |
+| Return to School 2022 | The date for this is a **GUESS** I made from previous years dates | 23/08/2022 - 05/09/2022| |
 | Leaving Cert Exams Start | The date is a **GUESS** and maybe not be accurate to the actual date | 01/06/2023 |
 
 <!--
