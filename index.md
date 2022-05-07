@@ -180,7 +180,7 @@
 |-|-|-|-|
 | French Oral Exams Start | | Monday, 16/05/2022 | |
 | French Aural Exam | | Wednesday, 18/06/2022 | |
-| Trip to Belfast | Costs €15, We will be going to a museum and a titanic museum thing and be getting food on the way back from Belfast | Thursday, 19/05/2022 | |
+| Trip to Belfast | Costs €15, We will be going to [W5](https://w5online.co.uk/) and [The Titanic Museum](https://www.titanicbelfast.com/) and be getting food on the way back from Belfast. | Thursday, 19/05/2022 | Leaving the School at 08:45 AM and Returning at 7 PM |
 | Sports Day | | Friday, 20/05/2022 | |
 | Summer Exams Start | Could possibily change date, it is planned that have between 1 and 2 exams each day until we are off | Monday, 23/05/2022 | |
 | Computer Science Test | No info yet | ? | |
