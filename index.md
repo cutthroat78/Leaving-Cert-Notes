@@ -28,7 +28,6 @@
 - [Homeostasis]()
 - [The Human Breathing System]()
 - [Excretion]()
-  
 </details>
 <details><summary><h2>Business</h2></summary>
   
@@ -67,7 +66,6 @@
 - [25. The European Union]()
 - [26. Global Business]()
 - [27. The Applied Business Question (ABQ)]()
-  
 </details>
 <details><summary><h2>Computer Science</h2></summary>
   
@@ -95,7 +93,6 @@
 - [Modes of Comparison (2023)](exam-structure/modes-of-comparison.md)
 - [Comprehension: Question B](exam-structure/comprehension-question-b.md)
 </details>
-  
 <details><summary><h2>French</h2></summary>
   
 ### Paul Rickard Era (5th Year)
@@ -113,9 +110,7 @@
 - [The Modal Verbs](paul-era/grammar/verbs/modal-verbs.md)
 - [Spelling Changes to Verbs](paul-era/verbs/spelling-changes-to-verbs.md)
 - [Porter - To Wear](paul-era/grammar/verbs/porter.md)
-  
 </details>
-
 <details><summary><h2>Maths</h2></summary>
 </details>
 <details><summary><h2>Music</h2></summary>
@@ -137,7 +132,6 @@
 - [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
 - [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)
 - [Cantata 78 "Jesu Der Du Meine Seele” by Bach](set-works/cantata-78.md)
-  
 </details>
 
 # Anki Decks
