@@ -24,6 +24,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - [ ] Computer science
   - [ ] English
   - [ ] Music
+  - [ ] Convert markdown that needs to be HTML to work on index.md into html code
 - [ ] 2. Sort out all my Biology Experiments
 - [ ] 3. Convert all Biology paper and digital slides
 - [ ] 4. Start converting all subject topics to anki
