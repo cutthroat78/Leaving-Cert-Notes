@@ -1,4 +1,6 @@
 # Notes
+(Click Below Subject Names to Get Notes Links)
+
 <details><summary><h2>Biology</h2></summary>
   
 ### The Study of Living Organisms
@@ -28,6 +30,7 @@
 - [Homeostasis]()
 - [The Human Breathing System]()
 - [Excretion]()
+  
 </details>
 <details><summary><h2>Business</h2></summary>
   
@@ -66,6 +69,7 @@
 - [25. The European Union](subjects/business/topics/unit-7/25-eu/25-eu.md)
 - [26. Global Business]()
 - [27. The Applied Business Question (ABQ)]()
+  
 </details>
 <details><summary><h2>Computer Science</h2></summary>
   
@@ -75,6 +79,7 @@
 - [Data Feminism](data-feminism.md)
 - [Artificial Intelligence](AI.md)
 - [Computer Components](computer-components.md)
+  
 </details>
 <details><summary><h2>English</h2></summary>
   
@@ -92,6 +97,7 @@
 - [Marking Criteria](exam-structure/marking-criteria.md)
 - [Modes of Comparison (2023)](exam-structure/modes-of-comparison.md)
 - [Comprehension: Question B](exam-structure/comprehension-question-b.md)
+  
 </details>
 <details><summary><h2>French</h2></summary>
   
@@ -110,6 +116,7 @@
 - [The Modal Verbs](subjects/french/paul-era/grammar/verbs/modal-verbs.md)
 - [Spelling Changes to Verbs](subjects/french/paul-era/verbs/spelling-changes-to-verbs.md)
 - [Porter - To Wear](subjects/french/paul-era/grammar/verbs/porter.md)
+  
 </details>
 <details><summary><h2>Maths</h2></summary>
 
@@ -117,6 +124,7 @@
 - [Factorising]()
 - [Simultaneous Equations]()
 - [Types of Functions]()
+  
 </details>
 <details><summary><h2>Music</h2></summary>
 
@@ -156,6 +164,7 @@
 - [Bohemian Rhapsody by Queen](subjects/music/set-works/bohemian-rhapsody.md)
 - [Piano Quartet No. 1 by Gerald Barry](subjects/music/set-works/piano-quartet.md)
 - [Cantata 78 "Jesu Der Du Meine Seele” by Bach](subjects/music/set-works/cantata-78.md)
+  
 </details>
 
 # Anki Decks
