@@ -33,7 +33,7 @@
   
 - [Answering Exam Questions](answering-exam-questions.md)
 ### Unit 1: Introduction to People in Business
-- [1. People in Business](topics/1-people-in-business/1-people-in-business.md)
+- [1. People in Business](/subjects/business/topics/unit-1/1-people-in-business/1-people-in-business.md)
 - [2. Consumer Conflict]()
 - [3. Industrial Relations]()
 ### Unit 2: Enterprise
@@ -63,7 +63,7 @@
 - [23. Ethical, Social and Environmental Responsibility]()
 ### Unit 7: International Environment
 - [24. International Trade]()
-- [25. The European Union]()
+- [25. The European Union](subjects/business/topics/unit-7/25-eu/25-eu.md)
 - [26. Global Business]()
 - [27. The Applied Business Question (ABQ)]()
 </details>
@@ -96,29 +96,53 @@
 <details><summary><h2>French</h2></summary>
   
 ### Paul Rickard Era (5th Year)
-- [Vocabulary & Phrases](paul-era/vocabulary.md)
-- [How to write a Diary Entry](paul-era/how-to-write-a-diary-entry.md)
-- [The Opinion Question](paul-era/opinion-question.md)
+- [Vocabulary & Phrases](subjects/french/paul-era/vocabulary.md)
+- [How to write a Diary Entry](subjects/french/paul-era/how-to-write-a-diary-entry.md)
+- [The Opinion Question](subjects/french/paul-era/opinion-question.md)
 #### Grammar
-- [Adjectives](paul-era/grammar/adjectives.md)
+- [Adjectives](subjects/french/paul-era/grammar/adjectives.md)
 ##### Tenses
-- [Past Tense](paul-era/grammar/tenses/past-tense.md)
-- [Near Future Tense](paul-era/grammar/tenses/near-future-tense.md)
-- [Future Tense](paul-era/grammar/tenses/future-tense.md)
-- [Conditional Tense](paul-era/grammar/tenses/conditional-tense.md)
+- [Past Tense](subjects/french/paul-era/grammar/tenses/past-tense.md)
+- [Near Future Tense](subjects/french/paul-era/grammar/tenses/near-future-tense.md)
+- [Future Tense](subjects/french/paul-era/grammar/tenses/future-tense.md)
+- [Conditional Tense](subjects/french/paul-era/grammar/tenses/conditional-tense.md)
 ##### Verbs
-- [The Modal Verbs](paul-era/grammar/verbs/modal-verbs.md)
-- [Spelling Changes to Verbs](paul-era/verbs/spelling-changes-to-verbs.md)
-- [Porter - To Wear](paul-era/grammar/verbs/porter.md)
+- [The Modal Verbs](subjects/french/paul-era/grammar/verbs/modal-verbs.md)
+- [Spelling Changes to Verbs](subjects/french/paul-era/verbs/spelling-changes-to-verbs.md)
+- [Porter - To Wear](subjects/french/paul-era/grammar/verbs/porter.md)
 </details>
 <details><summary><h2>Maths</h2></summary>
+
+### Algebra
+- [Factorising]()
+- [Simultaneous Equations]()
+- [Types of Functions]()
 </details>
 <details><summary><h2>Music</h2></summary>
 
-- [Exam Structure(s) and Marking](exam-structure/exam-structure.md)
-- [Music Theory](music-theory/music-theory.md)
-- [Elements of Music](elements-of-music/elements-of-music.md)
-- [The Orchestra](orchestra/orchestra.md)
+- [Exam Structure(s) and Marking](subjects/music/exam-structure/exam-structure.md)
+- [Elements of Music](subjects/music/elements-of-music/elements-of-music.md)
+- [The Orchestra](subjects/music/orchestra/orchestra.md)
+
+### Irish Music
+- [Traditional Features of Irish Music]()
+- [Traditional Instruments]()
+- [Irish Dance Types]()
+- [Sean Nós Singing]()
+- [Irish Fusion]()
+- [Types of Irish Songs]()
+#### Essays
+- [Sean Nós]()
+- [The Harping Tradition]()
+- [Seán Ó Riada]()
+- [Mícheál Ó Shuilleabháin]()
+- [Céilí Bands]()
+- [Irish Song Tradition]()
+- [Irish Dance]()
+- [Influence of traditional Irish Music on the Music of North America]()
+- [Collectors]()
+- [Edward Bunting]()
+- [Regional Styles]()
 ### Music Theory
 - [Note Names and Values]()
 - [Clefs]()
@@ -128,10 +152,10 @@
 #### Bass
 - [Bass Notes]()
 ### Set Works (Set A)
-- [Romeo & Juilet Overture by Tchaikovsky](set-works/romeo-and-juliet.md)
-- [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
-- [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)
-- [Cantata 78 "Jesu Der Du Meine Seele” by Bach](set-works/cantata-78.md)
+- [Romeo & Juilet Overture by Tchaikovsky](subjects/music/set-works/romeo-and-juliet.md)
+- [Bohemian Rhapsody by Queen](subjects/music/set-works/bohemian-rhapsody.md)
+- [Piano Quartet No. 1 by Gerald Barry](subjects/music/set-works/piano-quartet.md)
+- [Cantata 78 "Jesu Der Du Meine Seele” by Bach](subjects/music/set-works/cantata-78.md)
 </details>
 
 # Anki Decks
@@ -164,12 +188,9 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| French | Get vocab from top of sheet and highlighted words on sheet and put into hardback notes | Wednesday, 27/04/2022  | No |
-| French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
-| English | Finish off sample question on Control and Violence | Wednesday, 04/05/2022 | No |
-| English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 04/05/2022 | No |
-| English | Do a question on the sheet, the teacher gave us | Thursday, 05/05/2022 | No |
-| Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
+| English | Finish off sample question on Control and Violence | Monday, 09/05/2022 | No |
+| English | Finish Question on sheet that we were doing on Wednesday class | Monday, 09/05/2022 | No |
+| English | Do a question on the sheet, the teacher gave us | Monday, 09/05/2022 | No |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
 | Biology | Finish Ecology Booklet | Monday, 09/05/2022 | No |
 | Biology | Finish Ecology Exam Questions | Monday, 09/05/2022 | No |
@@ -188,15 +209,18 @@
 | Leaving Cert Exams Start | The date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
 <!--
-# Calendar Archive:
-## 5th Year:
+# Calendar Archive
+## 5th Year
 | French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
 | Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 | |
 -->
 
 <!--
-# Homework Archive:
+# Homework Archive
 ## 5th Year
+| French | Get vocab from top of sheet and highlighted words on sheet and put into hardback notes | Wednesday, 27/04/2022  | No |
+| Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |
+| French | Get ten phrases that can be used to answer this question: "Est-ce que les portables devraieur être intendits dans les écoles Irlandais?" (Should phones be banned in Irish schools?) | Thursday, 28/04/2022 | No |
 - Biology - Page 297 diagrams 27.5 and 27.6 into hardback - 07/03/2022
 - English - Personal Essay (5 paragraphs): Write a personal essay in which you explore your sense of what a particular place means to you - 14/02/2022
 - English - Room Booklet Comprehension Questions - 14/02/2022

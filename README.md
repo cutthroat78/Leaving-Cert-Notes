@@ -19,6 +19,11 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 ## Plan
 - [ ] 1. Convert and setup the notion export and sort all that out
+  - [ ] Biology
+  - [ ] Business
+  - [ ] Computer science
+  - [ ] English
+  - [ ] Music
 - [ ] 2. Sort out all my Biology Experiments
 - [ ] 3. Convert all Biology paper and digital slides
 - [ ] 4. Start converting all subject topics to anki

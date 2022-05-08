@@ -4,7 +4,7 @@
 
 ## Learning Outcomes from this chapter
 
-**On completion, you should be able to:**
+**On completion, you should be able to**
 
 - Describe a possible industrial conflict and show how the law would be used to solve it
 - Outline non-legislative ways of solving conflict within a workplace

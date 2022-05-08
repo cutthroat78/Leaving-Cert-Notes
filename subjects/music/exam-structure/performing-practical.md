@@ -8,7 +8,7 @@ one unprepared test
 
 AND (If you do the higher level elective on performing)
 
-12 minutes of playing on top 
+12 minutes of playing on top
 
 Unprepared test:
 
