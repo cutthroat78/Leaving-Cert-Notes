@@ -37,40 +37,42 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Look at using dropdown menus to minimize the amount of markdown files/menus
 ### Biology
 - Finish Ecology bookley from Dublin Zoo
-- COnvert hand written notes on Teams that were made when I was out for UCD
-- Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
-- Convert fill in the blank sheet urinary system diagram to notion
-- Ask Biology teacher for missing slides
+- Ask Biology teacher for missing digital slides
 - Get enzyme diagrams for enzyme pages
 - Make my own Unit YouTube playlists of videos
 - Go through all sections to see if they have their diagrams
+- Move school slides to page with download links to all of them
 - Simplify notes but keep same info (go for better structure with headings)
-- Consider moving school slides to seperate page(s)
+- Go through notes and create links to different parts of hardback
+- Mark diagrams I need to know for Biology course (one that you have to draw for the test)
+- Put tips and tricks on christmas exam guide into a (non-christmas) page in the biology hardback
+- Get animated (heart) gifs from circulatory system slides (I can’t figure out how to copy or export them). [Possibly helpful link](https://windowsreport.com/save-animated-gif-from-powerpoint/)
+
+#### Convert
+- Convert hand written notes on Teams that were made when I was out for UCD
+- Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
+- Convert fill in the blank sheet urinary system diagram to digital notes
 - Convert heart diagram that is written on small piece of paper in my green folder
-- Convert rest of enzyme immobilisation write up and add images to “how to” sheet into notion
-- Biology: Go through notes and create links to different parts of hardback
-- Biology: Mark diagrams I need to know for Biology course (one that you have to draw for the test)
-- Biology: Add Page 297 diagrams 27.5 and 27.6 into digital notes
-- Biology: Convert heated denaturation experiment to notion
-- Biology: Put tips and tricks on christmas exam guide into a (non-christmas) page in the biology hardback
-- Biology: Convert physical biology cards on the circulatory system to notion and anki
-- Biology: Get animated (heart) gifs from circulatory system slides (I can’t figure out how to copy or export them). [Possibly helpful link](https://windowsreport.com/save-animated-gif-from-powerpoint/)
-- [Check out this](https://studyclix.ie/discuss/Leaving-Cert-Biology/does-anyone-know-of-any-good-quizlet-accounts-to-study-for-biology)
+- Convert rest of enzyme immobilisation write up and add images to “how to” sheet
+- Convert heated denaturation experiment
+- Convert physical biology cards on the circulatory system to notion and anki
+- Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
-- Business: Look at padlet links in Business Team
-- Business: Business page 250 + 251 challenges when starting a business section move into Notion and page 257 & 258 Business plan and importance of a Business plan into Notion
+- Look at padlet links in Business Team
+- Business page 250 + 251 challenges when starting a business section move into Notion and page 257 & 258 Business plan and importance of a Business plan into Notion
 ### Computer Science
 - Look into git(hub) stuff for computer science class
 - Computer Science: Take all my code from class and put into Notion as “Code Examples”
 - Computer Science: ASCII vs Unicode card and voice message Cathal sent me
 - Computer Science: Convert hexadecimal cards
 ### English
+- get and convert 5 languages of writing notes
 - Convert sample answer sheets
 - Go through notes on Teams
 - Redeem verse 2023 english ebook
-- Convert english room relationships pages that was sent me over whatsapp
+- Convert english room relationships pages that was sent to me over whatsapp
 - Make notes for poetry techniques
-- English: Move notes in [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf) to English digital
+- Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
 - Convert page of oral exam stuff into digital notes
@@ -95,11 +97,12 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Digitize JC Hardback 2
 - Digitize Justine Era LC Hardback
 ### Maths
-- Maths: Look through maths ebook for things to put into digital notes
-- Maths: Rules in Maths ebook section 2.6 anki and/or digital notes
-- Maths: Find videos for each Maths thing/section we have done so far and add to notion
+- Look through maths ebook for things to put into digital notes
+- Rules in Maths ebook section 2.6 anki and/or digital notes
+- Find videos for each Maths thing/section we have done so far and add to notion
 - Convert maths notes that was sent to me into digital notes
 ### Music
+- go through and change all irish music link names (the [] part of the link)
 - Convert sheets on . (dotted) notes and rests
 - Sort out treble key signatures page
 - Add below to music note notes:

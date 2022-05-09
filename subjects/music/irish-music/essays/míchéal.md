@@ -1,9 +1,6 @@
 # Mícheál Ó Shuilleabháin
 
-<aside>
-💡 Use for: Irish composer and solo fusion of styles.
-
-</aside>
+Use for: Irish composer and solo fusion of styles.
 
 Mícheál Ó Shuilleabháin was born in 1950 and he is an Irish performer, arranger, composer and musicologist. He is a piano player And combines traditional music with both classical and jazz in his arrangements of dance tunes, airs and harp tunes. Ó Shuilleabháin plays traditional tunes on piano and improvises them in a jazz style, know as “Hiberno Jazz” such as “The Fox Chase”.
 

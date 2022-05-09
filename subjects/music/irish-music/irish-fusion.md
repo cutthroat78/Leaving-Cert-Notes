@@ -2,9 +2,9 @@
 
 Fusion - Combining two genres of music to create a unique sound
 
-## Traditional Music Fusion:
+## Traditional Music Fusion
 
-### Irish and Rock:
+### Irish and Rock
 
 Sub-category also known as Celtic Rock
 
@@ -14,7 +14,7 @@ Example: Horslips
 
 Instruments used by Horslips: Electric and acoustic guitars, fiddles, mandolin, concertina, flute, bodhrán, drums and keyboard
 
-### Irish and Classical:
+### Irish and Classical
 
 Example:
 
@@ -27,7 +27,7 @@ Example:
     [https://youtu.be/YzF92y8e7pc](https://youtu.be/YzF92y8e7pc)
     
 
-### Irish and World Music:
+### Irish and World Music
 
 Examples: 
 
@@ -52,7 +52,7 @@ Examples:
         [https://youtu.be/4Dfrhh1Otwo](https://youtu.be/4Dfrhh1Otwo)
         
 
-### Irish and Jazz:
+### Irish and Jazz
 
 Examples:
 

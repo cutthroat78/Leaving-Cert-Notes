@@ -1,5 +1,7 @@
 # Irish Dance Types
 
+<!--Turn into table (maybe)-->
+
 ## Jig
 
 - 6/8 Time Signature
@@ -7,7 +9,7 @@
 - Single jig and double jig
 - Identify: Rashers and Sausages
 
-![Untitled](Irish%20Danc%2091ef4/Untitled.png)
+![Jig](dance-types/jig.png)
 
 ## Reel
 
@@ -16,7 +18,7 @@
 - Originates from Scotland
 - Identify: Black N Decker
 
-![Untitled](Irish%20Danc%2091ef4/Untitled%201.png)
+![Reel](dance-types/reel.png)
 
 ## Hornpipe
 
@@ -25,7 +27,7 @@
 - Originates from England
 - Identify: Black N Decker
 
-![Untitled](Irish%20Danc%2091ef4/Untitled%202.png)
+![Hornpipe](dance-types/reel.png)
 
 ## Polka
 

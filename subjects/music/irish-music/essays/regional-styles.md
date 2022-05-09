@@ -1,11 +1,8 @@
 # Regional Styles
 
-<aside>
-💡 For regional styles in singing, look at Sean Nós essay
+For regional styles in singing, look at Sean Nós essay
 
-</aside>
-
-## Regional Styles in Instruments:
+## Regional Styles in Instruments
 
 Different instruments and styles of performing exist in different area in Ireland. The main regions include, Donegal, North Connaught, East Galway, Clare and Sliabh Luachra. The styles differ in terms of ornamentations, articulation, tone, speed, phrasing, and variation. Generally the different styles are associated with virtuoso performers such as Michael Coleman from Sligo whose virtuoso style was very ornamented and fast. Different instruments and dances are common in different styles. Donegal is associated with the fiddle, Scottish influences and reels whereas North Connaught/East Galway is associated with fiddle and flute, jigs and reels and a style of polka that includes quavers and semiquavers. Clare is known for the fiddle, concertina, reels and Kilfenora and Tulla Céilí Bands, and Sliabh Luachra is associated with the fiddle, accordion, polka and slides such as the Kerry polka which is based on a quaver rhythm.
 
