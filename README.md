@@ -36,7 +36,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
 - Look at using dropdown menus to minimize the amount of markdown files/menus
 ### Biology
-- Finish Ecology booklet from Dublin Zoo
 - Ask Biology teacher for missing digital slides
 - Get enzyme diagrams for enzyme pages
 - Make my own Unit YouTube playlists of videos

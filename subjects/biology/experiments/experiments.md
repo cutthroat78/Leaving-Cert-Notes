@@ -2,34 +2,34 @@
 
 | Experiments                                                                               | Done in Class | Did Paper Write Up | Digitsed |
 |-------------------------------------------------------------------------------------------|---------------|--------------------|----------|
-| Testing Food for Starch                                                                   | Yes           | Yes                | No      |
-| Testing Food for Reducing Sugar                                                           | Yes           | Yes                | No      |
-| Testing Food for Fat                                                                      | Yes           | Yes                | No      |
-| Testing Food for Protein                                                                  | Yes           | Yes                | No      |
-| Identifying Flora and Fauna using keys                                                    | No            | No                 | No       |
-| Identify a variety of Habitats                                                            | No            | No                 | No       |
-| Identify and use various apparatus required for collection methods in an Ecological study | No            | No                 | No       |
-| "Quantitative Survey: Plants, Methods: _"                                                 | No            | No                 | No       |
-| "Quantitative Survey: Animals, Methods: _"                                                | No            | No                 | No       |
-| "Investigating Abiotic Factors, Factors: 1. 2. 3."                                        | No            | No                 | No       |
-| Looking at Animal (cheek) cells                                                           | No            | No                 | No       |
-| (Using the microscope &) Looking at Plant Cells                                           | Yes           | Yes                | No      |
-| pH and Enzyme Activity                                                                    | Yes           | Yes                | No      |
-| Temp and Enzyme Activity                                                                  | Yes           | Yes                | No      |
-| Enzyme Denaturation                                                                       | Yes           | Yes                 | No       |
-| Enzyme Immobilisation                                                                     | Yes           | Yes                 | No       |
-| Osmosis                                                                                   | Yes           | Yes                | No       |
-| Photosynthesis                                                                            | No            | No                 | No       |
-| Fermentation of Alcohol                                                                   | No            | No                 | No       |
-| Isolating DNA                                                                             | No            | No                 | No       |
-| Leaf Yeast Growth                                                                         | No            | No                 | No       |
-| Heart Dissection                                                                          | Yes           | No                 | No       | <!--Everyone did write except for me, I need to get a write up--->
-| Exercise and the Pulse Rate                                                               | No            | No                 | No       |
-| Exercise and the Breathing Rate                                                           | Yes           | Yes                 | No       |
-| TS of a Dicot Stem                                                                        | No            | No                 | No       |
-| IAA as a Growth Regulator                                                                 | No            | No                 | No       |
-| Germination                                                                               | No            | No                 | No       |
-| Digestive Activity during Germination                                                     | No            | No                 | No       |
+| Testing Food for Starch                                                                   | Yes           | Yes                 | No      |
+| Testing Food for Reducing Sugar                                                           | Yes           | Yes                 | No      |
+| Testing Food for Fat                                                                      | Yes           | Yes                 | No      |
+| Testing Food for Protein                                                                  | Yes           | Yes                 | No      |
+| Identifying Flora and Fauna using keys                                                    | Yes           | No                  | No      |
+| Identify a variety of Habitats                                                            | No?           | No                  | No      |
+| Identify and use various apparatus required for collection methods in an Ecological study | Yes           | No                  | No      |
+| "Quantitative Survey: Plants, Methods: Quadrat"                                           | Yes           | No                  | No      |
+| "Quantitative Survey: Animals, Methods: Capture/Recapture Technique"                      | Yes           | No                  | No      |
+| "Investigating Abiotic Factors, Factors: 1. Light (lux) x 10³ 2. Soil Temperature (°C) 3. Air Temperature (°C) 4. Soil pH" | Yes           | No                 | No       |
+| Looking at Animal (cheek) cells                                                           | No            | No                  | No      |
+| (Using the microscope &) Looking at Plant Cells                                           | Yes           | Yes                 | No      |
+| pH and Enzyme Activity                                                                    | Yes           | Yes                 | No      |
+| Temp and Enzyme Activity                                                                  | Yes           | Yes                 | No      |
+| Enzyme Denaturation                                                                       | Yes           | Yes                 | No      |
+| Enzyme Immobilisation                                                                     | Yes           | Yes                 | No      |
+| Osmosis                                                                                   | Yes           | Yes                 | No      |
+| Photosynthesis                                                                            | No            | No                  | No      |
+| Fermentation of Alcohol                                                                   | No            | No                  | No      |
+| Isolating DNA                                                                             | No            | No                  | No      |
+| Leaf Yeast Growth                                                                         | No            | No                  | No      |
+| Heart Dissection                                                                          | Yes           | No                  | No      | <!--Everyone did write except for me, I need to get a write up--->
+| Exercise and the Pulse Rate                                                               | No            | No                  | No      |
+| Exercise and the Breathing Rate                                                           | Yes           | Yes                 | No      |
+| TS of a Dicot Stem                                                                        | No            | No                  | No      |
+| IAA as a Growth Regulator                                                                 | No            | No                  | No      |
+| Germination                                                                               | No            | No                  | No      |
+| Digestive Activity during Germination                                                     | No            | No                  | No      |
 
 
 - [Plant (Onion) Cells]()
