@@ -36,7 +36,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
 - Look at using dropdown menus to minimize the amount of markdown files/menus
 ### Biology
-- Finish Ecology bookley from Dublin Zoo
+- Finish Ecology booklet from Dublin Zoo
 - Ask Biology teacher for missing digital slides
 - Get enzyme diagrams for enzyme pages
 - Make my own Unit YouTube playlists of videos
@@ -59,7 +59,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
 - Look at padlet links in Business Team
-- Business page 250 + 251 challenges when starting a business section move into Notion and page 257 & 258 Business plan and importance of a Business plan into Notion
+- Page 250 + 251 challenges when starting a business section move into digital notes
+- Page 257 & 258 Business plan and importance of a Business plan into digital notes
 ### Computer Science
 - Look into git(hub) stuff for computer science class
 - Computer Science: Take all my code from class and put into Notion as “Code Examples”
