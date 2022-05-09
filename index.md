@@ -6,9 +6,9 @@
 <h3 id="the-study-of-living-organisms">The Study of Living Organisms</h3>
 
 <ul>
-<li><a href="syllabus-and-exam-structure.md">Syllabus &amp; Exam Structure</a></li>
-<li><a href="experiments/experiments.md">Experiments</a></li>
-<li><a href="terms-and-definitions.md">Terms &amp; Definitions</a></li>
+<li><a href="subjects/biology/syllabus-and-exam-structure.md">Syllabus &amp; Exam Structure</a></li>
+<li><a href="subjects/biology/experiments/experiments.md">Experiments</a></li>
+<li><a href="subjects/biology/terms-and-definitions.md">Terms &amp; Definitions</a></li>
 </ul>
 <h3 id="units-1-the-study-of-life">Units 1 - The Study of Life</h3>
 <ul>
@@ -19,8 +19,8 @@
 <h4 id="ecology">Ecology</h4>
 <li><a href="">Ecology, Ecosystem, Biosphere, Habitat &amp; Niche</a></li>
 <li><a href="">Environmental Factors</a></li>
-<li><a href="topics/unit-1/nutrient-recycling/nutrient-recycling.md">Nutrient Recycling</a></li>
-<li><a href="topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md">Pyramid of Numbers</a></li>
+<li><a href="subjects/biology/topics/unit-1/nutrient-recycling/nutrient-recycling.md">Nutrient Recycling</a></li>
+<li><a href="subjects/biology/topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md">Pyramid of Numbers</a></li>
 </ul>
 <h3 id="units-2-the-cell">Units 2 - The Cell</h3>
 <ul>
