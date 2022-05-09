@@ -197,9 +197,9 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Finish off sample question on Control and Violence | Monday, 09/05/2022 | No |
-| English | Finish Question on sheet that we were doing on Wednesday class | Monday, 09/05/2022 | No |
-| English | Do a question on the sheet, the teacher gave us | Monday, 09/05/2022 | No |
+| English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
+| English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 1/05/2022 | No |
+| English | Do a question on the sheet, the teacher gave us | Wednesday, 11/05/2022 | No |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
 | Biology | Finish Ecology Booklet | Monday, 09/05/2022 | No |
 | Biology | Finish Ecology Exam Questions | Monday, 09/05/2022 | No |
