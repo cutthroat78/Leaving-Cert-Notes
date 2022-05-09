@@ -125,4 +125,44 @@ Two examples are:
 | Poco a poco | Little by little |
 | Quasi | Almost |
 | Sensible | Sensitively |
-| Stringendo | Hurrying | 
+| Stringendo | Hurrying |
+
+## Sonata Form
+- A type of composition in three sections (exposition, development and recapitulation) in which two themes or subjects are explored according to set key relationships
+
+### Exposition
+- Sets forth the themes. There are 2 distinct groupings: Subject 1, Subject 2
+- Subject 2 will be in contrast to Subject 1. Subject 2 often more detailed
+- Other material, including other themes, may appear between and after Subject 1 + Subject 2
+- A closing section is called a codetta
+
+### Development
+- Composer can experiment with 1 or 2 more themes from exposition
+- Themes can be played on different instruments, tempo changes, dynamic changes, different keys, repitions of motifs, etc.
+- The development is usually tense + dramatic
+
+### Recapitulation
+- This is essentially a repeat of a exposition but can be very different, with themes omitted and new ones added
+- More confident in style than the expositon
+- A coda or ending piece is used
+
+## Structure
+1. Introduction
+2. Romeo & Juliet - Friar Lawrence Theme
+3. Exposition
+    - Subject 1 = Strife Theme
+    - Subject 2 = Love Theme
+4. Development
+5. Recapitulation
+6. Coda
+
+### Introduction
+- Bars 1 - 111
+- Main theme is Friar Lawrence Theme
+
+### Romeo and Juliet - Friar Lawrence Theme
+- Long + slow introduction with many melodic + rhythmic motifs
+- Played in two parts A chorale progression of woodwind to represent Friar Lawrence and a following ascending + descending pattern in the strings + horns with winds later
+- Theme is repeated down a semitone but two octaves higher in flutes + oboes in F minor over pizzicato strings
+- Key = F sharp minor (the tonic of the overall overture is B minor)
+- Common Time (4/4)
