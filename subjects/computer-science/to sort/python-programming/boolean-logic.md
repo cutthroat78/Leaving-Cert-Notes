@@ -4,7 +4,16 @@ Invented George Boole (Cork 19th Century)
 
 Boolean was useless until the advent of computers
 
-[Boolean Symbol](Boolean%20Lo%20062ae/Boolean%20Sy%20a82a7.csv)
+## Boolean Symbols
+
+| Symbol | Definition            |
+|--------|-----------------------|
+| ==     | is equal to           |
+| !=     | not equal to          |
+| \<     | less than             |
+| \>     | greater than          |
+| \<=    | less than or equal    |
+| \>=    | greater than or equal |
 
 ## Boolean Logic Given
 

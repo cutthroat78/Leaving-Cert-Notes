@@ -100,12 +100,20 @@
 <details><summary><h2>Computer Science</h2></summary>
   
 <ul>
-<li><a href="exam-structure.md">Exam Structure</a></li>
-<li><a href="python-programming.md">Python Programming</a></li>
-<li><a href="data.md">Data</a></li>
-<li><a href="data-feminism.md">Data Feminism</a></li>
-<li><a href="AI.md">Artificial Intelligence</a></li>
-<li><a href="computer-components.md">Computer Components</a></li>
+<li><a href="subjects/computer-science/python-programming/exam-structure.md">Exam Structure</a></li>
+<li><a href="subjects/computer-science/python-programming/data.md">Data</a></li>
+<li><a href="subjects/computer-science/python-programming/data-feminism.md">Data Feminism</a></li>
+<li><a href="subjects/computer-science/python-programming/AI.md">Artificial Intelligence</a></li>
+<li><a href="subjects/computer-science/python-programming/computer-components.md">Computer Components</a></li>
+</ul>
+<h3><a href="subjects/computer-science/python-programming/python-programming.md">Python Programming</a></h3>
+<ul>
+<li><a href="subjects/computer-science/python-programming/">Numerical Python</a></li>
+<li><a href="subjects/computer-science/python-programming/">Variables</a></li>
+<li><a href="subjects/computer-science/python-programming/">volumesphere.py</a></li>
+<li><a href="subjects/computer-science/python-programming/">Inputs</a></li>
+<li><a href="subjects/computer-science/python-programming/">Boolean Logic</a></li>
+<li><a href="subjects/computer-science/python-programming/">Conditionals</a></li>
 </ul>
   
 </details>
@@ -250,8 +258,8 @@
 | English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
 | English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 11/05/2022 | No |
 | English | Do a question on the sheet, the teacher gave us | Wednesday, 11/05/2022 | No |
-| Biology | Finish Ecology Booklet | Tuesday, 10/05/2022 | Yes |
-| Biology | Do all Ecology Exam Questions | Tuesday, 10/05/2022 | No |
+| Biology | Do all Ecology Exam Questions | Wednesday, 11/05/2022 | No |
+| Biology | Do all learning check questions on respiration slides | Wednesday, 11/05/2022 | No |
 
 # Calendar
 
@@ -276,6 +284,7 @@
 <!--
 # Homework Archive
 ## 5th Year
+| Biology | Finish Ecology Booklet | Tuesday, 10/05/2022 | Yes |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
 | French | Get vocab from top of sheet and highlighted words on sheet and put into hardback notes | Wednesday, 27/04/2022  | No |
 | Maths | Finish all questions on page 183 | Friday, 29/04/2022 | No |

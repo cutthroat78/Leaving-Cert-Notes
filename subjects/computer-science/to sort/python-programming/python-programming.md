@@ -38,17 +38,20 @@ Hello World    I love the weather
 
 ---
 
-## Names of Symbols
+## Names of Quotes
 
-_
+| Symbols | Names         |
+|---------|---------------|
+| "" (")  | Double Quotes |
+| '' (')  | Single Quotes |
 
 ## Maths Operations
 
-_
-
-- [Numerical Python](python-programming/)
-- [Variables](python-programming/)
-- [volumesphere.py](python-programming/)
-- [Inputs](python-programming/)
-- [Boolean Logic](python-programming/)
-- [Conditionals](python-programming/)
+| Name/Role        | Symbol |
+|------------------|--------|
+| Add              | \+     |
+| Subtract         | \-     |
+| Multiple         | \*     |
+| Integer Division | //     |
+| Float Division   | /      |
+| To the Power of  | \*\*   |

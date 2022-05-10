@@ -58,4 +58,11 @@ Rules of Variables:
     
 4. It is possible but you should **never** use python commands as variable names
 
-[Numerical Variables](Variables%20ea1d4/Numerical%20%20ef11e.csv)
+## Numerical Variables
+
+| Name    | Function | Description                | Example |
+|---------|----------|----------------------------|---------|
+| Integer | int      | Positive Whole Numbers     | 10      |
+| Float   | float    | Decimal Numbers            | 8.37    |
+| String  | str      | A collection of characters | "John"  |
+| Boolean | bool     | True/False                 | True    |

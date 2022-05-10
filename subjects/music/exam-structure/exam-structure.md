@@ -10,7 +10,6 @@
 25% is 100 Marks
 (Max is 400 Marks)
 
-
 ## Practicals
 - [Ukulele Practical](ukulele-practical.md)
 - [Performing Practical](performing-practical.md)

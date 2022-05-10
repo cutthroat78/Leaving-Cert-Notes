@@ -1,6 +1,6 @@
 # Treble Key Signatures
 
-![Untitled](Treble%20Key%2029c55/Untitled.png)
+![Treble Key Signatures](treble-key-signatures/treble-key-signatures.png)
 
 ## Sharps in Major Key Signatures
 

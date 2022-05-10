@@ -19,4 +19,3 @@ A melody is the central component in a piece of music. It is a combination of pi
 | Monophonic | 1 melody line                         |
 | Homophonic | 1 melody with accompaniment           |
 | Polyphonic | More than 1 melody with accompaniment |
-
