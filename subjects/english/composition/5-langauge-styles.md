@@ -1,6 +1,14 @@
-# The 5 Styles of Languages
+# The 5 Styles of Language
 
-(missed notes go here (they will be on themes))
+(missed notes go here (they will be on teams))
+
+## 1.
+
+## 2.
+
+## 3.
+
+## 4.
 
 ## 5. Langauge of Argument
 
@@ -22,4 +30,3 @@
 - Logical
 - Structured
 - Reasonable
-
