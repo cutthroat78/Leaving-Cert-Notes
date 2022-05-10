@@ -166,3 +166,22 @@ Two examples are:
 - Theme is repeated down a semitone but two octaves higher in flutes + oboes in F minor over pizzicato strings
 - Key = F sharp minor (the tonic of the overall overture is B minor)
 - Common Time (4/4)
+- Instruments = 2 clarinets + 2 bassoons introduce theme but all instruments involved at some stage
+- Dominant feature is Arpeggi on the harp
+- Mood = Tension and anticipation increasing and decreasing throughout through the use of shifting block instrumentation, pedal notes + timpani rolls
+
+### Exposition
+- Bars 112 - 272
+- Be able to identify the themes in this section and its musical characterisitcs
+
+#### Subject 1 = strife theme
+- Key -> G minor
+- Full or chestra
+- Ascending string scale passage in semiquavers "motif e"
+- Texture - homophonic (Be able to explain)
+- Mood - formidable + powerful
+- Use of a chain of dominant sevenths
+- Main instruments = Tutti`qzc
+
+#### Subject 2 = love theme
+
