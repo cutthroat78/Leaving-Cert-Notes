@@ -258,8 +258,9 @@
 | English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
 | English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 11/05/2022 | No |
 | English | Do a question on the sheet, the teacher gave us | Wednesday, 11/05/2022 | No |
-| Biology | Do all Ecology Exam Questions | Wednesday, 11/05/2022 | No |
-| Biology | Do all learning check questions on respiration slides | Wednesday, 11/05/2022 | No |
+| Biology | Do all Ecology Exam Questions | Monday, 16/05/2022 | No |
+| Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
+| Biology | Finish write up | Monday, 16/05/2022 | No |
 
 # Calendar
 
