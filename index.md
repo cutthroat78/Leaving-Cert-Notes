@@ -46,7 +46,6 @@
 
   
 </details>
-
 <details><summary><h2>Business</h2></summary>
   
 <ul><li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li></ul>
@@ -101,7 +100,6 @@
 </ul>
   
 </details>
-
 <details><summary><h2>Computer Science</h2></summary>
   
 <ul>
@@ -122,7 +120,6 @@
 </ul>
   
 </details>
-
 <details><summary><h2>English</h2></summary>
   
 <a href="subjects/english/summer-exam.md">Summer Exam Stuff</a>
@@ -157,9 +154,7 @@
 <li><a href="exam-structure/comprehension-question-b.md">Comprehension: Question B</a></li>
 </ul>
 
-  
 </details>
-  
 <details><summary><h2>French</h2></summary>
   
 <h3 id="paul-rickard-era-5th-year-">Paul Rickard Era (5th Year)</h3>
@@ -184,7 +179,6 @@
 
   
 </details>
-  
 <details><summary><h2>Maths</h2></summary>
 
 <h3 id="algebra">Algebra</h3>
@@ -196,7 +190,6 @@
 
   
 </details>
-  
 <details><summary><h2>Music</h2></summary>
 
 <ul>
