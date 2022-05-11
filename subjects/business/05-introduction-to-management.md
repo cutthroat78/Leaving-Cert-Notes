@@ -1,5 +1,4 @@
 # 5. Introduction to Management
-
 ## Learning Outcomes from This Chapter
 
 - Define management

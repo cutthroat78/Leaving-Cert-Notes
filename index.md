@@ -45,13 +45,13 @@
 <details><summary><h2>Business</h2></summary>
   
 <ul>
-<li><a href="subjects/business/topics/answering-exam-questions.md">Answering Exam Questions</a></li>
+<li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li>
 </ul>
 <h3>Unit 1: Introduction to People in Business</h3=>
 <ul>
-<li><a href="subjects/business/topics/1-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/1-people-in-business.pdf">Slides</a></li>
-<li><a href="subjects/business/topics/2-consumer-conflict.md">2. Consumer Conflict</a> - <a href="subjects/business/slides/2-consumer-conflict.pdf">Slides</a></li>
-<li><a href="subjects/business/topics/3-industrial-relations.md">3. Industrial Relations</a> - <a href="subjects/business/slides/3-industrial-relations.pdf">Slides</a></li>
+<li><a href="subjects/business/1-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/1-people-in-business.pdf">Slides</a></li>
+<li><a href="subjects/business/2-consumer-conflict.md">2. Consumer Conflict</a> - <a href="subjects/business/slides/2-consumer-conflict.pdf">Slides</a></li>
+<li><a href="subjects/business/3-industrial-relations.md">3. Industrial Relations</a> - <a href="subjects/business/slides/3-industrial-relations.pdf">Slides</a></li>
 </ul>
 <h3>Unit 2: Enterprise</h3=>
 <ul>
@@ -86,13 +86,13 @@
 <li><a href="">20. Business Organisations</a> - <a href="">Slides</a></li>
 <li><a href="">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
 <li><a href="">22. Community Development</a> - <a href="">Slides</a>
-  <ul><li><a href="subjects/business/topics/business-ethics.md">Business Ethics</a> - <a href="">Slides</a></ul></li>
+  <ul><li><a href="subjects/business/business-ethics.md">Business Ethics</a> - <a href="">Slides</a></ul></li>
 <li><a href="">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
 </ul>
 <h3>Unit 7: International Environment</h3>
 <ul>
 <li><a href="">24. International Trade</a> - <a href="">Slides</a></li>
-<li><a href="subjects/business/topics/25-eu.md">25. The European Union</a> - <a href="">Slides</a></li>
+<li><a href="subjects/business/25-eu.md">25. The European Union</a> - <a href="">Slides</a></li>
 <li><a href="">26. Global Business</a> - <a href="">Slides</a></li>
 <li><a href="">27. The Applied Business Question (ABQ)</a> - <a href="">Slides</a></li>
 </ul>

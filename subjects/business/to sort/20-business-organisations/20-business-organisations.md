@@ -1,10 +1,6 @@
 # 20. Business Organisations
 
-## Table of Contents
-
-[Chapter 20 - Business Organisations.pdf](20%20Busines%2084396/Chapter_20_-_Business_Organisations.pdf)
-
-## **Learning Outcomes from this chapter**
+## Learning Outcomes from this chapter
 
 ***On completion, you should be able to:*** 
 

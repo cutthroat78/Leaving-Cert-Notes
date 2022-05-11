@@ -1,7 +1,5 @@
 # 6. Management Skills: Leading and Motivating
 
-[Chapter 6 - Leading and Motivating.pdf](6%20Manageme%20c01a5/Chapter_6_-_Leading_and_Motivating.pdf)
-
 ## Learning Outcomes from This Chapter:
 
 - Define the different management skills
@@ -238,7 +236,7 @@ The different needs are called the hierarchy of needs and include the following
 - Self actualisation needs
     - Being ambitious, being given more responsibility in work, becoming an entrepreneur
 
-![Untitled](6%20Manageme%20c01a5/Untitled.png)
+![Maslow's Theory of Motivation](images/06/maslow-theory.png)
 
 ### Problems with Maslow's Theory
 

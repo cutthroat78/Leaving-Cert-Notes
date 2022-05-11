@@ -1,12 +1,8 @@
 # 17. The Marketing Mix
 
-## Table of Contents
+## Learning Outcomes from this chapter
 
-[Chapter 17 - Marketing Mix.pdf](17%20The%20Mar%201ed43/Chapter_17_-_Marketing_Mix.pdf)
-
-## ****Learning Outcomes from this chapter****
-
-***On completion, you should be able to:*** 
+**On completion, you should be able to**
 
 - Outline the marketing mix for a product of your choice
 - Illustrate the benefits of branding for a business and the consumer
@@ -36,13 +32,13 @@
 
 [Product Life Cycle](17%20The%20Mar%201ed43/Product%20Li%2059f8b.csv)
 
-![Untitled](17%20The%20Mar%201ed43/Untitled.png)
+![Untitled](images/17/product-life-cycle.png)
 
 [Extending the product life cycle (4 P’s)](17%20The%20Mar%201ed43/Extending%20%205c0b2.csv)
 
 ### Branding
 
-### Branding (From Teacher)
+#### Branding (From Teacher)
 
 - USP is main focus of branding
 - Images, text, logos, phrases, shape, packaging, etc.
@@ -52,7 +48,7 @@
 - Easier to go global
 - USP is main focus of branding
 
-### Benefits of Branding for a Company
+#### Benefits of Branding for a Company
 
 - Helps to differentiate the product from rivals
     - A brand gives a product a clear identity that can make it instantly recognisable. This helps a business, as consumers are more likely to buy a brand if they know and trust it
@@ -64,7 +60,7 @@
     - A consumer might stay loyal to a brand over a long period of time. A business could release new products in its range aimed at diﬀerent age groups to target this
         - A consumer who grew up eating Kellogg’s Rice Krispies might choose Kellogg’s All Bran or Corn Flakes. Kellogg’s also offers Special K, giving consumers who might have eaten other Kellogg’s products a lower-calorie option
 
-### Benefits of Branding for a Consumer
+#### Benefits of Branding for a Consumer
 
 - Gives confidence and peace of mind
     - When a consumer chooses a recognised brand, they might pay more for it, but feel more conﬁdence in the brand. The consumer might think it is safer to choose a well-known brand when buying an expensive item or a new type of good they have not used before
@@ -76,7 +72,7 @@
     - A consumer is faced with so many decisions in a grocery or retail store. Easily recognisable logos and packaging can make decisions more straightforward, as certain brands are associated with a positive value, characteristic or position
         - If a consumer sees an Adidas logo on a pair of leggings, they know they are good quality
 
-### Own-brand (From Teacher)
+#### Own-brand (From Teacher)
 
 - Offers cheaper alternative
 - Bigger profit share for the company e.g. Dunnes

@@ -1,10 +1,8 @@
 # 15. Business Start-Up
 
-[Chapter 15 - Business Start-up.pdf](15%20Busines%2066772/Chapter_15_-_Business_Start-up.pdf)
-
 ## Learning Outcomes from This Chapter
 
-### On completion, you should be able to:
+**On completion, you should be able to**
 
 - Identify and explain the elements involved in a new business start-up
 - List the main sources of finance available for business start-up
