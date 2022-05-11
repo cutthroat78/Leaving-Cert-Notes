@@ -1,7 +1,5 @@
 # 1. People in Business
 
-[Chapter 1 - People in Business.pdf](chapter-1-people-in-business-slides.pdf)
-
 ## Learning Outcomes from This Chapter
 
 ### On completion, you should be able to

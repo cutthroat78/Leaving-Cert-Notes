@@ -1,7 +1,5 @@
 # 3. Industrial Relations
 
-[Industrial relations.pdf](3%20Industri%2046f20/Industrial_relations.pdf)
-
 ## Learning Outcomes from this chapter
 
 **On completion, you should be able to**
@@ -78,7 +76,13 @@ From Class:
 - An elected union representative and the contact point if a member has any concern in a workplace
 - A link between union members and employer
 
-[Non-legislative Solutions (Non-legal, no laws govern these methods)](3%20Industri%2046f20/Non-legisl%20a992f.csv)
+### Non-legislative Solutions (Non-legal, no laws govern these methods)
+
+| Term         | Definition                                                      |
+|--------------|-----------------------------------------------------------------|
+| Negotiation  | Offers, counter-offers, compromise to reach a solution          |
+| Conciliation | Unbiased third party encourages parties to listen to each other |
+| Arbitration  | Unbiased third party encourages parties to listen to each other |
 
 ### Industrial Relations Act 1990
 
@@ -98,7 +102,13 @@ From Class:
 - Have to give 7 days notice to strike (gives chance to employer to resolve conflict)
 - A confidential secret ballot must be carried out before a strike can happen
 
-[Picketing Terms](3%20Industri%2046f20/Picketing%20%20b1a3c.csv)
+### Picketing Terms
+
+| Term                | Definition                                                                                                       |
+|---------------------|------------------------------------------------------------------------------------------------------------------|
+| Primary Picketing   | Strike action outside the actual premises by the workers there                                                   |
+| Secondary Picketing | Outside another workplace by worker supporting colleagues in a dispute                                           |
+| Immunity            | Employers can't sue employees for any losses that the business faces from a lack of sales caused from the action |
 
 ## Types of industrial action
 
@@ -106,11 +116,30 @@ The industrial actions above are legal. Workers are not allowed to engage in a w
 
 While citizens can legally protest the government, it is illegal for workers to stop work in order to protest a government decision
 
-[Types of industrial action (from slides)](3%20Industri%2046f20/Types%20of%20i%20ac77c.csv)
+### Types of industrial action (from slides)
 
-[Types of legal industrial action (from teacher)](3%20Industri%2046f20/Types%20of%20l%20643b3.csv)
+| Term            | Definition                                                                          |
+|-----------------|-------------------------------------------------------------------------------------|
+| Official strike | Employees do not enter their workplace and do not do any work                       |
+| Work-to-rule    | Employees only do the exact jobs written in their contract, without any flexibility |
+| Overtime ban    | Refusal to work extra hours, outside contract hours                                 |
+| Token stoppage  | Brief stoppage of work, carrying the threat of further action                       |
 
-[Types of illegal industrial action (from teacher)](3%20Industri%2046f20/Types%20of%20i%2091a1d.csv)
+### Types of legal industrial action (from teacher)
+
+| Term            | Definition                                                                                                                                                                                                                              |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Official Strike | This is when the employees don't enter their workplace and refuse to work for their employer. Official strikes has to have a secret ballot, proper notification to the employer (i.e one week's notice) and it being sanctioned by ICTV |
+| Work-to-rule    | When employees only undertake the exact jobs written in their job description or contact of employment, without any flexibility                                                                                                         |
+| Overtime ban    | When worker refuse to work extra hours outside their normal contracted hours. This can lead to business losing sales                                                                                                                    |
+| Token stoppage  | A brief stoppage of work intended to carry the threat of further, more serious action if an agreement is not reached                                                                                                                    |
+
+### Types of illegal industrial action (from teacher)
+
+| Term                              | Definition                                                                                                                                          |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lightning Strike (Wildcat Strike) | It is an unofficial strike, where workers go on strike without giving any warning to their employer                                                 |
+| Political Strike                  | While citizens can legally protest against the government, it is illegal for workers to stop work in order to protest against a government decision |
 
 ### Impact of industrial action on stakeholders
 

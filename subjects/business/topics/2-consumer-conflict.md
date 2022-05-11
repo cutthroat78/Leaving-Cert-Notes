@@ -1,7 +1,5 @@
 # 2. Consumer Conflict
 
-[Consumer conflict.pdf](2-consumer-conflict.pdf)
-
 ## Learning Outcomes from this chapter
 
 **On completion, you should be able to:**

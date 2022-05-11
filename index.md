@@ -45,55 +45,56 @@
 <details><summary><h2>Business</h2></summary>
   
 <ul>
-<li><a href="answering-exam-questions.md">Answering Exam Questions</a></li>
+<li><a href="subjects/business/topics/answering-exam-questions.md">Answering Exam Questions</a></li>
 </ul>
-<h3 id="unit-1-introduction-to-people-in-business">Unit 1: Introduction to People in Business</h3>
+<h3>Unit 1: Introduction to People in Business</h3=>
 <ul>
-<li><a href="/subjects/business/topics/unit-1/1-people-in-business/1-people-in-business.md">1. People in Business</a> - <a href="">Slides</a></li>
-<li><a href="">2. Consumer Conflict</a> - <a href="">Slides</a</li>
-<li><a href="">3. Industrial Relations</a> - <a href="">Slides</a</li>
+<li><a href="subjects/business/topics/1-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/1-people-in-business.pdf">Slides</a></li>
+<li><a href="subjects/business/topics/2-consumer-conflict.md">2. Consumer Conflict</a> - <a href="subjects/business/slides/2-consumer-conflict.pdf">Slides</a></li>
+<li><a href="subjects/business/topics/3-industrial-relations.md">3. Industrial Relations</a> - <a href="subjects/business/slides/3-industrial-relations.pdf">Slides</a></li>
 </ul>
-<h3 id="unit-2-enterprise">Unit 2: Enterprise</h3>
+<h3>Unit 2: Enterprise</h3=>
 <ul>
-<li><a href="">4. Enterprise</a> - <a href="">Slides</a</li>
+<li><a href="">4. Enterprise</a> - <a href="">Slides</a></li>
 </ul>
-<h3 id="unit-3-managing-1">Unit 3: Managing 1</h3>
+<h3>Unit 3: Managing 1</h3>
 <ul>
-<li><a href="">5. Introduction to Management</a> - <a href="">Slides</a</li>
-<li><a href="">6. Management Skills: Leading and Motivating</a> - <a href="">Slides</a</li>
-<li><a href="">7. Management Skills: Communicating</a> - <a href="">Slides</a</li>
-<li><a href="">8. Management Activities: Planning, Organising and Controlling</a> - <a href="">Slides</a</li>
+<li><a href="">5. Introduction to Management</a> - <a href="">Slides</a></li>
+<li><a href="">6. Management Skills: Leading and Motivating</a> - <a href="">Slides</a></li>
+<li><a href="">7. Management Skills: Communicating</a> - <a href="">Slides</a></li>
+<li><a href="">8. Management Activities: Planning, Organising and Controlling</a> - <a href="">Slides</a></li>
 </ul>
-<h3 id="unit-4-managing-2">Unit 4: Managing 2</h3>
+<h3>Unit 4: Managing 2</h3>
 <ul>
-<li><a href="">9. Human Resource Management</a></li>
-<li><a href="">10. Managing Change</a></li>
-<li><a href="">11. Insurance and Taxation</a></li>
-<li><a href="">12. Monitoring a Business: Ratio Analysis</a></li>
-<li><a href="">13. Finance</a></li>
+<li><a href="">9. Human Resource Management</a> - <a href="">Slides</a></li>
+<li><a href="">10. Managing Change</a> - <a href="">Slides</a></li>
+<li><a href="">11. Insurance and Taxation</a> - <a href="">Slides</a></li>
+<li><a href="">12. Monitoring a Business: Ratio Analysis</a> - <a href="">Slides</a></li>
+<li><a href="">13. Finance</a> - <a href="">Slides</a></li>
 </ul>
-<h3 id="unit-5-business-in-action">Unit 5: Business in Action</h3>
+<h3>Unit 5: Business in Action</h3>
 <ul>
-<li><a href="">14. Identifying Business Opportunities</a></li>
-<li><a href="">15. Business Start-Up</a></li>
-<li><a href="">16. Market Analysis</a></li>
-<li><a href="">17. The Marketing Mix</a></li>
-<li><a href="">18. Business Expansion</a></li>
+<li><a href="">14. Identifying Business Opportunities</a> - <a href="">Slides</a></li>
+<li><a href="">15. Business Start-Up</a> - <a href="">Slides</a></li>
+<li><a href="">16. Market Analysis</a> - <a href="">Slides</a></li>
+<li><a href="">17. The Marketing Mix</a> - <a href="">Slides</a></li>
+<li><a href="">18. Business Expansion</a> - <a href="">Slides</a></li>
 </ul>
-<h3 id="unit-6-domestic-environment">Unit 6: Domestic Environment</h3>
+<h3>Unit 6: Domestic Environment</h3>
 <ul>
-<li><a href="">19. Categories of Industury</a></li>
-<li><a href="">20. Business Organisations</a></li>
-<li><a href="">21. Business, the Economy and Government</a></li>
-<li><a href="">22. Community Development</a></li>
-<li><a href="">23. Ethical, Social and Environmental Responsibility</a></li>
+<li><a href="">19. Categories of Industury</a> - <a href="">Slides</a></li>
+<li><a href="">20. Business Organisations</a> - <a href="">Slides</a></li>
+<li><a href="">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
+<li><a href="">22. Community Development</a> - <a href="">Slides</a>
+  <ul><li><a href="subjects/business/topics/business-ethics.md">Business Ethics</a> - <a href="">Slides</a></ul></li>
+<li><a href="">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
 </ul>
-<h3 id="unit-7-international-environment">Unit 7: International Environment</h3>
+<h3>Unit 7: International Environment</h3>
 <ul>
-<li><a href="">24. International Trade</a></li>
-<li><a href="subjects/business/topics/unit-7/25-eu/25-eu.md">25. The European Union</a></li>
-<li><a href="">26. Global Business</a></li>
-<li><a href="">27. The Applied Business Question (ABQ)</a></li>
+<li><a href="">24. International Trade</a> - <a href="">Slides</a></li>
+<li><a href="subjects/business/topics/25-eu.md">25. The European Union</a> - <a href="">Slides</a></li>
+<li><a href="">26. Global Business</a> - <a href="">Slides</a></li>
+<li><a href="">27. The Applied Business Question (ABQ)</a> - <a href="">Slides</a></li>
 </ul>
   
 </details>
