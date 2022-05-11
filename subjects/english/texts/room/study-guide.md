@@ -1,8 +1,6 @@
 # Study Guide
 
-[Study Guide for Room.pdf](Study%20Guid%2089e03/Study_Guide_for_Room.pdf)
-
-[Questions](Study%20Guid%2089e03/Questions%20afd1d.md)
+[Study Guide for Room](study-guide.pdf)
 
 ## Background
 

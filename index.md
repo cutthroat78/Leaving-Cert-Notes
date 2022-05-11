@@ -120,17 +120,29 @@
 </details>
 <details><summary><h2>English</h2></summary>
   
+<a href="subjects/english/summer-exam.md">Summer Exam Stuff</a>
+<h3>Composition</h3>
+<h3>Texts</h3>
 <ul>
-<li><p><a href="summer-exam.md">Summer Exam Stuff</a></p></li>
-<li><a href="composition/composition.md">Composition</a></li>
-<li><a href="poetry/poetry.md">Poetry</a></li>
+<li><a href="subjects/english/texts/casablanca.md">Casablanca</a></li>
+<li><a href="subjects/english/texts/dolls-house/dolls-house.md">A Doll's House</a></li>
+<li><a href="subjects/english/texts/room/room.md">Room</a></li>
 </ul>
-<h3 id="texts">Texts</h3>
-<ul>
-<li><a href="texts/casablanca.md">Casablanca</a></li>
-<li><a href="texts/dolls-house/dolls-house.md">A Doll&#39;s House</a></li>
-<li><a href="texts/room/room.md">Room</a></li>
-</ul>
+<h3>Poetry</h3>
+<h4>Rudyard Kipling</h4>
+<ul><li><a href="subjects/english/poetry/if.md">If</a></li></ul>
+<h4> William Butler Yeats (W. B. Yeats)
+<ul><li><a href="subjects/english/poetry/the-lake-isle-of-innisfree.md">The Lake Isle of Innisfree</a></li></ul>
+<h4>Elizabeth Bishop</h4>
+<h4>Emily Dickinson</h4>
+<h4>John Donne</h4>
+<h4>Patrick Kavanagh</h4>
+<h4>Derek Mahon</h4>
+<h4>Paula Meehan</h4>
+<h4>Adrienne Rich</h4>
+<ul><li><a href="subjects/english/poetry/aunt-jennifer-tigers.md">Aunt Jennifer's Tigers</a></li></ul>
+<!--Where to find poems: [https://www.poetryfoundation.org/](https://www.poetryfoundation.org/)-->
+
 <h3 id="exam-structure">Exam Structure</h3>
 <ul>
 <li><a href="exam-structure/exam-structure.md">Exam Structure</a></li>
@@ -262,6 +274,7 @@
 | Biology | Do all Ecology Exam Questions | Monday, 16/05/2022 | No |
 | Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
 | Biology | Finish write up | Monday, 16/05/2022 | No |
+| English | Finish off aunt jennifers tigers file | Thursday, 12/05/2022 | No |
 
 # Calendar
 

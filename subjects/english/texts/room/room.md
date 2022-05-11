@@ -1,17 +1,15 @@
 # Room
 
-There are 4 sections in the novel
+There are 4 sections in the novelssssss
 
 1. Presents, Page 3 - 61
 2. Unlying, Page 65 - 122
 3. Dying, Page 125 - 312
 4. Living, Page 315 - 401
 
-## Full Book:
+## [Full Book](room.pdf)
 
-[room.pdf](Room%20f24ff/room.pdf)
-
-## You can watch Room (Movie) using these services:
+## You can watch Room (Movie) using these services
 
 - [Netflix](https://www.netflix.com/ca/title/80073823)
 - [Amazon Prime](https://www.primevideo.com/detail/0FBAC1VTAGPV8WG67VEQGKOQ7D/ref=atv_dl_rdr)
@@ -19,14 +17,11 @@ There are 4 sections in the novel
 
 ---
 
-[General Vision and Viewpoint in Room](Room%20f24ff/General%20Vi%2067f3e.md)
+<!--Convert below to index.md-->
 
-[Cultural Context](Room%20f24ff/Cultural%20C%209c07b.md)
-
-[Study Guide](Room%20f24ff/Study%20Guid%2089e03.md)
-
-[Key Moments](Room%20f24ff/Key%20Moment%20f41c0.md)
-
-[**Control and Violence in Room**](Room%20f24ff/Control%20an%20f7602.md)
-
-[Relationships in Room](Room%20f24ff/Relationsh%203aa45.md)
+- [General Vision and Viewpoint in Room]()
+- [Cultural Context]()
+- [Study Guide](study-guide.md)
+- [Key Moments]()
+- [Control and Violence in Room]()
+- [Relationships in Room]()
