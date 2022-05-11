@@ -20,7 +20,7 @@
 | Enzyme Immobilisation                                                                     | Yes           | Yes                 | No      |
 | Osmosis                                                                                   | Yes           | Yes                 | No      |
 | Photosynthesis                                                                            | No            | No                  | No      |
-| Fermentation of Alcohol                                                                   | No            | No                  | No      |
+| Fermentation of Alcohol                                                                   | Yes           | No                  | No      |
 | Isolating DNA                                                                             | No            | No                  | No      |
 | Leaf Yeast Growth                                                                         | No            | No                  | No      |
 | Heart Dissection                                                                          | Yes           | No                  | No      | <!--Everyone did write except for me, I need to get a write up--->
