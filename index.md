@@ -88,8 +88,8 @@
 <li><a href="">19. Categories of Industury</a> - <a href="">Slides</a></li>
 <li><a href="">20. Business Organisations</a> - <a href="">Slides</a></li>
 <li><a href="">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
-<li><a href="">22. Community Development</a> - <a href="">Slides</a>
-<li><a href="subjects/business/business-ethics.md">Business Ethics (This is apart of 22. Community Development)</a> - <a href="">Slides</a></li>
+<li><a href="">22. Community Development</a> - <a href="">Slides</a></li>
+<ul><li><a href="subjects/business/business-ethics.md">Business Ethics (This is apart of 22. Community Development)</a> - <a href="">Slides</a></li></ul>
 <li><a href="">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
 </ul>
 <h3>Unit 7: International Environment</h3>
