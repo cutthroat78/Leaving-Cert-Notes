@@ -1,5 +1,5 @@
 # Business Ethics
-These are a set of <u>moral rules and standards</u> that provide guidelimes for <u>right and truthful behaviour</u> in business situtations when a business is engaging with its various stakeholders
+These are a set of <u>moral rules and standards</u> that provide guidelines for <u>right and truthful behaviour</u> in business situations when a business is engaging with its various stakeholders
 
 ## How a business can improve its business ethics
 
@@ -10,7 +10,7 @@ These are a set of <u>moral rules and standards</u> that provide guidelimes for 
 | Carry out an ethical audit | Appoint an external company to identify areas for improvement and issue a report with recommendations |
 | Highlight role models | Reward good behaviour |
 
-## Benefits and challenges of introducting a code of ethics
+## Benefits and challenges of introducing a code of ethics
 
 **Benefits**
 - Involves staff in decision-making
@@ -21,7 +21,7 @@ These are a set of <u>moral rules and standards</u> that provide guidelimes for 
 
 **Challenges**
 - Difficult to change culture
-- Needs to reamin up to date
+- Needs to remain up to date
 - Difficult to enforce
 - Training costs (time and money)
 

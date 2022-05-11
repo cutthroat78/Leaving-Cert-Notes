@@ -60,6 +60,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Look at padlet links in Business Team
 - Page 250 + 251 challenges when starting a business section move into digital notes
 - Page 257 & 258 Business plan and importance of a Business plan into digital notes
+- Look into finding "Down to Business" textbook slides, teacher uses in class
 ### Computer Science
 - Look into git(hub) stuff for computer science class
 - Computer Science: Take all my code from class and put into Notion as “Code Examples”

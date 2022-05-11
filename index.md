@@ -49,20 +49,20 @@
 </ul>
 <h3 id="unit-1-introduction-to-people-in-business">Unit 1: Introduction to People in Business</h3>
 <ul>
-<li><a href="/subjects/business/topics/unit-1/1-people-in-business/1-people-in-business.md">1. People in Business</a></li>
-<li><a href="">2. Consumer Conflict</a></li>
-<li><a href="">3. Industrial Relations</a></li>
+<li><a href="/subjects/business/topics/unit-1/1-people-in-business/1-people-in-business.md">1. People in Business</a> - <a href="">Slides</a></li>
+<li><a href="">2. Consumer Conflict</a> - <a href="">Slides</a</li>
+<li><a href="">3. Industrial Relations</a> - <a href="">Slides</a</li>
 </ul>
 <h3 id="unit-2-enterprise">Unit 2: Enterprise</h3>
 <ul>
-<li><a href="">4. Enterprise</a></li>
+<li><a href="">4. Enterprise</a> - <a href="">Slides</a</li>
 </ul>
 <h3 id="unit-3-managing-1">Unit 3: Managing 1</h3>
 <ul>
-<li><a href="">5. Introduction to Management</a></li>
-<li><a href="">6. Management Skills: Leading and Motivating</a></li>
-<li><a href="">7. Management Skills: Communicating</a></li>
-<li><a href="">8. Management Activities: Planning, Organising and Controlling</a></li>
+<li><a href="">5. Introduction to Management</a> - <a href="">Slides</a</li>
+<li><a href="">6. Management Skills: Leading and Motivating</a> - <a href="">Slides</a</li>
+<li><a href="">7. Management Skills: Communicating</a> - <a href="">Slides</a</li>
+<li><a href="">8. Management Activities: Planning, Organising and Controlling</a> - <a href="">Slides</a</li>
 </ul>
 <h3 id="unit-4-managing-2">Unit 4: Managing 2</h3>
 <ul>

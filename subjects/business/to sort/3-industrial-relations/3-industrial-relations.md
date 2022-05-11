@@ -80,7 +80,14 @@ From Class:
 
 [Non-legislative Solutions (Non-legal, no laws govern these methods)](3%20Industri%2046f20/Non-legisl%20a992f.csv)
 
-[Industrial Relations Act 1990](3%20Industri%2046f20/Industrial%20b3b3c.csv)
+### Industrial Relations Act 1990
+
+| Term                                | Definition                                                                                                                                                                                                                          |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Defines ‘trade dispute’             | Any dispute between employers and workers that is connected to the employment or non-employment, or the terms or conditions of employment of any person (e.g. a dispute over pay or discrimination of a worker or group of workers) |
+| Secret ballot and one week’s notice | A secret ballot of members takes place: if the majority vote in favour of action, seven days’ notice of the strike is given to the employer                                                                                         |
+| Primary and secondary picketing     | It is lawful to peacefully protest outside the workplace with placards (primary) or outside another workplace believed to be frustrating a resolution (secondary)                                                                   |
+| Immunity                            | If action is official, employer cannot sue employees for any losses                                                                                                                                                                 |
 
 ## Industrial Relations Act 1990
 
