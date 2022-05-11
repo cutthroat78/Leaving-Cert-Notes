@@ -42,11 +42,10 @@
 
   
 </details>
+
 <details><summary><h2>Business</h2></summary>
   
-<ul>
-<li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li>
-</ul>
+<ul><li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li></ul>
 <h3>Unit 1: Introduction to People in Business</h3>
 <ul>
 <li><a href="subjects/business/1-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/1-people-in-business.pdf">Slides</a></li>
@@ -86,7 +85,7 @@
 <li><a href="">20. Business Organisations</a> - <a href="">Slides</a></li>
 <li><a href="">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
 <li><a href="">22. Community Development</a> - <a href="">Slides</a>
-  <ul><li><a href="subjects/business/business-ethics.md">Business Ethics</a> - <a href="">Slides</a></ul></li>
+<ul><li><a href="subjects/business/business-ethics.md">Business Ethics</a> - <a href="">Slides</a></li></ul>
 <li><a href="">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
 </ul>
 <h3>Unit 7: International Environment</h3>
@@ -98,6 +97,7 @@
 </ul>
   
 </details>
+
 <details><summary><h2>Computer Science</h2></summary>
   
 <ul>
@@ -118,6 +118,7 @@
 </ul>
   
 </details>
+
 <details><summary><h2>English</h2></summary>
   
 <a href="subjects/english/summer-exam.md">Summer Exam Stuff</a>
@@ -154,6 +155,7 @@
 
   
 </details>
+  
 <details><summary><h2>French</h2></summary>
   
 <h3 id="paul-rickard-era-5th-year-">Paul Rickard Era (5th Year)</h3>
@@ -178,6 +180,7 @@
 
   
 </details>
+  
 <details><summary><h2>Maths</h2></summary>
 
 <h3 id="algebra">Algebra</h3>
@@ -189,6 +192,7 @@
 
   
 </details>
+  
 <details><summary><h2>Music</h2></summary>
 
 <ul>
