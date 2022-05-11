@@ -13,11 +13,11 @@
 <h3 id="units-1-the-study-of-life">Units 1 - The Study of Life</h3>
 <ul>
 <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O">Video Playlist for Unit 1</a></li>
-<li><a href="">(A Search for a) Definition of Life &amp; Characteristics of Life</a></li>
+<li><a href="">(A Search for a) Definition of Life & Characteristics of Life</a></li>
 <li><a href="">Scientific Method</a></li>
 <li><a href="">Nutrition (&amp; Food)</a></li>
 <h4 id="ecology">Ecology</h4>
-<li><a href="">Ecology, Ecosystem, Biosphere, Habitat &amp; Niche</a></li>
+<li><a href="">Ecology, Ecosystem, Biosphere, Habitat & Niche</a></li>
 <li><a href="">Environmental Factors</a></li>
 <li><a href="subjects/biology/topics/unit-1/nutrient-recycling/nutrient-recycling.md">Nutrient Recycling</a></li>
 <li><a href="subjects/biology/topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md">Pyramid of Numbers</a></li>
@@ -47,13 +47,13 @@
 <ul>
 <li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li>
 </ul>
-<h3>Unit 1: Introduction to People in Business</h3=>
+<h3>Unit 1: Introduction to People in Business</h3>
 <ul>
 <li><a href="subjects/business/1-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/1-people-in-business.pdf">Slides</a></li>
 <li><a href="subjects/business/2-consumer-conflict.md">2. Consumer Conflict</a> - <a href="subjects/business/slides/2-consumer-conflict.pdf">Slides</a></li>
 <li><a href="subjects/business/3-industrial-relations.md">3. Industrial Relations</a> - <a href="subjects/business/slides/3-industrial-relations.pdf">Slides</a></li>
 </ul>
-<h3>Unit 2: Enterprise</h3=>
+<h3>Unit 2: Enterprise</h3>
 <ul>
 <li><a href="">4. Enterprise</a> - <a href="">Slides</a></li>
 </ul>
