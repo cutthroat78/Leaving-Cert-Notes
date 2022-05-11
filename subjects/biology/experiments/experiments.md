@@ -1,5 +1,7 @@
 # Experiments
 
+<!--Move all links to experiments pages to index.md with heading 3 of Experiments-->
+
 | Experiments                                                                               | Done in Class | Did Paper Write Up | Digitsed |
 |-------------------------------------------------------------------------------------------|---------------|--------------------|----------|
 | Testing Food for Starch                                                                   | Yes           | Yes                 | No      |
