@@ -173,7 +173,7 @@
 <li><a href="exam-structure/modes-of-comparison.md">Modes of Comparison (2023)</a></li>
 <li><a href="exam-structure/comprehension-question-b.md">Comprehension: Question B</a></li>
 </ul>
-
+  
 </details>
 <details><summary><h2>French</h2></summary>
   
@@ -197,7 +197,6 @@
 <li><a href="subjects/french/paul-era/grammar/verbs/porter.md">Porter - To Wear</a></li>
 </ul>
 
-  
 </details>
 <details><summary><h2>Maths</h2></summary>
 
@@ -255,7 +254,7 @@
 <li><a href="subjects/music/set-works/piano-quartet.md">Piano Quartet No. 1 by Gerald Barry</a></li>
 <li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
 </ul>
-
+  
 </details>
 
 # Anki Decks
