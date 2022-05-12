@@ -1,4 +1,4 @@
-remote_theme: sharadcodes/jekyll-theme-dark-reader
+remote_theme: "dracula/gh-pages"
 title: "Leaving Cert Notes"
 description: "My website full of Notes for the (Irish) Leaving Cert"
 author: "CutThroat78"
