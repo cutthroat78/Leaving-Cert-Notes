@@ -35,6 +35,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
 - Look at using dropdown menus to minimize the amount of markdown files/menus
+- Beautify html in index file
 ### Biology
 - Ask Biology teacher for missing digital slides
 - Get enzyme diagrams for enzyme pages
@@ -67,6 +68,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Computer Science: ASCII vs Unicode card and voice message Cathal sent me
 - Computer Science: Convert hexadecimal cards
 ### English
+- Look at this [resource](https://engzone.weebly.com/)
+- poetry cards will have a cloze for each line (to learn entire poem)
 - get and convert 5 languages of writing notes
 - Convert sample answer sheets
 - Go through notes on Teams

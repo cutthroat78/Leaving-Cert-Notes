@@ -4,41 +4,40 @@
 <details><summary><h2>Biology</h2></summary>
   
 <h3 id="the-study-of-living-organisms">The Study of Living Organisms</h3>
-
-<ul>
-<li><a href="subjects/biology/syllabus-and-exam-structure.md">Syllabus &amp; Exam Structure</a></li>
-<li><a href="subjects/biology/experiments/experiments.md">Experiments</a></li>
-<li><a href="subjects/biology/terms-and-definitions.md">Terms &amp; Definitions</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/biology/syllabus-and-exam-structure.md">Syllabus &amp; Exam Structure</a></li>
+    <li><a href="subjects/biology/experiments/experiments.md">Experiments</a></li>
+    <li><a href="subjects/biology/terms-and-definitions.md">Terms &amp; Definitions</a></li>
+  </ul>
 <h3 id="units-1-the-study-of-life">Units 1 - The Study of Life</h3>
-<ul>
-<li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O">Video Playlist for Unit 1</a></li>
-<li><a href="">(A Search for a) Definition of Life & Characteristics of Life</a></li>
-<li><a href="">Scientific Method</a></li>
-<li><a href="">Nutrition (&amp; Food)</a></li>
-<h4 id="ecology">Ecology</h4>
-<li><a href="">Ecology, Ecosystem, Biosphere, Habitat & Niche</a></li>
-<li><a href="">Environmental Factors</a></li>
-<li><a href="subjects/biology/topics/unit-1/nutrient-recycling/nutrient-recycling.md">Nutrient Recycling</a></li>
-<li><a href="subjects/biology/topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md">Pyramid of Numbers</a></li>
-</ul>
+  <ul>
+    <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O">Video Playlist for Unit 1</a></li>
+    <li><a href="">(A Search for a) Definition of Life & Characteristics of Life</a></li>
+    <li><a href="">Scientific Method</a></li>
+    <li><a href="">Nutrition (&amp; Food)</a></li>
+  <h4 id="ecology">Ecology</h4>
+    <li><a href="">Ecology, Ecosystem, Biosphere, Habitat & Niche</a></li>
+    <li><a href="">Environmental Factors</a></li>
+    <li><a href="subjects/biology/topics/unit-1/nutrient-recycling/nutrient-recycling.md">Nutrient Recycling</a></li>
+    <li><a href="subjects/biology/topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md">Pyramid of Numbers</a></li>
+  </ul>
 <h3 id="units-2-the-cell">Units 2 - The Cell</h3>
-<ul>
-<li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1">Video Playlist of Unit 2</a></li>
-<li><a href="">The Cell</a></li>
-</ul>
+  <ul>
+   <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1">Video Playlist of Unit 2</a></li>
+    <li><a href="">The Cell</a></li>
+  </ul>
 <h3 id="units-3-the-organism">Units 3 - The Organism</h3>
-<ul>
-<li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8">Video Playlist of Unit 3</a></li>
-<li><a href="">Skeletal System</a></li>
-<li><a href="">The Digestive System</a></li>
-<li><a href="">Enzymes &amp; Metabolism</a></li>
-<li><a href="">The Circulatory System</a></li>
-<li><a href="">Movement of Molecules Across Cell Membranes</a></li>
-<li><a href="">Homeostasis</a></li>
-<li><a href="">The Human Breathing System</a></li>
-<li><a href="">Excretion</a></li>
-</ul>
+  <ul>
+    <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8">Video Playlist of Unit 3</a></li>
+    <li><a href="">Skeletal System</a></li>
+    <li><a href="">The Digestive System</a></li>
+    <li><a href="">Enzymes &amp; Metabolism</a></li>
+    <li><a href="">The Circulatory System</a></li>
+    <li><a href="">Movement of Molecules Across Cell Membranes</a></li>
+    <li><a href="">Homeostasis</a></li>
+    <li><a href="">The Human Breathing System</a></li>
+    <li><a href="">Excretion</a></li>
+  </ul>
 <h3>Experiments</h3>
   <ul>
     <li></li>
@@ -129,12 +128,20 @@
 <li><a href="subjects/english/texts/casablanca.md">Casablanca</a></li>
 <li><a href="subjects/english/texts/dolls-house/dolls-house.md">A Doll's House</a></li>
 <li><a href="subjects/english/texts/room/room.md">Room</a></li>
+<ul>
+<li><a href="">General Vision and Viewpoint in Room</a></li>
+<li><a href="">Cultural Context</a></li>
+<li><a href="">Study Guide</a></li>
+<li><a href="">Key Moments</a></li>
+<li><a href="">Control and Violence in Room</a></li>
+<li><a href="">Relationships in Room</a></li>
+</ul>
 </ul>
 <h3>Poetry</h3>
 <h4>Rudyard Kipling</h4>
-<ul><li><a href="subjects/english/poetry/if.md">If</a></li></ul>
+<ul><li><a href="subjects/english/poetry/rudyard-kipling/if.md">If</a></li></ul>
 <h4> William Butler Yeats (W. B. Yeats)
-<ul><li><a href="subjects/english/poetry/the-lake-isle-of-innisfree.md">The Lake Isle of Innisfree</a></li></ul>
+<ul><li><a href="subjects/english/poetry/w-b-yeats/the-lake-isle-of-innisfree.md">The Lake Isle of Innisfree</a></li></ul>
 <h4>Elizabeth Bishop</h4>
 <h4>Emily Dickinson</h4>
 <h4>John Donne</h4>
@@ -142,12 +149,15 @@
 <h4>Derek Mahon</h4>
 <h4>Paula Meehan</h4>
 <h4>Adrienne Rich</h4>
-<ul><li><a href="subjects/english/poetry/aunt-jennifer-tigers.md">Aunt Jennifer's Tigers</a></li></ul>
+<ul>
+<li><a href="subjects/english/poetry/adrienne-rich/aunt-jennifer-tigers.md">Aunt Jennifer's Tigers</a></li>
+<li><a href="subjects/english/poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md">The Uncle Speaks in the Drawing Room</a></li>
+</ul>
+
 <!--Where to find poems: [https://www.poetryfoundation.org/](https://www.poetryfoundation.org/)-->
 
-<h3 id="exam-structure">Exam Structure</h3>
+<h3><a href="exam-structure.md">Exam Structure</a></h3>
 <ul>
-<li><a href="exam-structure/exam-structure.md">Exam Structure</a></li>
 <li><a href="exam-structure/breakdown-of-marks.md">Breakdown of Marks</a></li>
 <li><a href="exam-structure/marking-criteria.md">Marking Criteria</a></li>
 <li><a href="exam-structure/modes-of-comparison.md">Modes of Comparison (2023)</a></li>
@@ -230,10 +240,10 @@
 </ul>
 <h3 id="set-works-set-a-">Set Works (Set A)</h3>
 <ul>
-<li><a href="subjects/music/set-works/romeo-and-juliet.md">Romeo &amp; Juilet Overture by Tchaikovsky</a></li>
+<li><a href="subjects/music/set-works/romeo-and-juliet.md">Romeo & Juilet Overture by Tchaikovsky</a></li>
 <li><a href="subjects/music/set-works/bohemian-rhapsody.md">Bohemian Rhapsody by Queen</a></li>
 <li><a href="subjects/music/set-works/piano-quartet.md">Piano Quartet No. 1 by Gerald Barry</a></li>
-<li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 &quot;Jesu Der Du Meine Seele” by Bach</a></li>
+<li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
 </ul>
 
   
@@ -275,7 +285,7 @@
 | Biology | Do all Ecology Exam Questions | Monday, 16/05/2022 | No |
 | Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
 | Biology | Finish write up | Monday, 16/05/2022 | No |
-| English | Finish off aunt jennifers tigers file | Thursday, 12/05/2022 | No |
+| English | Finish off the uncle speaks in the drawing room file | Friday, 13/05/2022 | No |
 
 # Calendar
 
