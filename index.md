@@ -1,5 +1,5 @@
 # Notes
-(Click Below Subject Names to Get Notes Links)
+(Click Below Subject Names to Reveal Notes Links)
 
 <details><summary><h2>Biology</h2></summary>
   
@@ -90,7 +90,7 @@
     <li><a href="subjects/business/">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
     <li><a href="subjects/business/">22. Community Development</a> - <a href="">Slides</a></li>
       <ul>
-      <li><a href="subjects/business/business-ethics.md">Business Ethics (This is apart of 22. Community Development)</a> - <a href="">Slides</a></li>
+        <li><a href="subjects/business/business-ethics.md">Business Ethics (This is apart of 22. Community Development)</a> - <a href="">Slides</a></li>
       </ul>
     <li><a href="subjects/business/">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
   </ul>
@@ -107,7 +107,6 @@
   
 <ul>
   <li><a href="subjects/computer-science/python-programming/exam-structure.md">Exam Structure</a></li>
-  <li><a href="subjects/computer-science/python-programming/data.md">Data</a></li>
   <li><a href="subjects/computer-science/python-programming/AI.md">Artificial Intelligence</a></li>
   <li><a href="subjects/computer-science/python-programming/computer-components.md">Computer Components</a></li>
   <li><a href="https://data-feminism.mitpress.mit.edu">Data Feminism - Full Book</a></li>
@@ -121,7 +120,14 @@
     <li><a href="subjects/computer-science/python-programming/">Boolean Logic</a></li>
     <li><a href="subjects/computer-science/python-programming/">Conditionals</a></li>
   </ul>
-  
+<h3>Data</h3>
+  <ul>
+    <li><a href="subjects/computer-science/data/">ASCII</a></li>
+    <li><a href="subjects/computer-science/data/">Binary</a></li>
+    <li><a href="subjects/computer-science/data/">Hexadecimal</a></li>
+    <li><a href="subjects/computer-science/data/">Unicode</a></li>
+  </ul>
+
 </details>
 <details><summary><h2>English</h2></summary>
   
@@ -129,6 +135,16 @@
   <li><a href="subjects/english/summer-exam.md">Summer Exam Stuff</a></li>
 </ul>
 <h3>Composition</h3>
+  <ul>
+    <li><a href="steps-to-write-a-diary-entry.md">Steps to Write a Diary Entry</a></li>
+    <li><a href="essay-structure.md">Essay Structure</a></li>
+  </ul>
+<h4>Letters</h4>
+  <ul>
+    <li><a href="letters/layout-of-a-formal-letter.md">Layout of a Formal Letter</a></li>
+    <li><a href="letters/layout-of-an-informal-letter.md">Layout of a Informal Letter</a></li>
+    <li><a href="letters/open-letter.md">Open Letter</a></li>
+  </ul>
 <h3>Texts</h3>
   <ul>
     <li><a href="subjects/english/texts/casablanca.md">Casablanca</a></li>
@@ -163,97 +179,95 @@
     <li><a href="subjects/english/poetry/adrienne-rich/aunt-jennifer-tigers.md">Aunt Jennifer's Tigers</a></li>
     <li><a href="subjects/english/poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md">The Uncle Speaks in the Drawing Room</a></li>
   </ul>
-
 <!--Where to find poems: [https://www.poetryfoundation.org/](https://www.poetryfoundation.org/)-->
-
 <h3><a href="exam-structure.md">Exam Structure</a></h3>
-<ul>
-<li><a href="exam-structure/breakdown-of-marks.md">Breakdown of Marks</a></li>
-<li><a href="exam-structure/marking-criteria.md">Marking Criteria</a></li>
-<li><a href="exam-structure/modes-of-comparison.md">Modes of Comparison (2023)</a></li>
-<li><a href="exam-structure/comprehension-question-b.md">Comprehension: Question B</a></li>
-</ul>
+  <ul>
+    <li><a href="exam-structure/breakdown-of-marks.md">Breakdown of Marks</a></li>
+    <li><a href="exam-structure/marking-criteria.md">Marking Criteria</a></li>
+    <li><a href="exam-structure/modes-of-comparison.md">Modes of Comparison (2023)</a></li>
+    <li><a href="exam-structure/comprehension-question-b.md">Comprehension: Question B</a></li>
+  </ul>
   
 </details>
 <details><summary><h2>French</h2></summary>
   
 <h3 id="paul-rickard-era-5th-year-">Paul Rickard Era (5th Year)</h3>
+  <ul>
+    <li><a href="subjects/french/paul-era/vocabulary.md">Vocabulary & Phrases</a></li>
+    <li><a href="subjects/french/paul-era/how-to-write-a-diary-entry.md">How to write a Diary Entry</a></li>
+    <li><a href="subjects/french/paul-era/opinion-question.md">The Opinion Question</a></li>
+  </ul>
 <ul>
-<li><a href="subjects/french/paul-era/vocabulary.md">Vocabulary & Phrases</a></li>
-<li><a href="subjects/french/paul-era/how-to-write-a-diary-entry.md">How to write a Diary Entry</a></li>
-<li><a href="subjects/french/paul-era/opinion-question.md">The Opinion Question</a></li>
-</ul>
-<ul>
-<h4 id="grammar">Grammar</h4>
-<li><a href="subjects/french/paul-era/grammar/adjectives.md">Adjectives</a></li>
-<h5 id="tenses">Tenses</h5>
-<li><a href="subjects/french/paul-era/grammar/tenses/past-tense.md">Past Tense</a></li>
-<li><a href="subjects/french/paul-era/grammar/tenses/near-future-tense.md">Near Future Tense</a></li>
-<li><a href="subjects/french/paul-era/grammar/tenses/future-tense.md">Future Tense</a></li>
-<li><a href="subjects/french/paul-era/grammar/tenses/conditional-tense.md">Conditional Tense</a></li>
-<h5 id="verbs">Verbs</h5>
-<li><a href="subjects/french/paul-era/grammar/verbs/modal-verbs.md">The Modal Verbs</a></li>
-<li><a href="subjects/french/paul-era/verbs/spelling-changes-to-verbs.md">Spelling Changes to Verbs</a></li>
-<li><a href="subjects/french/paul-era/grammar/verbs/porter.md">Porter - To Wear</a></li>
+  <h4 id="grammar">Grammar</h4>
+    <li><a href="subjects/french/paul-era/grammar/adjectives.md">Adjectives</a></li>
+  <h5 id="tenses">Tenses</h5>
+    <li><a href="subjects/french/paul-era/grammar/tenses/past-tense.md">Past Tense</a></li>
+    <li><a href="subjects/french/paul-era/grammar/tenses/near-future-tense.md">Near Future Tense</a></li>
+    <li><a href="subjects/french/paul-era/grammar/tenses/future-tense.md">Future Tense</a></li>
+    <li><a href="subjects/french/paul-era/grammar/tenses/conditional-tense.md">Conditional Tense</a></li>
+  <h5 id="verbs">Verbs</h5>
+    <li><a href="subjects/french/paul-era/grammar/verbs/modal-verbs.md">The Modal Verbs</a></li>
+    <li><a href="subjects/french/paul-era/verbs/spelling-changes-to-verbs.md">Spelling Changes to Verbs</a></li>
+    <li><a href="subjects/french/paul-era/grammar/verbs/porter.md">Porter - To Wear</a></li>
 </ul>
 
 </details>
 <details><summary><h2>Maths</h2></summary>
 
 <h3 id="algebra">Algebra</h3>
-<ul>
-<li><a href="">Factorising</a></li>
-<li><a href="">Simultaneous Equations</a></li>
-<li><a href="">Types of Functions</a></li>
-</ul>
+  <ul>
+    <li><a href="">Factorising</a></li>
+    <li><a href="">Simultaneous Equations</a></li>
+    <li><a href="">Types of Functions</a></li>
+  </ul>
 
   
 </details>
 <details><summary><h2>Music</h2></summary>
 
 <ul>
-<li><a href="subjects/music/exam-structure/exam-structure.md">Exam Structure(s) and Marking</a></li>
-<li><a href="subjects/music/elements-of-music/elements-of-music.md">Elements of Music</a></li>
-<li><a href="subjects/music/orchestra/orchestra.md">The Orchestra</a></li>
+  <li><a href="subjects/music/exam-structure/exam-structure.md">Exam Structure(s) and Marking</a></li>
+  <li><a href="subjects/music/elements-of-music/elements-of-music.md">Elements of Music</a></li>
+  <li><a href="subjects/music/orchestra/orchestra.md">The Orchestra</a></li>
 </ul>
 <h3 id="irish-music">Irish Music</h3>
-<ul>
-<li><a href="">Traditional Features of Irish Music</a></li>
-<li><a href="">Traditional Instruments</a></li>
-<li><a href="">Irish Dance Types</a></li>
-<li><a href="">Sean Nós Singing</a></li>
-<li><a href="">Irish Fusion</a></li>
-<li><a href="">Types of Irish Songs</a></li>
-<h4 id="essays">Essays</h4>
-<li><a href="">Sean Nós</a></li>
-<li><a href="">The Harping Tradition</a></li>
-<li><a href="">Seán Ó Riada</a></li>
-<li><a href="">Mícheál Ó Shuilleabháin</a></li>
-<li><a href="">Céilí Bands</a></li>
-<li><a href="">Irish Song Tradition</a></li>
-<li><a href="">Irish Dance</a></li>
-<li><a href="">Influence of traditional Irish Music on the Music of North America</a></li>
-<li><a href="">Collectors</a></li>
-<li><a href="">Edward Bunting</a></li>
-<li><a href="">Regional Styles</a></li>
-</ul>
-<h3 id="music-theory">Music Theory</h3>
-<ul>
-<li><a href="">Note Names and Values</a></li>
-<li><a href="">Clefs</a><h4 id="treble">Treble</h4>
-</li>
-<li><a href="">Treble Notes</a></li>
-<li><a href="">Treble Key Signatures</a><h4 id="bass">Bass</h4>
-</li>
-<li><a href="">Bass Notes</a></li>
-</ul>
-<h3 id="set-works-set-a-">Set Works (Set A)</h3>
-<ul>
-<li><a href="subjects/music/set-works/romeo-and-juliet.md">Romeo & Juilet Overture by Tchaikovsky</a></li>
-<li><a href="subjects/music/set-works/bohemian-rhapsody.md">Bohemian Rhapsody by Queen</a></li>
-<li><a href="subjects/music/set-works/piano-quartet.md">Piano Quartet No. 1 by Gerald Barry</a></li>
-<li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
-</ul>
+  <ul>
+    <li><a href="">Traditional Features of Irish Music</a></li>
+    <li><a href="">Traditional Instruments</a></li>
+    <li><a href="">Irish Dance Types</a></li>
+    <li><a href="">Sean Nós Singing</a></li>
+    <li><a href="">Irish Fusion</a></li>
+    <li><a href="">Types of Irish Songs</a></li>
+    <h4>Essays</h4>
+      <li><a href="">Sean Nós</a></li>
+      <li><a href="">The Harping Tradition</a></li>
+      <li><a href="">Seán Ó Riada</a></li>
+      <li><a href="">Mícheál Ó Shuilleabháin</a></li>
+      <li><a href="">Céilí Bands</a></li>
+      <li><a href="">Irish Song Tradition</a></li>
+      <li><a href="">Irish Dance</a></li>
+      <li><a href="">Influence of traditional Irish Music on the Music of North America</a></li>
+      <li><a href="">Collectors</a></li>
+      <li><a href="">Edward Bunting</a></li>
+      <li><a href="">Regional Styles</a></li>
+  </ul>
+<h3>Music Theory</h3>
+  <ul>
+    <li><a href="">Note Names and Values</a></li>
+    <li><a href="">Clefs</a></li>
+    <h4>Treble</h4>
+        <li><a href="">Treble Notes</a></li>
+        <li><a href="">Treble Key Signatures</a></li>
+    <h4>Bass</h4>
+        <li><a href="">Bass Notes</a></li>
+  </ul>
+<h3>Set Works (Set A)</h3>
+  <ul>
+    <li><a href="subjects/music/set-works/romeo-and-juliet.md">Romeo & Juilet Overture by Tchaikovsky</a></li>
+    <li><a href="subjects/music/set-works/bohemian-rhapsody.md">Bohemian Rhapsody by Queen</a></li>
+    <li><a href="subjects/music/set-works/piano-quartet.md">Piano Quartet No. 1 by Gerald Barry</a></li>
+    <li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
+  </ul>
   
 </details>
 
