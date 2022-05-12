@@ -29,6 +29,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
   - Use image occlusion cards to learn diagrams
 ## To Dos
+- UNDO HTML IN INDEX.MD AND REVERT BACK TO OLD WAY OF DOING THINGS WITH JUST MARKDOWN
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
 - Look at using dropdown menus to minimize the amount of markdown files/menus
