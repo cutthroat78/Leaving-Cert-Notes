@@ -30,13 +30,13 @@ Contribution = €8
 
 ---
 
-![Untitled](Break-Even%2045d9b/Untitled.png)
+![1](images/15/break-even-analysis-example/1.png)
 
 ---
 
 Break-even point (BEP) = €400,000
 
-                                          20,000
+20,000
 
 BEP is the point where Total Revenue and Total Cost meets
 
@@ -52,7 +52,7 @@ BEP is the point where Total Revenue and Total Cost meets
 
 ### Extra Graph
 
-![Untitled](Break-Even%2045d9b/Untitled%201.png)
+![2](images/15/break-even-analysis-example/2.png)
 
 ---
 
@@ -107,10 +107,10 @@ Profit = €0
 
 ---
 
-![Untitled](Break-Even%2045d9b/Untitled%202.png)
+![3](images/15/break-even-analysis-example/3.png)
 
 ---
 
 ### Extra Graph
 
-![Untitled](Break-Even%2045d9b/Untitled%203.png)
+![4](images/15/break-even-analysis-example/4.png)

@@ -22,19 +22,47 @@
 
 ## The Marketing Mix
 
-[The Marketing Mix](17%20The%20Mar%201ed43/The%20Market%20c2dbd.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Product  |Looking at the different elements a good/service has: its branding, packaging, design, functions, form, quality and product life cycle                                      |
+|Price    |Pricing strategies a business can use to sell a good/service and the factors that can impact the selling price of the item                                                  |
+|Promotion|All actions used to increase sales: advertising, sales promotions, public relations, personal selling                                                                       |
+|Place    |Choosing the channel of distribution for a good/service (right place, right time)                                                                                           |
+
 
 ## Product
 
-[Product](17%20The%20Mar%201ed43/Product%20481ba.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|USP (Unique Selling Point)|Sets a product apart, differentiates it                                                                                                                                     |
+|Branding |Product name, design, logo, slogan, shape, form, packaging (to identify it)                                                                                                 |
+|Branding (Benefits)|Differentiates; can advertise a brand (rather than a product); can charge higher prices; can target different segments; the brand becomes the product (e.g. Dyson)          |
+|Own-brands|Retailers selling products using their own brand name and logo                                                                                                              |
+|Reasons a retailer sells own-brand|Higher profit margins; cheaper prices for consumers; can lead to customer loyalty, if people return for that product; more choice for consumers                             |
+|Design   |Costs, production feasibility, target market needs, legal requirements                                                                                                      |
+|Packaging|Attract, protect, provide information, competitive advantage, convenience                                                                                                   |
 
 ### Product Life Cycle
 
-[Product Life Cycle](17%20The%20Mar%201ed43/Product%20Li%2059f8b.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Introduction|Product launched, sales low, advertising increases product awareness                                                                                                        |
+|Growth   |Brand awareness increases, sales rise as more customers buy the product                                                                                                     |
+|Maturity |Sales reach peak, product is established, business defends its market share                                                                                                 |
+|Saturation|Sales level off and start to decline, market has new entrants                                                                                                               |
+|Decline  |Sales fall, promotions cease, product may be phased out, goods are sold off at low prices                                                                                   |
 
-![Untitled](images/17/product-life-cycle.png)
+![Product Life Cycle](images/17/product-life-cycle.png)
 
-[Extending the product life cycle (4 P’s)](17%20The%20Mar%201ed43/Extending%20%205c0b2.csv)
+### Extending the product life cycle (4 P’s)
+
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Product  |Introduce new design, flavours or different packets/containers                                                                                                              |
+|Place    |Find a new channel of distribution (e.g. online)                                                                                                                            |
+|Price    |Change pricing strategy (e.g. lower prices)                                                                                                                                 |
+|Promotion|Introduce a loyalty card or run a competition                                                                                                                               |
+
 
 ### Branding
 
@@ -82,20 +110,73 @@
 
 ## Price (different pricing strategies)
 
-[Price (different pricing strategies)](17%20The%20Mar%201ed43/Price%20(dif%206a7b1.csv)
+|1        |2                                                                                                                                                                           |Example          |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+|Premium  |Higher price to show image of superiority or quality                                                                                                                        |Rolex            |
+|Price skimming|High price to start, drop price later to get more sales after                                                                                                               |PS4 Game         |
+|Penetration|Lower price to start, to build market share                                                                                                                                 |Aldi/Lidl        |
+|Psychological|Price at perceived cheaper amounts €19.99 vs €20                                                                                                                            |Travel Agent     |
+|Bundle   |Lower price per item when bought as a package                                                                                                                               |TV/broadband     |
+|Cost plus|Price to cover all costs (ads/production) plus percentage profit                                                                                                            |Clothes retailers|
+|Tiered   |Selling different levels of quality at different price ranges                                                                                                               |Cars (add-ons)   |
+|Discrimination|Selling goods at different prices to different groups                                                                                                                       |Dublin Bus       |
+|Predatory|Lower prices to eliminate competitors                                                                                                                                       |Ryanair          |
 
-[Factors that influence price](17%20The%20Mar%201ed43/Factors%20th%20befcb.csv)
+
+### Factors that influence price
+
+|Input Costs|Depends on economies of scale (size of operation), cost of raw materials, rents/wages (location can be a factor)                                                            |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Competitors|Pricing will position the product’s image against competitors in the market                                                                                                 |
+|Consumers  |Expectations of satisfaction and norms for consumers                                                                                                                        |
+|Legal regulations|Tariffs, import costs, VAT, changes in exchange rates – all impact on price                                                                                                 |
+|Demand     |If demand increases, companies may increase prices to match (e.g. concerts)                                                                                                 |
+
 
 ## Promotion
 
-[Promotion](17%20The%20Mar%201ed43/Promotion%205e515.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1. Advertising|Actions to convince consumers to buy a good/service. Types of advertising: generic, informative, persuasive, competitive. Forms of advertising: social media, billboards, TV, media, Google|
+|2. Public relations|Efforts to build positive public image of the company and defend against criticism; uses press releases, sponsorship, endorsements                                          |
+|3. Sales promotions|Short-term actions to boost sales (e.g. 2 for 1, 33% off), discount codes, loyalty cards, competitions, free gifts, merchandising                                           |
+|4. Personal selling|Salesperson interacts with the consumer (interpersonal skills), informs them (with knowledge/training) and persuades them to buy a good/service                             |
 
-[Types of advertising](17%20The%20Mar%201ed43/Types%20of%20a%20145c1.csv)
+### Types of advertising
 
-[Promotion (impact of ICT)](17%20The%20Mar%201ed43/Promotion%20%2016722.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Generic Advertising|<ul><li>To get the name/brand coverage</li><li>Represents everyday life/work</li><li>These adverts are generic and non-descript, it could be for anything</li></ul>                                     |
+|Informative Advertising|<ul><li>Gives Product Details</li><li>Gives USP</li><li>Highlights key brand imagery</li></ul>                                                                                                          |
+|Persuasive Advertising|<ul><li>Persuades you need the product</li><li>“Your life will improve by owning it”</li></ul>                                                                                                    |
+|Competitive Advertising|<ul><li>Highlights the difference between competing brands</li><li>Emphasis on product perks over competitors</li><li>Usually side-by-side comparison</li></ul>                                         |
+
+### Promotion (impact of ICT)
+
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Advertising|ICT has led to online advertising, which has a much bigger impact on younger market segments. Younger consumers spend more time online (on phones and tablets) so more money is spent advertising there|
+|Public relations|ICT has allowed companies to use social media (Twitter, Instagram, etc.) to interact with consumers. Businesses enhance their image through endorsements from social media users with lots of followers|
+|Sales promotions|ICT has allowed for a much wider range of ‘share and win’ competitions on social media to incentivise sales. Businesses also ask consumers to sign up for newsletters in exchange for discount codes. Businesses use pop-ups on browsers and websites|
+|Personal selling|ICT has allowed salespeople to use smartphones and tablets to illustrate products/services in action. Live Chat is used for direct online interaction                       |
 
 ## Place
 
-[Channels of distribution](17%20The%20Mar%201ed43/Channels%20o%2074db6.csv)
+### Channels of distribution
 
-[Factors for choosing a channel of distribution](17%20The%20Mar%201ed43/Factors%20fo%202440d.csv)
+|1        |2                                                                                                                                                                           |3                |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+|Traditional|Manufacturer ➔ Wholesaler ➔ Retailer ➔ Consumer                                                                                                                             |Soft Drinks      |
+|Alternative|Manufacturer ➔ Retailer ➔ Consumer                                                                                                                                          |TVs              |
+|Direct   |Manufacturer ➔ Consumer                                                                                                                                                     |E-commerce sites |
+|Agent    |Manufacturer ➔ Agent ➔ Consumer                                                                                                                                             |Insurance brokers|
+
+### Factors for choosing a channel of distribution
+
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Profit margin|The more stages (e.g. wholesaler, retailer) involved, the less a business profits per item sold                                                                             |
+|Type of good|Perishable goods are best sold direct. Mass produced goods are best sold through wholesalers who can ‘break bulk’ and sell to retailers                                     |
+|Market size|Low-volume operations may suit a more direct channel (especially for job production), since orders might be custom made                                                     |
+|Online presence|A business with lots of followers can sell directly through websites and social media. This is useful if the target market regularly uses devices                           |
+|Technology|Apps such as Uber Eats and Deliveroo provide platforms where manufacturers can sell (which enables higher sales)                                                            |

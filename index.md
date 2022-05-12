@@ -14,7 +14,7 @@
     <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O">Video Playlist for Unit 1</a></li>
     <li><a href="">(A Search for a) Definition of Life & Characteristics of Life</a></li>
     <li><a href="">Scientific Method</a></li>
-    <li><a href="">Nutrition (&amp; Food)</a></li>
+    <li><a href="">Nutrition (& Food)</a></li>
   <h4 id="ecology">Ecology</h4>
     <li><a href="">Ecology, Ecosystem, Biosphere, Habitat & Niche</a></li>
     <li><a href="">Environmental Factors</a></li>
@@ -23,7 +23,7 @@
   </ul>
 <h3 id="units-2-the-cell">Units 2 - The Cell</h3>
   <ul>
-   <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1">Video Playlist of Unit 2</a></li>
+    <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1">Video Playlist of Unit 2</a></li>
     <li><a href="">The Cell</a></li>
   </ul>
 <h3 id="units-3-the-organism">Units 3 - The Organism</h3>
@@ -47,101 +47,111 @@
 </details>
 <details><summary><h2>Business</h2></summary>
   
-<ul><li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li></ul>
+<ul>
+  <li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li>
+</ul>
 <h3>Unit 1: Introduction to People in Business</h3>
-<ul>
-<li><a href="subjects/business/1-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/1-people-in-business.pdf">Slides</a></li>
-<li><a href="subjects/business/2-consumer-conflict.md">2. Consumer Conflict</a> - <a href="subjects/business/slides/2-consumer-conflict.pdf">Slides</a></li>
-<li><a href="subjects/business/3-industrial-relations.md">3. Industrial Relations</a> - <a href="subjects/business/slides/3-industrial-relations.pdf">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/business/01-people-in-business.md">1. People in Business</a> - <a href="subjects/business/slides/01-people-in-business.pdf">Slides</a></li>
+    <li><a href="subjects/business/02-consumer-conflict.md">2. Consumer Conflict</a> - <a href="subjects/business/slides/02-consumer-conflict.pdf">Slides</a></li>
+    <li><a href="subjects/business/03-industrial-relations.md">3. Industrial Relations</a> - <a href="subjects/business/slides/03-industrial-relations.pdf">Slides</a></li>
+  </ul>
 <h3>Unit 2: Enterprise</h3>
-<ul>
-<li><a href="">4. Enterprise</a> - <a href="">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="">4. Enterprise</a> - <a href="">Slides</a></li>
+  </ul>
 <h3>Unit 3: Managing 1</h3>
-<ul>
-<li><a href="">5. Introduction to Management</a> - <a href="">Slides</a></li>
-<li><a href="">6. Management Skills: Leading and Motivating</a> - <a href="">Slides</a></li>
-<li><a href="">7. Management Skills: Communicating</a> - <a href="">Slides</a></li>
-<li><a href="">8. Management Activities: Planning, Organising and Controlling</a> - <a href="">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/business/05-introduction-to-management.md">5. Introduction to Management</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">6. Management Skills: Leading and Motivating</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">7. Management Skills: Communicating</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">8. Management Activities: Planning, Organising and Controlling</a> - <a href="">Slides</a></li>
+  </ul>
 <h3>Unit 4: Managing 2</h3>
-<ul>
-<li><a href="">9. Human Resource Management</a> - <a href="">Slides</a></li>
-<li><a href="">10. Managing Change</a> - <a href="">Slides</a></li>
-<li><a href="">11. Insurance and Taxation</a> - <a href="">Slides</a></li>
-<li><a href="">12. Monitoring a Business: Ratio Analysis</a> - <a href="">Slides</a></li>
-<li><a href="">13. Finance</a> - <a href="">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/business/">9. Human Resource Management</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">10. Managing Change</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">11. Insurance and Taxation</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">12. Monitoring a Business: Ratio Analysis</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">13. Finance</a> - <a href="">Slides</a></li>
+  </ul>
 <h3>Unit 5: Business in Action</h3>
-<ul>
-<li><a href="">14. Identifying Business Opportunities</a> - <a href="">Slides</a></li>
-<li><a href="">15. Business Start-Up</a> - <a href="">Slides</a></li>
-<li><a href="">16. Market Analysis</a> - <a href="">Slides</a></li>
-<li><a href="">17. The Marketing Mix</a> - <a href="">Slides</a></li>
-<li><a href="">18. Business Expansion</a> - <a href="">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/business/">14. Identifying Business Opportunities</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">15. Business Start-Up</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">16. Market Analysis</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">17. The Marketing Mix</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">18. Business Expansion</a> - <a href="">Slides</a></li>
+  </ul>
 <h3>Unit 6: Domestic Environment</h3>
-<ul>
-<li><a href="">19. Categories of Industury</a> - <a href="">Slides</a></li>
-<li><a href="">20. Business Organisations</a> - <a href="">Slides</a></li>
-<li><a href="">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
-<li><a href="">22. Community Development</a> - <a href="">Slides</a></li>
-<ul><li><a href="subjects/business/business-ethics.md">Business Ethics (This is apart of 22. Community Development)</a> - <a href="">Slides</a></li></ul>
-<li><a href="">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/business/">19. Categories of Industury</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">20. Business Organisations</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">21. Business, the Economy and Government</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">22. Community Development</a> - <a href="">Slides</a></li>
+      <ul>
+      <li><a href="subjects/business/business-ethics.md">Business Ethics (This is apart of 22. Community Development)</a> - <a href="">Slides</a></li>
+      </ul>
+    <li><a href="subjects/business/">23. Ethical, Social and Environmental Responsibility</a> - <a href="">Slides</a></li>
+  </ul>
 <h3>Unit 7: International Environment</h3>
-<ul>
-<li><a href="">24. International Trade</a> - <a href="">Slides</a></li>
-<li><a href="subjects/business/25-eu.md">25. The European Union</a> - <a href="">Slides</a></li>
-<li><a href="">26. Global Business</a> - <a href="">Slides</a></li>
-<li><a href="">27. The Applied Business Question (ABQ)</a> - <a href="">Slides</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/business/">24. International Trade</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/25-eu.md">25. The European Union</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">26. Global Business</a> - <a href="">Slides</a></li>
+    <li><a href="subjects/business/">27. The Applied Business Question (ABQ)</a> - <a href="">Slides</a></li>
+  </ul>
   
 </details>
 <details><summary><h2>Computer Science</h2></summary>
   
 <ul>
-<li><a href="subjects/computer-science/python-programming/exam-structure.md">Exam Structure</a></li>
-<li><a href="subjects/computer-science/python-programming/data.md">Data</a></li>
-<li><a href="subjects/computer-science/python-programming/data-feminism.md">Data Feminism</a></li>
-<li><a href="subjects/computer-science/python-programming/AI.md">Artificial Intelligence</a></li>
-<li><a href="subjects/computer-science/python-programming/computer-components.md">Computer Components</a></li>
+  <li><a href="subjects/computer-science/python-programming/exam-structure.md">Exam Structure</a></li>
+  <li><a href="subjects/computer-science/python-programming/data.md">Data</a></li>
+  <li><a href="subjects/computer-science/python-programming/AI.md">Artificial Intelligence</a></li>
+  <li><a href="subjects/computer-science/python-programming/computer-components.md">Computer Components</a></li>
+  <li><a href="https://data-feminism.mitpress.mit.edu">Data Feminism - Full Book</a></li>
 </ul>
 <h3><a href="subjects/computer-science/python-programming/python-programming.md">Python Programming</a></h3>
-<ul>
-<li><a href="subjects/computer-science/python-programming/">Numerical Python</a></li>
-<li><a href="subjects/computer-science/python-programming/">Variables</a></li>
-<li><a href="subjects/computer-science/python-programming/">volumesphere.py</a></li>
-<li><a href="subjects/computer-science/python-programming/">Inputs</a></li>
-<li><a href="subjects/computer-science/python-programming/">Boolean Logic</a></li>
-<li><a href="subjects/computer-science/python-programming/">Conditionals</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/computer-science/python-programming/">Numerical Python</a></li>
+    <li><a href="subjects/computer-science/python-programming/">Variables</a></li>
+    <li><a href="subjects/computer-science/python-programming/">volumesphere.py</a></li>
+    <li><a href="subjects/computer-science/python-programming/">Inputs</a></li>
+    <li><a href="subjects/computer-science/python-programming/">Boolean Logic</a></li>
+    <li><a href="subjects/computer-science/python-programming/">Conditionals</a></li>
+  </ul>
   
 </details>
 <details><summary><h2>English</h2></summary>
   
-<a href="subjects/english/summer-exam.md">Summer Exam Stuff</a>
+<ul>
+  <li><a href="subjects/english/summer-exam.md">Summer Exam Stuff</a></li>
+</ul>
 <h3>Composition</h3>
 <h3>Texts</h3>
-<ul>
-<li><a href="subjects/english/texts/casablanca.md">Casablanca</a></li>
-<li><a href="subjects/english/texts/dolls-house/dolls-house.md">A Doll's House</a></li>
-<li><a href="subjects/english/texts/room/room.md">Room</a></li>
-<ul>
-<li><a href="">General Vision and Viewpoint in Room</a></li>
-<li><a href="">Cultural Context</a></li>
-<li><a href="">Study Guide</a></li>
-<li><a href="">Key Moments</a></li>
-<li><a href="">Control and Violence in Room</a></li>
-<li><a href="">Relationships in Room</a></li>
-</ul>
-</ul>
+  <ul>
+    <li><a href="subjects/english/texts/casablanca.md">Casablanca</a></li>
+    <li><a href="subjects/english/texts/dolls-house/dolls-house.md">A Doll's House</a></li>
+    <li><a href="subjects/english/texts/room/room.md">Room</a></li>
+    <ul>
+      <li><a href="">General Vision and Viewpoint in Room</a></li>
+      <li><a href="">Cultural Context</a></li>
+      <li><a href="">Study Guide</a></li>
+      <li><a href="">Key Moments</a></li>
+      <li><a href="">Control and Violence in Room</a></li>
+      <li><a href="">Relationships in Room</a></li>
+    </ul>
+  </ul>
 <h3>Poetry</h3>
 <h4>Rudyard Kipling</h4>
-<ul><li><a href="subjects/english/poetry/rudyard-kipling/if.md">If</a></li></ul>
+  <ul>
+    <li><a href="subjects/english/poetry/rudyard-kipling/if.md">If</a></li>
+  </ul>
 <h4> William Butler Yeats (W. B. Yeats)
-<ul><li><a href="subjects/english/poetry/w-b-yeats/the-lake-isle-of-innisfree.md">The Lake Isle of Innisfree</a></li></ul>
+  <ul>
+    <li><a href="subjects/english/poetry/w-b-yeats/the-lake-isle-of-innisfree.md">The Lake Isle of Innisfree</a></li>
+  </ul>
 <h4>Elizabeth Bishop</h4>
 <h4>Emily Dickinson</h4>
 <h4>John Donne</h4>
@@ -149,10 +159,10 @@
 <h4>Derek Mahon</h4>
 <h4>Paula Meehan</h4>
 <h4>Adrienne Rich</h4>
-<ul>
-<li><a href="subjects/english/poetry/adrienne-rich/aunt-jennifer-tigers.md">Aunt Jennifer's Tigers</a></li>
-<li><a href="subjects/english/poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md">The Uncle Speaks in the Drawing Room</a></li>
-</ul>
+  <ul>
+    <li><a href="subjects/english/poetry/adrienne-rich/aunt-jennifer-tigers.md">Aunt Jennifer's Tigers</a></li>
+    <li><a href="subjects/english/poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md">The Uncle Speaks in the Drawing Room</a></li>
+  </ul>
 
 <!--Where to find poems: [https://www.poetryfoundation.org/](https://www.poetryfoundation.org/)-->
 
@@ -245,7 +255,7 @@
 <li><a href="subjects/music/set-works/piano-quartet.md">Piano Quartet No. 1 by Gerald Barry</a></li>
 <li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
 </ul>
-  
+
 </details>
 
 # Anki Decks
@@ -257,8 +267,8 @@
 - [Maths]()
 - [Music]()
 # Other
-- [Study Methods & Tips](other/study.md)
-- [Resources](other/resources.md)
+- [Study Methods & Tips](study.md)
+- [Resources](resources.md)
 # Timetable
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |

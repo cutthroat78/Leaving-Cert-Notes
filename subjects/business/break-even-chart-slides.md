@@ -1,6 +1,6 @@
 # Break-Even Chart Slides
 
-[Break even.pdf](Break-Even%2008813/Break_even.pdf)
+[Slides](slides/break-even-chart-slides.pdf)
 
 A Business supplies the following figures about its activities:
 
@@ -51,33 +51,33 @@ From Y axis €500,000 (10,000 x €50)
 
 ### Break Even Chart
 
-1.  
-    
-    ![Untitled](Break-Even%2008813/Untitled.png)
-    
-2.  
+Step 1
 
-![Untitled](Break-Even%2008813/Untitled%201.png)
+![1](images/15/break-even-chart-slides/1.png)
 
-1.  
+Step 2
 
-![Untitled](Break-Even%2008813/Untitled%202.png)
+![2](images/15/break-even-chart-slides/2.png)
 
-1.  
+Step 3
 
-![Untitled](Break-Even%2008813/Untitled%203.png)
+![3](images/15/break-even-chart-slides/3.png)
 
-1.  
+Step 4
 
-![Untitled](Break-Even%2008813/Untitled%204.png)
+![4](images/15/break-even-chart-slides/4.png)
 
-1.  
+Step 5
 
-![Untitled](Break-Even%2008813/Untitled%205.png)
+![5](images/15/break-even-chart-slides/5.png)
 
-1.  
+Step 6
 
-![Untitled](Break-Even%2008813/Untitled%206.png)
+![6](images/15/break-even-chart-slides/6.png)
+
+Step 7
+
+![7](images/15/break-even-chart-slides/7.png)
 
 ## Example Question
 
@@ -115,4 +115,4 @@ If you only did the calculations, you would get only get 12 total marks for the 
 | 40,000 | 30            | 20             | 400,000     | 1,200,000   | 1,200,000     | 0           |
 | 60,000 | 30            | 20             | 400,000     | 1,600,000   | 1,800,000     | 200,000     |
 
-![Untitled](Break-Even%2008813/Untitled%207.png)
+![8](images/15/break-even-chart-slides/8.png)

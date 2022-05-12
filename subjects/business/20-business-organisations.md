@@ -18,7 +18,13 @@
 
 ### Sole Trader
 
-[Sole Trader (From Slides)](20%20Busines%2084396/Sole%20Trade%2081f88.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Formation|Start straight away in own name or register name with CRO                                                                                                                   |
+|Liability|Unlimited liability - All debts can be recovered from personal belongings                                                                                                   |
+|Finance  |Limited to their savings or their ability to access loans, which can be difficult if they are a new business with no history - LEO (Local Enterprise Office) can give grants|
+|Control  |Owner maintains total control and makes all decisions                                                                                                                       |
+
 
 **Advantages:**
 
@@ -44,7 +50,13 @@
 
 ### Partnership
 
-[Partnership (From Slides)](20%20Busines%2084396/Partnershi%20e2c2f.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Formation|Form LP1 must be completed by CRO - a deed of partnership is signed                                                                                                         |
+|Liability|Unlimited Liability                                                                                                                                                         |
+|Finance  |Between 2 and 20 partners can invest their savings, plus loans                                                                                                              |
+|Control  |Decisions are shared by partners - Have to be agreed to in writing                                                                                                          |
+
 
 **Advantages:** 
 
@@ -72,7 +84,13 @@ A partnership is automatically dissolved when a single partner dies
 
 ### Private Limited Company (Ltd/CLS)
 
-[Private Limited Company (Ltd/CLS) (From Slides)](20%20Busines%2084396/Private%20Li%2034639.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Formation|Must create a constitution, then CRO issues a certificate of incorporation                                                                                                   |
+|Liability|Shareholders of a private limited company have limited liability - on bankruptcy, only lose the value of their investment                                                   |
+|Finance  |Shares can be sold up to a maximum of 149 shareholders                                                                                                                      |
+|Control  |One share, one vote: shareholders elect a board of directors, board of directors appoints a CEO who answers to the board                                                    |
+
 
 **Advantages:**
 
@@ -118,7 +136,13 @@ A partnership is automatically dissolved when a single partner dies
 
 ### Co-operative
 
-[Co-operative (From Slides)](20%20Busines%2084396/Co-operati%207dfa4.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Formation|At least seven members apply to the Registrar of Friendly Societies                                                                                                         |
+|Liability|Members of co-ops have the protection of limited liability                                                                                                                  |
+|Finance  |Members receive a share of the profits in proportion to turnover                                                                                                            |
+|Control  |Democratic structure, ‘one member, one vote’                                                                                                                                |
+
 
 **Advantages:**
 
@@ -220,4 +244,10 @@ Irish-owned, locally based business that are established, owned and managed by I
 - Reduce our reliance on FDI (Foreign Direct Investment)
 - Increase Ireland’s export levels, if the companies sell abroad (improve our balance of payments)
 
-[Reasons to change organisational structure over time](20%20Busines%2084396/Reasons%20to%204d982.csv)
+|1        |2                                                                                                                                                                           |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Liability|Move from unlimited to limited liability (e.g. sole trader to Ltd/CLS)                                                                                                      |
+|Continuity|Company ceases to exist on death of owner in sole trader or partnership, but not in Ltd/CLS                                                                                 |
+|Expansion|Access to capital (e.g. partnership can have 2–20 investors, but Ltd/CLS can have up to 149 investors)                                                                      |
+|Tax benefits|Ltd/CLS pays 12.5% tax on profits, whereas sole traders pay the same rates as a PAYE employee (20–40%)                                                                      |
+|Expertise|More owners bring more skills/experience/expertise; changing the structure allows this                                                                                      |

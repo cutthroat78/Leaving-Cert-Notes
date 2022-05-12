@@ -144,9 +144,9 @@
 
 ![Break Even Chart](images/break-even-chart.png)
 
-[Break-Even Analysis Example](15%20Busines%2066772/Break-Even%2045d9b.md)
+[Break-Even Analysis Example](break-even-analysis-example.md)
 
-[Break-Even Chart Slides](15%20Busines%2066772/Break-Even%2008813.md)
+[Break-Even Chart Slides](break-even-chart-slides.md)
 
 ## Benefits and limitations of break-even analysis
 
