@@ -11,13 +11,45 @@
 - Calculate the break-even point from forecasted sales and costs figures
 - Analyse the uses and limitations of break-even analysis
 
-[Challenges when starting a new business (More about this on Page 250 & 251 of Textbook)](15%20Busines%2066772/Challenges%20664c1.csv)
+## Challenges when starting a new business 
+(More about this on Page 250 & 251 of Textbook)
 
-[Debt vs Equity](15%20Busines%2066772/Debt%20vs%20Eq%20452b2.csv)
+| Challenge           | Explanation                                                                                                                            |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Long-term finance   | Attracting investment, balancing sources - not taking on too much debt (repayments), not giving away too much equity (loss of control) |
+| Working capital     | Having enough cash to meet day-to-day expenses (cash flow)                                                                             |
+| Production method   | Choosing job, batch or mass (depending on USP, customer, price)                                                                        |
+| Ownership structure | Choosing suitable structure: sole trader, partnership or limited company                                                               |
+| Marketing           | Conducting research to know where to advertise, cost of sales promotions, how to use social media and public relations for publicity   |
+| Market research     | Finding useful, up-to-date research, conduct field research (takes time and money)                                                     |
+| Creating a USP      | Developing features/functions to stand out from competitors and existing products                                                      |
+| Location            | Cost of buying/leasing shops or premises (the right place for the target market)                                                       |
+| Staff               | Availability/cost of staff, interviewing, employment legislation, tax                                                                  |
 
-[Types of Production (From Teacher)](15%20Busines%2066772/Types%20of%20P%20889e6.csv)
+## Debt vs Equity
 
-[Production Options (From Slides)](15%20Busines%2066772/Production%206d153.csv)
+| Term   | Definition              |
+|--------|-------------------------|
+| Debt   | Money we owe            |
+| Equity | What we own e.g Profits |
+
+## Types of Production 
+(From Teacher)
+
+| Term             | Definition                                                                                                     |
+|------------------|----------------------------------------------------------------------------------------------------------------|
+| Job Production   | 1 off, unique protection of a 'product' usually called bespoke e.g art, wedding dress, unique/custom jewellery |
+| Batch Production | Usually produce products in multiples e.g 10's. 100's, 1000's. Produced by colour or size                      |
+| Mass Production  | All products are made on an assembly line. Continuous production                                               |
+
+## Production Options 
+(From Slides)
+
+| Type        | Explanation                                                                         | Features of Process                                                                 |
+|-------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Job         | Specific product made to meet a consumer’s needs, e.g. a wedding dress              | Specialised/expensive labour, flexible machinery, premium price, slow process       |
+| Batch       | Production of a limited quantity of identical products, e.g. a batch of Maths books | One batch at a time (same size, shape, colour), semi-skilled labour, made for stock |
+| Mass (flow) | Continuous production of the same item, e.g. toilet paper, biros                    | Items used up regularly, lower labour needs, highly automated, made for stock       |
 
 ## Features of Types of Production
 
@@ -60,14 +92,49 @@
 - Less diversified business
 - Brand image impacted
 
-[Business Plan (More about this on Page 257 & 258 of Textbook)](15%20Busines%2066772/Business%20P%20a370c.csv)
+## Business Plan 
+(More about this on Page 257 & 258 of Textbook)
 
-[Importance of a Business Plan for an Entrepreneur](15%20Busines%2066772/Importance%20f848f.csv)
+| Term             | Definition                                                                                                                                                                 |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Business Details | Outlines the objective for the business (mission statement), vision, location and ownership type (e.g. partnership or limited company)                                     |
+| Market Analysis  | Research on the size of the market, different segments and characteristics of the chosen target market                                                                     |
+| Marketing Plan   | 4 Ps for a good/service: - Product: USP, branding - Place: channel of distribution - Price: strategy (e.g. premium, penetration) - Promotion: advertising, sales promotion |
+| Production Plan  | Time/labour/materials/machinery required for production (per unit) Production process: job/batch/mass                                                                      |
+| Financial Plan   | Cash flow forecast, long-term finance (debt/equity), break-even analysis                                                                                                   |
 
-[Uses of the Business Plan for Various Stakeholders](15%20Busines%2066772/Uses%20of%20th%201042f.csv)
+## Importance of a Business Plan for an Entrepreneur
 
-[Break-Even Analysis](15%20Busines%2066772/Break-Even%20447bc.csv)
+| Term                      | Definition                                                                |
+|---------------------------|---------------------------------------------------------------------------|
+| Focus on the future       | Prepare for the future, provide a map/guide                               |
+| Anticipate problems       | Proactive contingency plan for foreseeable problems                       |
+| Attract investors         | Use business plan as sales pitch, highlight the potential of the business |
+| Act as a means on control | Compare plan to actual performance, take corrective action                |
 
+## Uses of the Business Plan for Various Stakeholders
+
+| Term                   | Definition                                                                                                |
+|------------------------|-----------------------------------------------------------------------------------------------------------|
+| Employees              | Understand business netter and assess job security                                                        |
+| Shareholders           | Projected sales/profits help calculate return on investment (ROI) vs risk                                 |
+| Financial Institutions | Sales projections; cash flow forecast shows ability to repay loans                                        |
+| Management/Employers   | Compare plan against actual, take corrective action, request a bonus                                      |
+| Suppliers              | Assess credit worthiness of the business before deciding to sell on credit                                |
+| State Agencies         | Local Enterprise Offices (LEOs) and Enterprise Ireland assess businesses before offering grants/subsidies |
+
+## Break-Even Analysis
+
+| Name                    | Definition                                                                            | Formula/Example                                |
+|-------------------------|---------------------------------------------------------------------------------------|------------------------------------------------|
+| Fixed Costs             | Costs that remain the same irrespective of the level of output                        | Rent, loan repayments                          |
+| Variable Costs          | Costs that change as the level of output changes                                      | Direct wages                                   |
+| Contribution per Unit   | How much each unit sold will make after deducting the cost of manufacturing           | Selling price - variable cost per unit         |
+| Break-Even Amount       | The number of units a business needs to sell to cover total costs                     | Fixed costs ÷ contribution per unit            |
+| Profit at Full Capacity | How much profit the business plans to make if it successfully sells the target output | Total revenue - total costs                    |
+| Total Revenue           | The sum raised from selling goods                                                     | Selling price x output                         |
+| Total Costs             | The sum of all the costs of production                                                | Fixed costs + variable costs                   |
+| Margin of Safety        | How far forecasted sales can fall before the business becomes lossmaking              | Forecast output - break-even amount (in units) |
 ## Steps in drawing a break-even chart
 
 1. Draw and label the axes 
@@ -75,7 +142,7 @@
 3. Show the break-even point, break-even revenue/cost and break-even units
 4. Highlight the margin of safety and profit at full capacity
 
-![Untitled](15%20Busines%2066772/Untitled.png)
+![Break Even Chart](images/break-even-chart.png)
 
 [Break-Even Analysis Example](15%20Busines%2066772/Break-Even%2045d9b.md)
 

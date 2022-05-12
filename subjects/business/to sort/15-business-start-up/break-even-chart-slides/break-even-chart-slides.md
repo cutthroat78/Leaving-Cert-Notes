@@ -107,6 +107,12 @@ Illustrate the following by means of a break-even chart (25 marks)
 
 If you only did the calculations, you would get only get 12 total marks for the question. 4 marks for the BEP calculation, 4 marks for the MOS and 4 marks for the Profit at Forecast Output
 
-[Table](Break-Even%2008813/Table%20e92ea.csv)
+#### Table
+
+| Units  | Selling Price | Variable Costs | Fixed Costs | Total Costs | Total Revenue | Profit/Loss |
+|--------|---------------|----------------|-------------|-------------|---------------|-------------|
+| 0      | 30            | 20             | 400,000     | 400,000     | 0             | (400,000)   |
+| 40,000 | 30            | 20             | 400,000     | 1,200,000   | 1,200,000     | 0           |
+| 60,000 | 30            | 20             | 400,000     | 1,600,000   | 1,800,000     | 200,000     |
 
 ![Untitled](Break-Even%2008813/Untitled%207.png)

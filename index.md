@@ -245,7 +245,6 @@
 <li><a href="subjects/music/set-works/piano-quartet.md">Piano Quartet No. 1 by Gerald Barry</a></li>
 <li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
 </ul>
-
   
 </details>
 
