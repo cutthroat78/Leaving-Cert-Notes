@@ -3,11 +3,15 @@
 
 <details><summary><h2>Biology</h2></summary>
   
+  - [Syllabus & Exam Structure](subjects/biology/syllabus-and-exam-structure.md)
+  
+- [Syllabus & Exam Structure](subjects/biology/syllabus-and-exam-structure.md)
+  
 <h3 id="the-study-of-living-organisms">The Study of Living Organisms</h3>
   <ul>
-    <li><a href="subjects/biology/syllabus-and-exam-structure.md">Syllabus &amp; Exam Structure</a></li>
+    <li><a href="subjects/biology/syllabus-and-exam-structure.md">Syllabus & Exam Structure</a></li>
     <li><a href="subjects/biology/experiments/experiments.md">Experiments</a></li>
-    <li><a href="subjects/biology/terms-and-definitions.md">Terms &amp; Definitions</a></li>
+    <li><a href="subjects/biology/terms-and-definitions.md">Terms & Definitions</a></li>
   </ul>
 <h3 id="units-1-the-study-of-life">Units 1 - The Study of Life</h3>
   <ul>
