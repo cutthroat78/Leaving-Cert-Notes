@@ -1,11 +1,7 @@
 # Notes
 (Click Below Subject Names to Reveal Notes Links)
 
-<details><summary><h2>Biology</h2></summary>
-  
-  - [Syllabus & Exam Structure](subjects/biology/syllabus-and-exam-structure.md)
-  
-- [Syllabus & Exam Structure](subjects/biology/syllabus-and-exam-structure.md)
+## Biology
   
 <h3 id="the-study-of-living-organisms">The Study of Living Organisms</h3>
   <ul>
@@ -47,9 +43,7 @@
     <li></li>
   </ul>
 
-  
-</details>
-<details><summary><h2>Business</h2></summary>
+## Business
   
 <ul>
   <li><a href="subjects/business/answering-exam-questions.md">Answering Exam Questions</a></li>
