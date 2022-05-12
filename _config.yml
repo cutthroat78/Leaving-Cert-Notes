@@ -5,3 +5,5 @@ author: "CutThroat78"
 show_downloads: false
 github:
    is_project_page: false
+
+theme: jekyll-theme-slate
