@@ -3,16 +3,14 @@
 
 - [Biology]()
   
-<h3 id="the-study-of-living-organisms">The Study of Living Organisms</h3>
-  <ul>
-    <li><a href="subjects/biology/syllabus-and-exam-structure.md">Syllabus & Exam Structure</a></li>
-    <li><a href="subjects/biology/experiments/experiments.md">Experiments</a></li>
-    <li><a href="subjects/biology/terms-and-definitions.md">Terms & Definitions</a></li>
-  </ul>
-<h3 id="units-1-the-study-of-life">Units 1 - The Study of Life</h3>
-  <ul>
-    <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O">Video Playlist for Unit 1</a></li>
-    <li><a href="">(A Search for a) Definition of Life & Characteristics of Life</a></li>
+## The Study of Living Organisms
+- [Syllabus & Exam Structure]()
+- [Experiments]()
+- [Terms & Definitions]()
+
+### Units 1 - The Study of Life
+- [Video Playlist for Unit 1](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
+- [(A Search for a) Definition of Life & Characteristics of Life] - [Slides]()
     <li><a href="">Scientific Method</a></li>
     <li><a href="">Nutrition (& Food)</a></li>
   <h4 id="ecology">Ecology</h4>
@@ -21,12 +19,12 @@
     <li><a href="subjects/biology/topics/unit-1/nutrient-recycling/nutrient-recycling.md">Nutrient Recycling</a></li>
     <li><a href="subjects/biology/topics/unit-1/pyramid-of-numbers/pyramid-of-numbers.md">Pyramid of Numbers</a></li>
   </ul>
-<h3 id="units-2-the-cell">Units 2 - The Cell</h3>
+### Units 2 - The Cell
   <ul>
     <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1">Video Playlist of Unit 2</a></li>
     <li><a href="">The Cell</a></li>
   </ul>
-<h3 id="units-3-the-organism">Units 3 - The Organism</h3>
+### Units 3 - The Organism
   <ul>
     <li><a href="https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8">Video Playlist of Unit 3</a></li>
     <li><a href="">Skeletal System</a></li>
@@ -38,10 +36,8 @@
     <li><a href="">The Human Breathing System</a></li>
     <li><a href="">Excretion</a></li>
   </ul>
-<h3>Experiments</h3>
-  <ul>
-    <li></li>
-  </ul>
+### Experiments
+- []()
 
 - [Business]()
   
@@ -100,8 +96,7 @@
     <li><a href="subjects/business/">27. The Applied Business Question (ABQ)</a> - <a href="">Slides</a></li>
   </ul>
   
-</details>
-<details><summary><h2>Computer Science</h2></summary>
+- [Computer Science]()
   
 <ul>
   <li><a href="subjects/computer-science/python-programming/exam-structure.md">Exam Structure</a></li>
@@ -126,8 +121,7 @@
     <li><a href="subjects/computer-science/data/">Unicode</a></li>
   </ul>
 
-</details>
-<details><summary><h2>English</h2></summary>
+- [English]()
   
 <ul>
   <li><a href="subjects/english/summer-exam.md">Summer Exam Stuff</a></li>
@@ -186,8 +180,7 @@
     <li><a href="exam-structure/comprehension-question-b.md">Comprehension: Question B</a></li>
   </ul>
   
-</details>
-<details><summary><h2>French</h2></summary>
+- [French]()
   
 <h3 id="paul-rickard-era-5th-year-">Paul Rickard Era (5th Year)</h3>
   <ul>
@@ -220,8 +213,7 @@
   </ul>
 
   
-</details>
-<details><summary><h2>Music</h2></summary>
+- [Music]()
 
 <ul>
   <li><a href="subjects/music/exam-structure/exam-structure.md">Exam Structure(s) and Marking</a></li>
@@ -267,8 +259,6 @@
     <li><a href="subjects/music/set-works/cantata-78.md">Cantata 78 "Jesu Der Du Meine Seele” by Bach</a></li>
   </ul>
   
-</details>
-
 # Anki Decks
 - [Biology](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
 - [Business]()
