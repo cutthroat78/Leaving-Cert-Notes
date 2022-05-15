@@ -8,7 +8,7 @@ Output:
 
 Note: No quotes are needed for printing numbers in Python
 
-# after code is for comments
+## After code is for comments
 
 ```python
 print(10+10) # Add 10 and 10

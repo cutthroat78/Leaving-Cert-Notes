@@ -1,0 +1,17 @@
+# Computer Science
+- [Exam Structure]()
+- [Artificial Intelligence]()
+- [Computer Components]()
+- [Data Feminism - Full Book](https://data-feminism.mitpress.mit.edu)
+## [Python Programming]()
+- [Numerical Python]()
+- [Variables]()
+- [volumesphere.py]()
+- [Inputs]()
+- [Boolean Logic]()
+- [Conditionals]()
+## Data
+- [ASCII]()
+- [Binary]()
+- [Hexadecimal]()
+- [Unicode]()

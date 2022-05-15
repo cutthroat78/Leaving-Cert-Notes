@@ -13,15 +13,16 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 
 ## Links to help make/edit notes
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
-- [Markdown to CSV Converter (& Vice Versa)](https://tableconvert.com/markdown-to-csv)
-- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 ## Plan
 1. Convert and setup the notion export and sort all that out
   - Biology
   - Biology Experiments
+  - Business
   - Computer science
   - English
+  - French
   - Music
+  - Maths
 2. Fix and put all links into index.md
 3. Convert all Biology paper and digital slides
 4. Start converting all notes to anki
