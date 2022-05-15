@@ -1,9 +1,5 @@
 # Movement of Molecules Across Cell Membranes
 
-[Movement of Molecules Across Cell Membranes.pdf](Movement%20o%2074521/Movement_of_Molecules_Across_Cell_Membranes.pdf)
-
-## Table of Contents
-
 # Selectively Permeable Membrane
 
 - Phospho-lipid Bilayers

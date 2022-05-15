@@ -138,7 +138,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | the circulatory system                         | No               | No     |
 | Movement of Molecules Across Cell Membranes    | Yes              | No     |
 | Homeostasis                                    | No               | No     |
-| The Human Breathing System                     | No               | No     |
+| The Breathing System                     | No               | No     |
 | Ecology                                        | No               | No     |
 | Environmental Factors                          | No               | No     |
 | Nutrient Recycling                             | No               | No     |

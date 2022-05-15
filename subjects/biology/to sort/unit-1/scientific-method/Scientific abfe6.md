@@ -1,9 +1,5 @@
 # Scientific Method
 
-[Scientific Method-teacher.pdf](Scientific%20abfe6/Scientific_Method-teacher.pdf)
-
-## Table of Contents
-
 ![Untitled](Scientific%20abfe6/Untitled.png)
 
 ---

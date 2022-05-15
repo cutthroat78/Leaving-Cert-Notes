@@ -1,9 +1,5 @@
 # The Human Breathing System
 
-(insert school slides here)
-
-## Table of Contents
-
 ## Objectives (What you will need to know from this section)
 
 - Outline the macrostructure & function of the breathing tract in humans

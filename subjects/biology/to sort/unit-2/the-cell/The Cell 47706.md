@@ -1,10 +1,5 @@
 # The Cell
-
-### The smallest unit of living matter
-
-[THE CELL.pdf](The%20Cell%2047706/THE_CELL.pdf)
-
-## Table of Contents
+The smallest unit of living matter
 
 ## Animal & Plant Cells - Basic Structure
 

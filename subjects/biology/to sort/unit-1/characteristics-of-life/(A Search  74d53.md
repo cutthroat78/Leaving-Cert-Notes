@@ -1,9 +1,5 @@
 # (A Search for a) Definition of Life & Characteristics of Life
 
-[1.2.1 Search for Definition of Life.pdf]((A%20Search%20%2074d53/1.2.1_Search_for_Definition_of_Life.pdf)
-
-## Table of Contents
-
 ### **All organisms have many features or characteristics in common**
 
 # The Variety of Life

@@ -2,10 +2,6 @@
 
 Required for: Energy & Growth
 
-[FOOD.pdf](Nutrition%20%2088f6d/FOOD.pdf)
-
-## Table of Contents
-
 ## Metabolism
 
 All the chemical reactions that take place within a living organism

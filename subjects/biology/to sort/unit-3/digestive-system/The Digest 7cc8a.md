@@ -1,9 +1,5 @@
 # The Digestive System
 
-[DIGESTION-teacher.pdf](The%20Digest%207cc8a/DIGESTION-teacher.pdf)
-
-## Table of Contents
-
 ![Untitled](The%20Digest%207cc8a/Untitled.png)
 
 ![20211108_131827.jpg](The%20Digest%207cc8a/20211108_131827.jpg)

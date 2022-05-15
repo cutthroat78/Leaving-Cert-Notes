@@ -43,7 +43,7 @@
 | English | Do a question on the sheet, the teacher gave us | Wednesday, 11/05/2022 | No |
 | Biology | Do all Ecology Exam Questions | Monday, 16/05/2022 | No |
 | Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
-| Biology | Finish write up | Monday, 16/05/2022 | No |
+| Biology | Finish write up | Monday, 16/05/2022 | Yes |
 | English | Finish off the uncle speaks in the drawing room file | Friday, 13/05/2022 | No |
 
 # Calendar

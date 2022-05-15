@@ -1,9 +1,5 @@
 # Homeostasis
 
-(insert school slides here)
-
-## Table of Contents
-
 Definition: Homeostasis is the maintenance of a contstant internal environment for our cells
 
 - Your body and it’s individual cells need just the right conditions to perfrom at their best

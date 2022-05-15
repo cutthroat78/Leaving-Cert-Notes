@@ -1,9 +1,5 @@
 # Enzymes & Metabolism
 
-[ENZYMES-Teacher.pdf](Enzymes%20&%20%207975d/ENZYMES-Teacher.pdf)
-
-## Table of Contents
-
 ## Metabolism
 
 **Metabolism** is all the chemical reactions that occur within a living organism

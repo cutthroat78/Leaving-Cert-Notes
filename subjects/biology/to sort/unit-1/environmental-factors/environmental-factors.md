@@ -1,7 +1,5 @@
 # Environmental Factors
 
-## Table of Contents
-
 [Environmental factors that affect organsisms](Environmen%2028302/Environmen%20074d1.csv)
 
 (* is what effects humans (I think (I am not sure)))

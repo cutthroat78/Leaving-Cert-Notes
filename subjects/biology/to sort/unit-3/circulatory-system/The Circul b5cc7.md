@@ -1,9 +1,5 @@
 # The Circulatory System
 
-[Circulatory System-teacher.pdf](The%20Circul%20b5cc7/Circulatory_System-teacher.pdf)
-
-## Table of Contents
-
 All larger organisms require a transport (vascular) system to bring food and oxygen to the cells and to remove waste
 
 **Humans** have a **closed circulatory system** - blood circulates inside closed vessels (insects have an open system - open ended vessels). Blood can travel much faster in a closed system

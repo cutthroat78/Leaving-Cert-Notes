@@ -1,9 +1,5 @@
 # Skeletal System
 
-[pods.pdf](Skeletal%20S%205a41b/pods.pdf)
-
-## Table of Contents
-
 ## Syllabus Objective
 
 - Description of the structure and functions of the skeleton
