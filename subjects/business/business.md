@@ -31,7 +31,6 @@
 - [21. Business, the Economy and Government]() - [Slides]() - Not Covered Yet
 - [22. Community Development]() - [Slides]() - Not Covered Yet
 - [23. Ethical, Social and Environmental Responsibility](unit-6/23-ethical-social-and-environmental-responsibilities.md) - [Slides](slides/unit-6/23-ethical-social-and-environmental-responsibilities.pdf)
-  - [Business Ethics](unit-6/business-ethics.md) - This is apart of 22. Community Development
 ## Unit 7: International Environment
 - [24. International Trade]() - [Slides]() - Not Covered Yet
 - [25. The European Union](unit-7/25-eu.md) - [Slides](slides/unit-7/25-eu.pdf)

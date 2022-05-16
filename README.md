@@ -128,15 +128,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 
 | Chapter/Section                                | Paper Slides     | Slides |
 |------------------------------------------------|------------------|--------|
-<!--
-| A search for a definition of life              | Yes              | Yes    |
-| Scientific method                              | Yes              | Yes    |
-| nutrition                                      | Yes              | Yes    |
-| the cell                                       | Yes              | Yes    |
-| skeletal system                                | Yes              | Yes    |
-| the digestive system                           | Yes              | Yes    |
-| enzymes and metabolism                         | Yes              | Yes    |
--->
 | the circulatory system                         | No               | No     |
 | Movement of Molecules Across Cell Membranes    | Yes              | No     |
 | Homeostasis                                    | No               | No     |
@@ -147,6 +138,15 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | Pyramid of Numbers                             | No               | No     |
 | Ecology, Ecosystem, Biosphere, Habitat & Niche | No               | No     |
 | Respiration                                    | No               | No     |
+<!--
+| A search for a definition of life              | Yes              | Yes    |
+| Scientific method                              | Yes              | Yes    |
+| nutrition                                      | Yes              | Yes    |
+| the cell                                       | Yes              | Yes    |
+| skeletal system                                | Yes              | Yes    |
+| the digestive system                           | Yes              | Yes    |
+| enzymes and metabolism                         | Yes              | Yes    |
+-->
 
 ## Business Notes
 
@@ -164,12 +164,11 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 19                                          | No               | No     |
 | 21                                          | No               | No     |
 | 22                                          | No               | No     |
-| 23                                          | No               | No     |
+| 23 (+ Business Ethics)                      | Yes              | No     |
 | 24                                          | No               | No     |
 | 25                                          | Yes              | No     |
 | 26                                          | No               | No     |
 | 27                                          | No               | No     |
-| Business Ethics                             | Yes               | No     |
 <!--
 | 1                                           | Yes              | Yes    |
 | 2                                           | Yes              | Yes    |
