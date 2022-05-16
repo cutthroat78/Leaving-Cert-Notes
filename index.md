@@ -50,12 +50,10 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Oral Exams Start | | Monday, 16/05/2022 | |
-| French Aural Exam | | Wednesday, 18/06/2022 | |
+| French Oral Exams Start | | Tuesday, 17/05/2022 | |
 | Trip to Belfast | Costs €15, We will be going to [W5](https://w5online.co.uk/) and [The Titanic Museum](https://www.titanicbelfast.com/) and be getting food on the way back from Belfast. | Thursday, 19/05/2022 | Leaving the School at 08:45 AM and Returning at 7 PM |
 | Sports Day | | Friday, 20/05/2022 | |
-| Summer Exams Start | Could possibily change date, it is planned that have between 1 and 2 exams each day until we are off | Monday, 23/05/2022 | |
-| Computer Science Test | No info yet | ? | |
+| Summer Exams Start | Could possibly change date, it is planned that have between 1 and 2 exams each day | Monday, 23/05/2022 | |
 | Return to School 2022 | The date for this is a **GUESS** I made from previous years dates | 23/08/2022 - 05/09/2022| |
 | Leaving Cert Exams Start | The date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
@@ -69,6 +67,7 @@
 <!--
 # Homework Archive
 ## 5th Year
+| Computer Science Test | No info yet | ? | |
 | Biology | Finish Ecology Booklet | Tuesday, 10/05/2022 | Yes |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
 | French | Get vocab from top of sheet and highlighted words on sheet and put into hardback notes | Wednesday, 27/04/2022  | No |

@@ -36,6 +36,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Look at using dropdown menus to minimize the amount of markdown files/menus
 - Beautify html in index file
 ### Biology
+- Add video link about each topic in biology.md
 - Ask teacher for missing digital slides
 - Get enzyme diagrams for enzyme pages
 - Make my own Unit YouTube playlists of videos
@@ -57,6 +58,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert physical biology cards on the circulatory system to notion and anki
 - Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
+- Look into chapter 23 and business ethics and how to merge them/get rid of business ethics
 - Ask teacher for missing slides
 - Look at padlet links in Business Team
 - Page 250 + 251 challenges when starting a business section move into digital notes

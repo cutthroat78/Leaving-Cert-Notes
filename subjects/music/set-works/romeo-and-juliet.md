@@ -174,7 +174,7 @@ Two examples are:
 - Bars 112 - 272
 - Be able to identify the themes in this section and its musical characterisitcs
 
-#### Subject 1 = strife theme
+#### Subject 1 = Strife Theme
 - Key -> G minor
 - Full or chestra
 - Ascending string scale passage in semiquavers "motif e"
@@ -183,5 +183,36 @@ Two examples are:
 - Use of a chain of dominant sevenths
 - Main instruments = Tutti`qzc
 
-#### Subject 2 = love theme
+#### Subject 2 = Love Theme
+- D Flat Major
+- Texture = polyphonic
+- Use of a dominant pedal in the lower strings and bassoons helps the harmonic suspensions and resolutions throughout this section
+- Ascending semiquaver scales on flute + oboe
+- Rubato -> slight speeding up and then slowing down of the tempo. This is used to give the theme a lush, Romantic feel
+- Harp uses descending alternating chord inversions
+- A viola F natrual brings the exposition to a close
 
+### Development
+- Bars 273 - 352 
+- Based on Friar Lawrence Theme and fragments of Strife Theme
+- Mood becomes tense + violent
+- Love Theme is not used in this section
+- Key signature of B minor vanished. There is a sense of only a vague tonal centre
+- Friar Lawrence theme played on Horns
+- Brass + Woodwind question each other in antiphonal manner over syncopated string accompaniment
+- The music reaches the first real fortissimo climax with a symbol crash, and the Friar Lawrence theme is blasted by trumpets over a rhythmic ostinato taken from the opening of Strife Theme
+- Key of B minor returns in rushing semi-quaver string scales that lead directly to the recapitulation
+
+### Recapitulation
+- Bars 353 - 484
+- Key B minor
+- Themes are not in same order as before, classical-like development of Strife + Love themes occur in this elongated section
+- Strife theme played in Tutti + ff
+- Second section of Love Theme is played by Woodwind instead of violins
+- Lush + Romantic mood
+- Mood turns tense as music turns to minor mode
+- Strife theme begins to emerge as the music leads into a development section in the recapitulation
+- Tutti orchestra unites to increase the tension as the climax to the entire overture is reached. Climax is marked fff (bar 473) and consists of fragments of the Strife and Love themes. It ends in dominant F Sharp, timpani roll with bassoons + lower strings also
+
+### Coda
+- 

@@ -30,7 +30,7 @@ Contribution = €8
 
 ---
 
-![1](images/15/break-even-analysis-example/1.png)
+![1](break-even-analysis-example/1.png)
 
 ---
 
@@ -52,7 +52,7 @@ BEP is the point where Total Revenue and Total Cost meets
 
 ### Extra Graph
 
-![2](images/15/break-even-analysis-example/2.png)
+![2](break-even-analysis-example/2.png)
 
 ---
 
@@ -107,10 +107,10 @@ Profit = €0
 
 ---
 
-![3](images/15/break-even-analysis-example/3.png)
+![3](break-even-analysis-example/3.png)
 
 ---
 
 ### Extra Graph
 
-![4](images/15/break-even-analysis-example/4.png)
+![4](break-even-analysis-example/4.png)

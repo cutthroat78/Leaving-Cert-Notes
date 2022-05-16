@@ -1,6 +1,6 @@
 # Characteristics of Living Things
 
-## Living things:
+## Living things
 
 1. Organisation: are highly organised and are composed of tiny units called cells
 2. Feed (nutrition)
@@ -65,13 +65,13 @@ Viruses are not living because they don't have cells (we will come across this a
 
 [Terminology](Characteri%2030644/Terminolog%203c0d9.csv)
 
-### Organisation Diagrams:
+### Organisation Diagrams
 
 ![Untitled](Characteri%2030644/Untitled.png)
 
 ![20211011_124434.jpg](Characteri%2030644/20211011_124434.jpg)
 
-### Nutrition Diagrams:
+### Nutrition Diagrams
 
 ![Untitled](Characteri%2030644/Untitled%201.png)
 

@@ -1,8 +1,6 @@
-# Osmosis Demonstration
-
 # Title: Conduct any activity to demonstrate osmosis
 
-### Materials/Equipment/Apparatus:
+## Materials/Equipment/Apparatus
 
 - Water
 - Visking Tubing
@@ -11,7 +9,7 @@
 - Funnel
 - Weighing Scales
 
-### Procedure/Method:
+## Procedure/Method
 
 1. Soak the visking tubing in water to soften it
 2. Make a knot on both visking tubings
@@ -22,18 +20,18 @@
 7. Put each of the visking tubings in a beaker filled with water for 15 minutes
 8. Take about the visking tubings, dry them and then record the turgidity and weight of the visking tubings 
 
-### Safety/Risks:
+## Safety/Risks
 
 - Tie back hair
 
-### Labelled Diagram:
+## Labelled Diagram
 
 (Insert Diagram Here)
 
+## Results
+
 [Results:](Osmosis%20De%206e1f8/Results%2016ec0.csv)
 
-### Conclusion:
+## Conclusion
 
 Water travels from an area of high concentrations to an area of low concentrations across a semi-permeable barrier. This process is called Osmosis.
-
-[The Info on the "How to" Handout](Osmosis%20De%206e1f8/The%20Info%20o%207eeb9.md)

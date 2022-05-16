@@ -1,5 +1,5 @@
 # English
-- [Summer Exam Stuff 2022]()
+- [Summer Exam Stuff 2022](summer-exam.md)
 ## Exam Structure
 - [Breakdown of Marks]()
 - [Marking Criteria]()
@@ -34,9 +34,9 @@
 - [Apple TV](https://tv.apple.com/ie/movie/room/umc.cmc.4qedzhrvrx38fydedbko7xr0l?at=1000l3V2&ct=effeteHalicore&playableId=tvs.sbd.9001%3A1070286534)
 ## Poetry <!--Where to find poems: [https://www.poetryfoundation.org/](https://www.poetryfoundation.org/)-->
 ### Rudyard Kipling
-- [If]()
+- [If](poetry/rudyard-kipling/if.md)
 ### William Butler Yeats (W. B. Yeats)
-- [The Lake Isle of Innisfree]()
+- [The Lake Isle of Innisfree](poetry/w-b-yeats/the-lake-isle-of-innisfree.md)
 ### Elizabeth Bishop
 ### Emily Dickinson
 ### John Donne
@@ -44,5 +44,7 @@
 ### Derek Mahon
 ### Paula Meehan
 ### Adrienne Rich
-- [Aunt Jennifer's Tigers]()
-- [The Uncle Speaks in the Drawing Room]()
+- [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
+- [The Uncle Speaks in the Drawing Room](poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md)
+- [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
+## Example Questions

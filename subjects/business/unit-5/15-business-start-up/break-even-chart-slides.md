@@ -1,7 +1,5 @@
 # Break-Even Chart Slides
 
-[Slides](slides/break-even-chart-slides.pdf)
-
 A Business supplies the following figures about its activities:
 
 - Fixed Costs: €300,000
@@ -53,31 +51,31 @@ From Y axis €500,000 (10,000 x €50)
 
 Step 1
 
-![1](images/15/break-even-chart-slides/1.png)
+![1](break-even-chart-slides/1.png)
 
 Step 2
 
-![2](images/15/break-even-chart-slides/2.png)
+![2](break-even-chart-slides/2.png)
 
 Step 3
 
-![3](images/15/break-even-chart-slides/3.png)
+![3](break-even-chart-slides/3.png)
 
 Step 4
 
-![4](images/15/break-even-chart-slides/4.png)
+![4](break-even-chart-slides/4.png)
 
 Step 5
 
-![5](images/15/break-even-chart-slides/5.png)
+![5](break-even-chart-slides/5.png)
 
 Step 6
 
-![6](images/15/break-even-chart-slides/6.png)
+![6](break-even-chart-slides/6.png)
 
 Step 7
 
-![7](images/15/break-even-chart-slides/7.png)
+![7](break-even-chart-slides/7.png)
 
 ## Example Question
 
@@ -115,4 +113,4 @@ If you only did the calculations, you would get only get 12 total marks for the 
 | 40,000 | 30            | 20             | 400,000     | 1,200,000   | 1,200,000     | 0           |
 | 60,000 | 30            | 20             | 400,000     | 1,600,000   | 1,800,000     | 200,000     |
 
-![8](images/15/break-even-chart-slides/8.png)
+![8](break-even-chart-slides/8.png)

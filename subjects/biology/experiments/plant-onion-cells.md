@@ -1,5 +1,3 @@
-# Plant (Onion) Cells
-
 # Title: To Prepare and examine plant (onion) cells, unstained and stained, using the light microscope
 
 ## Materials/Equipment/Apparatus
@@ -37,11 +35,11 @@
 
 ## Labelled Diagram
 
-![20211006_145748.jpg](Plant%20(Oni%201c938/20211006_145748.jpg)
+![Labelled Diagram 1](Plant%20(Oni%201c938/20211006_145748.jpg)
 
-![20211006_145754.jpg](Plant%20(Oni%201c938/20211006_145754.jpg)
+![Labelled Diagram 2](Plant%20(Oni%201c938/20211006_145754.jpg)
 
-![20211006_145852.jpg](Plant%20(Oni%201c938/20211006_145852.jpg)
+![Labelled Diagram 3](Plant%20(Oni%201c938/20211006_145852.jpg)
 
 ## Conclusion
 
