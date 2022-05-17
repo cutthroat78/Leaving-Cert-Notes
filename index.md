@@ -1,25 +1,34 @@
-# Notes
-(Click Below Subject Names to Reveal Notes Links)
-
-- [Biology](subjects/biology/biology.md)
-- [Business](subjects/business/business.md)
-- [Computer Science](subjects/computer-science/computer-science.md)
-- [English](subjects/english/english.md)
-- [French (Français)](subjects/french/french.md)
-- [Maths](subjects/maths/maths.md) 
-- [Music](subjects/music/music.md)
-# Anki Decks
-- [Biology](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
-- [Business]()
-- [Computer Science]()
-- [English]()
-- [French]()
-- [Maths]()
-- [Music]()
-# Other
+- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg) - [Resources]()
+- Business: [Notes](subjects/business/business.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+- Computer Science: [Notes](subjects/computer-science/computer-science.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+- English: [Notes](subjects/english/english.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+- French (Français): [Notes](subjects/french/french.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+- Maths: [Notes](subjects/maths/maths.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+- Music [Notes](subjects/music/music.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+---
 - [Study Methods & Tips](study.md)
 - [Resources](resources.md)
+
+# 2022 Summer Exams
+
+| Exam | Time | Date | Exam Length |
+|-|-|-|-| 
+| Geography/Art | 9:30 AM - 11:30 AM | Monday, 23/05/2022 | 2 Hours |
+| English Paper 1 | 12:30 PM - 2:00 PM | Monday, 23/05/2022 | 1 Hour and 30 Minutes |
+| French | 9:30 AM - 12:00 PM | Tuesday, 24/05/2022 | 2 Hours and 30 Minutes |
+| Maths Paper 1 | 12:30 PM - 2:00 PM | Tuesday, 24/05/2022 | 1 Hour and 30 Minutes |
+| Business | 9:30 AM - 12:00 PM | Wednesday, 25/05/2022 | 2 Hours and 30 Minutes |
+| Phys/Chem | 12:30 PM - 2:00 PM | Wednesday, 25/05/2022 | 1 Hour and 30 Minutes | 
+| Biology | 9:30 AM - 12:00 PM  | Thursday, 26/05/2022 | 2 Hours and 30 Minutes |
+| English Paper 2 | 12:30 PM - 2:30 PM | Thursday, 26/05/2022 | 2 Hours |
+| Woodwork | 9:30 AM - 11:30 AM | Friday, 27/05/2022 | 2 Hours |
+| Music | 12:30 PM - 2:00 PM | Friday, 27/05/2022 | 2 Hours |
+| Irish/Computer Science | 9:30 AM - 12:00 PM | Monday, 30/05/2022 | 2 Hours and 30 Minutes |
+| Maths Paper 2 | 12:30 PM - 2:00 PM | Monday, 30/05/2022 | 1 Hour and 30 Minutes |
+| Engineering | 9:30 AM - 11:30 AM | Tuesday, 31/05/2022 | 2 Hours |
+
 # Timetable
+(The time column doesn't apply to Wednesdays)
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
@@ -32,8 +41,6 @@
 | 13:30 | Business | Woodwork/Biology | English | Relation & Sexual Education | French/Engineering |
 | 14:30 | Music/Phys-Chem/Art/Geography | PE || French/Engineering | Music/Phys-Chem/Art/Geography |
 
-(The time column doesn't apply to Wednesdays)
-
 # Homework
 
 | Subject | What to Do | Due | Done? |
@@ -45,6 +52,8 @@
 | Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
 | Biology | Finish write up | Monday, 16/05/2022 | Yes |
 | English | Finish off the uncle speaks in the drawing room file | Friday, 13/05/2022 | No |
+| Biology | Do next two pages of respiration question booklet (ecology field trip question and fermentation question) | Tuesday, 17/05/2022 | No |
+| English | Finish sample question for english homework | Wednesday, 18/05/2022 | No |
 
 # Calendar
 

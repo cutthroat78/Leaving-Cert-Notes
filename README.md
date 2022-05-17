@@ -30,12 +30,11 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
   - Use image occlusion cards to learn diagrams
 ## To Dos
-- UNDO HTML IN INDEX.MD AND REVERT BACK TO OLD WAY OF DOING THINGS WITH JUST MARKDOWN
+- Find out how to link to certain parts of same and other pages, so that I can make key words and words in leaving cert notes link to other pages and parts of pages (So if you can't remember what a term means you can re-read what it means)
 - Get rid of “School Slides” and "Table of Contents" headings from notes
-- Have seperate page in each subject/chapter of other resources (Slides, videos, links etc.)
-- Look at using dropdown menus to minimize the amount of markdown files/menus
-- Beautify html in index file
+- Have seperate page for each subject/chapter of other resources (Slides, videos, links etc.)
 ### Biology
+- Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
 - Add video link about each topic in biology.md
 - Ask teacher for missing digital slides
 - Get enzyme diagrams for enzyme pages
@@ -58,6 +57,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert physical biology cards on the circulatory system to notion and anki
 - Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
+- Look at exam preperation folder in Teams
+- Look at and put links of padlets into business.md
 - Look into chapter 23 and business ethics and how to merge them/get rid of business ethics
 - Ask teacher for missing slides
 - Look at padlet links in Business Team
@@ -80,6 +81,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
+- Convert french wow! phrases in teams to markdown to put in to leaving cert notes
 - Add an example to Past Tense page
 - Write difference between future tenses into digital notes
 - Make french notes on conditional tense
@@ -108,7 +110,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Find videos for each Maths thing/section we have done so far and add to notion
 - Convert maths notes that was sent to me into digital notes
 ### Music
-- go through and change all irish music link names (the [] part of the link)
+- Re do note value music anki cards but make them cloze cards, with all info
+- Go through and change all irish music link names (the [] part of the link)
 - Convert sheets on . (dotted) notes and rests
 - Sort out treble key signatures page
 - Add below to music note notes:
@@ -166,7 +169,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 22                                          | No               | No     |
 | 23 (+ Business Ethics)                      | Yes              | No     |
 | 24                                          | No               | No     |
-| 25                                          | Yes              | No     |
 | 26                                          | No               | No     |
 | 27                                          | No               | No     |
 <!--
@@ -181,4 +183,5 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 16                                          | Yes              | Yes    |
 | 17                                          | Yes              | Yes    |
 | 20                                          | Yes              | Yes    |
+| 25                                          | Yes              | Yes    |
 -->
