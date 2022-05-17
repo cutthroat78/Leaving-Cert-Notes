@@ -74,9 +74,6 @@ The Study of Living Organisms
 | Germination                                                                               | No            | No                  | No      |
 | Digestive Activity during Germination                                                     | No            | No                  | No      |
 
-
-
-
 <!--- Old Table
 | Experiments                                                                               | Done in Class | Did Paper Write Up | Digitsed |
 |-------------------------------------------------------------------------------------------|---------------|--------------------|----------|

@@ -34,6 +34,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Have seperate page for each subject/chapter of other resources (Slides, videos, links etc.)
 ### Biology
+- Look at summer 2022 exam structure file that is on teams
 - Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
 - Add video link about each topic in biology.md
 - Ask teacher for missing digital slides
@@ -57,6 +58,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert physical biology cards on the circulatory system to notion and anki
 - Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
+- Go through and change "| 1 | 2 |" to "|  |  |" to have no useless number column headings
 - Look at exam preperation folder in Teams
 - Look at and put links of padlets into business.md
 - Look into chapter 23 and business ethics and how to merge them/get rid of business ethics
