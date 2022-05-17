@@ -68,6 +68,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Page 257 & 258 Business plan and importance of a Business plan into digital notes
 - Look into finding "Down to Business" textbook slides, teacher uses in class
 ### Computer Science
+- Add python reference guide (the one we can use during the computer science exam) to somewhere in notes
 - Take all my code from class and put into Notion as “Code Examples”
 - ASCII vs Unicode card and voice message Cathal sent me
 - Convert hexadecimal cards

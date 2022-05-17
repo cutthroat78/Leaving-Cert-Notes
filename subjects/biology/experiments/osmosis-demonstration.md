@@ -30,7 +30,12 @@
 
 ## Results
 
-[Results:](Osmosis%20De%206e1f8/Results%2016ec0.csv)
+|Tube Contents   |Turgidity at Start|Turgidity after test period|Mass at start (g)|Mass after test period (g)|
+|----------------|------------------|---------------------------|-----------------|--------------------------|
+|Sucrose Solution|floppy            |hard                       |41.7g            |45.5g                     |
+|Distilled Water |floppy            |floppy                     |29.9g            |30.2g                     |
+
+
 
 ## Conclusion
 

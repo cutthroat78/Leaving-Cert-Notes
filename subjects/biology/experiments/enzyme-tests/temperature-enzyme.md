@@ -33,18 +33,24 @@
 
 ## Labelled Diagram
 
-![20211128_180349.jpg](Effect%20of%20%208a858/20211128_180349.jpg)
+![Labelled Diagram 1](temperature-enzyme/1.jpg)
 
-![20211128_180346.jpg](Effect%20of%20%208a858/20211128_180346.jpg)
+![Labelled Diagram 2](temperature-enzyme/2.jpg)
 
 ## Results
 
-[Results:](Effect%20of%20%20688a9/Results%20f8c79.csv)
+|Temperature (°C)|Initial Volume (cm³)|Final Volume (cm³)|Volume of Foam (cm³)|
+|----------------|--------------------|------------------|--------------------|
+|Ice Water       |22ml                |28ml              |6ml                 |
+|20°C              |21ml                |22ml              |1ml                 |
+|30°C              |21ml                |39ml              |18ml                |
+|50°C              |28ml                |30ml              |2ml                 |
+|60°C              |43ml                |58ml              |15ml                |
+
 
 ## Conclusion
 
 We have found out that enzyme activity is different depending on the temperature level and that enzyme activity is highest when there is a temperature of 30 degrees with 18ml of foam and lowest when there is a temperature of 20 degrees with 1ml of foam.
 
-![line-graph.png](Effect%20of%20%20688a9/line-graph.png)
-
-[The Info on the "How to" Handout](Effect%20of%20%20688a9/The%20Info%20o%20bfc8e.md)
+## Graph
+![Line Graph](temperature-enzyme/line-graph.png)

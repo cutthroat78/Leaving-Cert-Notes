@@ -1,6 +1,7 @@
 # Biology
 The Study of Living Organisms
 - [Syllabus & Exam Structure](syllabus-and-exam-structure.md)
+- [Study and Exam Tips (From Teachers)](tips.md)
 ## Unit 1 - The Study of Life
 - [Video Playlist for Unit 1](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
 - [(A Search for a) Definition of Life & Characteristics of Life](unit-1/a-search-for-a-definition-of-life.md) - [Slides](slides/unit-1/characteristics-of-life.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/characteristics-of-life.md)
@@ -28,20 +29,20 @@ The Study of Living Organisms
 - [Breathing System]() - [Slides](slides/unit-3/breathing-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/breathing-system.md)
 - [Excretion]() - [Slides (Poster)](slides/unit-3/excretion.pdf)
 ## Experiments
-- [Plant (Onion) Cells](experiments/)
-- [Osmosis Demonstration](experiments/)
-- [Heart Dissection](experiments/)
-- [Breathing Rate](experiments/)
+- [Plant (Onion) Cells](experiments/plant-onion-cells.md)
+- [Osmosis Demonstration](experiments/osmosis-demonstration.md)
+- [Heart Dissection](experiments/heart-dissection.md)
+- [Breathing Rate](experiments/breathing-rate.md)
 #### Food Tests
 - [A Test for Starch](experiments/food-tests/starch.md)
 - [A Test for Protein](experiments/food-tests/protein.md)
 - [A Test for Fat](experiments/food-tests/fat.md)
 - [A Test for Reducing Sugar](experiments/food-tests/reducing-sugar.md)
 #### Enzyme Tests
-- [Effect of pH on Enzyme Activity](experiments/)
-- [Effect of Temperature on Enzyme Activity](experiments/)
-- [Effect of Heated Denaturation on Enzyme Activity](experiments/)
-- [Enzyme Immobilisation](experiments/)
+- [Effect of pH on Enzyme Activity](experiments/enzyme-tests/pH-enzyme.md)
+- [Effect of Temperature on Enzyme Activity](experiments/enzyme-tests/temperature-enzyme.md)
+- [Effect of Heated Denaturation on Enzyme Activity](experiments/enzyme-tests/enzyme-immobilisation.md)
+- [Enzyme Immobilisation](experiments/enzyme-tests/enzyme-immobilisation.md)
 
 | Experiments                                                                               | Done in Class | Did Paper Write Up | Digitsed |
 |-------------------------------------------------------------------------------------------|---------------|--------------------|----------|
@@ -73,36 +74,3 @@ The Study of Living Organisms
 | IAA as a Growth Regulator                                                                 | No            | No                  | No      |
 | Germination                                                                               | No            | No                  | No      |
 | Digestive Activity during Germination                                                     | No            | No                  | No      |
-
-<!--- Old Table
-| Experiments                                                                               | Done in Class | Did Paper Write Up | Digitsed |
-|-------------------------------------------------------------------------------------------|---------------|--------------------|----------|
-| Testing Food for Starch                                                                   | Yes           | Yes                | Yes      |
-| Testing Food for Reducing Sugar                                                           | Yes           | Yes                | Yes      |
-| Testing Food for Fat                                                                      | Yes           | Yes                | Yes      |
-| Testing Food for Protein                                                                  | Yes           | Yes                | Yes      |
-| Identifying Flora and Fauna using keys                                                    | No            | No                 | No       |
-| Identify a variety of Habitats                                                            | No            | No                 | No       |
-| Identify and use various apparatus required for collection methods in an Ecological study | No            | No                 | No       |
-| "Quantitative Survey: Plants, Methods: _"                                                 | No            | No                 | No       |
-| "Quantitative Survey: Animals, Methods: _"                                                | No            | No                 | No       |
-| "Investigating Abiotic Factors, Factors: 1. 2. 3."                                        | No            | No                 | No       |
-| Looking at Animal (cheek) cells                                                           | No            | No                 | No       |
-| (Using the microscope &) Looking at Plant Cells                                           | Yes           | Yes                | Yes      |
-| pH and Enzyme Activity                                                                    | Yes           | Yes                | Yes      |
-| Temp and Enzyme Activity                                                                  | Yes           | Yes                | Yes      |
-| Enzyme Denaturation                                                                       | Yes           | No                 | No       |
-| Enzyme Immobilisation                                                                     | Yes           | No                 | No       |
-| Osmosis                                                                                   | Yes           | No                 | No       |
-| Photosynthesis                                                                            | No            | No                 | No       |
-| Fermentation of Alcohol                                                                   | No            | No                 | No       |
-| Isolating DNA                                                                             | No            | No                 | No       |
-| Leaf Yeast Growth                                                                         | No            | No                 | No       |
-| Heart Dissection                                                                          | Yes           | No                 | No       |
-| Exercise and the Pulse Rate                                                               | No            | No                 | No       |
-| Exercise and the Breathing Rate                                                           | Yes           | No                 | No       |
-| TS of a Dicot Stem                                                                        | No            | No                 | No       |
-| IAA as a Growth Regulator                                                                 | No            | No                 | No       |
-| Germination                                                                               | No            | No                 | No       |
-| Digestive Activity during Germination                                                     | No            | No                 | No       |
--->
