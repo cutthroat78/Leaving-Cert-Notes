@@ -214,5 +214,11 @@ Two examples are:
 - Strife theme begins to emerge as the music leads into a development section in the recapitulation
 - Tutti orchestra unites to increase the tension as the climax to the entire overture is reached. Climax is marked fff (bar 473) and consists of fragments of the Strife and Love themes. It ends in dominant F Sharp, timpani roll with bassoons + lower strings also
 
-### Coda
-- 
+### Coda (Ending)
+- Bars 485 - 522
+- Key = B Major
+- Tempo-Moderato assai (moderate speed)
+- The "funeral" scene has a calm mood
+- Triplet timpani ostinato rhythms open the quiet coda section
+- Love theme played in minor mode by bassoon, viola and Cello giving a sense of final tradegy. This is followed by the full woodwind section playing Friar Lawrence's chorale
+- A final renditon of the Love theme is heard high in the strings before the overture finishes with loud tutti syncopated tonic major chords over a timpani rolls
