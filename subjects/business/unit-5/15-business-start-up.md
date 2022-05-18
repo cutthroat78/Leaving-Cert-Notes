@@ -33,7 +33,7 @@
 | Debt   | Money we owe            |
 | Equity | What we own e.g Profits |
 
-## Types of Production 
+## Types of Production
 (From Teacher)
 
 | Term             | Definition                                                                                                     |
@@ -45,8 +45,8 @@
 ## Production Options 
 (From Slides)
 
-| Type        | Explanation                                                                         | Features of Process                                                                 |
-|-------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Type | Explanation | Features of Process |
+|-|-|-|
 | Job         | Specific product made to meet a consumer’s needs, e.g. a wedding dress              | Specialised/expensive labour, flexible machinery, premium price, slow process       |
 | Batch       | Production of a limited quantity of identical products, e.g. a batch of Maths books | One batch at a time (same size, shape, colour), semi-skilled labour, made for stock |
 | Mass (flow) | Continuous production of the same item, e.g. toilet paper, biros                    | Items used up regularly, lower labour needs, highly automated, made for stock       |
@@ -95,13 +95,13 @@
 ## Business Plan 
 (More about this on Page 257 & 258 of Textbook)
 
-| Term             | Definition                                                                                                                                                                 |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Business Details | Outlines the objective for the business (mission statement), vision, location and ownership type (e.g. partnership or limited company)                                     |
-| Market Analysis  | Research on the size of the market, different segments and characteristics of the chosen target market                                                                     |
-| Marketing Plan   | 4 Ps for a good/service: - Product: USP, branding - Place: channel of distribution - Price: strategy (e.g. premium, penetration) - Promotion: advertising, sales promotion |
-| Production Plan  | Time/labour/materials/machinery required for production (per unit) Production process: job/batch/mass                                                                      |
-| Financial Plan   | Cash flow forecast, long-term finance (debt/equity), break-even analysis                                                                                                   |
+| Term | Definition
+|-|-|
+| Business Details | Outlines the objective for the business (mission statement), vision, location and ownership type (e.g. partnership or limited company) |
+| Market Analysis | Research on the size of the market, different segments and characteristics of the chosen target market |
+| Marketing Plan | 4 Ps for a good/service: <ul><li>Product: USP, branding</li><li>Place: channel of distribution</li><li>Price: strategy (e.g. premium, penetration) </li><li>Promotion: advertising, sales promotion</li></ul> |
+| Production Plan | Time/labour/materials/machinery required for production (per unit) Production process: job/batch/mass |
+| Financial Plan | Cash flow forecast, long-term finance (debt/equity), break-even analysis |
 
 ## Importance of a Business Plan for an Entrepreneur
 

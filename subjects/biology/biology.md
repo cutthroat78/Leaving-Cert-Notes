@@ -33,6 +33,7 @@ The Study of Living Organisms
 - [Osmosis Demonstration](experiments/osmosis-demonstration.md)
 - [Heart Dissection](experiments/heart-dissection.md)
 - [Breathing Rate](experiments/breathing-rate.md)
+- [Ecology Module](experiments/ecology-module.md)
 #### Food Tests
 - [A Test for Starch](experiments/food-tests/starch.md)
 - [A Test for Protein](experiments/food-tests/protein.md)
