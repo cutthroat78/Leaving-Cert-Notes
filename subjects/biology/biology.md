@@ -56,9 +56,9 @@ The Study of Living Organisms
 | Identify and use various apparatus required for collection methods in an Ecological study | Yes           | No                  | No      |
 | "Quantitative Survey: Plants, Methods: Quadrat"                                           | Yes           | No                  | No      |
 | "Quantitative Survey: Animals, Methods: Capture/Recapture Technique"                      | Yes           | No                  | No      |
-| "Investigating Abiotic Factors, Factors: 1. Light (lux) x 10³ 2. Soil Temperature (°C) 3. Air Temperature (°C) 4. Soil pH" | Yes           | No                 | No       |
+| "Investigating Abiotic Factors, Factors: 1. Light (lux) x 10³ 2. Soil Temperature (°C) 3. Air Temperature (°C) 4. Soil pH" | Yes | No  | No |
 | Looking at Animal (cheek) cells                                                           | No            | No                  | No      |
-| (Using the microscope &) Looking at Plant Cells                                           | Yes           | Yes                 | No      |
+| (Using the microscope &) Looking at Plant Cells                                           | Yes           | Yes                 | Yes     |
 | pH and Enzyme Activity                                                                    | Yes           | Yes                 | No      |
 | Temp and Enzyme Activity                                                                  | Yes           | Yes                 | No      |
 | Enzyme Denaturation                                                                       | Yes           | Yes                 | No      |

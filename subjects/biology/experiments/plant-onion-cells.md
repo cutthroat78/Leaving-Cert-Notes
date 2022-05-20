@@ -33,13 +33,13 @@
 12. Repeat the above steps using iodine stain instead of water
 13. Draw labelled diagrams at low power (x40) and at high power (x400)
 
-## Labelled Diagram
+## Labelled Diagrams
 
-![Labelled Diagram 1](Plant%20(Oni%201c938/20211006_145748.jpg)
+![Labelled Diagram 1](plant-onion-cells/diagram-1.jpg)
 
-![Labelled Diagram 2](Plant%20(Oni%201c938/20211006_145754.jpg)
+![Labelled Diagram 2](plant-onion-cells/diagram-2.jpg)
 
-![Labelled Diagram 3](Plant%20(Oni%201c938/20211006_145852.jpg)
+![Labelled Diagram 3](plant-onion-cells/diagram-3.jpg)
 
 ## Conclusion
 

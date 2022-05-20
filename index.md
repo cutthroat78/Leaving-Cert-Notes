@@ -48,19 +48,12 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
-| English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 11/05/2022 | No |
-| English | Do a question on the sheet, the teacher gave us | Wednesday, 11/05/2022 | No |
-| English | Finish off the uncle speaks in the drawing room file | Friday, 13/05/2022 | No |
-| English | Finish sample question for english homework | Wednesday, 18/05/2022 | No |
+| | | | |
 
 # Calendar
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Oral Exams Start | | Tuesday, 17/05/2022 | |
-| Trip to Belfast | Costs €15, We will be going to [W5](https://w5online.co.uk/) and [The Titanic Museum](https://www.titanicbelfast.com/) and be getting food on the way back from Belfast. | Thursday, 19/05/2022 | Leaving the School at 08:45 AM and Returning at 7 PM |
-| Sports Day | | Friday, 20/05/2022 | |
 | Summer Exams Start | Could possibly change date, it is planned that have between 1 and 2 exams each day | Monday, 23/05/2022 | |
 | Return to School 2022 | The date for this is a **GUESS** I made from previous years dates | 23/08/2022 - 05/09/2022| |
 | Leaving Cert Exams Start | The date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
@@ -68,10 +61,9 @@
 <!--
 # Calendar Archive
 ## 5th Year
-| Biology | Do next two pages of respiration question booklet (ecology field trip question and fermentation question) | Tuesday, 17/05/2022 | No |
-| Biology | Do all Ecology Exam Questions | Monday, 16/05/2022 | No |
-| Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
-| Biology | Finish write up | Monday, 16/05/2022 | Yes |
+| French Oral Exams Start | | Tuesday, 17/05/2022 | |
+| Trip to Belfast | Costs €15, We will be going to [W5](https://w5online.co.uk/) and [The Titanic Museum](https://www.titanicbelfast.com/) and be getting food on the way back from Belfast. | Thursday, 19/05/2022 | Leaving the School at 08:45 AM and Returning at 7 PM |
+| Sports Day | | Friday, 20/05/2022 | |
 | French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
 | Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 | |
 -->
@@ -79,6 +71,15 @@
 <!--
 # Homework Archive
 ## 5th Year
+| English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
+| English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 11/05/2022 | No |
+| English | Do a question on the sheet, the teacher gave us | Wednesday, 11/05/2022 | No |
+| English | Finish off the uncle speaks in the drawing room file | Friday, 13/05/2022 | No |
+| English | Finish sample question for english homework | Wednesday, 18/05/2022 | No |
+| Biology | Do next two pages of respiration question booklet (ecology field trip question and fermentation question) | Tuesday, 17/05/2022 | No |
+| Biology | Do all Ecology Exam Questions | Monday, 16/05/2022 | No |
+| Biology | Do all learning check questions on respiration slides | Monday, 16/05/2022 | No |
+| Biology | Finish write up | Monday, 16/05/2022 | Yes |
 | Computer Science Test | No info yet | ? | |
 | Biology | Finish Ecology Booklet | Tuesday, 10/05/2022 | Yes |
 | Biology | Do Question 11, Ecology Exam Question | Tuesday, 03/05/2022 | No |
