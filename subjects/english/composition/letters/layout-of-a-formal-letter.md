@@ -1,6 +1,6 @@
 # Layout of a Formal Letter
 
-# Convert this to steps
+<!--Convert this to steps-->
 
 ![Formal Letter](formal-letter.png)
 
@@ -19,8 +19,8 @@ Dear Sir/Madam / Mr/Ms {name}, (← salutation)
 ```
 ---
 
-If you start the letter with Dear Sir/Madam you MUST sign off "Your sincerely". If you start with Mr or Ms {name} then you sign off "Yours faithfully".
+If you start the letter with Dear Sir/Madam you MUST sign off with "Your sincerely". If you start with Mr or Ms {name} then you sign off with "Yours faithfully".
 
-The language used in formal letter should be formal, proper English. 
+The language used in formal letter should be formal, proper English.
 
 There should be at least 3 paragraphs in a formal letter.

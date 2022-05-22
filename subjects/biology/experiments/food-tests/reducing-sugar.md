@@ -38,5 +38,3 @@
 ## Conclusion
 
 We found out that Benedict's Solution goes red when it is mixed with a reducing sugar and we have learned that 7UP has sugar in it
-
-[The Info on the "How to" Handout](A%20Test%20for%20f9637/The%20Info%20o%200abd1.md)

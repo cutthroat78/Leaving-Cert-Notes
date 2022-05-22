@@ -1,3 +1,0 @@
-# Canine
-
-Function: ripping/tearing

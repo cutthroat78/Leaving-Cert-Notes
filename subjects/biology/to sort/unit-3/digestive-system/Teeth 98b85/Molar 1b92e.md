@@ -1,3 +1,0 @@
-# Molar
-
-Function: chewing/grinding

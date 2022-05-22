@@ -21,7 +21,7 @@
 | French | 9:30 AM - 12:00 PM | Tuesday, 24/05/2022 | 2 Hours and 30 Minutes |
 | Maths Paper 1 | 12:30 PM - 2:00 PM | Tuesday, 24/05/2022 | 1 Hour and 30 Minutes |
 | Business | 9:30 AM - 12:00 PM | Wednesday, 25/05/2022 | 2 Hours and 30 Minutes |
-| Phys/Chem | 12:30 PM - 2:00 PM | Wednesday, 25/05/2022 | 1 Hour and 30 Minutes | 
+| Phys/Chem | 12:30 PM - 2:00 PM | Wednesday, 25/05/2022 | 1 Hour and 30 Minutes |
 | Biology | 9:30 AM - 12:00 PM  | Thursday, 26/05/2022 | 2 Hours and 30 Minutes (Might Become 2 Hours) |
 | English Paper 2 | 12:30 PM - 2:30 PM | Thursday, 26/05/2022 | 2 Hours |
 | Woodwork | 9:30 AM - 11:30 AM | Friday, 27/05/2022 | 2 Hours |
@@ -54,8 +54,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Summer Exams Start | Could possibly change date, it is planned that have between 1 and 2 exams each day | Monday, 23/05/2022 | |
-| Return to School 2022 | The date for this is a **GUESS** I made from previous years dates | 23/08/2022 - 05/09/2022| |
+| Return to School 2022 | The date for this is a **GUESS** I made from previous years dates | 23/08/2022 - 05/09/2022 | |
 | Leaving Cert Exams Start | The date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
 <!--

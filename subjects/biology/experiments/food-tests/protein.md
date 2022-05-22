@@ -32,5 +32,3 @@
 ## Conclusion
 
 We found out that when Biuret is added to protein it turns lilac! Protein is present in milk
-
-[The Info on the "How to" Handout](A%20Test%20for%20f50b5/The%20Info%20o%20d279d.md)

@@ -1,6 +1,6 @@
 # Layout of an Informal/Personal Letter
 
-# Convert this to steps
+<!--Convert this to steps-->
 
 ![Informal Letter](informal-letter.png)
 

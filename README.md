@@ -30,22 +30,22 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
   - Use image occlusion cards to learn diagrams
 ## To Dos
+- Get rid of summer exam files and links in {subject}.md files after exams are done
+- Try and get rid of sub title on github pages website, so the top takes up less space
 - Find out how to link to certain parts of same and other pages, so that I can make key words and words in leaving cert notes link to other pages and parts of pages (So if you can't remember what a term means you can re-read what it means)
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Have seperate page for each subject/chapter of other resources (Slides, videos, links etc.)
 ### Biology
 - Look at summer 2022 exam structure file that is on teams
 - Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
-- Add video link about each topic in biology.md
-- Ask teacher for missing digital slides
+- Add video(s) link about each topic in biology.md "- [Video(s)]()"
 - Get enzyme diagrams for enzyme pages
 - Make my own Unit YouTube playlists of videos
 - Go through all sections to see if they have their diagrams
-- Move school slides to page with download links to all of them
 - Simplify notes but keep same info (go for better structure with headings)
 - Go through notes and create links to different parts of hardback
 - Mark diagrams I need to know for Biology course (one that you have to draw for the test)
-- Put tips and tricks on christmas exam guide into a (non-christmas) page in the biology hardback
+- Put tips and tricks on christmas exam guide into a (non-christmas) page in the biology notes
 - Get animated (heart) gifs from circulatory system slides (I can’t figure out how to copy or export them). [Possibly helpful link](https://windowsreport.com/save-animated-gif-from-powerpoint/)
 
 #### Convert
@@ -73,6 +73,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - ASCII vs Unicode card and voice message Cathal sent me
 - Convert hexadecimal cards
 ### English
+- Maybe move dolls house example question to example questions folder (and have link to file in both dolls house section and example questions section in english.md)
 - Look at this [resource](https://engzone.weebly.com/)
 - poetry cards will have a cloze for each line (to learn entire poem)
 - get and convert 5 languages of writing notes
@@ -84,6 +85,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
+- Look through **ALL** files in french teams
 - Convert french wow! phrases in teams to markdown to put in to leaving cert notes
 - Add an example to Past Tense page
 - Write difference between future tenses into digital notes
@@ -135,9 +137,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | Chapter/Section                                | Paper Slides     | Slides |
 |------------------------------------------------|------------------|--------|
 | the circulatory system                         | No               | No     |
-| Movement of Molecules Across Cell Membranes    | Yes              | No     |
 | Homeostasis                                    | No               | No     |
-| The Breathing System                     | No               | No     |
+| The Breathing System                           | No               | No     |
 | Ecology                                        | No               | No     |
 | Environmental Factors                          | No               | No     |
 | Nutrient Recycling                             | No               | No     |
@@ -152,6 +153,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | skeletal system                                | Yes              | Yes    |
 | the digestive system                           | Yes              | Yes    |
 | enzymes and metabolism                         | Yes              | Yes    |
+| Movement of Molecules Across Cell Membranes    | Yes              | Yes    |
+| Excretion                                      | Yes              | Yes    |
 -->
 
 ## Business Notes

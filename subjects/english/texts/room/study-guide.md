@@ -1,6 +1,6 @@
 # Study Guide
 
-[Study Guide for Room](study-guide.pdf)
+[Study Guide (from Teacher) (Including Questions)](study-guide.pdf)
 
 ## Background
 

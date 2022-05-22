@@ -1,3 +1,0 @@
-# Premolar
-
-Function: chewing/grinding

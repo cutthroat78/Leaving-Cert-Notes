@@ -1,6 +1,6 @@
 # Marking Criteria
 
-### What Questions are marked on:
+## What Questions are marked on
 
 P ⇒ Clarity of purpose, relevant, focused, clear and understood genre
 
@@ -10,7 +10,7 @@ L ⇒ Efficiency of language management, vocabulary, syntax, sentence patterns, 
 
 M ⇒ Accuracy of mechanics spelling and grammar
 
-### If a question is worth 100 marks (For if you have a spelling waver):
+## If a question is worth 100 marks (Numbers in Brackets are for if you have a spelling waver)
 
 P = 30 (35)
 
@@ -20,7 +20,7 @@ L = 30 (30)
 
 M = 10
 
-### If a question is worth 50 marks:
+## If a question is worth 50 marks
 
 P+C = 30
 

@@ -1,5 +1,6 @@
 # Essay Structure
-## Steps:
+## Steps
+
 1. Begin with an anecdote/quote
 2. Make an observation based on that anecdote/quote
 3. Reflect on what the observation says about the human condition: move from the personal to the universal

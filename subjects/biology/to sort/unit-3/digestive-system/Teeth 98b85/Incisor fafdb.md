@@ -1,3 +1,0 @@
-# Incisor
-
-Function: biting
