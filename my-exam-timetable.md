@@ -2,7 +2,6 @@
 
 | Exam | Time | Date | Exam Length |
 |-|-|-|-| 
-| English Paper 1 | 12:30 PM - 2:00 PM | Monday, 23/05/2022 | 1 Hour and 30 Minutes |
 | French | 9:30 AM - 12:00 PM | Tuesday, 24/05/2022 | 2 Hours and 30 Minutes |
 | Maths Paper 1 | 12:30 PM - 2:00 PM | Tuesday, 24/05/2022 | 1 Hour and 30 Minutes |
 | Business | 9:30 AM - 12:00 PM | Wednesday, 25/05/2022 | 2 Hours and 30 Minutes |

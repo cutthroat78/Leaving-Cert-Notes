@@ -16,9 +16,7 @@
 
 | Exam | Time | Date | Exam Length |
 |-|-|-|-| 
-| Geography/Art | 9:30 AM - 11:30 AM | Monday, 23/05/2022 | 2 Hours |
-| English Paper 1 | 12:30 PM - 2:00 PM | Monday, 23/05/2022 | 1 Hour and 30 Minutes |
-| French | 9:30 AM - 12:00 PM | Tuesday, 24/05/2022 | 2 Hours and 30 Minutes |
+| French (Engineering) | 9:30 AM - 12:00 PM (9:30 AM - 11:30 AM) | Tuesday, 24/05/2022 | 2 Hours and 30 Minutes (2 Hours) |
 | Maths Paper 1 | 12:30 PM - 2:00 PM | Tuesday, 24/05/2022 | 1 Hour and 30 Minutes |
 | Business | 9:30 AM - 12:00 PM | Wednesday, 25/05/2022 | 2 Hours and 30 Minutes |
 | Phys/Chem | 12:30 PM - 2:00 PM | Wednesday, 25/05/2022 | 1 Hour and 30 Minutes |
@@ -28,7 +26,6 @@
 | Music | 12:30 PM - 2:00 PM | Friday, 27/05/2022 | 2 Hours |
 | Irish/Computer Science | 9:30 AM - 12:00 PM | Monday, 30/05/2022 | 2 Hours and 30 Minutes |
 | Maths Paper 2 | 12:30 PM - 2:00 PM | Monday, 30/05/2022 | 1 Hour and 30 Minutes |
-| Engineering | 9:30 AM - 11:30 AM | Tuesday, 31/05/2022 | 2 Hours |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
