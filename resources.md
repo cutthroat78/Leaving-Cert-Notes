@@ -86,6 +86,6 @@
 ## Music
 ### Set Works A
 - [Spotify Playlist with All Studied Pieces of Music (Set A) (For Listening Exam)](https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link)
-<!--Add YouTube Playlist of music set works for A and maybe add other set works for other years-->
+<!--Add YouTube Playlist of music set works for A-->
 ## Physics
 - [The Physics Teacher](http://thephysicsteacher.ie/) - Website with Notes

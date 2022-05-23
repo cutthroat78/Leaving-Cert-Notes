@@ -1,6 +1,6 @@
 # 3: Non-Linear Equations
 
-![maths.png](3%20Non-Line%20c245b/maths.png)
+![maths.png](3-non-linear-equations/1.png)
 
 $$
 x^2+y^2=r^2

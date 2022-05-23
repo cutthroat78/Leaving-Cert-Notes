@@ -1,7 +1,15 @@
 # Music
-- [Exam Structure(s) and Marking]()
-- [Elements of Music]()
-- [The Orchestra]()
+- [Exam Structure(s) and Marking](exam-structure/exam-structure.md)
+  - [Performing Practical](exam-structure/performing-practical.md)
+- [Elements of Music](elements-of-music/elements-of-music.md)
+  - [Dynamics](elements-of-music/dynamics.md) 
+  - [Beat/Pulse/Tempo](elements-of-music/beat.md)
+  - [Melody](elements-of-music/melody.md)
+## [The Orchestra]()
+- [String Family]()
+- [Woodwind Family]()
+- [Brass Family]()
+- [Percussion Family]()
 ## Irish Music
 - [Traditional Features of Irish Music]()
 - [Traditional Instruments]()

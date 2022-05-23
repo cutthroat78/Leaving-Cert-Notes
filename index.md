@@ -6,7 +6,11 @@
 - French (Français): [Notes](subjects/french/french.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
 - Maths: [Notes](subjects/maths/maths.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
 - Music: [Notes](subjects/music/music.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
- 
+<!--
+ - Irish (Gaeilge): [Notes](subjects/irish/irish.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+ - Phys-Chem: [Notes](subjects/phys-chem/phys-chem.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+-->
+
 ---
 
 - [Study Methods & Tips](study.md)
@@ -26,21 +30,6 @@
 | Music | 12:30 PM - 2:00 PM | Friday, 27/05/2022 | 2 Hours |
 | Irish/Computer Science | 9:30 AM - 12:00 PM | Monday, 30/05/2022 | 2 Hours and 30 Minutes |
 | Maths Paper 2 | 12:30 PM - 2:00 PM | Monday, 30/05/2022 | 1 Hour and 30 Minutes |
-
-# Timetable
-(The time column doesn't apply to Wednesdays)
-
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-| --- | --- | --- | --- | --- | --- |
-| 8:50 | Tutorial | Tutorial | Woodwork/Biology (1/2) | Tutorial | Tutorial |
-| 9:00 | English | Irish/Computer Science | Woodwork/Biology (2/2) | Maths | English |
-| 9:50 | French/Engineering | Maths | Irish/Computer Science | Music/Phys-Chem/Art/Geography | Irish/Computer Science |
-| 10:50 | Maths | Music/Phys-Chem/Art/Geography | Break | English | Maths |
-| 11:50 | Break | Break | Business | Break | Break |
-| 12:30 | Woodwork/Biology | Business | French/Engineering | Irish/Computer Science | Business |
-| 13:30 | Business | Woodwork/Biology | English | Relation & Sexual Education | French/Engineering |
-| 14:30 | Music/Phys-Chem/Art/Geography | PE || French/Engineering | Music/Phys-Chem/Art/Geography |
-
 # Homework
 
 | Subject | What to Do | Due | Done? |
@@ -51,8 +40,8 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Return to School 2022 | The date for this is a **GUESS** I made from previous years dates | 23/08/2022 - 05/09/2022 | |
-| Leaving Cert Exams Start | The date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
+| Return to School 2022 | These dates are **GUESSES** I made from previous years dates | 23/08/2022 - 05/09/2022 | |
+| Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
 <!--
 # Calendar Archive
@@ -62,9 +51,8 @@
 | Sports Day | | Friday, 20/05/2022 | |
 | French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
 | Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 | |
--->
 
-<!--
+
 # Homework Archive
 ## 5th Year
 | English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
@@ -107,4 +95,18 @@
 - [ ] English - Write a paragraph on one of the Relationships in Room  - 01/04/2022
 - [ ] Biology - Workbook Page 113 Q 1 (part e of 1), 2, 3, 4, 5, 6, 7 - 05/04/2022
 - [ ] Biology - Study definitions scientific method - 05/04/2022
+
+# 5th Year Timetable
+(The time column doesn't apply to Wednesdays)
+
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+| --- | --- | --- | --- | --- | --- |
+| 8:50 | Tutorial | Tutorial | Woodwork/Biology (1/2) | Tutorial | Tutorial |
+| 9:00 | English | Irish/Computer Science | Woodwork/Biology (2/2) | Maths | English |
+| 9:50 | French/Engineering | Maths | Irish/Computer Science | Music/Phys-Chem/Art/Geography | Irish/Computer Science |
+| 10:50 | Maths | Music/Phys-Chem/Art/Geography | Break | English | Maths |
+| 11:50 | Break | Break | Business | Break | Break |
+| 12:30 | Woodwork/Biology | Business | French/Engineering | Irish/Computer Science | Business |
+| 13:30 | Business | Woodwork/Biology | English | Relation & Sexual Education | French/Engineering |
+| 14:30 | Music/Phys-Chem/Art/Geography | PE || French/Engineering | Music/Phys-Chem/Art/Geography |
 -->

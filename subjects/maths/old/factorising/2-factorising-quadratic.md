@@ -13,4 +13,4 @@ $$
 
 ## Method 2: Use -B Formula
 
-![Untitled](2%20Factoris%202df22/Untitled.png)
+![Use -B Formula](2-factorising-quadratic/1.png)

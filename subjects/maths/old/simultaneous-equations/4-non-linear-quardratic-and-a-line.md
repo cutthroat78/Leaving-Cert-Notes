@@ -1,6 +1,6 @@
 # 4: Non-Linear Quadratic and a Line
 
-# RARE
+**RARE**
 
 $$
 y=x^2+2x-3\hspace{0.1cm}....(1)

@@ -28,7 +28,7 @@
 | mesurer | to measure (used to say how tall someone is) |
 | Je mesure _ cm | I am _ cm tall |
 | les poids | weight |
-| Je pèse 60 kilos | I weigh 60 kilograms |
+| Je pèse _ kilos | I weigh _ kilograms |
 
 ## Personality Adjectives
 ### Qualities

@@ -14,18 +14,16 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ## Links to help make/edit notes
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
 ## Plan
-1. Convert and setup the notion export and sort all that out
+1. Convert, setup and fix the notion export and sort all that out
   - Biology
   - Biology Experiments
-  - Business
   - Computer science
   - English
-  - French
   - Music
-  - Maths
-2. Fix and put all links into index.md
-3. Convert all Biology paper and digital slides
-4. Start converting all notes to anki
+2. Convert paper and all other notes into digital
+3. Fix and put all links into index.md
+4. Convert all Biology paper and digital slides
+5. Start converting all notes to anki
   - Convert tables to standard cards (with or without reverse), if the table is hard to study with standard cards use cloze cards
   - Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
   - Use image occlusion cards to learn diagrams

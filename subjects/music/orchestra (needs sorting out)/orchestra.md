@@ -16,7 +16,7 @@ The role of the conductor is to ensure all players play together to create the c
 
 They also encourages the orchestra to play with the same kind of feeling
 
-## 4 Families of the Orchestra:
+## 4 Families of the Orchestra
 - [String Family]()
 - [Woodwind Family]()
 - [Brass Family]()
