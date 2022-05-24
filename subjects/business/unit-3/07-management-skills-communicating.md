@@ -71,7 +71,7 @@ This the transfer of information from the business to its stakeholders.Stakehold
 - Conclusion
     - Salutation: ‘Yours sincerely’ (if you know their name) OR ‘Yours faithfully’ (if you don’t know their name)
 
-![Business Letter](images/07/business-letter.png)
+![Business Letter](07-management-skills-communicating/business-letter.png)
 
 ## Important elements of a report
 
@@ -84,13 +84,13 @@ This the transfer of information from the business to its stakeholders.Stakehold
 - Recommendation/conclusion
 - Signature/job title
 
-![Elements of a report](images/07/elements-of-report.png)
+![Elements of a report](07-management-skills-communicating/elements-of-report.png)
 
 ## What a memo looks like and what is needed
 
 In the 2009 exam, 6 out of 10 marks were for layout of the memo
 
-![Memo](images/07/memo.png)
+![Memo](07-management-skills-communicating/memo.png)
 
 ### Types of Business Meetings
 

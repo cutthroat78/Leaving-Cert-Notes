@@ -18,8 +18,8 @@
 
 ### Sole Trader
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Formation|Start straight away in own name or register name with CRO                                                                                                                   |
 |Liability|Unlimited liability - All debts can be recovered from personal belongings                                                                                                   |
 |Finance  |Limited to their savings or their ability to access loans, which can be difficult if they are a new business with no history - LEO (Local Enterprise Office) can give grants|
@@ -50,8 +50,8 @@
 
 ### Partnership
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Formation|Form LP1 must be completed by CRO - a deed of partnership is signed                                                                                                         |
 |Liability|Unlimited Liability                                                                                                                                                         |
 |Finance  |Between 2 and 20 partners can invest their savings, plus loans                                                                                                              |
@@ -84,8 +84,8 @@ A partnership is automatically dissolved when a single partner dies
 
 ### Private Limited Company (Ltd/CLS)
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Formation|Must create a constitution, then CRO issues a certificate of incorporation                                                                                                   |
 |Liability|Shareholders of a private limited company have limited liability - on bankruptcy, only lose the value of their investment                                                   |
 |Finance  |Shares can be sold up to a maximum of 149 shareholders                                                                                                                      |
@@ -136,8 +136,8 @@ A partnership is automatically dissolved when a single partner dies
 
 ### Co-operative
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Formation|At least seven members apply to the Registrar of Friendly Societies                                                                                                         |
 |Liability|Members of co-ops have the protection of limited liability                                                                                                                  |
 |Finance  |Members receive a share of the profits in proportion to turnover                                                                                                            |
@@ -244,8 +244,8 @@ Irish-owned, locally based business that are established, owned and managed by I
 - Reduce our reliance on FDI (Foreign Direct Investment)
 - Increase Ireland’s export levels, if the companies sell abroad (improve our balance of payments)
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Liability|Move from unlimited to limited liability (e.g. sole trader to Ltd/CLS)                                                                                                      |
 |Continuity|Company ceases to exist on death of owner in sole trader or partnership, but not in Ltd/CLS                                                                                 |
 |Expansion|Access to capital (e.g. partnership can have 2–20 investors, but Ltd/CLS can have up to 149 investors)                                                                      |

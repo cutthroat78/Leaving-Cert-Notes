@@ -1,17 +1,17 @@
 # Business
 - [Answering Exam Questions](answering-exam-questions.md)
-## Unit 1: Introduction to People in Business
+## Unit 1: Introduction to People in Business - [Padlet](https://padlet.com/grahammaher/wh79o1thg564lb9t)
 - [1. People in Business](unit-1/01-people-in-business.md) - [Slides](slides/unit-1/01-people-in-business.pdf)
 - [2. Consumer Conflict](unit-1/02-consumer-conflict.md) - [Slides](slides/unit-1/02-consumer-conflict.pdf)
 - [3. Industrial Relations](unit-1/03-industrial-relations.md) - [Slides](slides/unit-1/03-industrial-relations.pdf)
-## Unit 2: Enterprise
+## Unit 2: Enterprise - [Padlet](https://padlet.com/grahammaher/iru76064p0y8kw6c)
 - [4. Enterprise]() - [Slides]() - Not Covered Yet
-## Unit 3: Managing 1
+## Unit 3: Managing 1 - [Padlet](https://padlet.com/grahammaher/a4nstr4e7hl3bfvn)
 - [5. Introduction to Management](unit-3/05-introduction-to-management.md) - [Slides](slides/unit-3/05-introduction-to-management.pdf)
 - [6. Management Skills: Leading and Motivating](unit-3/06-management-skills-leading-and-motivating.md) - [Slides](slides/unit-3/06-management-skills-leading-and-motivating.pdf)
 - [7. Management Skills: Communicating](unit-3/07-management-skills-communicating.md) - [Slides](slides/unit-3/07-management-skills-communicating.pdf)
 - [8. Management Activities: Planning, Organising and Controlling]() - [Slides]() - Not Covered Yet
-## Unit 4: Managing 2
+## Unit 4: Managing 2 - [Padlet](https://padlet.com/grahammaher/57e1gvfiqilh7bzk)
 - [9. Human Resource Management]() - [Slides]() - Not Covered Yet
 - [10. Managing Change]() - [Slides]() - Not Covered Yet
 - [11. Insurance and Taxation]() - [Slides]() - Not Covered Yet

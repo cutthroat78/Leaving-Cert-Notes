@@ -22,8 +22,8 @@
 
 ## The Marketing Mix
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Product  |Looking at the different elements a good/service has: its branding, packaging, design, functions, form, quality and product life cycle                                      |
 |Price    |Pricing strategies a business can use to sell a good/service and the factors that can impact the selling price of the item                                                  |
 |Promotion|All actions used to increase sales: advertising, sales promotions, public relations, personal selling                                                                       |
@@ -32,8 +32,8 @@
 
 ## Product
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |USP (Unique Selling Point)|Sets a product apart, differentiates it                                                                                                                                     |
 |Branding |Product name, design, logo, slogan, shape, form, packaging (to identify it)                                                                                                 |
 |Branding (Benefits)|Differentiates; can advertise a brand (rather than a product); can charge higher prices; can target different segments; the brand becomes the product (e.g. Dyson)          |
@@ -44,20 +44,20 @@
 
 ### Product Life Cycle
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Introduction|Product launched, sales low, advertising increases product awareness                                                                                                        |
 |Growth   |Brand awareness increases, sales rise as more customers buy the product                                                                                                     |
 |Maturity |Sales reach peak, product is established, business defends its market share                                                                                                 |
 |Saturation|Sales level off and start to decline, market has new entrants                                                                                                               |
 |Decline  |Sales fall, promotions cease, product may be phased out, goods are sold off at low prices                                                                                   |
 
-![Product Life Cycle](images/17/product-life-cycle.png)
+![Product Life Cycle](17-the-market-mix/product-life-cycle.png)
 
 ### Extending the product life cycle (4 P’s)
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Product  |Introduce new design, flavours or different packets/containers                                                                                                              |
 |Place    |Find a new channel of distribution (e.g. online)                                                                                                                            |
 |Price    |Change pricing strategy (e.g. lower prices)                                                                                                                                 |
@@ -91,10 +91,10 @@
 #### Benefits of Branding for a Consumer
 
 - Gives confidence and peace of mind
-    - When a consumer chooses a recognised brand, they might pay more for it, but feel more conﬁdence in the brand. The consumer might think it is safer to choose a well-known brand when buying an expensive item or a new type of good they have not used before
+    - When a consumer chooses a recognised brand, they might pay more for it, but feel more confidence in the brand. The consumer might think it is safer to choose a well-known brand when buying an expensive item or a new type of good they have not used before
         - A consumer might be happier to pay more for an Apple iPhone than a Sony mobile phone, as they know Apple is a popular brand in that market, so they would not worry as much about their decision to spend a lot of money
 - Helps to judge a product
-    - Brands help consumers to judge the expected quality or performance of diﬀerent options. They can use branding to judge how long a product might last or if it is value for money. The country in which a brand is produced could also inﬂuence the consumer
+    - Brands help consumers to judge the expected quality or performance of different options. They can use branding to judge how long a product might last or if it is value for money. The country in which a brand is produced could also influence the consumer
         - Parma ham from Italy might be seen as superior to other hams, or French perfume superior to that of other countries
 - Makes it easier to choose
     - A consumer is faced with so many decisions in a grocery or retail store. Easily recognisable logos and packaging can make decisions more straightforward, as certain brands are associated with a positive value, characteristic or position
@@ -110,8 +110,8 @@
 
 ## Price (different pricing strategies)
 
-|1        |2                                                                                                                                                                           |Example          |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| | | Example |
+|-|-|-|
 |Premium  |Higher price to show image of superiority or quality                                                                                                                        |Rolex            |
 |Price skimming|High price to start, drop price later to get more sales after                                                                                                               |PS4 Game         |
 |Penetration|Lower price to start, to build market share                                                                                                                                 |Aldi/Lidl        |
@@ -135,8 +135,8 @@
 
 ## Promotion
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |1. Advertising|Actions to convince consumers to buy a good/service. Types of advertising: generic, informative, persuasive, competitive. Forms of advertising: social media, billboards, TV, media, Google|
 |2. Public relations|Efforts to build positive public image of the company and defend against criticism; uses press releases, sponsorship, endorsements                                          |
 |3. Sales promotions|Short-term actions to boost sales (e.g. 2 for 1, 33% off), discount codes, loyalty cards, competitions, free gifts, merchandising                                           |
@@ -144,8 +144,8 @@
 
 ### Types of advertising
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Generic Advertising|<ul><li>To get the name/brand coverage</li><li>Represents everyday life/work</li><li>These adverts are generic and non-descript, it could be for anything</li></ul>                                     |
 |Informative Advertising|<ul><li>Gives Product Details</li><li>Gives USP</li><li>Highlights key brand imagery</li></ul>                                                                                                          |
 |Persuasive Advertising|<ul><li>Persuades you need the product</li><li>“Your life will improve by owning it”</li></ul>                                                                                                    |
@@ -153,8 +153,8 @@
 
 ### Promotion (impact of ICT)
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Advertising|ICT has led to online advertising, which has a much bigger impact on younger market segments. Younger consumers spend more time online (on phones and tablets) so more money is spent advertising there|
 |Public relations|ICT has allowed companies to use social media (Twitter, Instagram, etc.) to interact with consumers. Businesses enhance their image through endorsements from social media users with lots of followers|
 |Sales promotions|ICT has allowed for a much wider range of ‘share and win’ competitions on social media to incentivise sales. Businesses also ask consumers to sign up for newsletters in exchange for discount codes. Businesses use pop-ups on browsers and websites|
@@ -164,8 +164,8 @@
 
 ### Channels of distribution
 
-|1        |2                                                                                                                                                                           |3                |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| | | |
+|-|-|-|
 |Traditional|Manufacturer ➔ Wholesaler ➔ Retailer ➔ Consumer                                                                                                                             |Soft Drinks      |
 |Alternative|Manufacturer ➔ Retailer ➔ Consumer                                                                                                                                          |TVs              |
 |Direct   |Manufacturer ➔ Consumer                                                                                                                                                     |E-commerce sites |
@@ -173,8 +173,8 @@
 
 ### Factors for choosing a channel of distribution
 
-|1        |2                                                                                                                                                                           |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | |
+|-|-|
 |Profit margin|The more stages (e.g. wholesaler, retailer) involved, the less a business profits per item sold                                                                             |
 |Type of good|Perishable goods are best sold direct. Mass produced goods are best sold through wholesalers who can ‘break bulk’ and sell to retailers                                     |
 |Market size|Low-volume operations may suit a more direct channel (especially for job production), since orders might be custom made                                                     |

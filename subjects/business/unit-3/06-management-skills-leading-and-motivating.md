@@ -101,8 +101,6 @@ High morale will exist in a firm when
 
 Some people are motivated to work by more than just money
 
-                                               ↓
-
 The following are some of the non financial factors that motivate people
 
 - Security of employment
@@ -197,15 +195,15 @@ Communication Skills is an example of development
 
 Gives the workers the skills needed to do a good job and better quality products as a result
 
-                                                                          ↓
+↓
 
 Makes workers more flexible and able to cope with changes
 
-                                                                          ↓
+↓
 
-                                                   Workers need less supervision
+Workers need less supervision
 
-                                                                          ↓
+↓
 
 Less conflict between workers and managers as workers are good at their jobs
 
@@ -236,7 +234,7 @@ The different needs are called the hierarchy of needs and include the following
 - Self actualisation needs
     - Being ambitious, being given more responsibility in work, becoming an entrepreneur
 
-![Maslow's Theory of Motivation](images/06/maslow-theory.png)
+![Maslow's Theory of Motivation](06-management-skills-leading-and-motivating/maslow-theory.png)
 
 ### Problems with Maslow's Theory
 
@@ -265,17 +263,17 @@ McGregor was an American social psychologist and management consultant. He anal
 
 While managing different firms he noticed two different styles of management. These became known as Theory X and Theory Y
 
-### Theory X
+### Theory X (From Slides)
+
 
 - Most employees are lazy and need to be supervised
 - Management must offer incentives to motivate 'lazy' employees
 - Most employees require safety and security needs as a priority
 - Most employees lack ambition and need to be motivated to 'pull their weight'
 - Most employees will resist changes and are easily influenced by others
-
----
-
-(Not from Slides, from Graham)
+- 
+### Theory X (From Teacher)
+Autocratic style of management
 
 - Not a good worker
 - Motivated by only money
@@ -284,17 +282,16 @@ While managing different firms he noticed two different styles of management. T
 - Require safety & security needs
 - Lack ambition
 
-### Theory Y
+### Theory Y (From Slides)
 
 - Employees enjoy working and are willing to work and accept responsibility
 - Employees are able to motivate themselves, strict supervision is not required
 - Satisfying their self actualisation needs by giving them more responsibility is a very good way of getting them fully committed to their job
 - All employees should receive training
 - Workers skills are not always maximised
-
----
-
-(Not from Slides, from Graham)
+- 
+### Theory Y (From Teacher)
+Democratic style of management
 
 - Supervision greatly reduced or gone, self motivated
 - Works hard. enjoys working
@@ -305,6 +302,6 @@ While managing different firms he noticed two different styles of management. T
 
 ---
 
-Theory X - Autocratic style of management
+Theory X - 
 
-Theory Y - Democratic style of management
+Theory Y - 

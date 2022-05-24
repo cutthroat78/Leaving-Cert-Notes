@@ -208,9 +208,7 @@ This legislation protects employees who are unfairly dismissed
 2. Incompetent (no skills)
 3. Lacking qualifications
 4. Misconduct (stealing, cursing, discrimination)
-    
-    Gross Misconduct (physical violence, etc.)
-    
+   - Gross Misconduct (physical violence, etc.)
 5. Redundancy
 6. Contravenes the law (e.g. work permit expires)
 
@@ -257,7 +255,7 @@ This legislation protects employees who are unfairly dismissed
 8. Race
 9. Membership of the Traveller Community
 
-* = less likely to crop up
+```*``` = less likely to crop up
 
 Advertisements and interviews are the most frequent places where discrimination can happen in the work place
 

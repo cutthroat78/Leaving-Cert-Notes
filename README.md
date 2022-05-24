@@ -28,6 +28,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
   - Use image occlusion cards to learn diagrams
 ## To Dos
+- Maybe add explanation of links in {subject}.md e.g. notes,slides,video/video playlist,padlet
 - Get rid of summer exam files and links in {subject}.md files after exams are done
 - Try and get rid of sub title on github pages website, so the top takes up less space
 - Find out how to link to certain parts of same and other pages, so that I can make key words and words in leaving cert notes link to other pages and parts of pages (So if you can't remember what a term means you can re-read what it means)
@@ -36,7 +37,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### Biology
 - Look at summer 2022 exam structure file that is on teams
 - Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
-- Add video(s) link about each topic in biology.md "- [Video(s)]()"
+- Add video(s) link about each topic in biology.md "- [Video]()"/"- [Video Playlist]()"
 - Get enzyme diagrams for enzyme pages
 - Make my own Unit YouTube playlists of videos
 - Go through all sections to see if they have their diagrams
@@ -56,15 +57,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert physical biology cards on the circulatory system to notion and anki
 - Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
-- Go through and change "| 1 | 2 |" to "|  |  |" to have no useless number column headings
-- Look at exam preperation folder in Teams
-- Look at and put links of padlets into business.md
-- Look into chapter 23 and business ethics and how to merge them/get rid of business ethics
-- Ask teacher for missing slides
-- Look at padlet links in Business Team
-- Page 250 + 251 challenges when starting a business section move into digital notes
-- Page 257 & 258 Business plan and importance of a Business plan into digital notes
-- Look into finding "Down to Business" textbook slides, teacher uses in class
+- Convert stuff in exam preperation folder in Teams
 ### Computer Science
 - Add python reference guide (the one we can use during the computer science exam) to somewhere in notes
 - Take all my code from class and put into Notion as “Code Examples”

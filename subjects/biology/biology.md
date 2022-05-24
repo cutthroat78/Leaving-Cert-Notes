@@ -2,8 +2,7 @@
 The Study of Living Organisms
 - [Syllabus & Exam Structure](syllabus-and-exam-structure.md)
 - [Study and Exam Tips (From Teachers)](tips.md)
-## Unit 1 - The Study of Life
-- [Video Playlist for Unit 1](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
+## Unit 1 - The Study of Life - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
 - [(A Search for a) Definition of Life & Characteristics of Life](unit-1/a-search-for-a-definition-of-life.md) - [Slides](slides/unit-1/characteristics-of-life.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/characteristics-of-life.md)
 - [Scientific Method]() - [Slides](slides/unit-1/scientific-method.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/scientific-method.md)
 - [Nutrition (& Food)]() - [Slides](slides/unit-1/nutrition.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/nutrition.md)
@@ -13,13 +12,11 @@ The Study of Living Organisms
 - [Nutrient Recycling](unit-1/nutrient-recycling.md) - [Slides](slides/unit-1/nutrient-recycling.pdf)
 - [Pyramid of Numbers]() - [Slides](slides/unit-1/pyramid-of-numbers.pdf)
 
-## Unit 2 - The Cell
-- [Video Playlist of Unit 2](https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1)
+## Unit 2 - The Cell - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1)
 - [The Cell]() - [Slides](slides/unit-2/the-cell.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/the-cell.md)
 - [Respiration](unit-2/respiration.md) - [Slides](slides/unit-2/respiration.pdf)
 
-## Unit 3 - The Organism
-- [Video Playlist of Unit 3](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
+## Unit 3 - The Organism - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
 - [Skeletal System]() - [Slides](slides/unit-3/skeletal-system.pdf)
 - [Digestive System]() - [Slides](slides/unit-3/digestive-system.pdf) - [Terms & Definitions](terms-and-definitions/unit-3/digestive-system.md)
 - [Enzymes & Metabolism]() - [Slides](slides/unit-3/enzymes-and-metabolism.pdf)
