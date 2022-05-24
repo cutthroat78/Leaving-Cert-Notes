@@ -6,10 +6,10 @@
 - French (Français): [Notes](subjects/french/french.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
 - Maths: [Notes](subjects/maths/maths.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
 - Music: [Notes](subjects/music/music.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
-<!--
- - Irish (Gaeilge): [Notes](subjects/irish/irish.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
- - Phys-Chem: [Notes](subjects/phys-chem/phys-chem.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
--->
+
+<!-- - Irish (Gaeilge): [Notes](subjects/irish/irish.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]() -->
+<!-- - Phys-Chem: [Notes](subjects/phys-chem/phys-chem.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]() -->
+
 
 ---
 
@@ -28,6 +28,7 @@
 | Music | 12:30 PM - 2:00 PM | Friday, 27/05/2022 | 2 Hours |
 | Irish/Computer Science | 9:30 AM - 12:00 PM | Monday, 30/05/2022 | 2 Hours and 30 Minutes |
 | Maths Paper 2 | 12:30 PM - 2:00 PM | Monday, 30/05/2022 | 1 Hour and 30 Minutes |
+
 # Homework
 
 | Subject | What to Do | Due | Done? |

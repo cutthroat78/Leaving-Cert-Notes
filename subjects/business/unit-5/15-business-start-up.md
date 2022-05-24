@@ -26,7 +26,7 @@
 | Staff               | Availability/cost of staff, interviewing, employment legislation, tax                                                                  |
 
 <details>
-<summary><h2>Challenges when starting a new business (From Pages 250 & 251 of Textbook) (Click to Reveal)</h2></summary>
+<summary><h2>Challenges when starting a new business (From Pages 250 & 251 of Textbook) (Click Little Triangle Above to Reveal)</h2></summary>
 <br>
 
 A lot of the challenges outlined below are covered in more detail in diﬀerent chapters of this book, but these are a summarised version of various challenges an entrepreneur will face when deciding to start their own business
@@ -151,7 +151,7 @@ When the country is close to full employment and everyone who wants a job has on
 | Financial Plan | Cash flow forecast, long-term finance (debt/equity), break-even analysis |
 
 <details>
-<summary><h3>Business Plan (From Page 257 of Textbook) (Click to Reveal)</h3></summary>
+<summary><h3>Business Plan (From Page 257 of Textbook) (Click Little Triangle Above to Reveal)</h3></summary>
 <br>
 
 A business plan is a written document prepared by the entrepreneur to lay out what the business is and what it wants to achieve. It also explains the strategies for marketing, ownership, production and finance, and identifies areas of opportunity.
@@ -215,7 +215,7 @@ A business plan is a written document prepared by the entrepreneur to lay out wh
 | Act as a means on control | Compare plan to actual performance, take corrective action                |
 
 <details>
-<summary><h3>Importance of a Business Plan for an Entrepreneur (From Page 258 of Textbook) (Click to Reveal)</h3></summary>
+<summary><h3>Importance of a Business Plan for an Entrepreneur (From Page 258 of Textbook) (Click Little Triangle Above to Reveal)</h3></summary>
 <br>
 
 <h4>Focuses on the Future</h4>
