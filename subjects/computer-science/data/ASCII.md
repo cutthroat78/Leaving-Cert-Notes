@@ -4,6 +4,15 @@ A Problem: Can't represent letters and symbols in binary
 
 Solution: American Standard Code for Information Interchange (ASCII)
 
+## "AND" in ASCII
+Let's use ASCII to make the word AND (in all caps)
+
+| Letter | Decimal Value | 1   | 2   | 4   | 8   | 16  | 32  | 64  | 128 |
+|--------|---------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| A      | 65            | 1   | 0   | 0   | 0   | 0   | 0   | 1   | 0   |
+| N      | 78            | 0   | 1   | 1   | 1   | 0   | 0   | 1   | 0   |
+| D      | 68            | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 0   |
+
 ## Table of ASCII Characters and Their Decimal Values
 
 | Decimal Value | Letter/Number/Symbol | Description               |
@@ -136,12 +145,3 @@ Solution: American Standard Code for Information Interchange (ASCII)
 | 125           | }                    | Right Curly Bracket       |
 | 126           | \~                   | Tilde                     |
 | 127           | DEL                  | Delete                    |
-
-## "AND" in ASCII
-Let's use ASCII to make the word AND (in all caps)
-
-| Letter | Decimal Value | 1   | 2   | 4   | 8   | 16  | 32  | 64  | 128 |
-|--------|---------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| A      | 65            | 1   | 0   | 0   | 0   | 0   | 0   | 1   | 0   |
-| N      | 78            | 0   | 1   | 1   | 1   | 0   | 0   | 1   | 0   |
-| D      | 68            | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 0   |

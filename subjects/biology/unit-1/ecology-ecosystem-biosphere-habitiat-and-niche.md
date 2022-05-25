@@ -1,7 +1,5 @@
 # Ecology, Ecosystem, Biosphere, Habitat & Niche
 
-## Table of Contents
-
 _
 
 ## Simple Definition

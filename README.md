@@ -121,6 +121,18 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### Anki
 - Test and learn how to use [image occlusion](https://ankiweb.net/shared/info/1111933094)
 - Add anki file links for finding decks to resources page
+### Extra
+- Take up phys-chem notes and convert them
+#### Make Irish Notes
+- Make notes on how the papers work
+- Find and make notes on the story paper thing
+- Grammar:
+  - Tenses
+
+- Vocab Topics:
+  - Animals
+  - Family
+
 
 # Note Conversion
 ## Biology Notes
