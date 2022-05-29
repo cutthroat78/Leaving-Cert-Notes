@@ -76,6 +76,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
 - Go through a dolls house study booklet and get rid of things that are not needed
 ### French
+- Make notes on present tense (ir, re, er verb stuff)
 - Look through **ALL** files in french teams
 - Convert french wow! phrases in teams to markdown to put in to leaving cert notes
 - Add an example to Past Tense page
@@ -123,6 +124,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Add anki file links for finding decks to resources page
 ### Extra
 - Take up phys-chem notes and convert them
+- Take up german notes and convert them
+
 #### Make Irish Notes
 - Make notes on how the papers work
 - Find and make notes on the story paper thing

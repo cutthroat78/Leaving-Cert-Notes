@@ -1,15 +1,16 @@
 # Music
-- [Exam Structure(s) and Marking](exam-structure/exam-structure.md)
+- [Exam Structure(s) and Marking](exam-structure.md)
   - [Performing Practical](exam-structure/performing-practical.md)
-- [Elements of Music](elements-of-music/elements-of-music.md)
+
+- [Elements of Music](elements-of-music.md)
   - [Dynamics](elements-of-music/dynamics.md) 
   - [Beat/Pulse/Tempo](elements-of-music/beat.md)
   - [Melody](elements-of-music/melody.md)
-## [The Orchestra]()
-- [String Family]()
-- [Woodwind Family]()
-- [Brass Family]()
-- [Percussion Family]()
+## [The Orchestra](orchestra.md)
+- [String Family](orchestra/strings.md)
+- [Woodwind Family](orchestra/woodwind.md)
+- [Brass Family](orchestra/brass.md)
+- [Percussion Family](orchestra/percussion.md)
 ## Irish Music
 - [Traditional Features of Irish Music]()
 - [Traditional Instruments]()
@@ -31,16 +32,16 @@
 - [Regional Styles]()
 
 ## Music Theory
-- [Note Names and Values]()
-- [Clefs]()
+- [Note Names and Values](music-theory/note-names.md)
+- [Clefs](music-theory/clef-names.md)
 ### Treble
-- [Treble Notes]()
-- [Treble Key Signatures]()
+- [Treble Notes](music-theory/treble-notes.md)
+- [Treble Key Signatures](music-theory/treble-key-signatures.md)
 ### Bass
-- [Bass Notes]()
+- [Bass Notes](music-theory/bass-notes.md)
 
 ## Set Works (Set A)
-- [Romeo & Juilet Overture by Tchaikovsky]()
-- [Bohemian Rhapsody by Queen]()
-- [Piano Quartet No. 1 by Gerald Barry]()
-- [Cantata 78 "Jesu Der Du Meine Seele” by Bach]()
+- [Romeo & Juilet Overture by Tchaikovsky](set-works/romeo-and-juliet.md)
+- [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
+- [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)
+- [Cantata 78 "Jesu Der Du Meine Seele” by Bach](set-works/cantata-78.md)

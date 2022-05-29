@@ -20,7 +20,7 @@ F Sharp has 6 sharps, F#, C#, G#, D#, A# and E#
 
 C Sharp has 7 (all) sharps, F#, C#, G#, D#, A#, E# and B#
 
-Father Charles Goes Down And Ends Billy
+**F**ather **C**harles **G**oes **D**own **A**nd **E**nds **B**illy
 
 ## Flats in Major Key Signatures
 
