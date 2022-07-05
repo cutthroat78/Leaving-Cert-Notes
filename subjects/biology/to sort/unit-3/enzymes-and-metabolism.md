@@ -31,7 +31,13 @@ An enzyme is a protein that speeds up a chemical reaction without being used up 
 - They produce a product
 - Sometimes they need a co-enzyme to work
 
-[Examples of Enzymes](Enzymes%20&%20%207975d/Examples%20o%203f83a.csv)
+### Examples of Enzymes
+
+| Enzyme             | Definition                                             |
+|--------------------|--------------------------------------------------------|
+| Pancreatic Amylase | Breaks down starch into glucose                        |
+| Protease           | Breaks down proteins and polypeptides into amino acids |
+| Lipase             | Breaks down fats into fatty acids and glycerol         |
 
 ## Mechanism of Enzyme Action - Induced Fit Theory
 

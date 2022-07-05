@@ -1,3 +1,0 @@
-# Nutty
-
-Word: Nutrition

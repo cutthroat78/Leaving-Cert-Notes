@@ -30,10 +30,10 @@
 
 When sold, goods should:
 
-1. Be of merchantable quality and reasonably durable given the price paid for them
-2. Conform to the sample used to sell them (e.g. from a samples book or showroom)
-3. Be fit for purpose – able to do what they are intended to do
-4. Be as described/shown in advertisements, by a salesperson or on the label
+- Be of merchantable quality and reasonably durable given the price paid for them
+- Conform to the sample used to sell them (e.g. from a samples book or showroom)
+- Be fit for purpose – able to do what they are intended to do
+- Be as described/shown in advertisements, by a salesperson or on the label
 
 ## Sale of Goods and Supply of Services Act 1980
 

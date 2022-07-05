@@ -1,6 +1,13 @@
 # Environmental Factors
 
-[Environmental factors that affect organisms](Environmen%2028302/Environmen%20074d1.csv)
+## Environmental factors that affect organisms
+
+| Environmental Factor | Definition                                                                         |
+|----------------------|------------------------------------------------------------------------------------|
+| Abiotic              | These are non-living factors                                                       |
+| Biotic               | These are living factors                                                           |
+| Climatic             | These are the average weather conditions that affect the community in an ecosystem |
+| Edaphic              | These refer to the soil                                                            |
 
 (* is what effects humans (I think (I am not sure)))
 

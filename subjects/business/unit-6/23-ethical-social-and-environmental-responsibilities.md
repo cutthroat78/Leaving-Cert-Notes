@@ -13,8 +13,6 @@ On completion, you should be able to:
 - Outline how a business can become more environmentally conscious ​
 - Analyse the impact of being ethically, socially and environmentally responsible on the revenues and costs of a business ​
 
-​
-
 ## Business Ethics
 These are a set of <u>moral rules and standards</u> that provide guidelines for <u>right and truthful behaviour</u> in business situations when a business is engaging with its various stakeholders
 

@@ -227,12 +227,15 @@ Enzymes are substances that speed up or slow down reactions Example: Amylase (It
 
 ### Importance of Water
 
-[5 reasons why water is so important:](Nutrition%20%2088f6d/5%20reasons%20%20ee8fa.csv)
+**5 reasons why water is so important**
+
+put table here
 
 There are 2 groups of autotrophs
 
-[Nutrition (and Ecology) Terms](Nutrition%20%2088f6d/Nutrition%20%2067b18.csv)
+**Nutrition (and Ecology) Terms**
 
+put table here
 ## Section Recap Videos
 
 [Human Nutrition (& Digestive System)](https://youtu.be/tZDeJm-0FQw)

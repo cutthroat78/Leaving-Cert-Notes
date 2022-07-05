@@ -151,7 +151,11 @@ E.g. Hepatic Portal System
 
 # The Heart ♡
 
-[The Heart](The%20Circul%20b5cc7/The%20Heart%20fd9a9.csv)
+| Question  | Answer                                                                             |
+|-----------|------------------------------------------------------------------------------------|
+| Location  | "Between the lungs, slightly to the left side of the thorax, above the disaphragm" |
+| Function  | To pump blood around the body (has its own blood supply through coronary artery)   |
+| Structure | "A hollow structure made of cardiac muscle, surrounded by a double membrane"       |
 
 ## Role of Heart Muscle
 

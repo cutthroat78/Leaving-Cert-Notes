@@ -3,7 +3,11 @@
 - [Artificial Intelligence]()
 - [Computer Components]()
 - [Data Feminism - Full Book](https://data-feminism.mitpress.mit.edu)
+- [Algorithms](algorithms.md)
+- [Logic Gates]() - [Video](https://youtu.be/zPuHvcl_u8g)
+- [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 ## [Python Programming]()
+- [Python Reference Guide](python-reference-guide.pdf) - This will given to you to use during the computer science exam, kinda like the log tables books
 - [Numerical Python]()
 - [Variables]()
 - [volumesphere.py]()
@@ -11,7 +15,7 @@
 - [Boolean Logic]()
 - [Conditionals]()
 ## Data
-- [ASCII]()
-- [Binary]()
-- [Hexadecimal]()
-- [Unicode]()
+- [ASCII](data/ASCII.md)
+- [Binary](data/binary.md)
+- [Hexadecimal](data/hexadecimal.md)
+- [Unicode](data/unicode.md)

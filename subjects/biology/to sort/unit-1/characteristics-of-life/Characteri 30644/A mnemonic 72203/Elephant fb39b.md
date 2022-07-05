@@ -1,3 +1,0 @@
-# Elephant
-
-Word: Excretion

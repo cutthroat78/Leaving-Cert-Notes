@@ -2,5 +2,5 @@
 
 | Name                        | Symbol |
 |-----------------------------|--------|
-| Treble ((Starts on) G) Clef | 𝄞      |
-| Bass Clef                   | 𝄢      |
+| Treble Clef                 | ![Treble Clef - 𝄞](clef-names/treble.png) |
+| Bass Clef                   | ![Bass Clef - 𝄢](clef-names/bass.png) |

@@ -1,5 +1,4 @@
 # English
-- [Summer Exam Stuff 2022](summer-exam.md)
 ## [Exam Structure](exam-structure/exam-structure.md)
 - [Breakdown of Marks](exam-structure/breakdown-of-marks.md)
 - [Marking Criteria](exam-structure/marking-criteria.md)
@@ -38,7 +37,7 @@
 - [Netflix](https://www.netflix.com/ca/title/80073823) 
 - [Amazon Prime](https://www.primevideo.com/detail/0FBAC1VTAGPV8WG67VEQGKOQ7D/ref=atv_dl_rdr) 
 - [Apple TV](https://tv.apple.com/ie/movie/room/umc.cmc.4qedzhrvrx38fydedbko7xr0l?at=1000l3V2&ct=effeteHalicore&playableId=tvs.sbd.9001%3A1070286534)
-## Poetry <!--Where to find poems: [https://www.poetryfoundation.org/](https://www.poetryfoundation.org/)-->
+## Poetry <!--Where to find poems: [Poetry Foundation](https://www.poetryfoundation.org/)-->
 ### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
 ### William Butler Yeats (W. B. Yeats)

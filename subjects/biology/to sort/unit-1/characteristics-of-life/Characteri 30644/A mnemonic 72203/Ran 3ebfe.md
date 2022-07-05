@@ -1,3 +1,0 @@
-# Ran
-
-Word: Response

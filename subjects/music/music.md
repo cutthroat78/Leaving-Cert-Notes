@@ -3,7 +3,7 @@
   - [Performing Practical](exam-structure/performing-practical.md)
 
 - [Elements of Music](elements-of-music.md)
-  - [Dynamics](elements-of-music/dynamics.md) 
+  - [Dynamics](elements-of-music/dynamics.md)
   - [Beat/Pulse/Tempo](elements-of-music/beat.md)
   - [Melody](elements-of-music/melody.md)
 ## [The Orchestra](orchestra.md)
@@ -19,23 +19,23 @@
 - [Irish Fusion]()
 - [Types of Irish Songs]()
 ### Essays
-- [Sean Nós]()
-- [The Harping Tradition]()
-- [Seán Ó Riada]()
-- [Mícheál Ó Shuilleabháin]()
-- [Céilí Bands]()
-- [Irish Song Tradition]()
-- [Irish Dance]()
-- [Influence of traditional Irish Music on the Music of North America]()
-- [Collectors]()
-- [Edward Bunting]()
-- [Regional Styles]()
+- [Sean Nós](irish-music/essays/sean-n%C3%B3s.md)
+- [The Harping Tradition](irish-music/essays/harping-tradition.md)
+- [Seán Ó Riada](irish-music/essays/se%C3%A1n-%C3%B3-riada.md)
+- [Mícheál Ó Shuilleabháin](irish-music/essays/m%C3%ADch%C3%A9al.md)
+- [Céilí Bands](irish-music/essays/c%C3%A9il%C3%AD-bands.md)
+- [Irish Song Tradition](irish-music/essays/irish-song-tradition.md)
+- [Irish Dance](irish-music/essays/irish-dance.md)
+- [Influence of traditional Irish Music on the Music of North America](irish-music/essays/influence.md)
+- [Collectors](irish-music/essays/collectors.md)
+- [Edward Bunting](irish-music/essays/edward-bunting.md)
+- [Regional Styles](irish-music/essays/regional-styles.md)
 
 ## Music Theory
 - [Note Names and Values](music-theory/note-names.md)
-- [Clefs](music-theory/clef-names.md)
+- [Clefs](music-theory/clef-names.md) <!--In Anki-->
 ### Treble
-- [Treble Notes](music-theory/treble-notes.md)
+- [Treble Notes](music-theory/treble-notes.md) <!--In Anki-->
 - [Treble Key Signatures](music-theory/treble-key-signatures.md)
 ### Bass
 - [Bass Notes](music-theory/bass-notes.md)

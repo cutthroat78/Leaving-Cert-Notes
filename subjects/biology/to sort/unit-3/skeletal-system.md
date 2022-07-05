@@ -19,7 +19,7 @@
 
 The skeleton contains 206 bones and can be divided into an axial and appendicular skeleton. It provides support, protection and allows movement
 
-**Functions of the Skeleton:**
+**Functions of the Skeleton**
 
 1. Support
     
@@ -46,8 +46,8 @@ The axial skeleton consists of the skull, vertebrae, ribs and sternum
 
 The back consists of 33 vertebrae bones
 
-- * 7 cervical vertebrae are in the neck
-- * 12 thoracic vertebrae in the upper back attached to each of 12 pairs of ribs.
+- *7 cervical vertebrae are in the neck
+- *12 thoracic vertebrae in the upper back attached to each of 12 pairs of ribs.
 - 5 lumbar vertebrae in the lower back
 - 5 fused sacral vertebra
 - 3 small vertebrae in the coccyx
@@ -152,7 +152,13 @@ The triceps contracts and the biceps relax to lower the lower arm
 
 As one contracts the other must relax
 
-[Biceps and Triceps, Raising and Lowering](Skeletal%20S%205a41b/Biceps%20and%2029544.csv)
+### Biceps and Triceps, Raising and Lowering
+
+| Muscles | Raising  | Lowering  |
+|---------|----------|-----------|
+| Biceps  | Contract | Relaxs    |
+| Triceps | Relaxs   | Contracts |
+
 
 ![Untitled](Skeletal%20S%205a41b/Untitled%206.png)
 

@@ -29,7 +29,7 @@
 
 ## Types of relationships
 
-### Dependent
+### Dependent relationship
 
 - Rely on each other
 - Requires help from each other
@@ -38,11 +38,11 @@
 - Typically, it is one stakeholder providing a service to another
 - Example: Carphone Warehouse were forced to close Irish branches when they lost provider contracts
 
-### Symbiotic
+### Symbiotic relationship
 
 - Rely on each other
 
-### Dynamic
+### Dynamic relationship
 
 - Always moving/changing
 - Both Competitive and Co-operative
@@ -61,7 +61,7 @@ A co-operative relationship exists when stakeholders work together towards a com
 - Employers and employees
 - Service providers and producers
 - Customers and producers
-- Government and interest groups (Try to avoid because the relationships fluctuate between co-operative and competitive/aggressive)
+- Government and interest groups (Try to avoid because these relationships fluctuate between co-operative and competitive/aggressive)
 
 A purchasing manager may ask for their credit period to be extended when they experience cash flow problems
 
@@ -104,7 +104,7 @@ Consumers can benefit from two producers who are competing on:
 |-----------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | Consideration         | Something of value must be exchanged between parties                           | Builder builds the house. Homeowner pays builder                                                     |
 | Legality of form      | Some contracts must be in a certain format (e.g. written contract)             | There is a specific contract format for worker's contracts. This format wouldn't suit buying a house |
-| Consent to contract   | Party cannot be forced to agree a contract through threats                     | Can't trap or trick someone into a contract by way of threats of misinformation                      |
+| Consent to contract   | Party cannot be forced to agree to a contract through threats                     | Can't trap or trick someone into a contract by way of threats of misinformation                      |
 | Capacity to contract  | "Legal ability to agree: cannot be bankrupt, insane persons, ultra vires"      | You can't be off your head and sign a contract                                                       |
 | Legality of purpose   | Contracts for illegal activities (e.g. a drug deal) are not enforceable by law |                                                                                                      |
 | Intention to contract | "Awareness that the agreement is legal, not just social or domestic"           |                                                                                                      |

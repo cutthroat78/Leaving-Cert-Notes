@@ -29,17 +29,14 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Use image occlusion cards to learn diagrams
 ## To Dos
 - Maybe add explanation of links in {subject}.md e.g. notes,slides,video/video playlist,padlet
-- Get rid of summer exam files and links in {subject}.md files after exams are done
 - Try and get rid of sub title on github pages website, so the top takes up less space
 - Find out how to link to certain parts of same and other pages, so that I can make key words and words in leaving cert notes link to other pages and parts of pages (So if you can't remember what a term means you can re-read what it means)
 - Get rid of “School Slides” and "Table of Contents" headings from notes
-- Have seperate page for each subject/chapter of other resources (Slides, videos, links etc.)
 ### Biology
 - Look at summer 2022 exam structure file that is on teams
 - Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
 - Add video(s) link about each topic in biology.md "- [Video]()"/"- [Video Playlist]()"
 - Get enzyme diagrams for enzyme pages
-- Make my own Unit YouTube playlists of videos
 - Go through all sections to see if they have their diagrams
 - Simplify notes but keep same info (go for better structure with headings)
 - Go through notes and create links to different parts of hardback
@@ -59,14 +56,16 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### Business
 - Convert stuff in exam preperation folder in Teams
 ### Computer Science
-- Add python reference guide (the one we can use during the computer science exam) to somewhere in notes
 - Take all my code from class and put into Notion as “Code Examples”
-- ASCII vs Unicode card and voice message Cathal sent me
 - Convert hexadecimal cards
+- Add video of someone doing binary and hexadecimal
+#### Look at and Add/Convert
+- [Studyclix Resources](https://www.studyclix.ie/resources/leaving-certificate/computer-science)
+- [Computational thinking - Flashcards](https://studyclix.blob.core.windows.net/static/content/file/uploads/e/ef64ad04-c403-4e89-a4f1-5855ed306065.pdf)
+- [Convert Common Abbreviations Flashcards and Final Tips](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
 ### English
-- Maybe move dolls house example question to example questions folder (and have link to file in both dolls house section and example questions section in english.md)
+- Move dolls house example question to example questions folder (and have link to file in both dolls house section and example questions section in english.md)
 - Look at this [resource](https://engzone.weebly.com/)
-- poetry cards will have a cloze for each line (to learn entire poem)
 - get and convert 5 languages of writing notes
 - Convert sample answer sheets
 - Go through notes on Teams
@@ -78,7 +77,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### French
 - Make notes on present tense (ir, re, er verb stuff)
 - Look through **ALL** files in french teams
-- Convert french wow! phrases in teams to markdown to put in to leaving cert notes
 - Add an example to Past Tense page
 - Write difference between future tenses into digital notes
 - Make french notes on conditional tense
@@ -86,15 +84,12 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Make notes on imperfect/l’imparfait tense and perfect/le parfait tense (past tenses)
 - Look into journal intime notes in French Teams chat
 - Stuff in this [link](https://cdetb-my.sharepoint.com/personal/17matthewrenehan_clogherroadcc_ie/_layouts/15/doc.aspx?sourcedoc=%7Bd1105639-1571-4b56-a55c-44c4498a1576%7D&action=edit) (word document I did in class once)
-- Digitize JC Hardback 1
-- Digitize JC Hardback 2
-- Digitize Justine Era LC Hardback
 #### Convert
+- Convert french wow! phrases in teams into leaving cert notes
 - Convert page of oral exam stuff into digital notes
-- Convert anki jc decks to digital notes
 - Convert fete d’anniversaire booklet into digital notes
 - Notes on the le futur proche worksheet
-- Page 129 of textbook, move Irregular futur simple stems into notion
+- Page 129 of textbook, move Irregular futur simple stems into notion 
 - Convert these quizlet decks: 
   - [1](https://quizlet.com/_a5hp63?x=1jqt&i=3whdjx)
   - [2](https://quizlet.com/_b6jeex?x=1jqt&i=3whdjx)
@@ -107,10 +102,12 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Find videos for each Maths thing/section we have done so far and add to notion
 - Convert maths notes that was sent to me into digital notes
 ### Music
-- Re do note value music anki cards but make them cloze cards, with all info
+- Add treble and bass notes phrase word things that help remember note values to anki
 - Go through and change all irish music link names (the [] part of the link)
+- Look at studyclix info to see exam structure and performing practical structure/info
 - Convert sheets on . (dotted) notes and rests
 - Sort out treble key signatures page
+- Change notes in note-names.md to images
 - Add below to music note notes:
   - Dotted Crochet
   - Dotted minim
@@ -121,7 +118,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Pick songs for music class (3, 4 or 6)
 ### Anki
 - Test and learn how to use [image occlusion](https://ankiweb.net/shared/info/1111933094)
-- Add anki file links for finding decks to resources page
+- Re do note value music anki cards but make them cloze cards, with all info after adding new stuff to music notes
 ### Extra
 - Take up phys-chem notes and convert them
 - Take up german notes and convert them
@@ -136,7 +133,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Animals
   - Family
 
-
+# Notes on how to make anki cards for each subject
+- English: Poetry cards will have a cloze for each line (to learn entire poem)
 # Note Conversion
 ## Biology Notes
 
@@ -150,7 +148,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | Nutrient Recycling                             | No               | No     |
 | Pyramid of Numbers                             | No               | No     |
 | Ecology, Ecosystem, Biosphere, Habitat & Niche | No               | No     |
-| Respiration                                    | No               | No     |
+
 <!--
 | A search for a definition of life              | Yes              | Yes    |
 | Scientific method                              | Yes              | Yes    |
@@ -161,6 +159,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | enzymes and metabolism                         | Yes              | Yes    |
 | Movement of Molecules Across Cell Membranes    | Yes              | Yes    |
 | Excretion                                      | Yes              | Yes    |
+| Respiration                                    | Yes              | Yes    |
 -->
 
 ## Business Notes
@@ -179,7 +178,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 19                                          | No               | No     |
 | 21                                          | No               | No     |
 | 22                                          | No               | No     |
-| 23 (+ Business Ethics)                      | Yes              | No     |
 | 24                                          | No               | No     |
 | 26                                          | No               | No     |
 | 27                                          | No               | No     |
@@ -195,5 +193,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 16                                          | Yes              | Yes    |
 | 17                                          | Yes              | Yes    |
 | 20                                          | Yes              | Yes    |
+| 23 (+ Business Ethics)                      | Yes              | Yes    |
 | 25                                          | Yes              | Yes    |
 -->

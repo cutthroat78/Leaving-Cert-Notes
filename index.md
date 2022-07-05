@@ -15,15 +15,6 @@
 - [General Study Methods & Tips](study.md)
 - [Resources](resources.md)
 
-# 2022 Summer Exams
-
-| Exam | Time | Date | Exam Length |
-|-|-|-|-|
-| Woodwork | 9:30 AM - 11:30 AM | Friday, 27/05/2022 | 2 Hours |
-| Music | 12:30 PM - 2:00 PM | Friday, 27/05/2022 | 2 Hours |
-| Irish/Computer Science | 9:30 AM - 12:00 PM | Monday, 30/05/2022 | 2 Hours and 30 Minutes |
-| Maths Paper 2 | 12:30 PM - 2:00 PM | Monday, 30/05/2022 | 1 Hour and 30 Minutes |
-
 <!--
 # Homework
 
@@ -36,7 +27,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Return to School 2022 | These dates are **GUESSES** I made from previous years dates | 23/08/2022 - 05/09/2022 | |
+| Return to School 2022 6th Year | | 26/08/2022 | 11 AM - 12 PM |
 | Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
 <!--
