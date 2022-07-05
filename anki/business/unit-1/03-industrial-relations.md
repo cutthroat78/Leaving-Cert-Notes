@@ -1,6 +1,5 @@
 # 3. Industrial Relations
 
-
 ## Benefits of good industrial relations
 
 1. Improved employee motivation (Reason for this: Employees work harder when they enjoy work)

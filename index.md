@@ -1,12 +1,13 @@
 # Notes, Anki Decks and Resources
-- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg) - [Resources]()
-- Business: [Notes](subjects/business/business.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
-- Computer Science: [Notes](subjects/computer-science/computer-science.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
-- English: [Notes](subjects/english/english.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
-- French (Français): [Notes](subjects/french/french.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
-- Maths: [Notes](subjects/maths/maths.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
-- Music: [Notes](subjects/music/music.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]()
+- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
+- Business: [Notes](subjects/business/business.md)
+- Computer Science: [Notes](subjects/computer-science/computer-science.md)
+- English: [Notes](subjects/english/english.md)
+- French (Français): [Notes](subjects/french/french.md)
+- Maths: [Notes](subjects/maths/maths.md)
+- Music: [Notes](subjects/music/music.md)
 
+<!-- - Subject: [Notes]() - [Anki Deck]() - [Resources]()>
 <!-- - Irish (Gaeilge): [Notes](subjects/irish/irish.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]() -->
 <!-- - Phys-Chem: [Notes](subjects/phys-chem/phys-chem.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]() -->
 
