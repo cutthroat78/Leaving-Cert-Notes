@@ -1,6 +1,6 @@
 # Notes, Anki Decks and Resources
-- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.Leaving.Cert.apkg)
-- Business: [Notes](subjects/business/business.md)
+- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.apkg)
+- Business: [Notes](subjects/business/business.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Business/Business.apkg)
 - Computer Science: [Notes](subjects/computer-science/computer-science.md)
 - English: [Notes](subjects/english/english.md)
 - French (Français): [Notes](subjects/french/french.md)
