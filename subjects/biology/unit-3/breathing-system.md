@@ -13,39 +13,43 @@ Respiration: We get our energy for metabolism by burning food in our cells (Chem
 
 Breathing: We get fresh supplies of oxygen by breathing it in through our lungs (Physical process)
 
-(insert picture here)
-
 ## Respiratory (Lung) System
 
-(insert picture here)
+Important Diagram - Need to Know
+
+![Respiratory (Lung) System](breathing-system/3.png)
+
+| Singular Word | Plural Word |
+|-|-|
+| Bronchus | Bronchi |
+| Alveolus | Alveoli |
 
 Your lungs are enclosed (along with the heart) between the ribs and the diaphragm (the thorax)
 
 The ribs form a protective cage of twelve pairs of bones
 
-(insert picture here)
+![4](breathing-system/4.png)
 
-(insert picture here)
+<u>Intercostal muscles</u> = attached between the ribs, move the rib cage up or down
 
-Intercostal muscles = attached between the ribs, move the rib cage up or down
+<u>The diaphragm</u> is a sheet of muscle at the base of the rib cage
 
-The diaphragm is a sheet of muscle at the base of the rib cage
+![5](breathing-system/5.png)
 
-(insert picture here)
+![Alveolus Structure](breathing-system/6.png)
 
-(insert picture here)
-
-Diffusion is the movement of molecules from a region of high concentration to a region of lower concentration
+**Diffusion** is the movement of molecules from a region of high concentration to a region of lower concentration
 
 ### Protection
 
 1. The lining cells of the nose, trachea and bronchi produce a sticky mucus that traps dust and germs
-2. [White blood cells](The%20Circul%20b5cc7.md) in the alveoli can engulf bacteria and foreign matter
+2. White blood cells in the alveoli can engulf bacteria and foreign matter
 
 ### Adaptions of the Lungs for Gas Exchange
 
-- Alveoli have a large surface area [90m squared]
+- Alveoli have a large surface area [90m²]
 - Short distance between air and blood
+- Complete involvement of air and blood
 - Walls of alveoli are elastic
 
 ### Composition of Air in the Lungs
@@ -58,17 +62,17 @@ Diffusion is the movement of molecules from a region of high concentration to a 
 | Water Vapour   | Varies                 | Saturated              |
 
 
-Inhaling means breathing in
+<u>Inhaling means breathing in</u>
 
-(insert picture here)
+![Inhaling [Inspiration]](breathing-system/7.png)
 
 1. The brain sends signals to the rib muscles and diaphragm to contract (breathing is involuntary)
 2. The ribs are pulled up and out, and the diaphragm flattens downwards
 3. The volume of the chest increases, so air pressure drops and more air is drawn into the lungs and alveoli
 
-Exhaling means breathing out
+<u>Exhaling means breathing out</u>
 
-(insert picture here)
+![Exhaling [Expiration]](breathing-system/8.png)
 
 Exhaling is a process that doesn’t require energy
 
@@ -77,7 +81,7 @@ Exhaling is a process that doesn’t require energy
 
 ### Gas Exchange in the Lungs & Tissues
 
-(insert picture here)
+![9](breathing-system/9.png)
 
 ---
 
@@ -85,11 +89,57 @@ Our voice box (larynx), is made of two sheets of muscle that vibrate as the air 
 
 **Control of Breathing**
 
-We breathe automatically by involuntary reflex action. It is controlled by madulla oblongata of the brain
+We breathe automatically by <u>involuntary reflex action. It is controlled by madulla oblongata of the brain</u>
 
-(insert picture here)
+![CO2 and Breathing Rate](breathing-system/10.png)
 
-The rate of breathing is continually adjusted to meet the body’s needs (an example of [homeostasis](Homeostasi%20fe226.md))
+<u>The rate of breathing is continually adjusted to meet the body’s needs (an example of homeostasis)</u>
+
+## Role of the Brain in Breathing
+
+- Mostly breathing rhythm is unconsciously set by the brain​
+- We can voluntarily change the rate at which we breath​
+- You can’t hold your breath forever​
+- Your brain won’t let you
+
+---
+
+![11](breathing-system/11.png)
+
+## Asthma
+
+Asthma is a narrowing of the bronchioles due to some irritant and so the sufferer finds it difficult to inhale enough oxygen
+
+![5](breathing-system/5.png)
+
+### Symptoms
+
+- Coughing​
+- Wheezing​
+- Breathlessness​
+- Chest tightness
+
+### Causes
+
+- Pollen​
+- Animals​
+- Smoke​
+- Dust mites​
+- Chemicals​
+- Exercise​
+
+### Prevention and Treatment
+
+- Identify triggers
+  - Avoid or remove
+
+- Use specific drug treatments
+  - Bronchodilators
+  - Steroids
+
+![Inhaler](breathing-system/12.jpg)
+
+---
 
 ![1](breathing-system/1.png)
 

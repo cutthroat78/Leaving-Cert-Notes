@@ -7,10 +7,6 @@
 - Maths: [Notes](subjects/maths/maths.md)
 - Music: [Notes](subjects/music/music.md)
 
-<!-- - Subject: [Notes]() - [Anki Deck]() - [Resources]()>
-<!-- - Irish (Gaeilge): [Notes](subjects/irish/irish.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]() -->
-<!-- - Phys-Chem: [Notes](subjects/phys-chem/phys-chem.md) - [Anki Deck (Not Available Yet)]() - [Resources (Not Available Yet)]() -->
-
 ---
 
 - [General Study Methods & Tips](study.md)
