@@ -56,9 +56,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### Business
 - Convert stuff in exam preperation folder in Teams
 ### Computer Science
-- Take all my code from class and put into Notion as “Code Examples”
-- Convert hexadecimal cards
-- Add video of someone doing binary and hexadecimal
+- Take all my code from class and put into digital notes as “Code Examples”
 #### Look at and Add/Convert
 - [Studyclix Resources](https://www.studyclix.ie/resources/leaving-certificate/computer-science)
 - [Computational thinking - Flashcards](https://studyclix.blob.core.windows.net/static/content/file/uploads/e/ef64ad04-c403-4e89-a4f1-5855ed306065.pdf)

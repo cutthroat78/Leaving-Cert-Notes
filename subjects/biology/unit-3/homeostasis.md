@@ -1,8 +1,8 @@
 # Homeostasis
 
-Definition: Homeostasis is the maintenance of a contstant internal environment for our cells
+Definition: Homeostasis is the maintenance of a constant internal environment for our cells
 
-- Your body and it’s individual cells need just the right conditions to perfrom at their best
+- Your body and it’s individual cells need just the right conditions to perform at their best
 - A cell’s delicately balanced chemical reactions work best within narrow limits of temperature, pH, solute concentration etc.
 
 Simple aquatic organisms (like Amoeba and seaweeds) obtain their food, water and oxygen directly from the water that surrounds them

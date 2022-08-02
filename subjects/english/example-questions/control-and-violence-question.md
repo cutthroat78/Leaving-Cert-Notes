@@ -6,7 +6,8 @@ b. Compare the reasons why you found the exploration of the same theme or issue 
 
 **OR**
 
-2. Compare the insights you gained into the same theme or issue through understanding what influences or motivates one central character, from each of at least two texts on your comparative course, when making one or more key decisions. Develop your response with reference to your chosen texts. The insight or insights you gain into the same theme or issue from different texts may be similar or different. 
+2. Compare the insights you gained into the same theme or issue through understanding what influences or motivates one central character, from each of at least two texts on your comparative course, when making one or more key decisions. Develop your response with reference to your chosen texts. The insight or insights you gain into the same theme or issue from different texts may be similar or different.
+
 ## Question A Answer
 A theme or issue that I have studied as part of my comparative course is control and violence. This theme is one of the main themes in the text Room written by Emma Donoghue. I found the exploration of this themeemotionally engaging throughout Room.
 
