@@ -14,4 +14,3 @@ The uncle represents the male patriarchal society.
 
 The tigers symbolise the freedom that Aunt Jennifer and the poet long for.
 
-_

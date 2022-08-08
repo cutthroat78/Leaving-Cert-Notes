@@ -24,7 +24,11 @@
     - [Quotes](texts/dolls-house/study-guide/quotes.md)
 - [Act Summaries](texts/dolls-house/act-summaries.md)
 - [Example Question & Answer](texts/dolls-house/example-question.md)
-- [Full Movie Version]() - Warning: The course work and questions are for the play, not for the movie
+<details>
+<summary>Full Movie Version - Warning: The exam will be on the book, not the movie</summary>
+<a href="https://ia904500.us.archive.org/4/items/a-dolls-house-1973-christmas-drama-romance/A%20Doll%27s%20House%20%281973%20Christmas%2C%20Drama%2C%20Romance%29.mp4">Full Movie</a>
+</details>
+
 ### Room
 - [Full Book](texts/room/room.pdf)
 - [General Vision and Viewpoint in Room](texts/room/general-vision-and-viewpoint.md)
@@ -33,10 +37,14 @@
 - [Key Moments](texts/room/key-moments.md)
 - [Control and Violence in Room](texts/room/control-and-violence.md)
 - [Relationships in Room](texts/room/relationships.md)
-#### Full Movie Version - Warning: The course work and questions are for the book, not for the movie
-- [Netflix](https://www.netflix.com/ca/title/80073823) 
-- [Amazon Prime](https://www.primevideo.com/detail/0FBAC1VTAGPV8WG67VEQGKOQ7D/ref=atv_dl_rdr) 
-- [Apple TV](https://tv.apple.com/ie/movie/room/umc.cmc.4qedzhrvrx38fydedbko7xr0l?at=1000l3V2&ct=effeteHalicore&playableId=tvs.sbd.9001%3A1070286534)
+<details>
+<summary>Full Movie Version - Warning: The exam will be on the book, not the movie</summary>
+<ul>
+<li><a href="https://www.primevideo.com/detail/0FBAC1VTAGPV8WG67VEQGKOQ7D/ref=atv_dl_rdr">Amazon Prime</a></li>
+<li><a href="https://tv.apple.com/ie/movie/room/umc.cmc.4qedzhrvrx38fydedbko7xr0l?at=1000l3V2&ct=effeteHalicore&playableId=tvs.sbd.9001%3A1070286534">Apple TV</a></li>
+</ul>
+</details>
+
 ## Poetry <!--Where to find poems: [Poetry Foundation](https://www.poetryfoundation.org/)-->
 ### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)

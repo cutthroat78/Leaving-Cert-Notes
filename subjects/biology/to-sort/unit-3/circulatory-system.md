@@ -321,4 +321,49 @@ Relaxation of heart muscle is called DIASTOLE
     
     All chambers are relaxed (diastole)
     
-2.
+
+
+# Flashcards (From Teacher)
+
+| Question | Answer |
+|-|-|
+| State one factor that increase heart rate | Fear (fright) **OR** exercise |
+| Where in your dissection did you find the origin of the coronary artery? | Aorta **OR** near semilunar valve |
+| State a possible effect of smoking on the pulse resting rate | Raises rate |
+| State a precise location in the human body at which red blood cells are made | Marrow **OR** named bone, e.g. skull/ribs/vertebrae/sternum
+| Name the liquid part of blood | Plasma |
+| Name two tissues that are present in the walls of arteries and veins | Epithelial **OR** connective **OR** muscular (any two) |
+| Name two common blood-grouping systems | ABO **AND** Rhesus |
+| What structural protein, found in the walls of arteries, is non-elastic and prevents over expansion of the vessels? | Collagen |
+| What is the function of a semilunar valve? | Stops back flow of blood into ventricle (or from artery) |
+| State one factor that decreases heart rate | Sleep **OR** drugs (sedatives) |
+| Why are valves not needed in arteries? | Blood is under pressure **OR** blood from heart **OR** blood pumped |
+| Which chamber of the heart has the greatest amount of muscle in its wall? | Left ventricle |
+| Name the chamber of the heart that receives blood back from the lungs | Left artium (auricle) |
+| What is the role of the SA (sinoatrial) node in heart? | Causes contraction (of heart muscle) **OR** Pacemaker **OR** impulse generation |
+| State one way in which heart muscle differs from other muscles in the body | Doesn't tire |
+| The human circulatory system has two circuits, the pulmonary and systemic. Which of these circuits involves the pumping of blood by the left ventricle? | Systemic (circuit) |
+| Veins contain valves whereas arteries do not. What is the function of the valves? | Prevent backflow of blood |
+| Blood contains red corpuscles and white cells. State one function the white cells. | Protection against disease |
+| State on function of the liquid part of blood | Transports "cells" and dissolved substances |
+| What is the average resting rate of the human heart in beats per minute? | 72 bpm |
+| What is the role of the AV (atrioventricular) node in the heart? | Causes contraction (of heart muscle) **OR** nerve impulse generation |
+| The hepatic portal vein carried blood from the alimentary canal to the ... | Liver |
+| Give the precise location of the AV node | In or near septum **OR** near tricuspid valve **OR** between atrium and ventricle |
+| Name the valve between the upper and lower chambers on the left-hand side | Bicuspid (mitral) valve |
+| The ABO blood group system has four blood groups. What are these four groups? | A, B, AB and O |
+| Give on reason why the wall of the left ventricle is thicker than the wall of the right ventricle | Pumps further **OR** maintains blood pressure **OR** greater activity |
+| Name the artery that supplies the heart muscle with blood | Coronary (artery) |
+| Blood contains red corpuscles and white cells. State on function of the red corpuscles | Transports oxygen |
+| What is the function of the bicuspid valve? | Prevent backflow of blood from left ventricle to left auricle (atrium) |
+| To where does the pulmonary artery carry blood? | Lungs |
+| How does a portal vein differ from other veins? | Capillaries at both ends **OR** joins two organs **OR** two named organs |
+| Which has the bigger lumen (cavity), an artery or a vein? | Vein |
+| Is the blood in the Aorta oxygenated or deoxygenated? | Oxygenated |
+| What is blood plasma? | Blood without cells **OR** watery liquid part of blood |
+| Name the upper chambers of the heart | Atria **OR** Auricles |
+| What structure(s) protects the heart? | Rib cage and sternum |
+| Name the blood vessel that brings blood from the heart to the body | Aorta |
+| Name the cavity of the body in which the heart and lungs are located | Thoracic **OR** chest |
+| The human circulatory system has two circuits. Give the name of each of these circuits | Pulmonary circuit **and** Systemic circuit |
+| At the start of an investigation of the effect of exercise on the pulse rate of a human you ask the person who is about to do the exercise to sit down for a few minutes. Explain the purpose of this | Comparison **OR** control **OR** to get resting rate **OR** normal rate |

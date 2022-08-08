@@ -18,4 +18,4 @@
 - [Binary](data/binary.md) - [Video](https://youtu.be/VLflTjd3lWA)
 - [Hexadecimal](data/hexadecimal.md) - [Video](https://youtu.be/pg-HEGBpCQk)
 - [ASCII](data/ASCII.md)
-- [Unicode](data/unicode.md) 
+- [Unicode](data/unicode.md)

@@ -51,8 +51,6 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert heart diagram that is written on small piece of paper in my green folder
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet
 - Convert heated denaturation experiment
-- Convert physical biology cards on the circulatory system to notion and anki
-- Add Page 297 diagrams 27.5 and 27.6 into digital notes
 ### Business
 - Convert stuff in exam preperation folder in Teams
 ### Computer Science
