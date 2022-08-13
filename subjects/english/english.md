@@ -23,7 +23,6 @@
     - [Symbolism](texts/dolls-house/study-guide/symbolism.md)
     - [Quotes](texts/dolls-house/study-guide/quotes.md)
 - [Act Summaries](texts/dolls-house/act-summaries.md)
-- [Example Question & Answer](texts/dolls-house/example-question.md)
 <details>
 <summary>Full Movie Version - Warning: The exam will be on the book, not the movie</summary>
 <a href="https://ia904500.us.archive.org/4/items/a-dolls-house-1973-christmas-drama-romance/A%20Doll%27s%20House%20%281973%20Christmas%2C%20Drama%2C%20Romance%29.mp4">Full Movie</a>
@@ -65,3 +64,5 @@
 - [Control and Violence: Theme or Issue Question](example-questions/control-and-violence-question.md)
 - [Entertaining Exploration of Theme or Issue Question](example-questions/entertaining-exploration-of-issue-question.md)
 - [Key Moments Question](example-questions/key-moments-question.md)
+- [Exploration of Theme is Emotionally Engaging Question](example-questions/emotionally-engaging-theme.md)
+- [A Doll's House - Theme Satisfaction Question](example-questions/theme-satisfaction-a-dolls-house.md)

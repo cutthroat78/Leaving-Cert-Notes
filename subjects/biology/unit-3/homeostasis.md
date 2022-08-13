@@ -7,11 +7,11 @@ Definition: Homeostasis is the maintenance of a constant internal environment fo
 
 Simple aquatic organisms (like Amoeba and seaweeds) obtain their food, water and oxygen directly from the water that surrounds them
 
-(insert amoeba pic here)
+![Amoeba](homeostasis/amoeba.png)
 
 More complex organisms carry their own internal sea inside them (the tissue fluid), which is in contact with all the living cells of the body
 
-(insert diagram here)
+![Tissue Fluid](homeostasis/tissue-fluid.png)
 
 ## Homeostasis
 
@@ -41,7 +41,7 @@ Homeostasis is necessary if an organism is to be independent of its surroundings
 
 Most homeostatic mechanisms work by negative feedback, i.e. if there is a change away from the normal optimum value, action is automatically taken to reverse this change
 
-(insert diagram here)
+![1](homeostasis/1.png)
 
 ## Homeostasis - Temperature Regulation
 
@@ -49,32 +49,70 @@ Temperature influences the rate of enzyme-controlled reactions that sustain life
 
 Mammals and birds are endotherms (warm blooded): they have a fairly constant body temperature
 
-(insert pictures here)
+![Temperature Regulation 1](homeostasis/temp-reg-1.png)
 
 They can operate in low temperature environments, as they can keep the rate of enzyme activity high
 
 Most animals are ectotherms (cold blooded) - their body temperature varies with the external temperature e.g. fish, amphibians, reptiles
 
-(insert pictures here)
+![Temperature Regulation 2](homeostasis/temp-reg-2.png)
 
-(add diagram here)
+![Skin](homeostasis/skin.png)
 
 ### Controlling Body Temperature
 
-(insert pictures here)
+![Controlling Body Temperature](homeostasis/controlling-body-temp.png)
 
-Body temperature is controlled by the thermo-regulatory centre in the brain. It is kept at 37°C as this is the best temperature for enzymes to work in. If the body becomes too hot then blood vessles dilate and sweat glands release sweat. If the body is too cold then blood vessels constrict and muscles start to shiver.
+Body temperature is controlled by the thermo-regulatory centre in the brain. It is kept at 37°C as this is the best temperature for enzymes to work in. If the body becomes too hot then blood vessels dilate and sweat glands release sweat. If the body is too cold then blood vessels constrict and muscles start to shiver.
 
 ## Homeostasis - Body Temperature
 
 - Control of body temperature is an example of how homeostasis works in humans
-- Our normal core body temperature is maintained at 37°C the heat being mainly produced from the liver during its metabolism
+- Our normal core body temperature is maintained at 37°C, the heat being mainly produced from the liver during its metabolism
 - Muscles, skin and blood all play a role in controlling body temperature
 
 ## Homeostasis - Water Levels in the Body
 
-_
+- Being a land animal, we have a continuous need to conserve water
+
+- Water must be taken in daily and its loss must be carefully regulated
+
+- Water is taken in as food and drink, and is also formed inside the cells during some reactions, especially respiration
+
+**Water is lost from the body through a number of ways:**
+
+- Lungs – some water gets evaporated as we exhale from our warm, damp lungs.
+
+- Skin – by evaporation from cells and through sweat.
+
+- Intestines – in the faeces (undigested food).
+
+- Kidneys – in dissolving the poisons and wastes we wish to excrete from the body
+
+![Water Levels in the Body](homeostasis/water-levels.png)
+
+- We have no control over the amount of water lost each day from the lungs, skin or intestines
+​
+- So the kidneys are the water control (osmoregulatory) organs of the body – conserving or eliminating water as the body requires
+
+![The Urinary System](homeostasis/urinary-system.png)
 
 ## Homeostasis - Plants
 
-_
+- Plants absorb water through their roots, but lose water​ from their leaves by evaporation (transpiration)​
+- Over 90% of the water that enters a leaf goes right on through it and evaporates into the surrounding air.
+- The evaporation of water from leaves [and stems] is called transpiration
+
+![Plants 1](homeostasis/plants-1.png)
+
+The loss of water is reduced by a waxy cuticle and by the closing of the stomata [pores] on the lower surface of the leaf
+
+![Plants 2](homeostasis/plants-2.png)
+
+- These pores **stay open** during the day so **that CO2 can enter**, for photosynthesis. But, **water can escape** at this time too
+
+- Stomata **can stay closed at night**, when there is no light for photosynthesis. This allows **plants to conserve water**
+
+- The guard cells control the opening and closing
+
+![Plants 3](homeostasis/plants-3.png)

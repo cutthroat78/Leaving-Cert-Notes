@@ -24,14 +24,11 @@ For RE Verbs:
 
 ## Agreement of Participles
 
-Only with Étre (Not for Avoir)
+Only with Être (Not for Avoir)
 
 The participles must agree in gender and in number with the subject of the sentence
 
-<aside>
-💡 (Add example (first example: feminine, second example: plural, third example: plural and feminine) here)
-
-</aside>
+<!--(Add example (first example: feminine, second example: plural, third example: plural and feminine) here)-->
 
 ## The Verbs of Movement
 

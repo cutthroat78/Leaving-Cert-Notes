@@ -36,4 +36,4 @@ The examination at higher and ordinary level is three hours duration. The exam p
 
 ---
 
-There are 22 mandatory activities. Three of these are examined each year. Two of which have to be answered. A laboratory record of these activities has to be kept and available for inspection by The Department of Education and Science.
+There are 22 mandatory activities. Three of these are examined each year. Two of which have to be answered. A laboratory record of these activities has to be kept and available for inspection by The Department of Education and Science

@@ -41,7 +41,7 @@ le futur simple (the future)
 
 ## Irregular Stems
 
-| Infintive            | Examples with Stems (in Blue) | Stems |
+| Infintive            | Examples with Stems | Stems |
 |----------------------|-------------------------------|-------|
 | Aller (To go)        | J’irai (I will go)            | ir-   |
 | Être (To be)         | Je serai (I will be)          | ser-  |

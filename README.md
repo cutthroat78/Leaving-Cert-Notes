@@ -32,6 +32,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Try and get rid of sub title on github pages website, so the top takes up less space
 - Find out how to link to certain parts of same and other pages, so that I can make key words and words in leaving cert notes link to other pages and parts of pages (So if you can't remember what a term means you can re-read what it means)
 - Get rid of “School Slides” and "Table of Contents" headings from notes
+
 ### Biology
 - Look at summer 2022 exam structure file that is on teams
 - Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
@@ -41,12 +42,9 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Simplify notes but keep same info (go for better structure with headings)
 - Go through notes and create links to different parts of hardback
 - Mark diagrams I need to know for Biology course (one that you have to draw for the test)
-- Put tips and tricks on christmas exam guide into a (non-christmas) page in the biology notes
-- Get animated (heart) gifs from circulatory system slides (I can’t figure out how to copy or export them). [Possibly helpful link](https://windowsreport.com/save-animated-gif-from-powerpoint/)
 
 #### Convert
 - Convert hand written notes on Teams that were made when I was out for UCD
-- Convert big sheet biology teacher gave us in Biology to digital notes and diagrams
 - Convert fill in the blank sheet urinary system diagram to digital notes
 - Convert heart diagram that is written on small piece of paper in my green folder
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet
@@ -60,10 +58,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - [Computational thinking - Flashcards](https://studyclix.blob.core.windows.net/static/content/file/uploads/e/ef64ad04-c403-4e89-a4f1-5855ed306065.pdf)
 - [Convert Common Abbreviations Flashcards and Final Tips](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
 ### English
-- Move dolls house example question to example questions folder (and have link to file in both dolls house section and example questions section in english.md)
 - Look at this [resource](https://engzone.weebly.com/)
 - get and convert 5 languages of writing notes
-- Convert sample answer sheets
 - Go through notes on Teams
 - Redeem verse 2023 english ebook
 - Convert english room relationships pages that was sent to me over whatsapp
@@ -73,7 +69,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### French
 - Make notes on present tense (ir, re, er verb stuff)
 - Look through **ALL** files in french teams
-- Add an example to Past Tense page
+- Add an example to Past Tense page and the re-arrangement for mrs dr vandertramp
 - Write difference between future tenses into digital notes
 - Make french notes on conditional tense
 - Make French notes on all future tenses
@@ -81,17 +77,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Look into journal intime notes in French Teams chat
 - Stuff in this [link](https://cdetb-my.sharepoint.com/personal/17matthewrenehan_clogherroadcc_ie/_layouts/15/doc.aspx?sourcedoc=%7Bd1105639-1571-4b56-a55c-44c4498a1576%7D&action=edit) (word document I did in class once)
 #### Convert
-- Convert french wow! phrases in teams into leaving cert notes
-- Convert page of oral exam stuff into digital notes
-- Convert fete d’anniversaire booklet into digital notes
-- Notes on the le futur proche worksheet
-- Page 129 of textbook, move Irregular futur simple stems into notion 
-- Convert these quizlet decks: 
-  - [1](https://quizlet.com/_a5hp63?x=1jqt&i=3whdjx)
-  - [2](https://quizlet.com/_b6jeex?x=1jqt&i=3whdjx)
-  - [3](https://quizlet.com/_a7px8a?x=1jqt&i=3whdjx)
-  - [4](https://quizlet.com/ie/553977705/la-question-dopinion-flash-cards/)
-  - [5](https://quizlet.com/_99oq03?x=1jqt&i=3whdjx)
+- Page 129 of textbook, move Irregular futur simple stems into notes
 ### Maths
 - Look through maths ebook for things to put into digital notes
 - Rules in Maths ebook section 2.6 anki and/or digital notes
@@ -129,34 +115,35 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Animals
   - Family
 
-# Notes on how to make anki cards for each subject
+# Notes on how to make anki cards for certain subjects/topics
 - English: Poetry cards will have a cloze for each line (to learn entire poem)
 # Note Conversion
 ## Biology Notes
 
 | Chapter/Section                                | Paper Slides     | Slides |
 |------------------------------------------------|------------------|--------|
-| the circulatory system                         | No               | No     |
-| Homeostasis                                    | No               | No     |
-| The Breathing System                           | No               | No     |
-| Ecology                                        | No               | No     |
-| Environmental Factors                          | No               | No     |
-| Nutrient Recycling                             | No               | No     |
 | Pyramid of Numbers                             | No               | No     |
-| Ecology, Ecosystem, Biosphere, Habitat & Niche | No               | No     |
 
 <!--
+# Unit 1
 | A search for a definition of life              | Yes              | Yes    |
 | Scientific method                              | Yes              | Yes    |
 | nutrition                                      | Yes              | Yes    |
+| Ecology, Ecosystem, Biosphere, Habitat & Niche | Yes              | Yes    |
+| Environmental Factors                          | Yes              | Yes    |
+| Nutrient Recycling                             | Yes              | Yes    |
+# Unit 2
 | the cell                                       | Yes              | Yes    |
+| Respiration                                    | Yes              | Yes    |
+# Unit 3
 | skeletal system                                | Yes              | Yes    |
 | the digestive system                           | Yes              | Yes    |
 | enzymes and metabolism                         | Yes              | Yes    |
 | Movement of Molecules Across Cell Membranes    | Yes              | Yes    |
 | Excretion                                      | Yes              | Yes    |
-| Respiration                                    | Yes              | Yes    |
--->
+| The Breathing System                           | Yes              | Yes    |
+| Homeostasis                                    | Yes              | Yes    |
+| the circulatory system                         | Yes              | Yes    |-->
 
 ## Business Notes
 
@@ -177,18 +164,3 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 24                                          | No               | No     |
 | 26                                          | No               | No     |
 | 27                                          | No               | No     |
-<!--
-| 1                                           | Yes              | Yes    |
-| 2                                           | Yes              | Yes    |
-| 3                                           | Yes              | Yes    |
-| 5                                           | Yes              | Yes    |
-| 6                                           | Yes              | Yes    |
-| 7                                           | Yes              | Yes    |
-| 15                                          | Yes              | Yes    |
-| Break even chart                            | Yes              | Yes    |
-| 16                                          | Yes              | Yes    |
-| 17                                          | Yes              | Yes    |
-| 20                                          | Yes              | Yes    |
-| 23 (+ Business Ethics)                      | Yes              | Yes    |
-| 25                                          | Yes              | Yes    |
--->

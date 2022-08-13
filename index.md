@@ -24,11 +24,13 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Return to School 2022 6th Year | | 26/08/2022 | 11 AM - 12 PM |
+| Return to School 2022 6th Year - Assembly & Form tutor time | | 26/08/2022 | 11 AM - 12 PM |
+| Normal School Timetable | | 31/08/2022 | 9 AM - 01.05 PM |
 | Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
 <!--
 # Calendar Archive
+## 6th Year
 ## 5th Year
 | French Oral Exams Start | | Tuesday, 17/05/2022 | |
 | Trip to Belfast | Costs €15, We will be going to [W5](https://w5online.co.uk/) and [The Titanic Museum](https://www.titanicbelfast.com/) and be getting food on the way back from Belfast. | Thursday, 19/05/2022 | Leaving the School at 08:45 AM and Returning at 7 PM |
@@ -36,8 +38,8 @@
 | French Test | Test on vocab from sheet | Wednesday, 27/04/2022 |
 | Trip out to either Glendalough or Bray (Where will be decided on the day) | Leaving school at 9:00 AM and will be arriving back at the school at 2:30 PM. We are going with Graham Maher. If we do go to Glendalough, we will not be going up the mountains | Friday, 06/05/2022 | |
 
-
 # Homework Archive
+## 6th Year
 ## 5th Year
 | English | Finish off sample question on Control and Violence | Wednesday, 11/05/2022 | No |
 | English | Finish Question on sheet that we were doing on Wednesday class | Wednesday, 11/05/2022 | No |
@@ -79,6 +81,8 @@
 - [ ] English - Write a paragraph on one of the Relationships in Room  - 01/04/2022
 - [ ] Biology - Workbook Page 113 Q 1 (part e of 1), 2, 3, 4, 5, 6, 7 - 05/04/2022
 - [ ] Biology - Study definitions scientific method - 05/04/2022
+
+# 6th Year Timetable
 
 # 5th Year Timetable
 (The time column doesn't apply to Wednesdays)

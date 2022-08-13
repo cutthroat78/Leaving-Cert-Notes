@@ -47,5 +47,3 @@
 | timid(e)               | shy            |
 | impoli                 | rude           |
 | sincère                | sincere        |
-| avoir raison           | to be right    |
-| ils ont raison         | they are right |
