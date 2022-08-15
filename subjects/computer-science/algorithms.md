@@ -2,7 +2,7 @@
 
 An algorithm in computer science is:
 
-- <u>Finite</u> sequence of <u>well definied (clear) instructions</u>
+- <u>Finite</u> sequence of <u>well defined (clear) instructions</u>
 - Used to <u>solve a problem</u> or perform a computation
 - In data processing
 

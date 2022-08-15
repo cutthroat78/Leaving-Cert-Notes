@@ -1,6 +1,6 @@
 # Exam Structure
 
-Section A:
+## Section A
 
 - Short Questions
 - 12 Questions
@@ -9,7 +9,7 @@ Section A:
     - Bases
     - Logic Gates
 
-Section B:
+## Section B
 
 - Long Questions
 - 3 Questions
@@ -20,7 +20,7 @@ Section B:
     - The machine
     - HTML
 
-Section C:
+## Section C
 
 - Programming
 - 1 Question

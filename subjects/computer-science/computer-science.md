@@ -1,5 +1,7 @@
 # Computer Science
+
 - [Exam Structure]()
+- [Flashcards (I converted from Studyclix)]()
 - [Artificial Intelligence]()
 - [Computer Components]()
 - [Data Feminism - Full Book](https://data-feminism.mitpress.mit.edu)

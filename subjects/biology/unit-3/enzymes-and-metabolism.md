@@ -120,6 +120,6 @@ Converting sucrose to glucose by the enzyme invertase
 
 Converting glucose to ethanol by yeast
 
-## Section Recap Videos:
+## Section Recap Videos
 
-[https://youtu.be/qgVFkRn8f10](https://youtu.be/qgVFkRn8f10)
+[Enzymes Recap Video](https://youtu.be/qgVFkRn8f10)

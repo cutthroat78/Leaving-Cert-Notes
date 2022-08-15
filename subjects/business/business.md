@@ -2,7 +2,7 @@
 - [Answering Exam Questions](answering-exam-questions.md)
 ## Unit 1: Introduction to People in Business - [Padlet](https://padlet.com/grahammaher/wh79o1thg564lb9t)
 - [1. People in Business](unit-1/01-people-in-business.md) - [Slides](slides/unit-1/01-people-in-business.pdf) <!--In Anki-->
-- [2. Consumer Conflict](unit-1/02-consumer-conflict.md) - [Slides](slides/unit-1/02-consumer-conflict.pdf)
+- [2. Consumer Conflict](unit-1/02-consumer-conflict.md) - [Slides](slides/unit-1/02-consumer-conflict.pdf) <!--In Anki-->
 - [3. Industrial Relations](unit-1/03-industrial-relations.md) - [Slides](slides/unit-1/03-industrial-relations.pdf)
 ## Unit 2: Enterprise - [Padlet](https://padlet.com/grahammaher/iru76064p0y8kw6c)
 - [4. Enterprise]() - [Slides]() - Not Covered Yet

@@ -187,7 +187,9 @@ Fatty acids and glycerol don’t pass through villi but instead are absorbed int
 - Prevent Constipation by retaking moisture to keep feces soft
 - Prevents bowel cancer by carrying toxins through large intestine more rapidly
 
-## Medical disorders of the digestive system
+<!--## Medical disorders of the digestive system-->
+
+---
 
 ![10](digestive-system/10.png)
 

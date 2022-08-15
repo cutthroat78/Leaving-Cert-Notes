@@ -21,12 +21,10 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - English
   - Music
 2. Convert paper and all other notes into digital
-3. Fix and put all links into index.md
+3. Fix and put all links into index.md and {subject}.md
 4. Convert all Biology paper and digital slides
 5. Start converting all notes to anki
-  - Convert tables to standard cards (with or without reverse), if the table is hard to study with standard cards use cloze cards
-  - Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
-  - Use image occlusion cards to learn diagrams
+
 ## To Dos
 - Maybe add explanation of links in {subject}.md e.g. notes,slides,video/video playlist,padlet
 - Try and get rid of sub title on github pages website, so the top takes up less space
@@ -49,14 +47,15 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Convert heart diagram that is written on small piece of paper in my green folder
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet
 - Convert heated denaturation experiment
+- Go through all notes and change ** in <u> to <b>, so it displays properly on github pages
 ### Business
 - Convert stuff in exam preperation folder in Teams
 ### Computer Science
 - Take all my code from class and put into digital notes as “Code Examples”
 #### Look at and Add/Convert
 - [Studyclix Resources](https://www.studyclix.ie/resources/leaving-certificate/computer-science)
-- [Computational thinking - Flashcards](https://studyclix.blob.core.windows.net/static/content/file/uploads/e/ef64ad04-c403-4e89-a4f1-5855ed306065.pdf)
-- [Convert Common Abbreviations Flashcards and Final Tips](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
+- [Flashcards](https://studyclix.blob.core.windows.net/static/content/file/uploads/e/ef64ad04-c403-4e89-a4f1-5855ed306065.pdf)
+- [Look through this and convert, Don't convert flashcards (I already have flashcards that have the same terms)](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
 ### English
 - Look at this [resource](https://engzone.weebly.com/)
 - get and convert 5 languages of writing notes
@@ -116,15 +115,21 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
   - Family
 
 # Notes on how to make anki cards for certain subjects/topics
+
+- Convert tables to standard cards (with or without reverse), if the table is hard to study with standard cards use cloze cards
+- Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
+- Use image occlusion cards to learn diagrams
+
+## Subject Specific
+
 - English: Poetry cards will have a cloze for each line (to learn entire poem)
+
 # Note Conversion
-## Biology Notes
+<!--## Biology Notes
 
 | Chapter/Section                                | Paper Slides     | Slides |
 |------------------------------------------------|------------------|--------|
-| Pyramid of Numbers                             | No               | No     |
 
-<!--
 # Unit 1
 | A search for a definition of life              | Yes              | Yes    |
 | Scientific method                              | Yes              | Yes    |
@@ -132,6 +137,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | Ecology, Ecosystem, Biosphere, Habitat & Niche | Yes              | Yes    |
 | Environmental Factors                          | Yes              | Yes    |
 | Nutrient Recycling                             | Yes              | Yes    |
+| Pyramid of Numbers                             | Yes              | Yes    |
 # Unit 2
 | the cell                                       | Yes              | Yes    |
 | Respiration                                    | Yes              | Yes    |

@@ -54,6 +54,10 @@ The main excretory organs are:
 
 ![Nephron Structure 2](excretion/nephron-structure-2.png)
 
+![Urinary System](excretion/urinary-system.png)
+
+![Excretion Mindmap](excretion/excretion-mindmap.jpg)
+
 ---
 
 Active Transport - Movement of a substance across a semi-permeable membrane against a concentration gradient (high concentrations to low)
