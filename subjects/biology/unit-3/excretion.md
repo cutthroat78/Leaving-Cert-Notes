@@ -43,12 +43,12 @@ The main excretory organs are:
 - glomerular filtrate is a dilute solution of waste and useful molecules
 
 **Reabsorption takes**  place in the following parts of the nephron:
-- **proximal tubule** = water by osmosis, useful molecules and most salts by diffusion and active transport
+- **proximal tubule** = water by [osmosis](movement-of-molecules-across-cell-membranes.md#2-osmosis), useful molecules and most salts by [diffusion](movement-of-molecules-across-cell-membranes.md#1-diffusion) and [active transport](movement-of-molecules-across-cell-membranes.md#3-active-transport)
 - **loop of Henle**
-    1. descending limb = water by osmosis​
-    2. ascending limb = salts by diffusion and then by active transport​
-- **distal tubule** = water by osmosis and some salts by active transport
-- **collecting ducts** = water by osmosis
+    1. descending limb = water by [osmosis](movement-of-molecules-across-cell-membranes.md#2-osmosis)​
+    2. ascending limb = salts by [diffusion](movement-of-molecules-across-cell-membranes.md#1-diffusion) and then by [active transport](movement-of-molecules-across-cell-membranes.md#3-active-transport)​
+- **distal tubule** = water by [osmosis](movement-of-molecules-across-cell-membranes.md#2-osmosis) and some salts by [active transport](movement-of-molecules-across-cell-membranes.md#3-active-transport)
+- **collecting ducts** = water by [osmosis](movement-of-molecules-across-cell-membranes.md#2-osmosis)
 
 ![Nephron Structure](excretion/nephron-structure.png)
 
@@ -57,13 +57,3 @@ The main excretory organs are:
 ![Urinary System](excretion/urinary-system.png)
 
 ![Excretion Mindmap](excretion/excretion-mindmap.jpg)
-
----
-
-Active Transport - Movement of a substance across a semi-permeable membrane against a concentration gradient (high concentrations to low)
-
-Osmosis - Movement of water across a selectively permeable membrane from an area of high concentration to an area of low concentrations
-
-Diffusion - Movement of molecules from an area of of high concentration to an area of low concentration example: perfume (no membrane required)
-
-<!--Change above to link to pages/sections in pages-->

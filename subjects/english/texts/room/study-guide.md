@@ -1,6 +1,6 @@
 # Study Guide
 
-[Study Guide (from Teacher) (Including Questions)](study-guide.pdf)
+[Study Guide (from Teacher)](study-guide.pdf)
 
 ## Background
 
@@ -176,4 +176,4 @@ This quote is from the last section of the novel, entitled ‘Living’, a chapt
 
 From Chapter Living
 
-*Room* is partially a narrative of return. Whilst Ma wishes to never return to Room, Jack urges them to visit, as it reminds him of the contained safety of his childhood. When they visit, it is no longer a prison, as they have the choice to leave. In this poignant quote, Room doesn’t even exist as a structure anymore, but a ‘crater’. This suggests that is has become a non-entity, a place where ‘something happened’; the terror of the past seven years can only become ‘something’ as they no longer have to live it. Additionally, this last action of the novel seems insignificant, yet it presents the one action that Ma always wished to do. In being able to leave Room of their free will, without force and without an escape plan, it highlights their final bid to freedom. In returning to Room, both Jack and Ma commit its memories completely to rest, and they are finally able to move forward.
+*Room* is partially a narrative of return. Whilst Ma wishes to never return to Room, Jack urges them to visit, as it reminds him of the contained safety of his childhood. When they visit, it is no longer a prison, as they have the choice to leave. In this poignant quote, Room doesn’t even exist as a structure anymore, but a ‘crater’. This suggests that is has become a non-entity, a place where ‘something happened’; the terror of the past seven years can only become ‘something’ as they no longer have to live it. Additionally, this last action of the novel seems insignificant, yet it presents the one action that Ma always wished to do. In being able to leave Room of their free will, without force and without an escape plan, it highlights their final bid to freedom. In returning to Room, both Jack and Ma commit its memories completely to rest, and they are finally able to move forward

@@ -11,6 +11,8 @@ When I am no longer working on this repo but you want to make changes or modify 
 
 Add ```<!--In Anki-->``` to any title that it's content has been converted to anki
 
+Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
+
 ## Links to help make/edit notes
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
 ## Plan
@@ -26,57 +28,51 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 5. Start converting all notes to anki
 
 ## To Dos
-- Maybe add explanation of links in {subject}.md e.g. notes,slides,video/video playlist,padlet
-- Try and get rid of sub title on github pages website, so the top takes up less space
-- Find out how to link to certain parts of same and other pages, so that I can make key words and words in leaving cert notes link to other pages and parts of pages (So if you can't remember what a term means you can re-read what it means)
+- Use # in links to link to certain headings on pages
 - Get rid of “School Slides” and "Table of Contents" headings from notes
+- Write study guide/plan for each subject
 
 ### Biology
 - Look at summer 2022 exam structure file that is on teams
-- Check if all nephron structure diagrams I have in hardback and on sheets have any details that are not in the diagram that I have on leaving cert notes
-- Add video(s) link about each topic in biology.md "- [Video]()"/"- [Video Playlist]()"
+- Add video(s) link about each topic in biology.md ```- [Video]()``` or ```- [Video Playlist]()```
 - Get enzyme diagrams for enzyme pages
-- Go through all sections to see if they have their diagrams
 - Simplify notes but keep same info (go for better structure with headings)
-- Go through notes and create links to different parts of hardback
-- Mark diagrams I need to know for Biology course (one that you have to draw for the test)
+- Go through notes and create links to different parts of notes using # in links (If the word White Blood Cells comes up, it should link to the white blood cells subheading in the )
+- Mark diagrams we need to know for Biology course (one that you have to draw for the test)
+- Create list of subheadings to link to when they come up in notes
 
 #### Convert
-- Convert hand written notes on Teams that were made when I was out for UCD
-- Convert fill in the blank sheet urinary system diagram to digital notes
 - Convert heart diagram that is written on small piece of paper in my green folder
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet
 - Convert heated denaturation experiment
-- Go through all notes and change ** in <u> to <b>, so it displays properly on github pages
+- Go through all notes and change ** inside ```<u>``` to ```<b>```, so it displays properly on github pages
 ### Business
 - Convert stuff in exam preperation folder in Teams
 ### Computer Science
 - Take all my code from class and put into digital notes as “Code Examples”
 #### Look at and Add/Convert
 - [Studyclix Resources](https://www.studyclix.ie/resources/leaving-certificate/computer-science)
-- [Flashcards](https://studyclix.blob.core.windows.net/static/content/file/uploads/e/ef64ad04-c403-4e89-a4f1-5855ed306065.pdf)
 - [Look through this and convert, Don't convert flashcards (I already have flashcards that have the same terms)](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
 ### English
 - Look at this [resource](https://engzone.weebly.com/)
 - get and convert 5 languages of writing notes
 - Go through notes on Teams
-- Redeem verse 2023 english ebook
+- Attempt to redeem verse 2023 english ebook
 - Convert english room relationships pages that was sent to me over whatsapp
 - Make notes for poetry techniques
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
-- Go through a dolls house study booklet and get rid of things that are not needed
 ### French
-- Make notes on present tense (ir, re, er verb stuff)
 - Look through **ALL** files in french teams
-- Add an example to Past Tense page and the re-arrangement for mrs dr vandertramp
-- Write difference between future tenses into digital notes
-- Make french notes on conditional tense
-- Make French notes on all future tenses
-- Make notes on imperfect/l’imparfait tense and perfect/le parfait tense (past tenses)
 - Look into journal intime notes in French Teams chat
-- Stuff in this [link](https://cdetb-my.sharepoint.com/personal/17matthewrenehan_clogherroadcc_ie/_layouts/15/doc.aspx?sourcedoc=%7Bd1105639-1571-4b56-a55c-44c4498a1576%7D&action=edit) (word document I did in class once)
+- Tenses:
+  - Add an example to Past Tense page and the re-arrangement for mrs dr vandertramp
+  - Write difference between future tenses
+  - do notes for conditional tense
+  - do notes for all future tenses
+  - Make notes on imperfect tense and perfect tense (past tenses)
+  - Make notes on present tense (ir, re, er verb stuff)
 #### Convert
-- Page 129 of textbook, move Irregular futur simple stems into notes
+- Page 129 of textbook, move Irregular futur simple stems
 ### Maths
 - Look through maths ebook for things to put into digital notes
 - Rules in Maths ebook section 2.6 anki and/or digital notes
@@ -86,7 +82,7 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 - Add treble and bass notes phrase word things that help remember note values to anki
 - Go through and change all irish music link names (the [] part of the link)
 - Look at studyclix info to see exam structure and performing practical structure/info
-- Convert sheets on . (dotted) notes and rests
+- Convert sheets on .dotted notes and rests
 - Sort out treble key signatures page
 - Change notes in note-names.md to images
 - Add below to music note notes:
@@ -100,6 +96,8 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 ### Anki
 - Test and learn how to use [image occlusion](https://ankiweb.net/shared/info/1111933094)
 - Re do note value music anki cards but make them cloze cards, with all info after adding new stuff to music notes
+- Remember to add tags to anki cards
+- Write out tagging system for anki cards
 ### Extra
 - Take up phys-chem notes and convert them
 - Take up german notes and convert them
@@ -170,3 +168,57 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 | 24                                          | No               | No     |
 | 26                                          | No               | No     |
 | 27                                          | No               | No     |
+
+# Biology Resources To Go Through
+
+- [https://youtu.be/YhMeJ65JnyE](https://youtu.be/YhMeJ65JnyE)
+- [https://www.youtube.com/watch?v=n-9YjQ6wrzU&feature=youtu.be](https://www.youtube.com/watch?v=n-9YjQ6wrzU&feature=youtu.be)
+- [https://www.youtube.com/user/atbiolog/videos](https://www.youtube.com/user/atbiolog/videos)
+- [https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
+- [https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz](https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz)
+- [https://www.youtube.com/watch?v=aq-F4rNuj3Y](https://www.youtube.com/watch?v=aq-F4rNuj3Y)
+- [https://www.youtube.com/channel/UCxby2oPQwaY2poKTg5pSRqA/videos](https://www.youtube.com/channel/UCxby2oPQwaY2poKTg5pSRqA/videos)
+- [https://www.youtube.com/watch?v=CBv2BqqAydE](https://www.youtube.com/watch?v=CBv2BqqAydE)
+- [https://www.youtube.com/watch?v=-zafJKbMPA8](https://www.youtube.com/watch?v=-zafJKbMPA8)
+- [https://www.youtube.com/watch?v=B_zD3NxSsD8&feature=youtu.be](https://www.youtube.com/watch?v=B_zD3NxSsD8&feature=youtu.be)
+- [https://www.youtube.com/watch?v=M5Qly-VQfbo](https://www.youtube.com/watch?v=M5Qly-VQfbo)
+- [https://www.youtube.com/watch?v=-vsHgj1f0XE&has_verified=1](https://www.youtube.com/watch?v=-vsHgj1f0XE&has_verified=1)
+- [https://www.youtube.com/watch?v=yE3Y-XR8Ax4&has_verified=1](https://www.youtube.com/watch?v=yE3Y-XR8Ax4&has_verified=1)
+- [https://www.youtube.com/user/calacademy/search?query=photosynthesis](https://www.youtube.com/user/calacademy/search?query=photosynthesis)
+- [https://www.fuseschool.org/users/sign_in](https://www.fuseschool.org/users/sign_in)
+- [https://www.yourgenome.org/facts/what-is-genetic-engineering](https://www.yourgenome.org/facts/what-is-genetic-engineering)
+- [https://www.sciencebuddies.org/](https://www.sciencebuddies.org/)
+- [http://www.nuffieldfoundation.org/practical-biology/making-nutrient-agars](http://www.nuffieldfoundation.org/practical-biology/making-nutrient-agars)
+- [http://www.nclark.net/](http://www.nclark.net/)
+- [http://www.saps.org.uk/secondary/teaching-resources/1299?dm_i=19FH,2Y3RD,I3EA4Z,AMTB8,1](http://www.saps.org.uk/secondary/teaching-resources/1299?dm_i=19FH,2Y3RD,I3EA4Z,AMTB8,1)
+- [https://www.explorelearning.com/index.cfm?method=cResource.dspView&ResourceID=395](https://www.explorelearning.com/index.cfm?method=cResource.dspView&ResourceID=395)
+- [https://www.biologyjunction.com/welcome_to_ap_biology.htm](https://www.biologyjunction.com/welcome_to_ap_biology.htm)
+- [https://www.learningliftoff.com/high-school-science-dna-replication/#.WTfVJhMrIch](https://www.learningliftoff.com/high-school-science-dna-replication/#.WTfVJhMrIch)
+- [https://www.genome.gov/human-genome-project](https://www.genome.gov/human-genome-project)
+- [https://mathbench.umd.edu/modules/visualization_plasmids/page03.htm](https://mathbench.umd.edu/modules/visualization_plasmids/page03.htm)
+- [ExploreLearning Gizmos: Math & Science Virtual Labs and Simulations](https://gizmos.explorelearning.com/)
+
+# Resources to Add
+
+- soar maths (android app)
+- [https://www.reddit.com/r/TheLeavingCert/](https://www.reddit.com/r/TheLeavingCert/)
+- [https://www.reddit.com/r/leavingcert/](https://www.reddit.com/r/leavingcert/) (old and dead)
+- Look for amino communites on leaving cert
+- clefs (android app)
+- leaving cert biology quiz (android app)
+- Scoring and exam paper structures for each subject
+- hiragana pro and katakana pro
+- pocket papers
+- study smarter app
+- [https://irevise.com/ie](https://irevise.com/ie)
+- [https://www.softschools.com/](https://www.softschools.com/)
+- [http://www.muinteoircole.com/](http://www.muinteoircole.com/)
+- [https://muinteoirnicole.wordpress.com/](https://muinteoirnicole.wordpress.com/)
+- easy french youtube channel (easy (insert language here))
+- [https://padlet.com/](https://padlet.com/)
+- [https://leavingcertmindmaps.ie/](https://leavingcertmindmaps.ie/)
+- [https://www.softschools.com/](https://www.softschools.com/)
+- [https://www.gradesaver.com/](https://www.gradesaver.com/)
+- [https://www.cliffsnotes.com/](https://www.cliffsnotes.com/)
+- [https://www.examlearn.ie/](https://www.examlearn.ie/)
+- [https://www.youtube.com/c/TheDublinAcademyofEducation/playlists](https://www.youtube.com/c/TheDublinAcademyofEducation/playlists)

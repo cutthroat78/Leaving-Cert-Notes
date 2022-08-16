@@ -74,3 +74,16 @@ The Study of Living Organisms
 | IAA as a Growth Regulator                                                                 | No            | No                  | No      | No |
 | Germination                                                                               | No            | No                  | No      | No |
 | Digestive Activity during Germination                                                     | No            | No                  | No      | No |
+
+<!--
+# Info on Piece of paper in folder, that I don't know what it is from
+
+4 Steps:
+
+1. Isolation of DNA
+2. Cutting of DNA with DNA digest systems
+3. Separation of fragments on basis of size
+4. Comparison of resulting profiles
+
+To make things easier, DNA provided has been already cut
+-->

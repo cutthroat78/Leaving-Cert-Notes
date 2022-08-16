@@ -22,8 +22,8 @@ Je viens de passer une journée magnique avec mon meilleur(e) ami(e) ____. Je su
 
 ## Phrases for Diary Entries
 
-| French                                                                             | English                                                                     |
-|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| French | English |
+|-|-|
 | Des phrases introductrices                                                         | Introduction Phrases                                                        |
 | Cher journal                                                                       | Dear diary                                                                  |
 | Je suis déprimé(e)/fatigué(e)/ravi(e)                                              | I am depressed / tired / happy                                              |

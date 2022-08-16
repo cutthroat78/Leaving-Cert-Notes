@@ -171,11 +171,11 @@ Examples:
 
 Adaptation = a inheritable trait that helps an organism survive
 
-Types of adaptation
+Types of adaptation:
 
 1. Structural - giraffes have long neck​
-2. Competitive - fighting for a mate​
-3. Behavioural-  Male birds like peacocks perform mating dances!!!
+2. Competitive - fighting for a mate​ (stags have large antlers)
+3. Behavioural - Male birds like peacocks perform mating dances
 
 ## Predation
 
@@ -283,20 +283,18 @@ Parasitism is a form of symbiosis
 
 Examples:
 
-- Fleas on a dog (ectoparasites)
+- <u>Fleas on a dog (ectoparasites)</u>
 - Liverfluke in cattle/sheep (endoparasites)
 
 Parasites do harm to their hosts but usually do not kill them too quickly
 
 #### 2. Mutualism
 
-2 species living in close contact where both benefit
-
-Example: Lichen (algae gain shelter and nutrients while fungus gains food)
+2 species living in close contact where both benefit e.g Lichen (algae gain shelter and nutrients while fungus gains food)
 
 #### 3. Commensalism
 
-One species benefits while the other is neither harmed nor benefits ex- bird nesting in a tree
+One species benefits while the other is neither harmed nor benefits e.g bird nesting in a tree
 
 # Population Dynamics
 

@@ -13,7 +13,7 @@
 - Ma and Grandma
     - Ma challenges Grandma, similar to a teenager rebelling against their parents
 
-(Not as important)
+## Not as important
 
 - Jack and Dr. Clay
     - Allows Jack to voice his concerns
