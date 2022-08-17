@@ -1,19 +1,34 @@
 # Question
 
-_
+Identify a theme or issue you studied as part of your comparative course. Discuss the various reasons why you did or did not find the exploration of this theme or issue emotionally engaging in one text on your comparative course. Support your answer with reference to the text.
 
 # Plan
 
-Par 1: Identify what is beind asked list text and issue state your opinion
+Paragraph 1: Identify what is being asked list text and issue state your opinion
 
-Par 2: Control being used - food, heat
+Paragraph 2: Control being used - food, heat
 
-Par 3: Violence being used - rape of Ma
+Paragraph 3: Violence being used - rape of Ma
 
-Par 4: Violence against Ma when trying to escape. / Threat of violence against Jack
+Paragraph 4: Violence against Ma when trying to escape. / Threat of violence against Jack
 
-Par 5: Ma losing control of herself
+Paragraph 5: Ma losing control of herself
 
-Par 6: Conclusion, restate question interpretation + state opinion and back it up
+Paragraph 6: Conclusion, restate question interpretation + state opinion and back it up
 
 # Answer
+
+A theme or issue that I have studied as part of my comparative course is control and violence. This theme in central to the plot of the text Room, written by Emma Donoghue. I found that the exploration of this theme was emotionally engaging throughout the novel.
+
+Donoghue locates the setting of the text in a shed, the premise of the novel is centred around two characters, Ma and Jack and how they are being held captive, abused controlled, their escape and eventual reintegration into society. Due to the premise of the novel, you can understand that control and violence are central to the plot, however Donoghue explores the theme when the characters escape, what happens when the violence and the person controlling them is removed? Mass mental breakdown at not being able to control her surroundings and Jack having to understand that he cannot control what people think of him. This exploration made the text emotionally engaging because the reader empathises with Ma and Jack and want them to escape Old Nick and to emerge into society happy and healthy, unfortunately as we find out, it's not that easy to do.
+
+Old Nick not only has Ma and Jack held captive in a small shed he is in total control of their lives, he is God. He alone decides if they live or die. He provides the food that they eat, medicine they receive and if they have heat and the electricity needed to cook their food. Old Nick provides groceries once a week and if Ma or Jack need anything other than groceries like vitamins, painkillers or clothes, then they have to ask for it as a special treat, 'Sunday Treat'. The fact that Ma and Jack rely on Old Nick for these things put them at his mercy. They must give Old Nick what he wants so they can survive. This control that Old Nick has over Ma and Jack explored when he turns off the electricity to Room and fails to bring the groceries when they were due. He did this as a punishment because he believed that Ma and Jack were trying to escape. He points this out when he shows up with food days later Ma apologises, even though she has nothing to apologise for. This episode is emotionally engaging because we, the reader empathise with Ma and Jack, we automatically want them to find a way to survive, we sympathise with Ma and understand she is doing her best for Jack including going without food so he will eat, even though Jack doesn't see this or understand what is going on.
+
+Violence and the threat of violence go hand in hand with control Room. Donoghue's exploration of violence again makes Room an emotionally engaging text, Ma has been kidnapped and held in Room for the express purpose of being a sex slave for Old Nick, we understand that he arrives every night at the same time and Jack is put in wardrobe before Old Nick gets there, Old Nick then rapes Ma, this is told through the perspective of Jack, he counts the number of times that the bed squeaks. This is an excellent technique employed by Donoghue as the focus is removed from the act itself and the reader is focused on the idea that this young five year old child is listening to this happen to his mother, which again encourages the reader to form an emotional attachment to Ma and Jack and want to see them escape this awful situation. The reader is also made aware of the fact that Jack is the product of rape, yet Ma loves him unconditionally and doesn't allow Old Nick to even see Jack, until he forces her out of the way so he look at him, when he is five years of age.
+
+This leads to the idea of the threat of violence against Jack by Old Nick. Ma has up until Jack turned five managed to keep Old Nick away from Jack because she fears what he might do to Jack. Jack is a male and so could potentially grow to be stronger than Ma by the time he reaches his teens, he therefore poses a threat to Old Nick and the balance of power in Room. Each year that Jack is alive he becomes more of a threat and Ma knows this that is why she comes up with her Plan A and Plan B for escape when she is told that Old Nick has been unemployed for months and he is in danger of losing his house to the bank. Ma logically believes that Old Nick will not keep both of them alive if he loses the house, because it will put him at risk of being caught by the police so this threat of violence is the catalyst that Ma needs to come up with their escape plan. Once again this theme is emotionally engaging because this perceived threat of violence has spurred Ma into action and we are emotionally invested in these characters and the reader is willing them to escape.
+
+The exploration of this theme is delved into further when Ma and Jack escape and go to the clinic. It allows the reader to witness the struggles that Ma and Jack experience as a result of losing the sense of control that they had over their own lives while in Room. Jack finds it difficult to interact with people because while in Room he only had Ma to speak to and to interact with, the rest were either television characters or made up. Jack's day to day life in Room was structured in order to keep him busy, the removal of this strict routine contributes to Jack's sense of losing the control he had and his identity, which is why he repeatedly asks to go back to Room. Similarly Ma experiences a loss of control when she escapes Room. She alone was responsible for Jack and made all decisions that concerned him but when she is outside of Room, other people are voicing their opinions to her, including doctors, nurses, her mother and a television interviewer. Ma feels that she has to justify the decisions she has made and continues to make. Ma begins to doubt herself and her decision to keep Jack, she loses the control she had over her own life and Jacks. She also loses her self control and her emotional and mental health suffer as a result and she attempts suicide. Again Donoghue's exploration of control and violence allows the story, the characters and their experiences to become emotionally engaging to the reader.
+
+The exploration of the theme of control and violence in Emma Donoghue's Room made the text emotionally engaging because it created an antagonist that the reader wants to see suffer like he made Ma and Jack suffer or at the very least, face justice for the torture he put Ma through. It also created two protagonists, Ma and Jack, who the reader wants to see escape and have a normal life, we sympathise, empathise and have hope for these two characters. We are emotionally engaged with these characters who are trying to do the best they can in the situation that they are in.
+

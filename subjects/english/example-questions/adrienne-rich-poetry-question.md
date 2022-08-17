@@ -13,4 +13,3 @@ Aunt Jennifer's Tigers characters that are present in the poem are Aunt Jennifer
 The uncle represents the male patriarchal society.
 
 The tigers symbolise the freedom that Aunt Jennifer and the poet long for.
-

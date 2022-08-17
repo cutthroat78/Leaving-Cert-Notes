@@ -22,6 +22,11 @@
 - [The Modal Verbs](grammar/verbs/modal-verbs.md)
 - [Spelling Changes to Verbs](grammar/verbs/spelling-changes-to-verbs.md)
 - [Porter - To Wear](grammar/verbs/porter.md)
+- Irregular Verbs:
+  - [Être]()
+  - [Aller]()
+  - [Avoir]()
+  - [Faire]()
 
 ## Vocabulary & Phrases
 

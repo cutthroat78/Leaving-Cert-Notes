@@ -1,10 +1,10 @@
 # Excretion
 The removal of waste products from the body
 
-<u>**Homestasis** is the maintenance of a stable internal environment in an organism</u>
+<u><b>Homestasis</b> is the maintenance of a stable internal environment in an organism</u>
 
-- <u>**Ectotherms**</u> are animals that obtain <u>their heat</u> from <u>external sources</u>
-- <u>**Endotherms** generate their heat with their own body reactions</u>
+- <u><b>Ectotherms</b></u> are animals that obtain <u>their heat</u> from <u>external sources</u>
+- <u><b>Endotherms</b> generate their heat with their own body reactions</u>
 
 The main excretory organs are:
 1. lungs (water and carbon dioxide)
@@ -29,14 +29,15 @@ The main excretory organs are:
 - some materials are secreted from the blood into the kidneys
 - <u>urine formed in the kidneys flows to the bladder</u> through the ureters
 - <u>blood (low in waste) leaves the kidneys in the renal veins</u>
-- <u>**The bladder** stores urine</u>
-- <u>**Urine is excreted** through the urethra</u>
+- <u><b>The bladder</b> stores urine</u>
+- <u><b>Urine is excreted</b> through the urethra</u>
 
 ## Nephrons
 - carry out the functions of the kidneys
 - are located in the cortex and medulla of the kidney
 ### A **nephron makes urine** as follows
-- **Filtration:**
+
+**Filtration:**
 - blood enters the nephron in the afferent arteriole
 - this forms many capillaries called the glomerulus
 - high pressure in the glomerulus forces water and small molecules out of the blood

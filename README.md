@@ -64,13 +64,17 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 ### French
 - Look through **ALL** files in french teams
 - Look into journal intime notes in French Teams chat
+- Verbs to do:
+  - faire
+  - être
+  - avoir
+  - aller
 - Tenses:
   - Add an example to Past Tense page and the re-arrangement for mrs dr vandertramp
   - Write difference between future tenses
   - do notes for conditional tense
   - do notes for all future tenses
   - Make notes on imperfect tense and perfect tense (past tenses)
-  - Make notes on present tense (ir, re, er verb stuff)
 #### Convert
 - Page 129 of textbook, move Irregular futur simple stems
 ### Maths
@@ -201,24 +205,24 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 # Resources to Add
 
 - soar maths (android app)
-- [https://www.reddit.com/r/TheLeavingCert/](https://www.reddit.com/r/TheLeavingCert/)
-- [https://www.reddit.com/r/leavingcert/](https://www.reddit.com/r/leavingcert/) (old and dead)
-- Look for amino communites on leaving cert
+- https://www.reddit.com/r/TheLeavingCert/
+- https://www.reddit.com/r/leavingcert/ (old and dead)
+- Look for amino communities on leaving cert
 - clefs (android app)
 - leaving cert biology quiz (android app)
 - Scoring and exam paper structures for each subject
 - hiragana pro and katakana pro
 - pocket papers
 - study smarter app
-- [https://irevise.com/ie](https://irevise.com/ie)
-- [https://www.softschools.com/](https://www.softschools.com/)
-- [http://www.muinteoircole.com/](http://www.muinteoircole.com/)
-- [https://muinteoirnicole.wordpress.com/](https://muinteoirnicole.wordpress.com/)
+- https://irevise.com/ie
+- https://www.softschools.com/
+- http://www.muinteoircole.com/
+- https://muinteoirnicole.wordpress.com/
 - easy french youtube channel (easy (insert language here))
-- [https://padlet.com/](https://padlet.com/)
-- [https://leavingcertmindmaps.ie/](https://leavingcertmindmaps.ie/)
-- [https://www.softschools.com/](https://www.softschools.com/)
-- [https://www.gradesaver.com/](https://www.gradesaver.com/)
-- [https://www.cliffsnotes.com/](https://www.cliffsnotes.com/)
-- [https://www.examlearn.ie/](https://www.examlearn.ie/)
-- [https://www.youtube.com/c/TheDublinAcademyofEducation/playlists](https://www.youtube.com/c/TheDublinAcademyofEducation/playlists)
+- https://padlet.com/
+- https://leavingcertmindmaps.ie/
+- https://www.softschools.com/
+- https://www.gradesaver.com
+- https://www.cliffsnotes.com
+- https://www.examlearn.ie/
+- https://www.youtube.com/c/TheDublinAcademyofEducation/playlists
