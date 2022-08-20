@@ -15,19 +15,9 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 ## Links to help make/edit notes
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
-## Plan
-1. Convert, setup and fix the notion export and sort all that out
-  - Biology
-  - Biology Experiments
-  - Computer science
-  - English
-  - Music
-2. Convert paper and all other notes into digital
-3. Fix and put all links into index.md and {subject}.md
-4. Convert all Biology paper and digital slides
-5. Start converting all notes to anki
 
 ## To Dos
+- Fix and put all links into index.md and {subject}.md
 - Use # in links to link to certain headings on pages
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Write study guide/plan for each subject
@@ -46,13 +36,17 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet
 - Convert heated denaturation experiment
 - Go through all notes and change ** inside ```<u>``` to ```<b>```, so it displays properly on github pages
+
 ### Business
 - Convert stuff in exam preperation folder in Teams
+
 ### Computer Science
 - Take all my code from class and put into digital notes as “Code Examples”
+
 #### Look at and Add/Convert
 - [Studyclix Resources](https://www.studyclix.ie/resources/leaving-certificate/computer-science)
 - [Look through this and convert, Don't convert flashcards (I already have flashcards that have the same terms)](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
+
 ### English
 - Look at this [resource](https://engzone.weebly.com/)
 - get and convert 5 languages of writing notes
@@ -61,6 +55,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Convert english room relationships pages that was sent to me over whatsapp
 - Make notes for poetry techniques
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
+
 ### French
 - Look through **ALL** files in french teams
 - Look into journal intime notes in French Teams chat
@@ -75,13 +70,16 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
   - do notes for conditional tense
   - do notes for all future tenses
   - Make notes on imperfect tense and perfect tense (past tenses)
+
 #### Convert
 - Page 129 of textbook, move Irregular futur simple stems
+
 ### Maths
 - Look through maths ebook for things to put into digital notes
 - Rules in Maths ebook section 2.6 anki and/or digital notes
 - Find videos for each Maths thing/section we have done so far and add to notion
 - Convert maths notes that was sent to me into digital notes
+
 ### Music
 - Add treble and bass notes phrase word things that help remember note values to anki
 - Go through and change all irish music link names (the [] part of the link)
@@ -97,11 +95,13 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
     A dotted crochet always has a quaver after it
 - Look through this [link](https://www.curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Music/) and put info on exams and subjects onto pages
 - Pick songs for music class (3, 4 or 6)
+
 ### Anki
 - Test and learn how to use [image occlusion](https://ankiweb.net/shared/info/1111933094)
 - Re do note value music anki cards but make them cloze cards, with all info after adding new stuff to music notes
 - Remember to add tags to anki cards
 - Write out tagging system for anki cards
+
 ### Extra
 - Take up phys-chem notes and convert them
 - Take up german notes and convert them
@@ -119,7 +119,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 # Notes on how to make anki cards for certain subjects/topics
 
 - Convert tables to standard cards (with or without reverse), if the table is hard to study with standard cards use cloze cards
-- Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
+- Paragraphs/Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
 - Use image occlusion cards to learn diagrams
 
 ## Subject Specific
