@@ -61,7 +61,7 @@ The main excretory organs are:
 
 ---
 
-## ADH and the Control of Water Loss (OSmoregulation) by the Nephron
+## ADH and the Control of Water Loss (Osmoregulation) by the Nephron
 
 ADH = Anti-diuretic Hormone
 
