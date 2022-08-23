@@ -58,3 +58,21 @@ The main excretory organs are:
 ![Urinary System](excretion/urinary-system.png)
 
 ![Excretion Mindmap](excretion/excretion-mindmap.jpg)
+
+---
+
+## ADH and the Control of Water Loss (OSmoregulation) by the Nephron
+
+ADH = Anti-diuretic Hormone
+
+The **permeability** of the **collecting duct wall** to **water** is controlled by the hormone **ADH** (anti-diuretic hormone) made in the **pituitary gland** in the brain
+
+If a lot of **salt** has been consumed or a lot of **water** has been **lost** by the body (eg. in sweat), the blood becomes too **concentrated** and water needs to be added to it
+
+**Osmoreceptors** in the **hypothalamus** of the brain are stimulated and a message is sent to the pituitary to release **more ADH** into the blood
+
+This causes the **walls** of the **collecting duct** to become **more permeable** to water and so **more water** leaves the collecting duct and goes into the blood. The urine remaining now has a **smaller** volume and is **more** concentrated
+
+Drinking a lot of water results in less ADH being released, the walls remaining impermeable to water and therefore water remaining in the collecting duct. A **watery** urine of **greater volume** results
+
+![ADH Diagram](excretion/ADH.png)
