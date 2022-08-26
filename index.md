@@ -12,22 +12,32 @@
 - [General Study Methods & Tips](study.md)
 - [Resources](resources.md)
 
-<!--
 # Homework
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | | | | |
--->
 
 # Calendar
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Return to School 2022 6th Year - Assembly & Form tutor time | | 26/08/2022 | 11 AM - 12 PM |
 | Normal School Timetable | | 31/08/2022 | 9 AM - 01.05 PM |
 | Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
+# Timetable
+(The time column doesn't apply to Wednesdays)
+
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+| --- | --- | --- | --- | --- | --- |
+| 8:50 | Tutorial | Tutorial | Business | Tutorial | Tutorial |
+| 9:00 | Maths | Computer Science/Irish | French/Engineering | Maths | Business |
+| 9:50 | Woodwork/Biology (1/2) | Woodwork/Biology | Computer Science/Irish | Computer Science/Irish | French/Engineering |
+| 10:50 | Woodwork/Biology (2/2) | Relation & Sexual Education | Break | Woodwork/Biology | Computer Science/Irish |
+| 11:50 | Break | Break | Maths | Break | Break | 
+| 12:30 | Business | PE | English | Music/Phys-Chem/Art/Geography | Music/Phys-Chem/Art/Geography |
+| 13:30 | French/Engineering | Business | Music/Phys-Chem/Art/Geography | English | English |
+| 14:30 | English | Music/Phys-Chem/Art/Geography | | French/Engineering | Maths |
 <!--
 # Calendar Archive
 ## 6th Year
@@ -81,8 +91,6 @@
 - [ ] English - Write a paragraph on one of the Relationships in Room  - 01/04/2022
 - [ ] Biology - Workbook Page 113 Q 1 (part e of 1), 2, 3, 4, 5, 6, 7 - 05/04/2022
 - [ ] Biology - Study definitions scientific method - 05/04/2022
-
-# 6th Year Timetable
 
 # 5th Year Timetable
 (The time column doesn't apply to Wednesdays)
