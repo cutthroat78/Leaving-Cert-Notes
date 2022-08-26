@@ -18,13 +18,6 @@
 |-|-|-|-|
 | | | | |
 
-# Calendar
-
-| Event | Information | Date | Time |
-|-|-|-|-|
-| Normal School Timetable | | 31/08/2022 | 9 AM - 01.05 PM |
-| Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
-
 # Timetable
 (The time column doesn't apply to Wednesdays)
 
@@ -38,6 +31,13 @@
 | 12:30 | Business | PE | English | Music/Phys-Chem/Art/Geography | Music/Phys-Chem/Art/Geography |
 | 13:30 | French/Engineering | Business | Music/Phys-Chem/Art/Geography | English | English |
 | 14:30 | English | Music/Phys-Chem/Art/Geography | | French/Engineering | Maths |
+
+# Calendar
+
+| Event | Information | Date | Time |
+|-|-|-|-|
+| Normal School Timetable | | 31/08/2022 | 9 AM - 01.05 PM |
+| Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
 <!--
 # Calendar Archive
