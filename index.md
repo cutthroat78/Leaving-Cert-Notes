@@ -39,6 +39,8 @@
 | Normal School Timetable | | 31/08/2022 | 9 AM - 01.05 PM |
 | Leaving Cert Exams Start | This date is a **GUESS** and is most likely not accurate to the actual date | 01/06/2023 |
 
+![Timetable](timetable.jpeg)
+
 <!--
 # Calendar Archive
 ## 6th Year
