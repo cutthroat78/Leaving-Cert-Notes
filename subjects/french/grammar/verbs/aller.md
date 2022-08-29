@@ -5,6 +5,6 @@
 | Je vais           | I go             |
 | Tu vas            | You go           |
 | Il/Elle/On va     | He/She/One goes  |
-| Nous Allons       | We go            |
-| Vous Allez        | You (all) go     |
-| Ils/Elles Vont    | They go          |
+| Nous allons       | We go            |
+| Vous allez        | You (all) go     |
+| Ils/Elles vont    | They go          |
