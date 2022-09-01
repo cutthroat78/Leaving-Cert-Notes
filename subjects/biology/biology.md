@@ -15,6 +15,7 @@ The Study of Living Organisms
 ## Unit 2 - The Cell - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1)
 - [The Cell](unit-2/the-cell.md) - [Slides](slides/unit-2/the-cell.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/the-cell.md)
 - [Respiration](unit-2/respiration.md) - [Slides](slides/unit-2/respiration.pdf)
+- [Cell Division](unit-2/cell-division.md) - [Slides](slides/unit-2/cell-division.pdf)
 
 ## Unit 3 - The Organism - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
 - [Skeletal System](unit-3/skeletal-system.md) - [Slides](slides/unit-3/skeletal-system.pdf)
@@ -87,3 +88,4 @@ The Study of Living Organisms
 
 To make things easier, DNA provided has been already cut
 -->
+

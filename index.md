@@ -16,7 +16,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| | | | |
+| Biology | First Two Learning Check on Cell Division Slides | Monday, 05/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
