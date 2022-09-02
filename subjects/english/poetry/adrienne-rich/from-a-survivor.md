@@ -33,3 +33,41 @@
 > but a succession of brief, amazing moments
 
 > each one making possible the next
+
+## Theme(s)
+
+- Marriage
+- Loss
+- Death
+- Divorce
+- Love
+- Survival
+
+## Poetic Techniques
+
+- Enjambment
+- Metaphor
+
+## Symbolism
+ 
+## Tone + Mood
+
+- Pensive
+- Sombre
+- Hope towards the future
+
+## Imagery
+
+- "body of a god"
+- "your body", "as vivid to me"
+
+## Rhyme + Structure
+
+- 24 line poem
+- 10 stanzas
+- no rhyme scheme
+
+## Quotes
+
+- "Like everybody else, we thought of ourselves as special"
+- "but a succession of brief, amazing movements"
