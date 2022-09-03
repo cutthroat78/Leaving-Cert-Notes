@@ -127,12 +127,11 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - English: Poetry cards will have a cloze for each line (to learn entire poem)
 
 # Note Conversion
-<!--## Biology Notes
+## Biology Notes
 
 | Chapter/Section                                | Paper Slides     | Slides |
 |------------------------------------------------|------------------|--------|
-
-# Unit 1
+| Unit 1 | |
 | A search for a definition of life              | Yes              | Yes    |
 | Scientific method                              | Yes              | Yes    |
 | nutrition                                      | Yes              | Yes    |
@@ -140,10 +139,11 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | Environmental Factors                          | Yes              | Yes    |
 | Nutrient Recycling                             | Yes              | Yes    |
 | Pyramid of Numbers                             | Yes              | Yes    |
-# Unit 2
+| Unit 2 | |
 | the cell                                       | Yes              | Yes    |
 | Respiration                                    | Yes              | Yes    |
-# Unit 3
+| Cell Division                                  | Yes              | No     |
+| Unit 3 | |
 | skeletal system                                | Yes              | Yes    |
 | the digestive system                           | Yes              | Yes    |
 | enzymes and metabolism                         | Yes              | Yes    |
@@ -151,7 +151,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | Excretion                                      | Yes              | Yes    |
 | The Breathing System                           | Yes              | Yes    |
 | Homeostasis                                    | Yes              | Yes    |
-| the circulatory system                         | Yes              | Yes    |-->
+| the circulatory system                         | Yes              | Yes    |
 
 ## Business Notes
 
