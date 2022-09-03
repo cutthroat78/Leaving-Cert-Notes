@@ -1,26 +1,3 @@
-## Industrial Relations Act 1990
-
-- Employer cannot sue for business disruption
-- Outlines around for official disputes or strike action
-- Lawfully protest without reprisal
-- Covers all legal activities around employment
-- Have to give 7 days notice to strike (gives chance to employer to resolve conflict)
-- A confidential secret ballot must be carried out before a strike can happen
-
-### Picketing Terms
-
-| Term                | Definition                                                                                                       |
-|---------------------|------------------------------------------------------------------------------------------------------------------|
-| Primary Picketing   | Strike action outside the actual premises by the workers there                                                   |
-| Secondary Picketing | Outside another workplace by worker supporting colleagues in a dispute                                           |
-| Immunity            | Employers can't sue employees for any losses that the business faces from a lack of sales caused from the action |
-
-## Types of industrial action
-
-The industrial actions above are legal. Workers are not allowed to engage in a wildcat or lightning strike (an unofficial strike where no notice is given to the employer)
-
-While citizens can legally protest the government, it is illegal for workers to stop work in order to protest a government decision
-
 ### Types of industrial action (from slides)
 
 | Term            | Definition                                                                          |
