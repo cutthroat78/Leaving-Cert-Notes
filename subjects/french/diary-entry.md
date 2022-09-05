@@ -2,7 +2,7 @@
 
 ## Une fête d'anniversaire
 
-<aside>Lyon, le 3 juin</aside>
+<div style="text-align: right">Lyon, le 3 juin</div>
 
 Cher journal.
 
