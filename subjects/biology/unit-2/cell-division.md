@@ -76,15 +76,15 @@ Sex Cells -> Haploid
 
 ### Interphase
 
-- Longest phase in cell cycle = 90% of a cells life is in interphase
-- Chromosomes elongated = chromatin
+- <u>Longest phase</u> in cell cycle = 90% of a cells life is in interphase
+- <u>Chromosomes elongated = chromatin</u>
 - Cell very active in Interphase, produces new mitochondria, chloroplasts etc. and chemicals needed for growth
 
 ![]() <!--Diagram of Interphase from pg 121 of textbook-->
 
 ## Mitosis
 
-<u>Definition: _</u>
+<u>Definition: Mitosis is a form of nucleur division in which one nucleus divides to form two nuclei, each containing indentical sets of chromosomes</u>
 
 Two new cells called daughter cells and they are IDENTICAL to each other
 
@@ -109,7 +109,7 @@ Two new cells called daughter cells and they are IDENTICAL to each other
 
 ![]() <!--Diagram of Metaphase from pg 121 of textbook-->
 
-#### Stage 3 Anaphsae (HL)
+#### Stage 3 Anaphase (HL)
 
 - Fibres contract, chromosomes pulled apart
 - Each strand of chromosome is pulled to opposite end of cell
@@ -137,12 +137,12 @@ Once complete, original cell divides to form 2 cells. In reality there are 5 sta
 
 <u><b>In Unicellilar Organisms</b></u>
 
-- Method of reproduction for Amoeba Reproduction that doesn't involve the joining of 2 cells is called Asexual reproduction
+- <u>Method of reproduction</u> for Amoeba Reproduction that doesn't involve the joining of 2 cells is called Asexual reproduction
 
 <u><b>In Multicellular Organisms</b></u>
 
 - Produces new cells, not new individuals
-- Responsible for growth & renewal and repair of cells
+- <u>Responsible for growth & renewal and repair of cells</u> (growth + repair cells)
 
 ## Cancer
 
@@ -155,20 +155,19 @@ Once complete, original cell divides to form 2 cells. In reality there are 5 sta
 - Benign means <u>kind</u>, they are not life threatening and do not invade other tissues. E.g. warts, skin tags
 - Cells stop dividing after some time
 
-<u>Definition: Cancer</u>
+<u>Definition: Cancer occurs when certain cells lose their ability to control the rate of mitosis</u>
 
 ### Malignant tumours
 
-- Uncontrolled multiplication of abnormal cells
+- <u>Uncontrolled multiplication of abnormal cells</u>
 - Malignant tumours (cancers) invade other cells and move around the body
 - Movement of these cells called Metastasis
 - Cancer cells divide indefinitely
 
 ### Causes of Cancer
 
-1. Caused when normal genes are altered to form cancer causing genes called oncogenes
-2. Brought about by cancer causing agents called <u>carcinogens</u> e.g. cigarette smoke, asbestos fibres, ultraviolet radiation and some viruses
-
+- Caused when normal genes are altered to form cancer causing genes called oncogenes
+- Brought about by cancer causing agents called <u>carcinogens</u> e.g. <u>cigarette smoke</u>, <u>asbestos fibres,</u>, ultraviolet radiation and some viruses
 - Most cancers can be cured with Radiation (burn out cancer), Chemotherapy (Chemicals slow down mitosis) and surgery
 
 ![]()
