@@ -58,12 +58,10 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 ### French
 - Look through **ALL** files in french teams
+- get all Irregular Past Particles and group them based on endings
 - Look into journal intime notes in French Teams chat
 - Verbs to do:
-  - faire
-  - être
-  - avoir
-  - aller
+  - mourir
 - Tenses:
   - Add an example to Past Tense page and the re-arrangement for mrs dr vandertramp
   - Write difference between future tenses
