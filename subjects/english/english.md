@@ -60,6 +60,8 @@
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
 - [The Uncle Speaks in the Drawing Room](poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md)
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
+- [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
+- [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
 ## Example Questions and Sample Essays
 - [Adrienne Rick Poetry Question](example-questions/adrienne-rich-poetry-question.md)
 - [Control and Violence: Theme or Issue Question](example-questions/control-and-violence-question.md)
