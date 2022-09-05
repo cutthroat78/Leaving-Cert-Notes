@@ -31,3 +31,43 @@
 > This is our sole defense against the season;
 > These are the things we have learned to do
 > Who live in troubled regions. 
+
+## Themes
+- Resilience
+- Dealing with emotions
+- Emotionally isolated depression
+- Vulnerability
+- Self awareness
+
+## Poetic Techniques
+- Sibilance
+- Alliteration
+- Assonance
+- Personification
+- Enjambment
+- Double entendre
+- Poem is an extended metaphor the storm represents the poet's internal struggle to process her emotions
+
+## Imagery
+- Storm
+- Isolation
+- Lone candle
+- Shutters
+
+## Rhyming Pattern
+- 4 stanzas
+- 7 lines each
+- No rhyme scheme
+
+## Mood + Tone
+- Sombre
+- Pensive
+- Reflective
+- Hopeful
+
+## Symbolism
+- Storm represents emotional turmoil
+- Candle signifing hope
+- Shutters could suggest the poet closing her heart to further pain
+
+## Quotes
