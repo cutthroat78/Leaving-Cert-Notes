@@ -16,9 +16,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | First Two Learning Check on Cell Division Slides | Monday, 05/09/2022 | No |
 | Maths | Do Algebra Question that was on the board | Wednesday, 07/09/2022 | No | 
-| French | Finish sheet and create 5 sentences(/phrases) that describe your daily routine with irregular verbs on sheet | Monday, 05/09/2022 | Yes | 
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
