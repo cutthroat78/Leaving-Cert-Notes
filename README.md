@@ -166,7 +166,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | 14                                          | No               | No     |
 | 18                                          | No               | No     |
 | 19                                          | No               | No     |
-| 21                                          | Yes              | No     |
 | 22                                          | No               | No     |
 | 24                                          | No               | No     |
 | 26                                          | No               | No     |
