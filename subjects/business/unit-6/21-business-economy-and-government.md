@@ -2,7 +2,17 @@
 
 ## Learning Outcomes from this chapter
 
-- _
+- Outline the impact of different economic variables on Irish businesses
+- Outline the impact of inflation on Irish businesses
+- Explain how interest rates can impact businesses in Ireland
+- Outline the benefits and challenges of falling unemployment rates
+- Illustrate the impact of fluctuations in exchange rates with our main trading partners
+- Explain the ways in which the government affects the labour force
+- Discuss why the government encourages enterprise in Ireland
+- Describe how the government encourages and regulates business activity
+- Discuss how the government can use the tax system to create a positive climate for business in Ireland
+- Evaluate the role of Enterprise Ireland and IDA Ireland
+- Explain how business affects the development of the economy
 
 ## Economic Variables
 
@@ -23,7 +33,11 @@ Different economic variables affect the economy, businesses, consumers and the g
 
 #### Potential impact of high inflation rates on the Irish economy
 
-- 
+- Purchasing power of money falls over time - saving is discouraged
+- More wage demands from workers are likely - there may be strikes and poor morale
+- Lower standard of living - less purchasing power, as the cost of living rises
+- Exports become less competitive, as Irish selling prices rise in relation to goods from other countries
+- Increased government expenditure on wages (e.g. teachers, nurses), as the cost of living rises
 
 **From Teacher**
 
@@ -37,7 +51,9 @@ Different economic variables affect the economy, businesses, consumers and the g
 
 The cost of borrowing money expressed as a percentage of amount borrowed
 
-- 
+- Debt capital more costly: higher repayments for individuals and government when borrowing or repaying debt at a variable rate; if a business has borrowed, the higher repayments make it harder to expand
+- Harder to attract investors: return for savings in deposit accounts are higher, so savings accounts more offer a more attractive, risk-free return for investors
+- Less consumer spending: more expensive to access loans, mortgage repayments are higher, so consumers spend less
 
 **From Teacher**
 
@@ -57,11 +73,15 @@ Unemployment = Percentage of labour force not currently employed
 
 **Benefits**
 
-- _
+- Government tax revenue increases, government spending on social welfare decreases
+- Less emigration and 'brain drain' of highly skilled workers
+- Increased spending: incomes are higher
 
 **Challenges**
 
-- _
+- Labour shortages in certain areas may cause high wage inflation
+- Pressure on rent/property prices in areas of high employment
+- Social costs (e.g. commuting workers have less time for community involvement)
 
 **From Teacher**
 
@@ -82,7 +102,10 @@ Sterling would not buy as much euro as it did before, so sterling has weaker pur
 
 **This can:**
 
-- 
+- Lower demand for Irish goods by UK consumers
+- Lower demand for Irish holidays by UK holidaymakers
+- Increase demand for UK imports (vs buying domestically)
+- Increase demand for UK holidays for Irish people (vs holidaying in Ireland)
 
 **From Teacher**
 
@@ -99,7 +122,10 @@ Sterling would not buy as much euro as it did before, so sterling has weaker pur
 
 **What are the impacts on Irish business if the government changes tax rates?**
 
-- 
+- If corporation tax was increased from 12.5%, businesses would keep less of the profit, so they might need to increase prices or reduce staff
+- If there was a reduction in PAYE rates, consumers would have more disposable income, which could lead to an increase in demand for goods
+- If import duties were increased/introduced, the businesses importing raw materials or finished goods for resale would face increased costs, which could lead to lower profits or higher prices
+- If VAT was decreased, a business could keep more of the profit for each item sold, or reduce their selling price. More competitive prices could stimulate the economy
 
 **From Teachers**
 
@@ -109,3 +135,13 @@ Sterling would not buy as much euro as it did before, so sterling has weaker pur
 - A reduction in PAYE will increase the amount of income workers receive
 - Impact duties: If lowered, imports are cheaper
 - If VAT decreases, products are cheaper
+
+## How the government creates a climate for business
+
+| | |
+|-|-|
+| Government expenditure | Increase or decrease capital: one-off expenditure (e.g. build a school) and current/day-to-day expenditure (e.g. wages) |
+| Government agencies | Enterprise Ireland, Industrial Development Agency, LEOs |
+| Government taxation | Can change tax rates to encourage or discourage certain behaviours; can introduce new taxes (e.g. SSDT) |
+| Government grants | Issue financial grants to aid expansion in certain industries or lines of work through LEOs, Enterprise Ireland and IDA |
+| Government regulations | Adjust or introduce new laws (e.g. environmental, data protection) |
