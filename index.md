@@ -16,7 +16,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Maths | Do Algebra Question that was on the board | Wednesday, 07/09/2022 | No |
+| Maths | Do Algebra Question that was on the board | Wednesday, 07/09/2022 | Yes |
 | English | Do two questions on English sheet we got in class | Wednesday, 07/09/2022 | No |
 | Biology | Do page 30 and 31 | Thursday, 08/09/2022 | No |
 
