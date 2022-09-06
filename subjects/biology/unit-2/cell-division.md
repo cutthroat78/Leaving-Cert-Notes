@@ -56,6 +56,10 @@ Chromosomes are in pairs in diploid cell, called homologous pairs. (Both chromos
 
 Diploid is symbolised as '2n' and total no. of chromosomes in cell is given as 2n=46. This means there are 23 pairs of chromosomes
 
+## Triploid
+
+Definition: A triploid cell has three sets of chromosomes
+
 ## Somatic Cells
 
 - <u>Somatic cells are normal body cells</u> of an advanced organism and contain two sets of chromosomes (not sex cells)
@@ -129,6 +133,8 @@ Once complete, original cell divides to form 2 cells. In reality there are 5 sta
 
 ![]() <!--Diagram of Telophase from pg 121 of textbook-->
 
+![Stages of Metosis](cell-division/stages-of-metosis.jpeg)
+
 ![]()
 
 ![]()
@@ -172,18 +178,18 @@ Once complete, original cell divides to form 2 cells. In reality there are 5 sta
 
 ![]()
 
-## Meiosis
+## Meiosis (2nd Type of Cell Division)
 
-- <u>Definition: Meiosis _</u>
-- Humans cells have 46 chromosomes
+- <u>Definition: Meiosis is a form of nucleur division in which the daughter nuclei contain half the chromosome number of the parent nucleus</u>
+- Humans cells (somatic cells) have 46 chromosomes
 - Meiosis occurs in the ovaries and testes to produce **gametes** called eggs and sperm so there are 23 chromosomes in each egg and sperm
 
 ### Functions of Meiosis
 
 <u>2 functions in Multicellular Organisms</u>
 
-- Allows sexual reproduction without increasing the number of chromosomes in the offspring
-- Allows new combinations of genes
+- Allows sexual <u>reproduction without increasing the number of chromosomes</u> in the offspring
+- <u>Allows new combinations of genes</u>
 
 ## Differences between mitosis and meiosis
 
