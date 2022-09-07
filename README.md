@@ -42,9 +42,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 ### Computer Science
 - Take all my code from class and put into digital notes as “Code Examples”
-
-#### Look at and Add/Convert
-- [Studyclix Resources](https://www.studyclix.ie/resources/leaving-certificate/computer-science)
 - [Look through this and convert, Don't convert flashcards (I already have flashcards that have the same terms)](https://studyclix.blob.core.windows.net/static/content/file/uploads/f/f8090548-43b8-4abc-88a7-30b7860102f9.pdf)
 
 ### English
