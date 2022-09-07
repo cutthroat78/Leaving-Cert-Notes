@@ -16,9 +16,8 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Maths | Do Algebra Question that was on the board | Wednesday, 07/09/2022 | Yes |
-| English | Do two questions on English sheet we got in class | Wednesday, 07/09/2022 | No |
 | Biology | Do page 30 and 31 | Thursday, 08/09/2022 | No |
+| Maths | Page 330, Questions 7, 9, 11 and 12 | Thursday, 08/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
