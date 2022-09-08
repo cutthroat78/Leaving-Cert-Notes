@@ -16,8 +16,8 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Do page 30 and 31 | Thursday, 08/09/2022 | Yes |
-| Maths | Page 330, Questions 7, 9, 11 and 12 | Thursday, 08/09/2022 | No |
+| Maths | Page ?, Do Question 19 and do 6 questions from either Q 16 or Q 17 | Friday, 09/09/2022 | No |
+| Biology | Finish sheet from class | Monday, 12/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
