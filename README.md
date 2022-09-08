@@ -56,6 +56,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 ### French
 - Look through **ALL** files in french teams
 - get all Irregular Past Particles and group them based on endings
+- make notes on imparfait tense
 - Look into journal intime notes in French Teams chat
 - Combine diary entry markdown files, move phrase tables into their own vocab file, add English translation to phrase tables and convert phrase tables to anki
 - Verbs to do:
