@@ -88,7 +88,7 @@ Sex Cells -> Haploid
 
 ## Mitosis
 
-<u>Definition: Mitosis is a form of nucleur division in which one nucleus divides to form two nuclei, each containing indentical sets of chromosomes</u>
+<u>Definition: Mitosis is a form of nucleur division in which one nucleus divides to form two nuclei, each containing identical sets of chromosomes</u>
 
 Two new cells called daughter cells and they are IDENTICAL to each other
 
