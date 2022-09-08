@@ -65,7 +65,11 @@
 
 ## Imagery
 
-- 
+- Atomic bombs, people suffering - "testing bombs"
+- Couple in a tense atmosphere - "surrounded by a silence"
+- Desert, bare, barren, dry - "dry heat feels like power"
+- Young couple, full of hope + optimism - "films we starred in playing in the neighbourhood"
+- "love letters. of suicide notes" - 
 
 ## Rhyme + Structure
 
@@ -81,6 +85,8 @@
 
 ## Symbolism
 
-- 
+- the Atomic bomb presents the conversation that the couple need to have, which will have devastating consequences for both of then and their marriage
+- The Desert could be viewed as a mirror image of the couples relationship, it like the desert is void and empty, there is no emotion left, the relationship is all but over
+- The idea of the river flowing beneath the ground does indicate and symbolise that the poet does have some form of love for her husband, deep down
 
 ## Quotes
