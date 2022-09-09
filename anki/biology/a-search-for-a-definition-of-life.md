@@ -15,8 +15,6 @@
 | Organisms            | Individual living entities                                                       | Unicellular: bacteria, Multicellular: humans                             |
 | Asexual Reproduction | Reproduction that doesn't require sex cells or fertilisation. Only one parent |                                                                           |
 | Sexual Reproduction  | Reproduction that requires sex cells or fertilisation. Two parents             |                                                                           |
-| Herbivore            | Animals that only eat plants                                                     | Cow                                                                       |
-| Carnivore            | Animals that only eat meat                                                       | Fox                                                                       |
 | Omnivore             | Animals that plants and meat                                                     | Human                                                                     |
 
 ### Organisation Diagrams
