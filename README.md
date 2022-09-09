@@ -78,24 +78,13 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Convert maths notes that was sent to me into digital notes
 
 ### Music
-- Add treble and bass notes phrase word things that help remember note values to anki
 - Go through and change all irish music link names (the [] part of the link)
-- Look at studyclix info to see exam structure and performing practical structure/info
-- Convert sheets on .dotted notes and rests
 - Sort out treble key signatures page
-- Change notes in note-names.md to images
-- Add below to music note notes:
-  - Dotted Crochet
-  - Dotted minim
-  - Semiquaver
-  - The dot (Adds half the value of the note it follows)
-    A dotted crochet always has a quaver after it
+- Add images to note-names.md
 - Look through this [link](https://www.curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Music/) and put info on exams and subjects onto pages
 - Pick songs for music class (3, 4 or 6)
 
 ### Anki
-- Test and learn how to use [image occlusion](https://ankiweb.net/shared/info/1111933094)
-- Re do note value music anki cards but make them cloze cards, with all info after adding new stuff to music notes
 - Remember to add tags to anki cards
 - Write out tagging system for anki cards
 
