@@ -17,9 +17,8 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | Maths | Page ?, Do Question 19 and do 6 questions from either Q 16 or Q 17 | Friday, 09/09/2022 | No |
-| French | 1. Underline imparfait and passe composee phrases in Nassim section on sheet we got in class 2. Do questions 1, 2, 9 and 10 on sheet we got in class | Friday, 09/09/2022 | No |
 | Biology | Finish sheet from class | Monday, 12/09/2022 | No |
-| English | Do Question: 2010 - Paper Two - Question B2 from page. It has to be a thousand words long. | Monday, 12/09/2022 | No |
+| English | Do Question: 2010 - Paper Two - Question B2 from page. It has to be a thousand words long or 4 - 5 A4 Pages long. | Monday, 12/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)

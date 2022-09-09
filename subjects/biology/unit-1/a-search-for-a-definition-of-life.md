@@ -154,7 +154,7 @@ Viruses are not living because they don't have cells (we will come across this a
 | Term                 | Definition                                                                       | Examples                                                                  |
 |----------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Organisation         | Living things are composed of cells, tissues, organs and organ system        |                                                                           |
-| Growth               | In increase in the size or number of cells of an organism                        |                                                                           |
+| Growth               | An increase in the size or number of cells of an organism                        |                                                                           |
 | Nutrition            | The way organism obtain (get) and use food                                       |                                                                           |
 | Excretion            | The removal of the waste products of metabolism from the body                    |                                                                           |
 | Response             | The activity of a cell or organism as a result of a stimulus                     |                                                                           |
@@ -168,7 +168,7 @@ Viruses are not living because they don't have cells (we will come across this a
 | Sexual Reproduction  | Reproduction that requires sex cells or fertilisation. Two parents             |                                                                           |
 | Herbivore            | Animals that only eat plants                                                     | Cow                                                                       |
 | Carnivore            | Animals that only eat meat                                                       | Fox                                                                       |
-| Omnivore             | Animals that plants and meat                                                     | Human                                                                     |
+| Omnivore             | Animals that eat plants and meat                                                     | Human                                                                     |
 
 ### Organisation Diagrams
 
