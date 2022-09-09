@@ -1,31 +1,3 @@
-Example: Photosynthesis
-
-Photosynthesis Formula: Carbon dioxide + water → glucose + oxygen
-
-$$
-6CO_2 + 6H_2O → C_6H_{12}O_6 + 6O_2
-$$
-
-### Catabolic Reactions
-
-These reactions use energy to break down large molecules into smaller ones
-
-Catabolic: small ← big
-
-Example: Respiration
-
-## Continuity of Life
-
-*Continuity of life is the ability of an organism to exist from generation to the next*
-
-You need reproduction and heredity to achieve continuity
-
-Genes are hereditary factors that are passed on from one generation to the next during reproduction
-
-All living things reproduce
-
-Viruses are not living because they don't have cells (we will come across this again later)
-
 ### Terminology
 
 | Term                 | Definition                                                                       | Examples                                                                  |
@@ -74,7 +46,3 @@ Viruses are not living because they don't have cells (we will come across this a
 | Riot                        | Reproduction                                                 |
 | One nutty elephant ran riot | "Organisation, nutrition, excretion, response, reproduction" |
 
-
-## Section Recap Videos
-- [How to Study Characteristics of Life](https://youtu.be/1HTdcNvMlZI)
-- [Characteristics of Living Things](https://youtu.be/h_2eykxl-dw)
