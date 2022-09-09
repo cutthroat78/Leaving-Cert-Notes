@@ -1,11 +1,3 @@
-## There are 2 types of Metabolic Reactions
-
-### Anabolic Reactions
-
-These reactions use energy to join small molecules together to form larger molecules
-
-Anabolic: small → big
-
 Example: Photosynthesis
 
 Photosynthesis Formula: Carbon dioxide + water → glucose + oxygen

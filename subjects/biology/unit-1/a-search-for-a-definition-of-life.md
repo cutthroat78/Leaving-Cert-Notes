@@ -127,9 +127,7 @@ Example: Photosynthesis
 
 Photosynthesis Formula: Carbon dioxide + water → glucose + oxygen
 
-$$
-6CO_2 + 6H_2O → C_6H_{12}O_6 + 6O_2
-$$
+6 CO2 + 6 H2O + light --> C6H12O6 + 6 O2
 
 ### Catabolic Reactions
 
