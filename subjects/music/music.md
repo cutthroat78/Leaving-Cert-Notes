@@ -32,7 +32,8 @@
 - [Regional Styles](irish-music/essays/regional-styles.md)
 
 ## Music Theory
-- [Clef & Note Names with Note Values](music-theory/note-names.md)
+- [Rests, Clef & Note Names (with Note Values)](music-theory/note-names.md)
+- [Dotted Notes](music-theory/dotted-notes.md)
 ### Treble
 - [Treble Notes](music-theory/treble-notes.md) <!--In Anki-->
 - [Treble Key Signatures](music-theory/treble-key-signatures.md)
