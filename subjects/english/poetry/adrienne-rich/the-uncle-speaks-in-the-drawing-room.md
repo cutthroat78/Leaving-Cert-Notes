@@ -54,7 +54,7 @@ _
 
 | Symbol | Meaning |
 |-|-|
-| Missile Throwers | People who make/cdinspire change | 
+| Missile Throwers | People who make/inspire change | 
 
 ## Quotes
 
