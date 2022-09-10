@@ -16,7 +16,6 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Maths | Page ?, Do Question 19 and do 6 questions from either Q 16 or Q 17 | Friday, 09/09/2022 | No |
 | Biology | Finish sheet from class | Monday, 12/09/2022 | No |
 | English | Do Question: 2010 - Paper Two - Question B2 from page. It has to be a thousand words long or 4 - 5 A4 Pages long. | Monday, 12/09/2022 | No |
 

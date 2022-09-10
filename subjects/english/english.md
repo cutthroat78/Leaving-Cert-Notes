@@ -56,7 +56,7 @@
 ### Derek Mahon
 ### Paula Meehan
 ### Adrienne Rich
-- [From a Survivor](peotry/adrienne-rich/from-a-survivor.md)
+- [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
 - [The Uncle Speaks in the Drawing Room](poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md)
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
