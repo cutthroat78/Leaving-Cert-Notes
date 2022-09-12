@@ -59,6 +59,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - make notes on imparfait tense
 - Look into journal intime notes in French Teams chat
 - Combine diary entry markdown files, move phrase tables into their own vocab file, add English translation to phrase tables and convert phrase tables to anki
+- make notes of reflexive verbs
 - Verbs to do:
   - mourir
 - Tenses:
