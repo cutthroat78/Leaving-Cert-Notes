@@ -2,19 +2,6 @@
 
 ![1](scientific-method/1.png)
 
-## Areas of Study (You should know 3)
-
-|Terms       |Definition                        |
-|------------|----------------------------------|
-|Botany      |The study of Plants               |
-|Genetics    |The study of Genes and DNA        |
-|Physiology  |The study of the Human Body       |
-|Biochemistry|The study of Chemicals in the Body|
-|Ecology     |The study of Nature               |
-|Microbiology|The study of Micro-Organisms      |
-|Horticulture|The study of Growing Plants       |
-
-
 ## Scientific Investigations
 
 - Curiosity and observations lead to an idea/explanation of how something works
