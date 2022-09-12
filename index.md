@@ -16,8 +16,9 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Finish sheet from class | Monday, 12/09/2022 | No |
-| English | Do Question: 2010 - Paper Two - Question B2 from page. It has to be a thousand words long or 4 - 5 A4 Pages long. | Monday, 12/09/2022 | Yes |
+| Biology | Cell Division Test | Tuesday, 13/09/2022 | No N
+| Maths | Do Q 2, 3, 4, 5 and 6 on Page 333 | Wednesday, 14/09/2022 | No |
+| French | Write a "Journal intime", "You have just returned from seeing your favourite artist play in Croke Park. It was an amazing concert write about it in your journal imtime" | Wednesday, 14/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
