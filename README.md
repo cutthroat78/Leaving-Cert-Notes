@@ -129,7 +129,8 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | Unit 2 | |
 | the cell                                       | Yes              | Yes    |
 | Respiration                                    | Yes              | Yes    |
-| Cell Division                                  | Yes              | No     |
+| Cell Division                                  | Yes              | Yes    |
+| Genetic Inheritance                            | No               | No     |
 | Unit 3 | |
 | skeletal system                                | Yes              | Yes    |
 | the digestive system                           | Yes              | Yes    |
@@ -154,7 +155,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | 14                                          | No               | No     |
 | 18                                          | No               | No     |
 | 19                                          | No               | No     |
-| 22                                          | No               | No     |
 | 24                                          | No               | No     |
 | 26                                          | No               | No     |
 | 27                                          | No               | No     |
