@@ -30,11 +30,11 @@
 - Each species has a definite no. of Chromosomes, Humans = 46 chromosomes
 - Each Chromosome has 1000s of genes (Check out human genome project). Each cell in the human body contains about 25,000 to 35,000 genes
 
-![]()
+![The Cell in Interphase](cell-division/interphase-cell.png)
 
-![]()
+![1](cell-division/1.png)
 
-![]()
+![Human Karyotype](cell-division/karyotype.png)
 
 ## Haploid
 
@@ -44,7 +44,7 @@ Haploid is symbolised by <u>letter 'n'</u> and number of chromosomes in the cell
 
 In humans, eggs and sperm are haploid n=23
 
-![]()
+![2](cell-division/2.png)
 
 ## Diploid
 
@@ -69,14 +69,14 @@ Sex Cells -> Haploid
 
 - In diploid cells, 1 chromosome from the homologous pair comes from the mother and the other comes from the father
 
-![]()
+![3](cell-division/3.png)
 
 ## Cell Cycle
 
 - Describes the life of a cell. It includes the period between division when the cell is not dividing, called Interphase
 - Period when a cell divides = Mitosis
 
-![]()
+![The Cell Cycle](cell-division/cell-cycle.png)
 
 ### Interphase
 
@@ -84,7 +84,7 @@ Sex Cells -> Haploid
 - <u>Chromosomes elongated = chromatin</u>
 - Cell very active in Interphase, produces new mitochondria, chloroplasts etc. and chemicals needed for growth
 
-![]() <!--Diagram of Interphase from pg 121 of textbook-->
+![Interphase](cell-division/interphase.png)
 
 ## Mitosis
 
@@ -101,7 +101,7 @@ Two new cells called daughter cells and they are IDENTICAL to each other
 - Fibres appear in cytoplasm
 - Nuclear membrane starts to break down
 
-![]() <!--Diagram of Prophase from pg 121 of textbook-->
+![Prophase](cell-division/prophase.png)
 
 #### Stage 2 <u>Metaphase (HL)</u>
 
@@ -111,7 +111,7 @@ Two new cells called daughter cells and they are IDENTICAL to each other
 - Fibres produced by centrioles attach to chromosomes
 - Each chromosome has 2 fibres attached, 1 from each side of the cell
 
-![]() <!--Diagram of Metaphase from pg 121 of textbook-->
+![Metaphase](cell-division/metaphase.png)
 
 #### Stage 3 Anaphase (HL)
 
@@ -120,7 +120,7 @@ Two new cells called daughter cells and they are IDENTICAL to each other
 - Hence, identical set of genes pulled to each end of the cell
 - (Look for V shape to recognize this stage)
 
-![]() <!--Diagram of Anaphase from pg 121 of textbook-->
+![Anaphase](cell-division/anaphase.png)
 
 #### Stage 4 Telophase (HL)
 
@@ -131,17 +131,19 @@ Mitosis is complete
 
 Once complete, original cell divides to form 2 cells. In reality there are 5 stages - see Pg 123 (of textbook) Cytokinesis
 
-![]() <!--Diagram of Telophase from pg 121 of textbook-->
+![Telophase](cell-division/telophase.png)
 
-![Stages of Metosis](cell-division/stages-of-metosis.jpeg)
+![Stages of Mitosis](cell-division/stages-of-mitosis.jpeg)
 
-![]()
+![Mitosis 1](cell-division/mitosis-1.png)
 
-![]()
+![4](cell-division/4.png)
+
+![Mitosis 2](cell-division/mitosis-2.png)
 
 ### Functions of Mitosis
 
-<u><b>In Unicellilar Organisms</b></u>
+**<u>In Unicellilar Organisms</u>**
 
 - <u>Method of reproduction</u> for Amoeba Reproduction that doesn't involve the joining of 2 cells is called Asexual reproduction
 
@@ -176,13 +178,15 @@ Once complete, original cell divides to form 2 cells. In reality there are 5 sta
 - Brought about by cancer causing agents called <u>carcinogens</u> e.g. <u>cigarette smoke</u>, <u>asbestos fibres,</u>, ultraviolet radiation and some viruses
 - Most cancers can be cured with Radiation (burn out cancer), Chemotherapy (Chemicals slow down mitosis) and surgery
 
-![]()
+![5](cell-division/5.png)
 
 ## Meiosis (2nd Type of Cell Division)
 
 - <u>Definition: Meiosis is a form of nucleur division in which the daughter nuclei contain half the chromosome number of the parent nucleus</u>
 - Humans cells (somatic cells) have 46 chromosomes
 - Meiosis occurs in the ovaries and testes to produce **gametes** called eggs and sperm so there are 23 chromosomes in each egg and sperm
+
+![Meiosis](cell-division/meiosis.png)
 
 ### Functions of Meiosis
 
@@ -212,4 +216,4 @@ A sentence to help you remember the 4 stages of mitosis (HL)
 | A(nd) | Anaphase |
 | T(uesday) | Telophase |
 
-![]() <!--Include words in picture-->
+![6](cell-division/6.png)

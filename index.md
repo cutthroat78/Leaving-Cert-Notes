@@ -16,8 +16,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Computer Science | Finish ALT4 Document | Wednesday, 14/09/2022 | No |
-| Biology | Cell Division Test | Tuesday, 13/09/2022 | No | 
+| Computer Science | Finish ALT4 Assignment | Wednesday, 14/09/2022 | No |
 | Maths | Do Q 2, 3, 4, 5 and 6 on Page 333 | Wednesday, 14/09/2022 | No |
 | French | Write a "Journal intime", "You have just returned from seeing your favourite artist play in Croke Park. It was an amazing concert write about it in your journal imtime" | Wednesday, 14/09/2022 | No |
 
