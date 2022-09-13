@@ -14,7 +14,7 @@
 | | | | |
 |-|-|-|-|
 | Intro | Bars 1 - 5 | Soft Rock | B Flat and G Minor|
-| Main Song :Verse 1 | Bars 17 - 34 | Ballad Style | B Flat and E Flat |
+| Main Song: Verse 1 | Bars 17 - 34 | Ballad Style | B Flat and E Flat |
 | Verse 2 | Bars 35 - 46 | Ballad Style | B Flat and E Flat |
 | Guitar Interlude | Bars 47 - 54 | Hard Rock | E Flat |
 | Operatic Section | Bars 55 - 95 | Operatic Style | A Major |
@@ -30,7 +30,7 @@
 - Vocals
 - Piano
  
-## Introduction Section Bars 1 - 4
+## Bars 1 - 4 - Introduction Section
 
 - Key Signature: B Flat Major
 - Time Signature: 4/4
@@ -54,4 +54,56 @@
 - There is <u>stereo panning</u> in bar 11 on the words "little high little low" (left to right)
 - There is <u>word-painting</u> in bar 12/13 on crash cymbals on the words "anywhere the wind blows" (called "Flanging" - "Flanging" means to record 2 seperate tracks of cymbals and then put the 2 tracks back together but <u>out of sync</u>)
 
+## Bar 17 - 34 - Verse 1
 
+- Piano, bass, vocals and drums
+- In the style of a ballad
+- Key: B flat Major moving towards E flat Major
+- Two bar piano introduction to verse 1
+- In bar 17, solo voice enters with a lush or rich melody accompanied by piano and bass
+- Melody range fits within an octave
+- There are repeated notes within the melody
+- The melody has syncopation 
+- Syncopated rhythms on the snare drum from bars 25 to 32
+- Texture is homophonic
+- There is a bass glissando at the end of bars 20 and 30
+- There is a descending bass and left hand piano line in bars 23/24 and 27
+- There are crash cymbals heard in bar 24. The crash cymbals is an example of word painting for "throwing it all away"
+- In bars 30 and 31, it ends in iv-1, which is cadence (padgal cadence)
+- Then it moves back the key of B flat Major in bars 31 and 32
+
+## Bars 34 - 46 - Verse 2
+
+- 13 bars of solo voice with backing vocals, piano, percussion and bass guitar
+- Electric guitar joins in after 8 bars
+- It is a repeat of the music of verse 1
+- Drums accompany from the start of verse 2
+- Word painting: "Send shivers down my spine", they use a bell tree
+- The bass guitars are overdubbed in bar 42 as the electric guitar enters on the words "and face the truth"
+- The music is moving from ballad style to rock
+- Extra layers of backing vocals are added singing "ooh"
+- Backing vocals sing a counter melody in bar 44 "Anyway the wind blows" against the main vocal line
+- The bass line is descending in bar 43
+- There is a drum fill-in in bar 46
+
+## Differences between Verse 1 and Verse 2
+
+- Drums come in at the beginning of verse 2 but not in verse 1
+- There are backing vocals in verse 2 but not in verse 1
+- There is a four bar piano interlude in verse 2 but only a two bar interlude in verse 1
+- Word painting in verse 2, uses a bell tree compared with cymbals in verse 1
+- The mood is tense and angry in verse 2, while it is regretful in verse 1
+
+## Bars 47 - 54 - Guitar Interlude
+
+- It is a heavy rock style section
+- It is in the key of E flat Major
+- Lead guitar plays guitar lick
+- Bass on pentatonic scale
+- Semiquaver scales and triplet rhythms
+- Glissando in bars 47, 48 and 54
+- Vibrato or bends in bar 48, 50, 52 and 53
+- Chromatic scale movement
+- Descending chromatic line in the overdubbed accompanying guitars and left hand and bass guitar in bar 49, 53 and 54
+- Power chords in guitar, doubled root and he is playing a fifth above it in bar 50
+- Ends in A major
