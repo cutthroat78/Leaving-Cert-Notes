@@ -27,9 +27,9 @@
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
 | 8:50 | Tutorial | Tutorial | Business | Tutorial | Tutorial |
-| 9:00 | Maths | Computer Science/Irish | French/Engineering | Maths | Business |
+| 9:00 | Maths | Computer Science/Irish | French/Engineering | Maths | Relationship and Sexual Education |
 | 9:50 | Woodwork/Biology (1/2) | Woodwork/Biology | Computer Science/Irish | Computer Science/Irish | French/Engineering |
-| 10:50 | Woodwork/Biology (2/2) | Relation & Sexual Education | Break | Woodwork/Biology | Computer Science/Irish |
+| 10:50 | Woodwork/Biology (2/2) | Career Guidance| Break | Woodwork/Biology | Computer Science/Irish |
 | 11:50 | Break | Break | Maths | Break | Break | 
 | 12:30 | Business | PE | English | Music/Phys-Chem/Art/Geography | Music/Phys-Chem/Art/Geography |
 | 13:30 | French/Engineering | Business | Music/Phys-Chem/Art/Geography | English | English |
