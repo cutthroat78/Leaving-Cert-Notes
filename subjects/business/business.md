@@ -29,7 +29,7 @@
 - [19. Categories of Industury]() - [Slides]() - Not Covered Yet
 - [20. Business Organisations](unit-6/20-business-organisations.md) - [Slides](slides/unit-6/20-business-organisations.pdf)
 - [21. Business, the Economy and Government](unit-6/21-business-economy-and-government.md) - [Slides](slides/unit-6/21-business-economy-and-government.pdf)
-- [22. Community Development]() - [Slides]() - Not Covered Yet
+- [22. Community Development](unit-6/22-community-development.md) - [Slides](slides/unit-6/22-community-development.pdf)
 - [23. Ethical, Social and Environmental Responsibility](unit-6/23-ethical-social-and-environmental-responsibilities.md) - [Slides](slides/unit-6/23-ethical-social-and-environmental-responsibilities.pdf)
 ## Unit 7: International Environment
 - [24. International Trade]() - [Slides]() - Not Covered Yet

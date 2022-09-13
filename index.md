@@ -18,7 +18,7 @@
 |-|-|-|-|
 | Computer Science | Finish ALT4 Assignment | Wednesday, 14/09/2022 | No |
 | Maths | Do Q 2, 3, 4, 5 and 6 on Page 333 | Wednesday, 14/09/2022 | No |
-| French | Write a "Journal intime", "You have just returned from seeing your favourite artist play in Croke Park. It was an amazing concert write about it in your journal imtime" | Wednesday, 14/09/2022 | No |
+| French | Make a mindmap for a "Journal intime", "You have just returned from seeing your favourite artist play in Croke Park. It was an amazing concert write about it in your journal imtime" | Wednesday, 14/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
