@@ -44,6 +44,8 @@
 </ul>
 </details>
 
+### Macbeth
+- [Full Play](texts/macbeth/macbeth.pdf)
 ## Poetry <!--Where to find poems: [Poetry Foundation](https://www.poetryfoundation.org/)-->
 ### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
