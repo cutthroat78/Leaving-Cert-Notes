@@ -13,8 +13,6 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Computer Science | Finish ALT4 Assignment | Wednesday, 14/09/2022 | No |
-| Maths | Do Q 2, 3, 4, 5 and 6 on Page 333 | Wednesday, 14/09/2022 | No |
 | French | Do all questions on side of sheet we didn't do in class | Thursday, 15/09/2022 | No |
 
 # Timetable
