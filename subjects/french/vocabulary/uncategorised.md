@@ -87,3 +87,4 @@
 | de l'autre côté                                    | on the other hand                           |
 | en général                                         | in general                                  |
 | un gros problem                                    | a big problem                               |
+| hyper | (another word for) really |
