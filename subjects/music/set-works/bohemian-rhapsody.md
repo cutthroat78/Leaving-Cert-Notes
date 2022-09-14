@@ -107,3 +107,9 @@
 - Descending chromatic line in the overdubbed accompanying guitars and left hand and bass guitar in bar 49, 53 and 54
 - Power chords in guitar, doubled root and he is playing a fifth above it in bar 50
 - Ends in A major
+
+## Bars 55 - 95 Operatic Section
+
+- There is an abrupt change in tempo and style
+- The key is A major
+- Piano, lead guitar, bass, drums, cymbals
