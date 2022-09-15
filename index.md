@@ -13,7 +13,6 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| French | Do all questions on side of sheet we didn't do in class | Thursday, 15/09/2022 | No |
 | Maths | Answer Questions 4, 6 and 7 on page ? | Friday, 16/09/2022 | No |
 | Biology | Answer Questions 1, 2 and A - D on Question 3 on Page 43| Monday, 19/09/2022 | No |
 
