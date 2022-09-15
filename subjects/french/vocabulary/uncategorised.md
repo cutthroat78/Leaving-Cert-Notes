@@ -87,4 +87,23 @@
 | de l'autre côté                                    | on the other hand                           |
 | en général                                         | in general                                  |
 | un gros problem                                    | a big problem                               |
-| hyper | (another word for) really |
+| hyper | (another word for) really | <!--Add this and below to anki decks--->
+| Quelle journée | What a day |
+| Vous ne croirai pas | You won't believe |
+| ce qui c'est passé | What happened |
+| Je suis allé(e) | I went |
+| Rendre visite | To visit (a person) |
+| visiter | To visit (something) |
+| Très agréable | Very nice |
+| le soleil brillait | The sun was shining |
+| Je suis sorti | I went out |
+| c'était | it was |
+| Connu | Famous |
+| J'ai décidé | I decided |
+| Approcher | to approach |
+| Très nerveux | Very nervous |
+| Il était très sympa | He was very nice |
+| Un peu | A little |
+| Très naturelle et décontracté | Very natural and relaxed |
+| Et tout à coup | And suddenly |
+| Il devait partir | He had to leave |
