@@ -13,8 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Maths | Answer Questions 4, 6 and 7 on page ? | Friday, 16/09/2022 | No |
-| Biology | Answer Questions 1, 2 and A - D on Question 3 on Page 43| Monday, 19/09/2022 | No |
+| Biology | Answer Questions 1, 2 and A - D on Question 3 on Page 43 | Monday, 19/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)

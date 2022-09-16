@@ -2,12 +2,13 @@
 
 - [Exam Structure]()
 
+- [Log Tables (Formulae and Tables Book)](log-tables.pdf)
 <!--
 Link playlists from this channel here (and figure out what else to put here for notes)
 https://www.youtube.com/channel/UCRsoWpMiCLUwVWhgRvu-1Yg/playlists
 -->
 
-## Old
+## Old (I don't recommend using these)
 - [Types of Functions](old/types-of-functions.md)
 ### Factorising
 - [1: Difference of 2 Squares](old/factorising/1-difference-of-2-squares.md)
