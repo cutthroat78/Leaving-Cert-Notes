@@ -54,7 +54,7 @@
 - There is <u>stereo panning</u> in bar 11 on the words "little high little low" (left to right)
 - There is <u>word-painting</u> in bar 12/13 on crash cymbals on the words "anywhere the wind blows" (called "Flanging" - "Flanging" means to record 2 seperate tracks of cymbals and then put the 2 tracks back together but <u>out of sync</u>)
 
-## Bar 17 - 34 - Verse 1
+## Bars 17 - 34 - Verse 1
 
 - Piano, bass, vocals and drums
 - In the style of a ballad
@@ -113,3 +113,38 @@
 - There is an abrupt change in tempo and style
 - The key is A major
 - Piano, lead guitar, bass, drums, cymbals
+- 2 bar piano intro with use of starrato chords
+- Chromatic pattern in bars 57 + 58
+- Wordpainting -> Bar 61 "Thunder Bolt and lightening" with use of percussion
+- Falsetto voice Bars 61 - 66
+- Stereo panning Bars 63 - 67
+- Antiphonal singing (musical conversation) bar 63/64 unaccompanied on the words "Gal-li-le-o"
+- Bell like arrangement on the word "magnifico"
+- Repeated melody -> "I'm just a poor boy" -> 6 part harmony
+- Percussion + bass guitar enter in bar 70
+- 1 bar piano link bar 71
+- Bar 77 is 10 bars of alternating solo + vocal harmony
+  - "Easy come easy go"
+  - "Bismallah … No we will not let you go"
+- Panning bar 82-84 "we will not let you go"
+- Stabbing chords in bar 86 as intensity rises in vocals, piano, guitars and percussion
+
+## Bars 96 - 99 Second Guitar Interlude (Start of Hard Rock Section)
+
+- Key E flat major
+- 4 Bar instrumental solo on lead guitar
+- Time Signature 12/8 (12 quaver beats per bar)
+- Distortion used throughout these bars
+- Bass guitars overdubbed and drums accompany - No Piano
+- Syncopation bars 96 - 99
+
+## Bars 100 - 122 Second Song
+
+- Solo voice for 14 bars
+- Accompanied by lead, bass guitar, drums and piano (end)
+- Solo voice sings melody with descending repeated notes and syncopation "so you think you can stone me and spit in my eye" x2
+- Triplet rhythms in the melody "Die - Ohhh - Baby"
+- Syncopation -> stress on a weaker beat to liven up the rhythm (ties + dots)
+- Power chords on guitars throughout
+- Distortion on guitars
+- Change of time signature to 2/4 in bar 103 and key signature to D flat major
