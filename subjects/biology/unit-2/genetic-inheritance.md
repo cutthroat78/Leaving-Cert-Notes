@@ -67,7 +67,7 @@
 - Genes separate during gamete formation
 - Gametes fuse together
 
---
+---
 
 - **Non-nuclear DNA** - DNA which is found in mitochondria and chloroplast which can also be inherited via the egg (ovum)
 - Most DNA if found in chromosomes in the nucleus
