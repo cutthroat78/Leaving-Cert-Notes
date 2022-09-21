@@ -13,7 +13,6 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Answer Questions 1, 2 and A - D on Question 3 on Page 43 | Monday, 19/09/2022 | Yes |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
@@ -33,7 +32,9 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
+| Business Test | | 27/09/2022 | |
 | School Open Evening | | 29/09/2022 | 6:30 PM - 8:30 PM |
+| Parent-Teacher Meeting | | 06/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | 28/10/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
