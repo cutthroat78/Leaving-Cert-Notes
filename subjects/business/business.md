@@ -14,7 +14,7 @@
 ## Unit 4: Managing 2 - [Padlet](https://padlet.com/grahammaher/57e1gvfiqilh7bzk)
 - [9. Human Resource Management]() - [Slides]() - Not Covered Yet
 - [10. Managing Change]() - [Slides]() - Not Covered Yet
-- [11. Insurance and Taxation]() - [Slides]() - Not Covered Yet
+- [11. Insurance and Taxation](unit-4/11-taxation-and-insurance.md) - [Slides](slides/unit-4/11-taxation-and-insurance.pdf)
 - [12. Monitoring a Business: Ratio Analysis]() - [Slides]() - Not Covered Yet
 - [13. Finance]() - [Slides]() - Not Covered Yet
 ## Unit 5: Business in Action
