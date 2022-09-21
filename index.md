@@ -13,6 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
+| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | 23/09/2022 | No |
 
 # Timetable
 (The time column doesn't apply to Wednesdays)
@@ -35,10 +36,12 @@
 | Business Test | | 27/09/2022 | |
 | School Open Evening | | 29/09/2022 | 6:30 PM - 8:30 PM |
 | Parent-Teacher Meeting | | 06/10/2022 | |
+| Computer Science Presentation Thing | | 13/10/2022 | |
+| Last Day to Pay for Maths Exam Papers | | 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | 28/10/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
- LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
+| LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |
 | French State Exam Typical Date | From Paul | 14/06/2023 or 16/06/2023 | |
 
