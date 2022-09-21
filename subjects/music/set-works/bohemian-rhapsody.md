@@ -148,3 +148,22 @@
 - Power chords on guitars throughout
 - Distortion on guitars
 - Change of time signature to 2/4 in bar 103 and key signature to D flat major
+
+### Bars 113 - 122 
+
+- Bar 113 is a bridge passage for the guitar with percussion
+- Features rising lick with overdubbing
+- Use of stereo panning
+- Piano gains in bar 121 playing octaves
+- Music slows back to 4/4 and to ballad style
+
+## Bars 123 - 138 Recap + Coda Section
+
+- Vocal harmony with percussion
+- Overdubbing guitars playing rising arpeggios
+- Bars 128 Solo voice with piano + bass, percussion and lead guitar
+- Bars 129 Percussion drops out
+- Melancholic Melody "Nothing really matters"
+- Piano plays simple accompaniment similar to Verse 1
+- Lead guitar panned in bars 134-136
+- Ends in F major on Piano + Gong
