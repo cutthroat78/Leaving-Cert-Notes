@@ -22,6 +22,22 @@
 | 2nd Song (Verse) and Riff | Bars 100 - 122 | Hard Rock | E Flat |
 | Recap and Coda | Bars 123 - 138 | Soft Rock | E Flat, B Flat and F |
 
+## Keywords
+
+| Term | Definition |
+|-|-|
+| A capella | Unaccompanied vocals |
+| Bends | Guitar technique in which a note is allowed in pitch but pushing the string up and down |
+| Falsetto | Vocal effect mainly by males singing in a way high pitch |
+| Feedback | Used mainly by rock musicians to produce a high pitch sound by placing a guitar pick up a microphone very close to the speaker, so that the original string sound is amplified as well as the sound to be sustained |
+| Call and response | Solo singer is answered by a chorus singing a repeated phrase |
+| Hook | Memorable part of a song, often repeated |
+| Lick | A musical pattern used to form short solos mainly on guitar + piano to link phrases and move up and down on the register |
+| Melisma | Many notes per syllable |
+| Pick up | A small microphone in an electric guitar or other electrical instrument |
+| Power chords | Use of open string to produce a heavier sound on guitars |
+| Riff | A repeated short phrase like ostinato in a pop/jazz composition | 
+
 ## Instruments
 
 - Guitar
