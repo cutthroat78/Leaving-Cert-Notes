@@ -150,7 +150,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | 8                                           | No               | No     |
 | 9                                           | No               | No     |
 | 10                                          | No               | No     |
-| 11                                          | No               | No     |
+| 11                                          | Yes              | No     |
 | 12                                          | No               | No     |
 | 13                                          | No               | No     |
 | 14                                          | No               | No     |
