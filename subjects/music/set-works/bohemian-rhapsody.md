@@ -38,6 +38,17 @@
 | Power chords | Use of open string to produce a heavier sound on guitars |
 | Riff | A repeated short phrase like ostinato in a pop/jazz composition | 
 
+## Processing Effects
+
+| Technique | Description |
+|-|-|
+| Distortion | Overloading the speaker to create a harsh, fuzzy sound. Rock performers did this deliberately to achieve a rougher sound. Distortion can be created in a recording studio, through the guitar amplifier or by using a distortion pedal. |
+| Flanging | Two of the same tracks are played together, but one of the tracks is slowed down, taking it out of sync with the first, creating a swooshing sound. |
+| Panning | Panning allows producers to split and direct sound through the right or left of the stereo field. When panning is applied to recordings, different instrumental sections or parts of the music will be heard out of either the right or the left speaker. Panning is easy to identify when listening to music through headphones as the sound feels as though it is switching from one ear to the other. |
+| Reverberation | Reverberation occurs naturally in large enclosed spaces such as concert halls or large churches. The music creates an echo which slowly fades. This effect can be artificially applied to a recording. Adding reverb to recordings helps to mimic the feel of a live performance. |
+| Multi-tracking and Overdubbing | Multi-tracking, often in combination with overdubbing (recording another layer over previously recorded material), allows artists to record a rich and full texture in the music. It also allows singers or musicians to record their parts separately, listening back to previous tracks as they record the next one. When all the tracks have been recorded, they can be mixed together to produce a final track. Queen used 24 tracks to record ‘Bohemian Rhapsody. |
+| Bouncing | This is when two or more pre-recorded tracks are combined together on to one new track. This frees up tracks for recording more parts. |
+
 ## Instruments
 
 - Guitar
