@@ -13,7 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Friday, 23/09/2022 | No |
+| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Monday, 26/09/2022 | No |
 | Biology | Do sheet we got in class, when teacher was out | Monday, 26/09/2022 | No |
 | French | Do sheet we got in class, when teacher was out | Monday, 26/09/2022 | No |
 
