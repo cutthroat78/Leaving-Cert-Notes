@@ -9,6 +9,15 @@
 
 ![]()
 
+## Terms
+
+| Terms | Definition |
+|-|-|
+| Monohybrid | One trait |
+| Bihybrid | Two traits |
+| Homozygous | Same form (two identical alleles) |
+| Heterozygous | Different (two different alleles) |
+
 ## Sex Chromosomes
 
 - We have 46 chromosomes, or 23 pairs
@@ -31,6 +40,14 @@
 - CHIN is the GENE
 - SQUARE and ROUND are the ALLELES
 
+## Genetic Terms
+
+- Alternative forms of **<u>genes</u>**
+- **Dominant alleles (TT - tall pea plants)**
+- **<u>Dominant (uppercase letter) - allele that is always expressed if present</u>**
+- **Recessive (lowercase letter) alleles (tt - dwarf pea plants)**
+- **<u>Recessive - the allele that is prevented from being expressed by dominant allele</u>**
+
 ## Phenotype
 
 - Outward appearance
@@ -40,19 +57,36 @@
 2. Dwarf pea plant
 3. Brown eyes
 
-## Genetic Terms
+**Genotype** = Genetic make up of an organism
 
-- Alternative forms of **<u>genes</u>**
-- **Dominant alleles (TT - tall pea plants)**
-- **<u>Dominant (uppercase letter) - allele that is always expressed if present</u>**
-- **Recessive (lowercase letter) alleles (tt - dwarf pea plants)**
-- **<u>Recessive - the allele that is prevented from being expressed by dominant allele</u>**
+- TT (homozygous dominant)
+- tt (homozygous recessive)
+- Tt (heterozygous)
 
-## Terms
+**Non-nucleur DNA** = DNA which is found in mitochondria and chloroplast which can also be inherited via the egg ovum
 
-| Terms | Definition |
-|-|-|
-| Monohybrid | One trait |
-| Bihybrid | Two traits |
-| Homozygous | Same form (two identical alleles) |
-| Heterozygous | Different (two different alleles) |
+Most DNA is found in chromosomes in the nucleus
+
+![]()
+
+(Only the head of the sperm fuses with the egg so if we get DNA from mitochondria it comes from the egg)
+
+## Punnett Square
+
+- A punnett square is used to show the possible combinations of agmetes
+- T = tall pea plant
+- t = dwarf plant
+- Phenotype of parent = Tall pea plant x Dwarf pea plant
+- Genotype of parent = TT x tt
+- Genotype of gamete = ![TT x tt Punnett Square](genetic-inheritance/punnett-square.png)
+- Genotype of progeny (first generation of progeny) = Tt
+- Phenotype of F. = Tall plants (all)]
+- Mendel's first law of segregation: Genes separate during gamete formation
+- Gametes fuse together
+- F1 generation together ![Tt x Tt Punnett Square](genetic-inheritance/punnett-square-2.jpg)
+- Genotype of F2 progeny = TT Tt Tt tt
+- Phenotype of F2 progeny = 3 Tall, 1 dwarf
+
+### Incomplete dominance (codominance)
+
+_
