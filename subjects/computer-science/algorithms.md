@@ -16,3 +16,13 @@ An algorithm in computer science is:
 - Feasible
 - Language independent
 - Instructions are unambiguous
+
+## Advantages of Algorithms
+
+- Algorithm not biased
+- Faster + cheaper
+
+## Disadvantages of Algorithms
+
+- Algorithms can be badly designed
+- Removes the human component
