@@ -13,9 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Monday, 26/09/2022 | No |
-| Biology | Do sheet we got in class, when teacher was out | Monday, 26/09/2022 | No |
-| French | Do sheet we got in class, when teacher was out | Monday, 26/09/2022 | No |
+| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Wednesday, 28/09/2022 | No |
 
 # Calendar
 
@@ -37,7 +35,8 @@
 |-|-|-|-|
 | Business Test | | 27/09/2022 | |
 | School Open Evening | | 29/09/2022 | 6:30 PM - 8:30 PM |
-| Parent-Teacher Meeting | | 06/10/2022 | |
+| French Test | | 05/10/2022 | |
+| Parent-Teacher Meeting | | 06/10/2022 | 4:15 PM - 6:45 PM |
 | Seeing Play of Macbeth Higher Level Class | | 12/10/2022 | Be at school at 08:30 AM | 
 | Computer Science Presentation Thing | | 13/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | 28/10/2022 | |
