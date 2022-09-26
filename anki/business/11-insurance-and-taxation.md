@@ -1,39 +1,4 @@
-# Insurance and Taxation
-
-## Learning Outcomes from this chapter
-**On completion, you should be able to:**
-
-- Illustrate the differences between various principles of insurance
-- Identify the various insurance forms
-- Define ‘risk management’ and illustrate ways a business can effectively manage risk
-- Outline the types of insurance a business and a household might use
-- Outline the types of taxation a business and a household might have to pay
-- Illustrate the implications of different taxes for a business and a household
-- Calculate take-home pay for an employee
-- Explain the importance of insurance and tax for a business
-- Identify activities common to managing a business and a household
-- Understand the similarities and differences between these activities in a business context and in a household context
-
-## Principles of insurance
-
-| | |
-|-|-|
-| Utmost good faith | Must disclose all material facts when applying for insurance |
-| Insurable interest | The insured must gain from an item’s existence or suffer financially from its loss |
-| Indemnity | A person cannot profit from insurance |
-| Subrogation | Rights to recover losses transfer to insurance company after the insured is fully compensated by them |
-| Contribution | If more than one insurance company is required, any pay-out is proportionally divided 
-
 ![Average Clause](11-insurance-and-taxation/1.png)
-
-## Factors that affect the size of your insurance premium
-
-| Level of risk faced | The higher the probability of the insurance company having to pay a claim, the higher the premium. A loading is added to a premium for a higher risk (e.g. driver’s penalty points). A deduction makes a premium cheaper (e.g. no claims bonus). |
-|-|-|
-| Value of the item | The higher the value of the item and the potential pay-out, the higher the premium. |
-| Number of claims made | If the insurance company sees an increase in the number of pay-outs for a particular type of claim, the costs of premiums will rise to offset this. |
-| Profit level required by insurance company | Many insurance companies are public limited companies, so their main objective is to achieve a certain level of profit to satisfy their shareholders. |
-| Government levies | If a levy (an extra charge) is applied to an insurance type, it will be applied to relevant premiums, increasing the price. |
 
 ## Risk Management
 
