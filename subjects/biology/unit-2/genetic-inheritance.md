@@ -90,3 +90,18 @@ Most DNA is found in chromosomes in the nucleus
 ### Incomplete dominance (codominance)
 
 _
+
+---
+
+Linked Genes = Genes that are located on the same chromosomes and are therefore inherited together
+
+![Linked Genes]()
+
+- DiHybrid Cross = cross involving two characteristics at a time
+- Example: Dwarf White Pea Plant x Tall Red Pea Plant 
+  - T = tall
+  - t = dwarf
+  - R = red
+  - r = white
+  - Genotype of Dwarf White Pea Plant = ttrr
+  - Genotype of Tall Red Pea Plant = TtRr or TTRR or TTRr or TtRR

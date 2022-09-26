@@ -1,4 +1,6 @@
 # Resources
+- [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
+
 ## Resources for All Subjects
 - [Studyclix](https://studyclix.ie/) - Website with Notes, Previous Exam Questions, Quizzes, Past Papers and Marking Schemes
 - [Leaving Cert Help Notes](https://leaving-cert-helpnotes.blogspot.com/2014/10/links-to-all-my-posts-by-subject.html) - Website with Notes

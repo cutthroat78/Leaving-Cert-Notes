@@ -13,12 +13,9 @@ Add ```<!--In Anki-->``` to any title that it's content has been converted to an
 
 Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
-## Links to help make/edit notes
-- [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
-
 ## To Dos
 - Fix and put all links into index.md and {subject}.md
-- Use # in links to link to certain headings on pages
+- Use # in ```[Text](file#heading)``` in links to link to certain headings on pages
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Write study guide/plan for each subject
 
