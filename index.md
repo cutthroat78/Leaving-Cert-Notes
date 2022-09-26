@@ -38,6 +38,7 @@
 | Business Test | | 27/09/2022 | |
 | School Open Evening | | 29/09/2022 | 6:30 PM - 8:30 PM |
 | Parent-Teacher Meeting | | 06/10/2022 | |
+| Seeing Play of Macbeth Higher Level Class | | 12/10/2022 | Be at school at 08:30 AM | 
 | Computer Science Presentation Thing | | 13/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | 28/10/2022 | |
