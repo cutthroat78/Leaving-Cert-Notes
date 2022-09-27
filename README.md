@@ -1,9 +1,9 @@
 # Leaving Cert Notes
 [Github Pages](https://cutthroat78.github.io/Leaving-Cert-Notes/)
 
-This is my repo of notes for the Leaving Cert
+This is my repo of notes and anki decks for the Leaving Cert
 
-I will no longer be working on this repo, when I take my exams in 2023
+This repo will be archived, when I take my exams in 2023
 
 If you would like to add any notes, make any suggestions or simply want to help in anyways, create an issue
 
@@ -20,7 +20,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Write study guide/plan for each subject
 
 ### Biology
-- Look at summer 2022 exam structure file that is on teams
 - Add video(s) link about each topic in biology.md ```- [Video]()``` or ```- [Video Playlist]()```
 - Get enzyme diagrams for enzyme pages
 - Simplify notes but keep same info (go for better structure with headings)
@@ -32,10 +31,10 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Convert heart diagram that is written on small piece of paper in my green folder
 - Convert rest of enzyme immobilisation write up and add images to “how to” sheet
 - Convert heated denaturation experiment
-- Go through all notes and change ** inside ```<u>``` to ```<b>```, so it displays properly on github pages
+- Go through all notes and change ** inside ```<u>``` to ```<b>```, so it displays properly on github pages (or put bold outside around underline HTML tags)
 
 ### Business
-- Convert stuff in exam preperation folder in Teams
+- Convert/add stuff in exam preperation folder in Teams
 
 ### Computer Science
 - Take all my code from class and put into digital notes as “Code Examples”
@@ -43,10 +42,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 ### English
 - Look at this [resource](https://engzone.weebly.com/)
-- get and convert 5 languages of writing notes
-- Go through notes on Teams
-- Attempt to redeem verse 2023 english ebook
-- Convert english room relationships pages that was sent to me over whatsapp
 - Make notes for poetry techniques
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
 
@@ -107,10 +102,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Paragraphs/Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
 - Use image occlusion cards to learn diagrams
 
-## Subject Specific
-
-- English: Poetry cards will have a cloze for each line (to learn entire poem)
-
 # Note Conversion
 ## Biology Notes
 
@@ -118,7 +109,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 |------------------------------------------------|------------------|--------|-|
 | Unit 1 | | |
 | A search for a definition of life              | Yes              | Yes    | Yes |
-| Scientific method                              | Yes              | Yes    | No |
+| Scientific method                              | Yes              | Yes    | Yes |
 | nutrition                                      | Yes              | Yes    | No |
 | Ecology, Ecosystem, Biosphere, Habitat & Niche | Yes              | Yes    | No |
 | Environmental Factors                          | Yes              | Yes    | No |
@@ -143,26 +134,26 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 | Chapter/Section                             | Covering/Covered | Slides | Anki |
 |---------------------------------------------|------------------|--------|------|
-| 3                                          | Yes              | Yes    | Yes |
+| 3                                          | Yes              | Yes    | Converting |
 | 4                                           | No               | No     | No |
-| 5                                          | Yes              | Yes    | Yes |
-| 6                                          | Yes              | Yes    | Yes |
-| 7                                          | Yes              | Yes    | Yes |
+| 5                                          | Yes              | Yes    | No |
+| 6                                          | Yes              | Yes    | No |
+| 7                                          | Yes              | Yes    | No  |
 | 8                                           | No               | No     | No |
 | 9                                           | No               | No     | No |
 | 10                                          | No               | No     | No |
 | 12                                          | No               | No     | No |
 | 13                                          | No               | No     | No |
 | 14                                          | No               | No     | No |
-| 15                                          | Yes              | Yes    | Yes |
-| 16                                          | Yes              | Yes    | Yes |
-| 17                                          | Yes              | Yes    | Yes |
+| 15                                          | Yes              | Yes    | No  |
+| 16                                          | Yes              | Yes    | No  |
+| 17                                          | Yes              | Yes    | No  |
 | 18                                          | No               | No     | No |
 | 19                                          | No               | No     | No |
-| 20                                          | Yes              | Yes    | Yes |
-| 21                                          | Yes              | Yes    | Yes |
-| 22                                          | Yes              | Yes    | Yes |
-| 23                                          | Yes              | Yes    | Yes |
+| 20                                          | Yes              | Yes    | No  |
+| 21                                          | Yes              | Yes    | No  |
+| 22                                          | Yes              | Yes    | No  |
+| 23                                          | Yes              | Yes    | No  |
 | 24                                          | No               | No     | No |
 | 26                                          | No               | No     | No |
 | 27                                          | No               | No     | No |

@@ -24,6 +24,10 @@
 | Subrogation | Rights to recover losses transfer to insurance company after the insured is fully compensated by them |
 | Contribution | If more than one insurance company is required, any pay-out is proportionally divided 
 
+## Average Clause
+
+The average clause applies if an item is underinsured and there is a partial loss, meaning the loss was less than the full value of the item insured. If a bicycle was insured for €2,000 but its real value was €5,000, and damage of €1,000 was caused to it the insured party should not receive €1,000 in compensation, as they do not have the whole bike insured. In this instance they have 2/5 of the bike insured, so should receive 2/5 of any partial loss: 2/5 x €1,000 = €400
+
 ![Average Clause](11-insurance-and-taxation/1.png)
 
 ## Factors that affect the size of your insurance premium
