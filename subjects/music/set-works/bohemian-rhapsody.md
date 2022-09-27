@@ -49,6 +49,19 @@
 | Multi-tracking and Overdubbing | Multi-tracking, often in combination with overdubbing (recording another layer over previously recorded material), allows artists to record a rich and full texture in the music. It also allows singers or musicians to record their parts separately, listening back to previous tracks as they record the next one. When all the tracks have been recorded, they can be mixed together to produce a final track. Queen used 24 tracks to record ‘Bohemian Rhapsody. |
 | Bouncing | This is when two or more pre-recorded tracks are combined together on to one new track. This frees up tracks for recording more parts. |
 
+## Performing Techniques
+
+| Technique | Description |
+|-|-|
+| Bends | Guitar technique in which a note is allowed in pitch but pushing the string up and down |
+| Vibrato | Shaking the finger which holds down the string on the guitar's fretboard |
+| Power Chords | Power Chords are created when the root note is doubled and the fifth notes of chord is played too. The third note of the chord is left out |
+| Glissando | Sliding the finger that is holding down a string up or down on the fretboard after that string has been plucked, this creates the sound of sliding from one pitch to another |
+| A capella | Vocal performance by a soloist or group of vocalists with no accompaniment |
+| Antiphony | Antiphony is a form of dialogue between parts. Two parts or voices interact, irritating each other in quick succession. The melody is often passed from one part to the other |
+| Falsetto | A male vocalist singing above his natural vocal range |
+| Crash Cymbal | The crash cymbal produces a thin, bright, cutting sound. Part of a standard drum kit, the crash cymbal is a type of suspended cymbal |
+
 ## Instruments
 
 - Guitar
