@@ -13,7 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Wednesday, 28/09/2022 | No |
+| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Wednesday, 28/09/2022 | Yes |
 
 # Timetable
 
