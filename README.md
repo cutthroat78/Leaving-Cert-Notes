@@ -114,48 +114,58 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 # Note Conversion
 ## Biology Notes
 
-| Chapter/Section                                | Paper Slides     | Slides |
-|------------------------------------------------|------------------|--------|
-| Unit 1 | |
-| A search for a definition of life              | Yes              | Yes    |
-| Scientific method                              | Yes              | Yes    |
-| nutrition                                      | Yes              | Yes    |
-| Ecology, Ecosystem, Biosphere, Habitat & Niche | Yes              | Yes    |
-| Environmental Factors                          | Yes              | Yes    |
-| Nutrient Recycling                             | Yes              | Yes    |
-| Pyramid of Numbers                             | Yes              | Yes    |
-| Unit 2 | |
-| the cell                                       | Yes              | Yes    |
-| Respiration                                    | Yes              | Yes    |
-| Cell Division                                  | Yes              | Yes    |
-| Genetic Inheritance                            | No               | No     |
-| Unit 3 | |
-| skeletal system                                | Yes              | Yes    |
-| the digestive system                           | Yes              | Yes    |
-| enzymes and metabolism                         | Yes              | Yes    |
-| Movement of Molecules Across Cell Membranes    | Yes              | Yes    |
-| Excretion                                      | Yes              | Yes    |
-| The Breathing System                           | Yes              | Yes    |
-| Homeostasis                                    | Yes              | Yes    |
-| the circulatory system                         | Yes              | Yes    |
+| Chapter/Section                                | Paper Slides     | Slides | Anki |
+|------------------------------------------------|------------------|--------|-|
+| Unit 1 | | |
+| A search for a definition of life              | Yes              | Yes    | Yes |
+| Scientific method                              | Yes              | Yes    | No |
+| nutrition                                      | Yes              | Yes    | No |
+| Ecology, Ecosystem, Biosphere, Habitat & Niche | Yes              | Yes    | No |
+| Environmental Factors                          | Yes              | Yes    | No |
+| Nutrient Recycling                             | Yes              | Yes    | No |
+| Pyramid of Numbers                             | Yes              | Yes    | No |
+| Unit 2 | | |
+| the cell                                       | Yes              | Yes    | No |
+| Respiration                                    | Yes              | Yes    | No |
+| Cell Division                                  | Yes              | Yes    | No |
+| Genetic Inheritance                            | No               | No     | No |
+| Unit 3 | | |
+| skeletal system                                | Yes              | Yes    | No |
+| the digestive system                           | Yes              | Yes    | No |
+| enzymes and metabolism                         | Yes              | Yes    | No |
+| Movement of Molecules Across Cell Membranes    | Yes              | Yes    | No |
+| Excretion                                      | Yes              | Yes    | No |
+| The Breathing System                           | Yes              | Yes    | No |
+| Homeostasis                                    | Yes              | Yes    | No |
+| the circulatory system                         | Yes              | Yes    | No |
 
 ## Business Notes
 
-| Chapter/Section                             | Covering/Covered | Slides |
-|---------------------------------------------|------------------|--------|
-| 4                                           | No               | No     |
-| 8                                           | No               | No     |
-| 9                                           | No               | No     |
-| 10                                          | No               | No     |
-| 11                                          | Yes              | No     |
-| 12                                          | No               | No     |
-| 13                                          | No               | No     |
-| 14                                          | No               | No     |
-| 18                                          | No               | No     |
-| 19                                          | No               | No     |
-| 24                                          | No               | No     |
-| 26                                          | No               | No     |
-| 27                                          | No               | No     |
+| Chapter/Section                             | Covering/Covered | Slides | Anki |
+|---------------------------------------------|------------------|--------|------|
+| 3                                          | Yes              | Yes    | Yes |
+| 4                                           | No               | No     | No |
+| 5                                          | Yes              | Yes    | Yes |
+| 6                                          | Yes              | Yes    | Yes |
+| 7                                          | Yes              | Yes    | Yes |
+| 8                                           | No               | No     | No |
+| 9                                           | No               | No     | No |
+| 10                                          | No               | No     | No |
+| 12                                          | No               | No     | No |
+| 13                                          | No               | No     | No |
+| 14                                          | No               | No     | No |
+| 15                                          | Yes              | Yes    | Yes |
+| 16                                          | Yes              | Yes    | Yes |
+| 17                                          | Yes              | Yes    | Yes |
+| 18                                          | No               | No     | No |
+| 19                                          | No               | No     | No |
+| 20                                          | Yes              | Yes    | Yes |
+| 21                                          | Yes              | Yes    | Yes |
+| 22                                          | Yes              | Yes    | Yes |
+| 23                                          | Yes              | Yes    | Yes |
+| 24                                          | No               | No     | No |
+| 26                                          | No               | No     | No |
+| 27                                          | No               | No     | No |
 
 # Biology Resources To Go Through
 
