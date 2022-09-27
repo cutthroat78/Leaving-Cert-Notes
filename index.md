@@ -33,14 +33,14 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Business Test | | 27/09/2022 | |
-| School Open Evening | | 29/09/2022 | 6:30 PM - 8:30 PM |
-| French Test | | 05/10/2022 | |
-| Parent-Teacher Meeting | | 06/10/2022 | 4:15 PM - 6:45 PM |
-| Seeing Play of Macbeth Higher Level Class | | 12/10/2022 | Be at school at 08:30 AM | 
-| Computer Science Presentation Thing | | 13/10/2022 | |
-| Last Day to Pay for Maths Exam Papers | | 28/10/2022 | |
-| Halloween Mid-Term Starts | From Paul | 28/10/2022 | |
+| School Open Evening | | Thursday, 29/09/2022 | 6:30 PM - 8:30 PM |
+| Not in School This Day | | Monday, 03/10/2022 | |
+| French Test | | Wednesday, 05/10/2022 | |
+| Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
+| Seeing Play of Macbeth Higher Level Class | | Wednesday, 12/10/2022 | Be at school at 08:30 AM | 
+| Computer Science Presentation Thing | | Thursday, 13/10/2022 | |
+| Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
+| Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
