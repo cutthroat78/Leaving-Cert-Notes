@@ -37,7 +37,7 @@
 | Not in School This Day | | Monday, 03/10/2022 | |
 | French Test | | Wednesday, 05/10/2022 | |
 | Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
-| Seeing Play of Macbeth Higher Level Class | | Wednesday, 12/10/2022 | Be at school at 08:30 AM | 
+| Seeing Play of Macbeth Higher Level Class | At Clontarf, Clasac Theatre | Wednesday, 12/10/2022 | Be at school at 08:30 AM |
 | Computer Science Presentation Thing | | Thursday, 13/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
