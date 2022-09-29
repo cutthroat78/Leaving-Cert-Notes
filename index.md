@@ -13,7 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Hands On Textbook, Do Questions on Page 5, Comprehension is on Page 2 | Wednesday, 28/09/2022 | Yes |
+| | | | |
 
 # Timetable
 
@@ -28,16 +28,14 @@
 | 13:30 | French/Engineering     | Business                      | Music/Phys-Chem/Art/Geography | English                       | English                           |
 | 14:30 | English                | Music/Phys-Chem/Art/Geography |                               | French/Engineering            | Maths                             |
 
-
 # Calendar
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| School Open Evening | | Thursday, 29/09/2022 | 6:30 PM - 8:30 PM |
 | Not in School This Day | | Monday, 03/10/2022 | |
 | French Test | | Wednesday, 05/10/2022 | |
 | Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
-| Seeing Play of Macbeth Higher Level Class | At Clontarf, Clasac Theatre | Wednesday, 12/10/2022 | Be at school at 08:30 AM |
+| Seeing Live Macbeth Play | Costs €10 per person, At Clontarf, Clasac Theatre, each person has to make their own way there | Wednesday, 12/10/2022 | Be at theatre at 9 AM |
 | Computer Science Presentation Thing | | Thursday, 13/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
