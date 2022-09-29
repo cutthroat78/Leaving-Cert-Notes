@@ -13,7 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| | | | |
+| Biology | 1. Do all of Spongebob worksheet except last page 2. Do question 1 (first question) on exam questions sheet we got in class | Due: Monday, 02/10/2022 | No |
 
 # Timetable
 
