@@ -32,7 +32,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Not in School This Day | | Monday, 03/10/2022 | |
 | French Test | | Wednesday, 05/10/2022 | |
 | Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
 | Seeing Live Macbeth Play | Costs €10 per person, At Clontarf, Clasac Theatre, each person has to make their own way there | Wednesday, 12/10/2022 | Be at theatre at 9 AM |
