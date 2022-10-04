@@ -138,7 +138,7 @@ Either member of a pair of alleles has an equal chance of entering a gamete with
 
 ## Linked Gene Example
 
-![Linked Genes 1]()
+![Linked Genes 2](genetic-inheritance/linked-genes-2.png)
 
 - Linked Genes = Genes that are located on the same chromosome + inherited together
 - Genes that are linked don't obey the law of independent assortment (2nd law - Mendels)
