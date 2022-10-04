@@ -73,14 +73,14 @@ Most DNA is found in chromosomes in the nucleus
 
 ## Punnett Square
 
-- A punnett square is used to show the possible combinations of agmetes
+- A punnett square is used to show the possible combinations of gametes
 - T = tall pea plant
 - t = dwarf plant
 - Phenotype of parent = Tall pea plant x Dwarf pea plant
 - Genotype of parent = TT x tt
 - Genotype of gamete = ![TT x tt Punnett Square](genetic-inheritance/punnett-square.png)
 - Genotype of progeny (first generation of progeny) = Tt
-- Phenotype of F. = Tall plants (all)]
+- Phenotype of F. = Tall plants (all)
 - Mendel's first law of segregation: Genes separate during gamete formation
 - Gametes fuse together
 - F1 generation together ![Tt x Tt Punnett Square](genetic-inheritance/punnett-square-2.jpg)
@@ -105,3 +105,47 @@ Linked Genes = Genes that are located on the same chromosomes and are therefore 
   - r = white
   - Genotype of Dwarf White Pea Plant = ttrr
   - Genotype of Tall Red Pea Plant = TtRr or TTRR or TTRr or TtRR
+
+---
+
+## Mendel's 1st Law of Segregation
+
+Only one member of a pair of alleles enters a gamete
+
+![Mendel's 1st Law of Segregation](genetic-inheritance/mendel-law-1.png)
+
+## Mendel's 2nd Law of Independent Assortment
+
+Either member of a pair of alleles has an equal chance of entering a gamete with either member pf any other pair of factors
+
+![Mendel's 2nd Law of Independent Assortment](genetic-inheritance/mendel-law-2.png)
+
+## DiHybrid Cross Example with Pea Plants
+
+- Parent Phenotype: Dwarf White x Tall Red
+- Parent Genotype: ttrr x Tr Rr
+- Gametes: tr x TR Tr tR tr
+
+**Cross:**
+
+| | TR | Tr | tR | tr |
+|-|-|-|-|-|
+| tr (This is crossing with the gametes on top) | TtRr | Ttrr | ttRr | ttrr |
+
+- Genotype of F<sub>1</sub>: TtRr, Ttrr, ttRr, ttrr
+- Phenotype of F<sub>1</sub>: Tall Red, Tall White, Short Red, Short White
+- Ratio: 1 (25%) : 1 (25%) : 1 (25%) : 1 (25%)
+
+## Linked Gene Example
+
+![Linked Genes 1]()
+
+- Linked Genes = Genes that are located on the same chromosome + inherited together
+- Genes that are linked don't obey the law of independent assortment (2nd law - Mendels)
+- Fruit flies = Drosophilia Melanogarter
+  - Often used in genetic crosses
+
+**Example:**
+
+- Long Wings (L) **OR** Vestigial (Short) Wings (l)
+- Wide abdomen (W) **OR** Narrow abdomen (w)
