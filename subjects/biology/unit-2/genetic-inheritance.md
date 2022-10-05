@@ -95,7 +95,7 @@ _
 
 Linked Genes = Genes that are located on the same chromosomes and are therefore inherited together
 
-![Linked Genes]()
+![Linked Genes](genetic-inheritance/linked-genes.png)
 
 - DiHybrid Cross = cross involving two characteristics at a time
 - Example: Dwarf White Pea Plant x Tall Red Pea Plant 
@@ -145,7 +145,28 @@ Either member of a pair of alleles has an equal chance of entering a gamete with
 - Fruit flies = Drosophilia Melanogarter
   - Often used in genetic crosses
 
-**Example:**
+### Example using Fruit Flies 1
 
 - Long Wings (L) **OR** Vestigial (Short) Wings (l)
-- Wide abdomen (W) **OR** Narrow abdomen (w)
+- Wide abdomen (W) (Homozygous Dominant) **OR** Narrow abdomen (w) (Heterozygous Recessive)
+- Parent Phenotype: Long Wing, Wide Abdomen x Vestigial Wing, Narrow Abdomen
+- Parent Genotype: LW, LW x lw, lw
+- Gametes: LW x lw
+- Cross:
+
+![Linked Genes 3](genetic-inheritance/linked-genes-3.png)
+
+(No need to do cross when outcome is obvious)
+
+F<sub>1</sub> Phenotype: LW, lw
+
+### Example using Fruit Flies 2
+
+- Parent Phenotype: Low wing wide abdomen (Heterozygous) x Long wing wide abdomen (Heterozygous)
+- Parent Genotype: LW, lw x LW, lw
+- Cross:
+
+![Linked Genes 4](genetic-inheritance/linked-genes-4.png)
+
+- F1 Genotype: LW, LW x lw, LW x LW, lw x lw, lw
+- F1 Phenotype: Long & Wide x Long & Wide x Long & Wide x Vestigial (Short) & Narrow
