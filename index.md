@@ -14,7 +14,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | Biology | 1. Do all of Spongebob worksheet except last page 2. Do question 1 (first question) on exam questions sheet we got in class | Due: Monday, 03/10/2022 | No |
-| Biology | 1. Copy linked example cross from Teams 2. Answer Q 2 on Exam Paper Sheet | Due: Thursday, 06/10/2022 | No |
+| Biology | 1. Copy linked example cross from Teams 2. Answer Q 2 on Exam Paper Sheet | Due: Thursday, 06/10/2022 | Yes |
 
 # Timetable
 
@@ -33,7 +33,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Test | | Wednesday, 05/10/2022 | |
 | Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
 | Seeing Live Macbeth Play | Costs €10 per person, At Clontarf, Clasac Theatre, each person has to make their own way there | Wednesday, 12/10/2022 | Be at theatre at 9 AM |
 | Computer Science Presentation Thing | | Thursday, 13/10/2022 | |
