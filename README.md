@@ -18,6 +18,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Use # in ```[Text](file#heading)``` in links to link to certain headings on pages
 - Get rid of “School Slides” and "Table of Contents" headings from notes
 - Write study guide/plan for each subject
+- get short url for site (like lc.xyz or notes.xyz)
 
 ### Biology
 - Add video(s) link about each topic in biology.md ```- [Video]()``` or ```- [Video Playlist]()```
@@ -26,6 +27,8 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Go through notes and create links to different parts of notes using # in links (If the word White Blood Cells comes up, it should link to the white blood cells subheading in the )
 - Mark diagrams we need to know for Biology course (one that you have to draw for the test)
 - Create list of subheadings to link to when they come up in notes
+- put photosynthesis formula image into definition of life biology chapter
+- convert notes from my friends
 
 #### Convert
 - Convert heart diagram that is written on small piece of paper in my green folder
@@ -44,8 +47,15 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Look at this [resource](https://engzone.weebly.com/)
 - Make notes for poetry techniques
 - Convert these notes in this [link](https://www.aoifesnotes.com/leaving-cert/ordinary-level/Paper-Two/docs/comparative-study/Introduction%20to%20Comparative%20Study%20-2014.pdf)
+- Convert debate powerpoint in English teams team
+- put movie versions of Macbeth onto notes website
+- convert glossary of poetic terms at back of verse 2023 textbook
+- fix all poems in english notes
 
 ### French
+- add english translation to oral exam script
+- make oral exam script into anki cards
+- make french notes on the words for the, a and some
 - Look through **ALL** files in french teams
 - get all Irregular Past Particles and group them based on endings
 - make notes on imparfait tense
@@ -66,12 +76,15 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Page 129 of textbook, move Irregular futur simple stems
 
 ### Maths
+- make notes on sine rule (trigononmetry)
+- convert that one maths sheet Áine gave us in 5th year
 - Look through maths ebook for things to put into digital notes
 - Rules in Maths ebook section 2.6 anki and/or digital notes
 - Find videos for each Maths thing/section we have done so far and add to notion
 - Convert maths notes that was sent to me into digital notes
 
 ### Music
+- make music notes on rests
 - Go through and change all irish music link names (the [] part of the link)
 - Sort out treble key signatures page
 - Add images to note-names.md
