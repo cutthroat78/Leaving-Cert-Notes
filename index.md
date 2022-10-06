@@ -33,7 +33,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
 | Seeing Live Macbeth Play | Costs €10 per person, At Clontarf, Clasac Theatre, each person has to make their own way there | Wednesday, 12/10/2022 | Be at theatre at 9 AM |
 | Computer Science Presentation Thing | | Thursday, 13/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
@@ -49,6 +48,7 @@
 <!--
 # Calendar Archive
 ## 6th Year
+| Parent-Teacher Meeting | | Thursday, 06/10/2022 | 4:15 PM - 6:45 PM |
 ## 5th Year
 | French Oral Exams Start | | Tuesday, 17/05/2022 | |
 | Trip to Belfast | Costs €15, We will be going to [W5](https://w5online.co.uk/) and [The Titanic Museum](https://www.titanicbelfast.com/) and be getting food on the way back from Belfast. | Thursday, 19/05/2022 | Leaving the School at 08:45 AM and Returning at 7 PM |
