@@ -148,7 +148,7 @@ Either member of a pair of alleles has an equal chance of entering a gamete with
 ### Example using Fruit Flies 1
 
 - Long Wings (L) **OR** Vestigial (Short) Wings (l)
-- Wide abdomen (W) (Homozygous Dominant) **OR** Narrow abdomen (w) (Heterozygous Recessive)
+- Wide abdomen (W) (Homozygous Dominant) **OR** Narrow abdomen (w) (Homozygous Recessive)
 - Parent Phenotype: Long Wing, Wide Abdomen x Vestigial Wing, Narrow Abdomen
 - Parent Genotype: LW, LW x lw, lw
 - Gametes: LW x lw
@@ -162,7 +162,7 @@ F<sub>1</sub> Phenotype: LW, lw
 
 ### Example using Fruit Flies 2
 
-- Parent Phenotype: Low wing wide abdomen (Heterozygous) x Long wing wide abdomen (Heterozygous)
+- Parent Phenotype: Long wing wide abdomen (Heterozygous) x Long wing wide abdomen (Heterozygous)
 - Parent Genotype: LW, lw x LW, lw
 - Cross:
 
