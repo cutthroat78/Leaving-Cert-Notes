@@ -223,7 +223,7 @@ This legislation protects employees who are unfairly dismissed
 
 1. Reinstatement
 2. Re-engagement
-3. Compensation (max. two years’ pay)
+3. Compensation (max. two years pay)
 
 ## Reasons for Unfair Dismissal:
 
@@ -249,7 +249,7 @@ This legislation protects employees who are unfairly dismissed
 2. Civil Status (Marriage) *
 3. Family Status *
 4. Sexual Orientation
-5. Religion Age
+5. Religion
 6. Age
 7. Disability
 8. Race

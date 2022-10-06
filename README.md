@@ -147,7 +147,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 | Chapter/Section                             | Covering/Covered | Slides | Anki |
 |---------------------------------------------|------------------|--------|------|
-| 3                                          | Yes              | Yes    | Converting |
 | 4                                           | No               | No     | No |
 | 5                                          | Yes              | Yes    | No |
 | 6                                          | Yes              | Yes    | No |
@@ -168,6 +167,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 | 22                                          | Yes              | Yes    | No  |
 | 23                                          | Yes              | Yes    | No  |
 | 24                                          | No               | No     | No |
+| 25                                          | No               | No     | No |
 | 26                                          | No               | No     | No |
 | 27                                          | No               | No     | No |
 
