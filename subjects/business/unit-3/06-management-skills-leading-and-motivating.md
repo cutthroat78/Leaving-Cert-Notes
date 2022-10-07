@@ -299,9 +299,3 @@ Democratic style of management
 - Self actualisation through responsibility
 - *Receive training
 - *Skills not maximised
-
----
-
-Theory X - 
-
-Theory Y - 
