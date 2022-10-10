@@ -132,8 +132,8 @@ Either member of a pair of alleles has an equal chance of entering a gamete with
 |-|-|-|-|-|
 | tr (This is crossing with the gametes on top) | TtRr | Ttrr | ttRr | ttrr |
 
-- Genotype of F<sub>1</sub>: TtRr, Ttrr, ttRr, ttrr
-- Phenotype of F<sub>1</sub>: Tall Red, Tall White, Short Red, Short White
+- Genotype of F<sup>1</sup>: TtRr, Ttrr, ttRr, ttrr
+- Phenotype of F<sup>1</sup>: Tall Red, Tall White, Short Red, Short White
 - Ratio: 1 (25%) : 1 (25%) : 1 (25%) : 1 (25%)
 
 ## Linked Gene Example
@@ -158,7 +158,7 @@ Either member of a pair of alleles has an equal chance of entering a gamete with
 
 (No need to do cross when outcome is obvious)
 
-F<sub>1</sub> Phenotype: LW, lw
+F<sup>1</sup> Phenotype: LW, lw
 
 ### Example using Fruit Flies 2
 
@@ -170,3 +170,36 @@ F<sub>1</sub> Phenotype: LW, lw
 
 - F1 Genotype: LW, LW x lw, LW x LW, lw x lw, lw
 - F1 Phenotype: Long & Wide x Long & Wide x Long & Wide x Vestigial (Short) & Narrow
+
+## Sex Linkage
+
+- Sex Linked Genes - Genes found normally on the X chromosome (recessive gene)
+- Carrier - A female who has an allele for the abnormal condition but doesn't how it
+
+### Hemophilia
+
+- Normal Blood = N
+- Hemophilia = n
+- Female = XX
+- Male = XY
+- Normal (Carrier) = Female: X<sup>N</sup>X<sup>n</sup> Male: --
+- Normal (Non Carrier) = Female: X<sup>N</sup>X<sup>N</sup> Male: <sup>N</sup>Y<sup>-</sup>
+- Hemophilia = Female: X<sup>n</sup>X<sup>n</sup> Male: X<sup>n</sup>Y<sup>-</sup>
+
+### Example
+1. Red-green colour blindness is a sex-linked trait. If a normal man has a child with a carrier woman. What is the likelihood that their first son would be colourblind?
+
+- Non-colourblindness = C
+- Colourblindness = c
+- Parent Phenotypes: Normal Male x Carrier (for colourblindness) Female
+- Parent Genotype: X<sup>C</sup>Y<sup>-</sup> x X<sup>C</sup>c<sup>n</sup>
+- Cross:
+
+| | X<sup>C</sup> | Y<sup>-</sup> |
+|-|-|-|
+| X<sup>C</sup> (Being Crossed with Above) | X<sup>C</sup>X<sup>C</sup> | X<sup>C</sup>Y<sup>-</sup> |
+| X<sup>c</sup> (Being Crossed with Above) | X<sup>C</sup>X<sup>c</sup> | X<sup>c</sup>Y<sup>-</sup> |
+
+- F<sup>1</sup> Genotype: X<sup>C</sup>X<sup>C</sup>, X<sup>C</sup>Y<sup>-</sup>, X<sup>C</sup>X<sup>c</sup>,  X<sup>c</sup>Y<sup>-</sup>
+- F<sup>1</sup> Phenotype: Normal Female, Normal Male, Carrier Female, Colourblind Male
+- Answer: 25% Chance of Colourblindness in Children

@@ -14,7 +14,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | English | Read the poem on page 353 and answer the questions on page 354. Teacher never specified which questions, I assume the Comprehending and Responding questions | Friday, 07/10/2022 | No |
-| Biology | Finish up to Exam Paper Questions 1, 2, 3 and 5 | Monday, 10/10/2022 | No |
+| Biology |  | Tuesday, 13/10/2022 | No |
 
 # Timetable
 
