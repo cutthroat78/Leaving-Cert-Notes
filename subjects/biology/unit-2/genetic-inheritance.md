@@ -116,7 +116,7 @@ Only one member of a pair of alleles enters a gamete
 
 ## Mendel's 2nd Law of Independent Assortment
 
-Either member of a pair of alleles has an equal chance of entering a gamete with either member pf any other pair of factors
+Either member of a pair of alleles has an equal chance of entering a gamete with either member of any other pair of factors
 
 ![Mendel's 2nd Law of Independent Assortment](genetic-inheritance/mendel-law-2.png)
 
