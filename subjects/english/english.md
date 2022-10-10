@@ -58,6 +58,7 @@
 ### Patrick Kavanagh
 ### Derek Mahon
 ### Paula Meehan
+- [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
 ### Adrienne Rich
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
