@@ -13,7 +13,6 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | 1. Do cross for teacher: C = No Colourblindness, c= Colourblindness, Phenotype = colourblind male x carrier female, genotype = Male: XcY- Female: XCXc 2. Question 4 + 6 from exam papers page | Tuesday, 11/10/2022 | No |
 | English | Do comprehending and responding questions 1 - 8 | Thursday, 13/10/2022 | No |
 | French | Do up to Question 3 on Ordinary Level and Higher Level on sheet | Thursday, 13/10/2022 | No |
 
