@@ -59,6 +59,8 @@
 ### Derek Mahon
 ### Paula Meehan
 - [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
+- [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
+- [Buying Winkles](poetry/paula-meehan/winkles.md)
 ### Adrienne Rich
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
