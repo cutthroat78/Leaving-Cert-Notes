@@ -13,8 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Do comprehending and responding questions 1 - 8 | Thursday, 13/10/2022 | No |
-| French | Do up to Question 3 on Ordinary Level and Higher Level on sheet | Thursday, 13/10/2022 | No |
+| English | Do one of these two options 1. Write a personal essay exploring what home means to you 2. 'Money is the root of all evil.' Write a debate speech proposing or opposing this motion | Monday, 17/10/2022 | No |
 
 # Timetable
 
@@ -33,7 +32,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Computer Science Presentation Thing | | Thursday, 13/10/2022 | |
 | Biology Test on Genetic Crosses | | Monday, 17/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
