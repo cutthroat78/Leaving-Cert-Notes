@@ -13,7 +13,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Do one of these two options 1. Write a personal essay exploring what home means to you 2. 'Money is the root of all evil.' Write a debate speech proposing or opposing this motion | Monday, 17/10/2022 | No |
+| English | Do one of these two options 1. Write a personal essay exploring what home means to you (3 A4 Pages (or 800 words if you are typing)) 2. 'Money is the root of all evil.' Write a debate speech proposing or opposing this motion | Monday, 17/10/2022 | No |
 
 # Timetable
 
