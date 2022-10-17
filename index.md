@@ -14,6 +14,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | French | Do Questions 2021 HL: 1: a and b and 2: a | Wednesday, 19/10/2022 | No |
+| Maths | Do maths sheet we got in class | Wednesday, 19/10/2022 | No |
 
 # Timetable
 
