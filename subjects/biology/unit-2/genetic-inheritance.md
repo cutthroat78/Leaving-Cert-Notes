@@ -225,3 +225,49 @@ F<sup>1</sup> Phenotype: LW, lw
 - F<sup>1</sup> Genotype: X<sup>C</sup>X<sup>C</sup>, X<sup>C</sup>Y<sup>-</sup>, X<sup>C</sup>X<sup>c</sup>,  X<sup>c</sup>Y<sup>-</sup>
 - F<sup>1</sup> Phenotype: Normal Female, Normal Male, Carrier Female, Colourblind Male
 - Answer: 25% Chance of Colourblindness in Children
+
+<!--Notes from Caithlín add here-->
+
+## Heredity
+
+- Heredity is the passing on of features from parents to offspring by means of <u>genes</u>
+- Also called Genetic Inheritance
+
+## Genes
+
+- A gene is a length of DNA that codes for a specific protein
+- It is the unit of inheritance
+- It is found on a <u>chromosome</u>
+- It contains instructions to make a particular protein
+- Characteristics are controlled by genes
+
+### Gene Expression
+
+- Not all genes are expressed
+- E.g. Gene for Tallness
+  - Organism is small - Why?
+  - <u>Maybe due to poor nutrition</u>
+- Characteristics (phenotype) = heredity + environment
+
+---
+
+Heredity is the passing on of features from parents to offspring by means of genes. A gene is the unit of inheritance. They are found on a chromosome. They contain instructions to make a particular protein. Gene expression is the way in which the blueprint in a gene is decoded.
+
+---
+
+## Chromosome
+
+![Chromosome](genetic-inheritance/)
+
+- _
+- Chromosomes are made up of (60%) protein and (40%) DNA
+- Genes are arranged along the DNA of the chromosome
+
+![Chromosome Structure](genetic-inheritance/)
+
+### Non Coding DNA
+
+- <u>Large sections of the chromosomes <b>don't contain genes</b></u>
+- This DNA is called Non Coding DNA
+- It's function is not yet clear
+- Sometimes called "Junk DNA"
