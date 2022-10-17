@@ -1,4 +1,4 @@
-# Genetic Inheritance
+# Genetic inheritance
 
 ## Definitions
 
@@ -135,6 +135,28 @@ Either member of a pair of alleles has an equal chance of entering a gamete with
 - Genotype of F<sup>1</sup>: TtRr, Ttrr, ttRr, ttrr
 - Phenotype of F<sup>1</sup>: Tall Red, Tall White, Short Red, Short White
 - Ratio: 1 (25%) : 1 (25%) : 1 (25%) : 1 (25%)
+
+## DiHybrid Cross Example with Guinea Pigs
+
+- B = black coat
+- b = white coat
+- S = short hair
+- s = long hair
+
+- Phenotypes = Black coat and short hair, White coat and long hair
+- Genotypes = BbSs, bbss
+- Table:
+
+|    | bs |
+|-|-|
+| BS | BbSs |
+| Bs | Bbss |
+| bS | bbSs |
+| bs | bbss |
+
+- Genotypes of F1 Progeny = BbSs, Bbss, bbSs, bbss
+- Phenotypes of F1 Progeny = Black coat and short hair, Black coat and long hair, white coat and short hair, white coat and long hair
+- Ratio = 1 : 1 : 1 : 1
 
 ## Linked Gene Example
 
