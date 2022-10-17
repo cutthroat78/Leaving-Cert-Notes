@@ -14,6 +14,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | English | Do one of these two options 1. Write a personal essay exploring what home means to you (3 A4 Pages (or 800 words if you are typing)) 2. 'Money is the root of all evil.' Write a debate speech proposing or opposing this motion | Monday, 17/10/2022 | Yes |
+| French | Do Questions 2021 HL: 1: a and b and 2: a | Wednesday, 19/10/2022 | No |
 
 # Timetable
 
