@@ -34,3 +34,31 @@
 > I’d bear the newspaper twists  
 > bulging fat with winkles  
 > proudly home, like torches.   
+
+## Theme(s)
+- Childhood
+- Memories
+
+## Poetic Techniques
+- Similes
+- Sibilance
+- Assonance
+- Alliteration
+- Collquial language
+
+## Rhyme + Structure
+- 31 lines
+- 4 stanzas
+- Opening of poem rhyme 'say' + 'way' creating lyrical
+- Simple rhyme - childlike language
+- 'Winkles/would be wet' continues this lyrical rhyme scheme
+
+## Tone + Mood
+- Nostalgic
+- 
+
+## Imagery
+- 
+
+## Symbolism
+- 

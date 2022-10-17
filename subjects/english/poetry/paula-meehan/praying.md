@@ -43,3 +43,31 @@
 
 > Here at the heart of winter  
 > Here at the heart of the city  
+
+## Theme(s)
+- Loss
+- Grief
+- Addiction
+
+## Poetic Techniques
+- Personification
+- Anaphora
+- Sibilance
+
+## Rhyme + Structure
+- Rhyming couplet "The needle in its track / the knife in the back" 
+- 9 stanzas 
+- 36 lines
+
+## Imagery
+- Christmas tree, City streets - dingy laneways, Nature - forest, Snow, River, Ice and Trees
+
+## Tone + Mood
+- Spiritual
+- prayer like
+- hopeful
+- reflective
+
+## Symbolism
+- Sap could refer to fresh meaning recent but also could symbolise tears
+- Christmas - family, happiness, joy, sharing + caring and for some it's a bleak time
