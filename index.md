@@ -15,6 +15,7 @@
 |-|-|-|-|
 | French | Do Questions 2021 HL: 1: a and b and 2: a | Wednesday, 19/10/2022 | No |
 | Maths | Do maths sheet we got in class | Wednesday, 19/10/2022 | No |
+| Biology | Do polynucleotide diagram into DNA notes sheet that teacher gave us | Thursday, 20/10/2022 | No |
 
 # Timetable
 
