@@ -34,6 +34,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
+| Going to Blessington for Kayaking | | Thursday, 27/10/2022 | |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |

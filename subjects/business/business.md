@@ -16,7 +16,7 @@
 - [10. Managing Change]() - [Slides]() - Not Covered Yet
 - [11. Insurance and Taxation](unit-4/11-insurance-and-taxation.md) - [Slides](slides/unit-4/11-insurance-and-taxation.pdf)
 - [12. Monitoring a Business: Ratio Analysis]() - [Slides]() - Not Covered Yet
-- [13. Finance]() - [Slides]() - Not Covered Yet
+- [13. Finance](unit-4/13-finance.md) - [Slides](slides/unit-4/13-finance.pdf)
 ## Unit 5: Business in Action - [Padlet](https://padlet.com/grahammaher/14bammgf2vqeho4s)
 - [14. Identifying Business Opportunities]() - [Slides]() - Not Covered Yet
 - [15. Business Start-Up](unit-5/15-business-start-up.md) - [Slides](slides/unit-5/15-business-start-up.pdf)
