@@ -66,6 +66,3 @@
 - Cloud of chalk, the difference between the student and teacher
 - Birds and women
 - Shiny feathers all gone, confidence and pride stripped away
-
-## Quotes
-- 
