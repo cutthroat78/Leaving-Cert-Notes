@@ -13,8 +13,8 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| French | Do Questions 2021 HL: 2: b and 3: a and b | Thursday, 20/10/2022 | No |
 | Computer Science | Do Question 6, 7 and 9 | Friday, 21/10/2022 | No |
+| French | Do questions on sheet that we got in class | Friday, 21/10/2022 | No |
 | English | 2 A4 pages or 800 word limit for both options 1. 2. | Monday, 24/10/2022 | No | 
 
 # Timetable
