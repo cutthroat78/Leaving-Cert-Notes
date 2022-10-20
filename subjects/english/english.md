@@ -47,20 +47,14 @@
 ### Macbeth
 - [Full Play with Modern Translation](texts/macbeth/modern-translation.pdf)
 - [Full Play](texts/macbeth/macbeth.pdf)
-## Poetry <!--Where to find poems: [Poetry Foundation](https://www.poetryfoundation.org/)-->
-### Rudyard Kipling
-- [If](poetry/rudyard-kipling/if.md)
-### William Butler Yeats (W. B. Yeats)
-- [The Lake Isle of Innisfree](poetry/w-b-yeats/the-lake-isle-of-innisfree.md)
+## Poetry
 ### Elizabeth Bishop
-### Emily Dickinson
-### John Donne
-### Patrick Kavanagh
 ### Derek Mahon
 ### Paula Meehan
 - [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
 - [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
 - [Buying Winkles](poetry/paula-meehan/winkles.md)
+- [The Exact Moment I Became a Poet](poetry/paula-meehan/exact-moment.md)
 ### Adrienne Rich
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
@@ -68,6 +62,13 @@
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
 - [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
+<!--### Emily Dickinson
+### John Donne
+### Patrick Kavanagh-->
+### Rudyard Kipling
+- [If](poetry/rudyard-kipling/if.md)
+### William Butler Yeats (W. B. Yeats)
+- [The Lake Isle of Innisfree](poetry/w-b-yeats/the-lake-isle-of-innisfree.md)
 ## Example Questions and Sample Essays
 - [Adrienne Rick Poetry Question](example-questions/adrienne-rich-poetry-question.md)
 - [Control and Violence: Theme or Issue Question](example-questions/control-and-violence-question.md)
