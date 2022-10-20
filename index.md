@@ -14,7 +14,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | French | Do Questions 2021 HL: 2: b and 3: a and b | Thursday, 20/10/2022 | No |
-| Biology | Do polynucleotide diagram into DNA notes sheet that teacher gave us | Thursday, 20/10/2022 | Yes |
+| Computer Science | Do Question 6, 7 and 9 | Friday, 21/10/2022 | No |
 
 # Timetable
 
