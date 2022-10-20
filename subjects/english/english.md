@@ -62,9 +62,11 @@
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
 - [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
-<!--### Emily Dickinson
+<!---
+### Emily Dickinson
 ### John Donne
-### Patrick Kavanagh-->
+### Patrick Kavanagh
+--->
 ### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
 ### William Butler Yeats (W. B. Yeats)

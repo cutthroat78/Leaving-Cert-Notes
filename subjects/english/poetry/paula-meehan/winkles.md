@@ -55,10 +55,17 @@
 
 ## Tone + Mood
 - Nostalgic
-- 
+- Reflective 
 
 ## Imagery
-- 
+- Young child running from the dark
+- Skipping cracks in the pavement
+- Tenement buildings, city scape
+- Women standing in doorways, leaning out windows
+- Men in a crowded pub
+- Stall holder in a shawl, selling winkles
 
 ## Symbolism
-- 
+- The dark stairway could symbolise the poverty and bleakness of tenement life
+- "ghosts on the stairs" possibly represent the child's imagination thinking of ghosts and monsters, but could also allude to the people who lived in the building that died, as the mortality rates during the tenement life was extremely high
+- The girl carrying the wrapped winkles like torches symbolises the triumph the girl feels, like an olympian 
