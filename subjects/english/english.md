@@ -48,13 +48,6 @@
 - [Full Play with Modern Translation](texts/macbeth/modern-translation.pdf)
 - [Full Play](texts/macbeth/macbeth.pdf)
 ## Poetry
-### Elizabeth Bishop
-### Derek Mahon
-### Paula Meehan
-- [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
-- [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
-- [Buying Winkles](poetry/paula-meehan/winkles.md)
-- [The Exact Moment I Became a Poet](poetry/paula-meehan/exact-moment.md)
 ### Adrienne Rich
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
@@ -62,11 +55,18 @@
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
 - [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
-<!---
-### Emily Dickinson
-### John Donne
-### Patrick Kavanagh
---->
+### Derek Mahon
+### Elizabeth Bishop
+### Paula Meehan
+- [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
+- [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
+- [Buying Winkles](poetry/paula-meehan/winkles.md)
+- [The Exact Moment I Became a Poet](poetry/paula-meehan/exact-moment.md)
+- [Them Ducks Died for Ireland](poetry/paula-meehan/ducks.md)
+- [](poetry/paula-meehan/)
+<!--### Emily Dickinson-->
+<!--### John Donne-->
+<!--### Patrick Kavanagh-->
 ### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
 ### William Butler Yeats (W. B. Yeats)
