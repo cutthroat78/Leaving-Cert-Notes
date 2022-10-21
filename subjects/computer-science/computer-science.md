@@ -7,6 +7,8 @@
 - [Data Feminism - Full Book](https://data-feminism.mitpress.mit.edu)
 - [Algorithms](algorithms.md)
 - [Logic Gates](logic-gates.md) - [Video](https://youtu.be/zPuHvcl_u8g)
+- [Von Newmann Architecture](computer-arch.md)
+- [Electronics](electronics.md)
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 ## [Python Programming](python.md)
 - [Python Reference Guide](python-reference-guide.pdf) - This will given to you to use during the computer science exam, kinda like the log tables books
