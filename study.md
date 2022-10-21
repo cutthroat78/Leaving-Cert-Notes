@@ -11,7 +11,7 @@ To Do
     - srs: real flashcards (https://www.youtube.com/shorts/FaIfTN8JZ18)
     - srs: anki
     - crosswords
-    - synthesysing (notes)
+    - synthisysing (notes)
     - by doing (if you can with subject)
     - subject chunks (research me!)
     - The Feynman Technique

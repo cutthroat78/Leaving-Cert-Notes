@@ -14,7 +14,6 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | Computer Science | Do Question 6, 7 and 9 | Friday, 21/10/2022 | No |
-| French | Do questions on sheet that we got in class | Friday, 21/10/2022 | No |
 | English | 2 A4 pages or 800 word limit for both options 1. Write a personal essay in which you reflect on words which have had a positive impact on your life 2. Write a talk to be delivered to Fifth and Sixth Years during Careers Week at your school in which you encourage your peers to follow their hearts rather than their heads when it comes to choosing their future careers | Monday, 24/10/2022 | No | 
 
 # Timetable
