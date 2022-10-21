@@ -1,6 +1,6 @@
 # Von Newmann Architecture
 
-![Von Newmann Architecture](arch/1.png)
+![Von Neumann Architecture](arch/1.png)
 
 | | |
 |-|-|

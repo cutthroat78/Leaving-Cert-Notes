@@ -7,7 +7,7 @@
 - [Data Feminism - Full Book](https://data-feminism.mitpress.mit.edu)
 - [Algorithms](algorithms.md)
 - [Logic Gates](logic-gates.md) - [Video](https://youtu.be/zPuHvcl_u8g)
-- [Von Newmann Architecture](computer-arch.md)
+- [Von Neumann Architecture](computer-arch.md)
 - [Electronics](electronics.md)
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 ## [Python Programming](python.md)
