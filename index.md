@@ -14,7 +14,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | French | Do up to question 5 question on comprehension sheet | Monday, 24/10/2022 | No |
-| English | 2 A4 pages or 800 word limit for both options 1. Write a personal essay in which you reflect on words which have had a positive impact on your life 2. Write a talk to be delivered to Fifth and Sixth Years during Careers Week at your school in which you encourage your peers to follow their hearts rather than their heads when it comes to choosing their future careers | Monday, 24/10/2022 | No | 
+| English | 2 A4 pages or 800 word limit for both options 1. Write a personal essay in which you reflect on words which have had a positive impact on your life 2. Write a talk to be delivered to Fifth and Sixth Years during Careers Week at your school in which you encourage your peers to follow their hearts rather than their heads when it comes to choosing their future careers | Monday, 24/10/2022 | Yes | 
 
 # Timetable
 
@@ -33,11 +33,12 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Going to Blessington for Kayaking or walk depending on what the class decides| | Thursday, 27/10/2022 | |
+| Greystones to Bray Walk | | Thursday, 27/10/2022 | 08:50 (Show up for School at Normal Time) |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
+| Kayaking | | ??/04/2023 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |
 | French State Exam Typical Date | From Paul | 14/06/2023 or 16/06/2023 | |
