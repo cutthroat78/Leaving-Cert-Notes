@@ -22,8 +22,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| French | Do up to question 5 question on comprehension sheet | Monday, 24/10/2022 | No |
-| Biology | Finish eaxm question sheet we got in class and booklet do exam question first page (2019 parts a and b), skip first question | Tuesday, 25/10/2022 | No |
+| Biology | Finish exam question sheet we got in class and booklet do exam question first page (2019 parts a and b), skip first question | Tuesday, 25/10/2022 | No |
 | English | 2 A4 pages or 800 word limit for both options 1. Write a personal essay in which you reflect on words which have had a positive impact on your life 2. Write a talk to be delivered to Fifth and Sixth Years during Careers Week at your school in which you encourage your peers to follow their hearts rather than their heads when it comes to choosing their future careers | Monday, 24/10/2022 | Yes | 
 
 # Timetable
