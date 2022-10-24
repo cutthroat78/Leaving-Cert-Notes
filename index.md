@@ -43,6 +43,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
+| French Test | | Wednesday, 26/10/2022 | |
 | Greystones to Bray Walk | | Thursday, 27/10/2022 | 08:50 (Show up for School at Normal Time) |
 | Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
 | Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
