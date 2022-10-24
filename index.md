@@ -6,7 +6,7 @@
 - French (Français): [Notes](subjects/french/french.md)
 - Maths: [Notes](subjects/maths/maths.md)
 - Music: [Notes](subjects/music/music.md)
-<!-- [General Study Methods & Tips](study.md)-->
+<!-- [Study Methods & Tips](study.md)-->
 - [Resources](resources.md)
 
 ---
