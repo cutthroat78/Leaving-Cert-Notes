@@ -22,3 +22,6 @@ https://www.youtube.com/channel/UCRsoWpMiCLUwVWhgRvu-1Yg/playlists
 - [2: Equations with Fractions](old/simultaneous-equations/2-equations-with-fractions.md)
 - [3: Non-Linear Equations](old/simultaneous-equations/3-non-linear-equations.md)
 - [4: Non-Linear Quadratic and a Line](old/simultaneous-equations/4-non-linear-quardratic-and-a-line.md)
+
+## Other Resources
+- [Maths Points](http://mathspoints.ie/) - Website with Worksheets, Exam Papers and Cheat Sheets

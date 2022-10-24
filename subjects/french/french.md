@@ -61,3 +61,8 @@
 - [Phones](vocabulary/phones.md) <!--In Anki-->
 - [Wow Phrases](vocabulary/wow-phrases.md) <!--In Anki-->
 - [Uncategorised](vocabulary/uncategorised.md) <!--In Anki-->
+
+## Other Resources
+- TV5Monde: [Android](https://play.google.com/store/apps/details?id=com.tv5monde.apprendre&hl=en_US&gl=US), [Apple](https://apps.apple.com/us/app/tv5monde-learn-french/id1482250598) - Learn French by watching videos
+- France24 French Stream - A 24/7 YouTube News Stream in French by France24:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9foWyMSATM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

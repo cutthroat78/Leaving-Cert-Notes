@@ -36,3 +36,6 @@
 - [25. The European Union](unit-7/25-eu.md) - [Slides](slides/unit-7/25-eu.pdf)
 - [26. Global Business]() - [Slides]() - Not Covered Yet
 - [27. The Applied Business Question (ABQ)]() - [Slides]() - Not Covered Yet
+
+## Other Resources
+- [SGC Business Notes](https://sgcbusiness.com/business-notes/) - Website with Notes 

@@ -40,7 +40,7 @@
 ### Bass
 - [Bass Notes](music-theory/bass-notes.md)
 
-## Set Works (Set A)
+## Set Works (Set A) - [Spotify](https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link) - [YouTube]()
 - [Romeo & Juilet Overture by Tchaikovsky](set-works/romeo-and-juliet.md)
 - [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
 - [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)

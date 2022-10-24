@@ -78,3 +78,7 @@
 - [Key Moments Question](example-questions/key-moments-question.md)
 - [Exploration of Theme is Emotionally Engaging Question](example-questions/emotionally-engaging-theme.md)
 - [A Doll's House - Theme Satisfaction Question](example-questions/theme-satisfaction-a-dolls-house.md)
+
+## Other Resources
+- [Thug Notes](https://www.wisecrack.co/thug-notes) - Videos about Literature/Texts told by a "Gangster"
+- [Aoife's Notes](http://www.aoifesnotes.com/leaving-cert/) - Website with Notes

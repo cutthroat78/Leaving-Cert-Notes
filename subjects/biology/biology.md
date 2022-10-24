@@ -91,3 +91,19 @@ The Study of Living Organisms
 To make things easier, DNA provided has been already cut
 -->
 
+## Other Resources
+- [Biology Bugbears](https://www.youtube.com/channel/UCGuBY43N719wlQ0e17nbKRQ) - YouTube Videos for Revision
+- [Amobea Sisters](https://www.youtube.com/c/AmoebaSisters) - YouTube Videos for Revision
+- [Mr C Biology - Biology Notes](https://www.mrcbiology.com/) - Website with Notes
+- [The Conical Flask](https://www.theconicalflask.ie/biology/) - Website with Slideshows, Notes, Task Sheets and Quizzes
+- [Leaving Certificate Biology](http://leavingbio.net/) - Website with Notes
+- [The Physics Teacher](http://www.thephysicsteacher.ie/leavingcertbiologyhome.html) - Website with Notes
+- [KayScience](https://www.kayscience.com/) - Website and App with Videos and Quizzes
+- [Quizizz: Fifth Year Biology](https://quizizz.com/collection/5e78a0adb76b3d001b933f57) - Website with Quizzes
+- [Quizizz: Sixth Year Biology](https://quizizz.com/collection/5e78cd35d09a7e001b6d411f) - Website with Quizzes
+- [Mandatory Practicals PDF](https://drive.google.com/file/d/1-kZJGofIF_fgtbLLgysl2bXfHJsUGoIR/view) - PDF with Info on Mandatory Practicals
+- [Biology Notes PDF](https://drive.google.com/file/d/1vCKGg53VXN_6mu1CWFtk6oz-Kx5f7wJG/view) - PDF with Notes
+- [Drive Folder of Short Exam Questions](https://drive.google.com/drive/folders/1T-OjSWuZksZHZ6GoPKHa7YyjJHPH-NFG) - A Google Drive folder full of Short Exam Questions
+- [Experiment Questions PDF](https://drive.google.com/file/d/1y_wheYdWDrZucSNYjsZfFJx0adBDgxXF/view) - PDF with Questions on Mandatory Practicals
+- [Introduction to macromolecules - Khan Academy](https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecues/a/introduction-to-macromolecules) - Article with Info on Macromolecules
+- [Amoeba Weebly Site](http://questjoey.weebly.com/index.html) - Website with Info on Amoeba

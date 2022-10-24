@@ -9,6 +9,15 @@
 <!-- [General Study Methods & Tips](study.md)-->
 - [Resources](resources.md)
 
+---
+
+- [Chemistry](other-subjects/chemistry.md)
+- [Geography](other-subjects/geography.md)
+- [History](other-subjects/history.md)
+- [Irish (Gaeilge)](other-subjects/irish.md)
+- [Japanese](other-subjects/japanese.md)
+- [Physics](other-subjects/physics.md)
+
 # Homework
 
 | Subject | What to Do | Due | Done? |
@@ -44,3 +53,31 @@
 | French State Exam Typical Date | From Paul | 14/06/2023 or 16/06/2023 | |
 
 ![Timetable](timetable.jpeg)
+
+# Resources
+- [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
+- [Studyclix](https://studyclix.ie/) - Website with Notes, Previous Exam Questions, Quizzes, Past Papers and Marking Schemes
+- [Leaving Cert Help Notes](https://leaving-cert-helpnotes.blogspot.com/2014/10/links-to-all-my-posts-by-subject.html) - Website with Notes
+- [StudyJams](https://studyjams.scholastic.com/) - Website with Notes
+- [Sparknotes](https://www.sparknotes.com/) - Website with Notes
+- [Studynotes.ie](https://studynotes.ie/feed/leaving-certificate) - Website with Notes
+- [625points](https://www.625points.com/) - Website with Notes, Tips and Exam Predictions
+- [Scoilnet](https://www.scoilnet.ie/) - Website with Notes
+- [Examinations.ie](https://www.examinations.ie/) - Official Website with Past Exam Papers and Marking Schemes
+- [Quizizz](https://quizizz.com/) - Website with Quizzes
+- [MyCJFallon](https://my.cjfallon.ie/dashboard/student-resources) - Website with CJFallon Ebooks
+- [AbpiSchools](https://www.abpischools.org.uk/) - Website with Notes and Worksheets
+- [Learning Apps](https://learningapps.org/) - Website with Notes and Other Materials
+- [TheLeavingCert.com](https://www.theleavingcert.com/) - Leaving Cert Papers, News, Notes, Tips and Resources
+- [Curriculum Online](https://www.curriculumonline.ie) - Find Info about Every Leaving Cert Subject
+
+## Language Resources (Irish, French, German, Spanish, Japanese Etc.)
+- [Duolingo](https://www.duolingo.com/) - A gamified approach to learning a language (App and Website)
+- [Drops](https://languagedrops.com/) - Learn Vocabulary of a langauge (App and Website)
+- [Scripts](https://languagedrops.com/scripts) - Learn to write in different Writing Systems (App & Website) (Good for Japanese, Mandarin and Russian)
+- [Clozemaster](https://www.clozemaster.com/) - Learn Language in Context (App and Website)
+- [Ling Learn](https://ling-app.com/) - Learn a Language (App and Website)
+- [MetaLanguage](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzgwNDgwMjQ4Mjc4OTc0OTY0MzUQCBgDEhkKEzgwNDgwMjQ4Mjc4OTc0OTY0MzUQCBgDGAA%3D:S:ANO1ljIqyhA&gsr=CjuKAzgKGQoTODA0ODAyNDgyNzg5NzQ5NjQzNRAIGAMSGQoTODA0ODAyNDgyNzg5NzQ5NjQzNRAIGAMYAA%3D%3D:S:ANO1ljKKjXw&hl=en_US&gl=US) - Company that makes Android apps to help learn a language
+- Jernung: [Android](https://play.google.com/store/apps/dev?id=7157988227995618199&hl=en_US&gl=US), [Apple](https://apps.apple.com/us/developer/jernung/id1268225656#see-all/i-phonei-pad-apps) - Company that makes games to help learn and write in a language
+- [Mango Languages](https://mangolanguages.com/) - Website and App to Learn Languages
+- [Toucan](https://jointoucan.com/) - Browser Extenion that helps build vocabulary by replacing words on websites with words in your target language

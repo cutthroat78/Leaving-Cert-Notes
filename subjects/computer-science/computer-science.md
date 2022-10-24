@@ -23,3 +23,6 @@
 - [Hexadecimal](data/hexadecimal.md) - [Video](https://youtu.be/pg-HEGBpCQk)
 - [ASCII](data/ASCII.md)
 - [Unicode](data/unicode.md)
+
+## Other Resources
+- [The LCCS Guide](https://www.lccs.ie/) - Website with Notes
