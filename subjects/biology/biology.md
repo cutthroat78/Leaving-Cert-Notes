@@ -16,7 +16,7 @@ The Study of Living Organisms
 - [The Cell](unit-2/the-cell.md) - [Slides](slides/unit-2/the-cell.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/the-cell.md)
 - [Respiration](unit-2/respiration.md) - [Slides](slides/unit-2/respiration.pdf)
 - [Cell Division](unit-2/cell-division.md) - [Slides](slides/unit-2/cell-division.pdf)
-- [Genetic Inheritance](unit-2/genetic-inheritance.md)<!-- [Slides](slides/unit-2/genetic-inheritance.pdf)-->
+- [Genetic Inheritance](unit-2/genetic-inheritance.md)<!-- [Slides](slides/unit-2/genetic-inheritance.pdf)--> - [Terms & Definitions](terms-and-definitions/unit-2/genetics.md)
 - [DNA and RNA](unit-2/dna.md) - [Slides](slides/unit-2/dna.pdf)
 
 ## Unit 3 - The Organism - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
