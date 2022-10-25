@@ -12,12 +12,12 @@
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 ## [Python Programming](python.md)
 - [Python Reference Guide](python-reference-guide.pdf) - This will given to you to use during the computer science exam, kinda like the log tables books
+- [Log Tables](../maths/log-tables.pdf)
 - [Numerical Python](python/numerical-python.md)
 - [Variables](python/variables.md)
 - [volumesphere.py](python/volumesphere.py.md)
 - [Inputs](python/inputs.md)
 - [Boolean Logic](python/boolean-logic.md)
-- [Conditionals]()
 ## Data
 - [Binary](data/binary.md) - [Video](https://youtu.be/VLflTjd3lWA)
 - [Hexadecimal](data/hexadecimal.md) - [Video](https://youtu.be/pg-HEGBpCQk)
