@@ -66,9 +66,9 @@ Uses: Fund long-term expansion/growth (new store, warehouse, long-term machinery
 
 | | |
 |-|-|
-| Reserves | Profits left over from trading are reinvested; retained earnings|
-| Government grant | Money provided to a business for a purpose; doesn't have to be repaid|
-| Long-term loan debenture | Repayable in regular monthly installments plus interest to a bank; interest repaid regularly, and initial principle repaid at the end|
+| Reserves | Profits left over from trading are reinvested; retained earnings |
+| Government grant | Money provided to a business for a purpose; doesn't have to be repaid |
+| Long-term loan debenture | Repayable in regular monthly installments plus interest to a bank; interest repaid regularly, and initial principle repaid at the end |
 | Share capital | Share capital raised by selling shares to investors (shareholders) |
 
 ## Factors when choosing between different sources of finance
@@ -94,6 +94,6 @@ Uses: Fund long-term expansion/growth (new store, warehouse, long-term machinery
 
 | Similarities | Differences |
 |-|-|
-| | |
-| | |
-| | |
+| Both need to plan for the future to help control their finances: cash flow forecast (business), budget (household) | Businesses have access to more sources of finance (e.g. debentures, trade credit) |
+| Both need to keep accurate records and file important documents; this helps when applying for a bank loan | Businesses usually deal with much greater amounts of money (e.g. debentures) |
+| Both need to match the purpose of the finance to the length of the finance (e.g. bank overdraft for short-term needs) | Businesses need to include additional expenditure (e.g. VAT and PRSI, which they collect and give to Revenue) |

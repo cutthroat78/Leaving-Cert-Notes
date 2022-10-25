@@ -5,7 +5,7 @@
 - [2. Consumer Conflict](unit-1/02-consumer-conflict.md) - [Slides](slides/unit-1/02-consumer-conflict.pdf)
 - [3. Industrial Relations](unit-1/03-industrial-relations.md) - [Slides](slides/unit-1/03-industrial-relations.pdf)
 ## Unit 2: Enterprise - [Padlet](https://padlet.com/grahammaher/iru76064p0y8kw6c)
-- [4. Enterprise]() - [Slides]() - Not Covered Yet
+- [4. Enterprise](unit-2/04-enterprise.md) - [Slides](slides/unit-2/04-enterprise.pdf)
 ## Unit 3: Managing 1 - [Padlet](https://padlet.com/grahammaher/a4nstr4e7hl3bfvn)
 - [5. Introduction to Management](unit-3/05-introduction-to-management.md) - [Slides](slides/unit-3/05-introduction-to-management.pdf)
 - [6. Management Skills: Leading and Motivating](unit-3/06-management-skills-leading-and-motivating.md) - [Slides](slides/unit-3/06-management-skills-leading-and-motivating.pdf)

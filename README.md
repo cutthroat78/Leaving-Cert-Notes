@@ -147,25 +147,25 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 | Chapter/Section                             | Covering/Covered | Slides | Anki |
 |---------------------------------------------|------------------|--------|------|
+| 4                                           | Yes              | Yes    | No |
 | 5                                           | Yes              | Yes    | No |
 | 6                                           | Yes              | Yes    | No |
 | 7                                           | Yes              | Yes    | No |
-| 15                                          | Yes              | Yes    | No |
-| 16                                          | Yes              | Yes    | No |
-| 17                                          | Yes              | Yes    | No |
-| 20                                          | Yes              | Yes    | No |
-| 21                                          | Yes              | Yes    | No |
-| 22                                          | Yes              | Yes    | No |
-| 23                                          | Yes              | Yes    | No |
-| 4                                           | No               | No     | No |
 | 8                                           | No               | No     | No |
 | 9                                           | No               | No     | No |
 | 10                                          | No               | No     | No |
 | 12                                          | No               | No     | No |
-| 13                                          | Yes              | No     | No |
+| 13                                          | Yes              | Yes    | No |
 | 14                                          | No               | No     | No |
+| 15                                          | Yes              | Yes    | No |
+| 16                                          | Yes              | Yes    | No |
+| 17                                          | Yes              | Yes    | No |
 | 18                                          | No               | No     | No |
 | 19                                          | No               | No     | No |
+| 20                                          | Yes              | Yes    | No |
+| 21                                          | Yes              | Yes    | No |
+| 22                                          | Yes              | Yes    | No |
+| 23                                          | Yes              | Yes    | No |
 | 24                                          | No               | No     | No |
 | 26                                          | No               | No     | No |
 | 27                                          | No               | No     | No |
