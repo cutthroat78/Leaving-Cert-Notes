@@ -79,7 +79,7 @@ Uses: Fund long-term expansion/growth (new store, warehouse, long-term machinery
 | Purpose | Match source to use (e.g. overdraft for short-term use, such as paying bills) |
 | Amount | Reserves maybe be limited in size: a long-term loan may be needed |
 | Control | <u>Equity captial</u> (Sale of shares for money (investment)) gives voting rights away: could lose control of an important asset which is used as collateral |
-| Collateral | Assets mat be required to access a loan (assets used as security) |
+| Collateral | Assets may be required to access a loan (assets used as security) |
 
 ## What affects the ability to qualify for a loan?
 
