@@ -9,6 +9,7 @@
 - [Logic Gates](logic-gates.md) - [Video](https://youtu.be/zPuHvcl_u8g)
 - [Von Neumann Architecture](computer-arch.md)
 - [Electronics](electronics.md)
+- [The Central Processing Unit (CPU)](cpu.md)
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 ## [Python Programming](python.md)
 - [Python Reference Guide](python-reference-guide.pdf) - This will given to you to use during the computer science exam, kinda like the log tables books
