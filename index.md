@@ -43,8 +43,6 @@
 | Event | Information | Date | Time |
 |-|-|-|-|
 | Day off (for Teacher training) | | Monday, 07/11/2022 | |
-| Last Day to Pay for Maths Exam Papers | | Friday, 28/10/2022 | |
-| Halloween Mid-Term Starts | From Paul | Friday, 28/10/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
 | Kayaking | | ??/04/2023 | |
