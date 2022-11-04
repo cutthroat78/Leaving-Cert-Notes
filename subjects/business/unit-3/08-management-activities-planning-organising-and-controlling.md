@@ -1,4 +1,4 @@
-# Management Activities: Planning, Organising and Controlling
+# 8. Management Activities: Planning, Organising and Controlling
 
 ## Learning Outcomes from this chapter
 

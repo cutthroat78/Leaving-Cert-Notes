@@ -1,4 +1,4 @@
-# Global Business
+# 26. Global Business
 
 ## Learning Outcomes from this chapter
 

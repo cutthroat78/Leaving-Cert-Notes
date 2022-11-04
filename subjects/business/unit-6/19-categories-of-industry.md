@@ -1,4 +1,4 @@
-# Categories of Industry
+# 19. Categories of Industry
 
 ## Learning Outcomes from this chapter
 

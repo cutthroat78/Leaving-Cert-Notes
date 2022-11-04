@@ -1,4 +1,4 @@
-# Business Expansion
+# 18. Business Expansion
 
 ## Learning Outcomes from this chapter
 

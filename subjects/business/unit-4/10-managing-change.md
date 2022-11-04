@@ -1,4 +1,4 @@
-# Managing Change
+# 10. Managing Change
 
 ## Learning Outcomes from this chapter
 

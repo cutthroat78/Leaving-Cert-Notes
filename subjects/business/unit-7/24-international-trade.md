@@ -1,4 +1,4 @@
-# International Trade
+# 24. International Trade
 
 ## Learning Outcomes from this chapter
 

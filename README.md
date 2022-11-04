@@ -115,34 +115,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Paragraphs/Sentences of info use cloze cards, if info doesn't really work with cloze try making the info into a question and answer and turn the question and answer into a standard card
 - Use image occlusion cards to learn diagrams
 
-# Note Conversion
-## Business Notes
-
-| Chapter/Section                             | Covering/Covered | Slides | Anki |
-|---------------------------------------------|------------------|--------|------|
-| 4                                           | Yes              | Yes    | No |
-| 5                                           | Yes              | Yes    | No |
-| 6                                           | Yes              | Yes    | No |
-| 7                                           | Yes              | Yes    | No |
-| 8                                           | No               | No     | No |
-| 9                                           | No               | No     | No |
-| 10                                          | No               | No     | No |
-| 12                                          | No               | No     | No |
-| 13                                          | Yes              | Yes    | No |
-| 14                                          | No               | No     | No |
-| 15                                          | Yes              | Yes    | No |
-| 16                                          | Yes              | Yes    | No |
-| 17                                          | Yes              | Yes    | No |
-| 18                                          | No               | No     | No |
-| 19                                          | No               | No     | No |
-| 20                                          | Yes              | Yes    | No |
-| 21                                          | Yes              | Yes    | No |
-| 22                                          | Yes              | Yes    | No |
-| 23                                          | Yes              | Yes    | No |
-| 24                                          | No               | No     | No |
-| 26                                          | No               | No     | No |
-| 27                                          | No               | No     | No |
-
 # Biology Resources To Go Through
 
 - [https://youtu.be/YhMeJ65JnyE](https://youtu.be/YhMeJ65JnyE)

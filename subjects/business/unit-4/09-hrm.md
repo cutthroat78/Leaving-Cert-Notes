@@ -1,4 +1,4 @@
-# Human Resources Management
+# 9. Human Resources Management
 
 ## Learning Outcomes from this chapter
 
