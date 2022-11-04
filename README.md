@@ -116,33 +116,6 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 - Use image occlusion cards to learn diagrams
 
 # Note Conversion
-## Biology Notes
-
-| Chapter/Section                                | Paper Slides     | Slides | Anki |
-|------------------------------------------------|------------------|--------|-|
-| Unit 1 | | |
-| A search for a definition of life              | Yes              | Yes    | Yes |
-| Scientific method                              | Yes              | Yes    | Yes |
-| nutrition                                      | Yes              | Yes    | No |
-| Ecology, Ecosystem, Biosphere, Habitat & Niche | Yes              | Yes    | No |
-| Environmental Factors                          | Yes              | Yes    | No |
-| Nutrient Recycling                             | Yes              | Yes    | No |
-| Pyramid of Numbers                             | Yes              | Yes    | No |
-| Unit 2 | | |
-| the cell                                       | Yes              | Yes    | No |
-| Respiration                                    | Yes              | Yes    | No |
-| Cell Division                                  | Yes              | Yes    | No |
-| Genetic Inheritance                            | No               | No     | No |
-| Unit 3 | | |
-| skeletal system                                | Yes              | Yes    | No |
-| the digestive system                           | Yes              | Yes    | No |
-| enzymes and metabolism                         | Yes              | Yes    | No |
-| Movement of Molecules Across Cell Membranes    | Yes              | Yes    | No |
-| Excretion                                      | Yes              | Yes    | No |
-| The Breathing System                           | Yes              | Yes    | No |
-| Homeostasis                                    | Yes              | Yes    | No |
-| the circulatory system                         | Yes              | Yes    | No |
-
 ## Business Notes
 
 | Chapter/Section                             | Covering/Covered | Slides | Anki |
