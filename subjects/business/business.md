@@ -14,7 +14,7 @@
 ## Unit 4: Managing 2 - [Padlet](https://padlet.com/grahammaher/57e1gvfiqilh7bzk)
 - [9. Human Resource Management](unit-4/09-hrm.md) - [Slides](slides/unit-4/09-hrm.pdf)
 - [10. Managing Change](unit-4/10-managing-change.md) - [Slides](slides/unit-4/10-managing-change.pdf)
-- [11. Insurance and Taxation](unit-4/11-insurance-and-taxation.md) - [Slides](slides/unit-4/11-insurance-and-taxation.pdf) - In Anki
+- [11. Insurance and Taxation](unit-4/11-insurance-and-taxation.md) - [Slides](slides/unit-4/11-taxation-and-insurance.pdf) - In Anki
 - [12. Monitoring a Business: Ratio Analysis](unit-4/12-monitoring-a-business-ratio-analysis.md) - [Slides](slides/unit-4/12-monitoring-a-business-ratio-analysis.pdf)
 - [13. Finance](unit-4/13-finance.md) - [Slides](slides/unit-4/13-finance.pdf)
 ## Unit 5: Business in Action - [Padlet](https://padlet.com/grahammaher/14bammgf2vqeho4s)
