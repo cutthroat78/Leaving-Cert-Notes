@@ -37,7 +37,7 @@
 > Who amongst us is able to number the end of grasses  
 > To number the losses of each seeding head?  
 
->                                          I’ll walk out once  
+>                        I’ll walk out once  
 > Barefoot under the moon to know the field  
 > Through the soles of my feet to hear  
 > The myriad leaf lives green and singing  
