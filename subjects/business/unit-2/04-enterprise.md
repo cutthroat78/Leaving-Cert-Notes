@@ -13,25 +13,31 @@
 
 ## Enterprise
 
-Enterprise involves being innovative and creative, while taking on the personal and financial risk of failure, to achieve one’s goal.
+Enterprise involves being <!--c1-->innovative and creative<!--}-->, while taking on the personal and financial <!--c2-->risk of failure<!--}-->, to achieve one’s goal.
 
-Enterprise is not just about businesses. It happens when a person comes up with something new and tries to make it a success, aware of the downside that it may fail. Examples of enterprise:
-- **Personal enterprise:** Taking a course to develop a skill
-- **Business enterprise:** Launching new products (e.g. VR glasses)
-- **Government enterprise:** Connecting the LUAS lines
-- **Social enterprise:** Organising the Colour Dash for cancer support
+Enterprise is not just about <!--c3-->businesses<!--}-->. It happens when a person comes up with <!--c4-->something new<!--}--> and tries to make it a <!--c5-->success<!--}-->, aware of the <!--c6-->downside that it may fail<!--}-->. 
+
+Examples of enterprise:
+- <!--c7-->**Personal<!--}--> enterprise:** Taking a course to <!--c8-->develop a skill<!--}-->
+- <!--c9-->**Business<!--}--> enterprise:** Launching new <!--c10-->products<!--}--> (e.g. VR glasses)
+- <!--c11-->**Government<!--}--> enterprise:** <!--c12-->Connecting<!--}--> the LUAS lines
+- <!--c13-->**Social<!--}--> enterprise:** Organising the <!--c14-->Colour Dash for cancer support<!--}-->
+
+<!--card-->
 
 ## Why might someone become an entrepreneur?
 
 | | |
 |-|-|
-| To earn more income | Not limited to a set wage or salary, keep all profits |
+| To earn <!--c1-->more income<!--}--> | Not limited to a set wage or salary, keep all profits |
 | To be their own boss | Responsibility/control over decisions, self-directed |
 | Limited career path | Open up new opportunities for growth and self-development |
 | Spots a gap in the market | Capitalise on an opportunity they think could work |
 | Government support | Grants/training at Local Enterprise Offices (LEOs) |
 | They were made redundant | Job no longer needed/no vacancies |
 | Inspired by entrepreneurs | Energised/encouraged by success stories of others |
+
+<!--card-->
 
 ## Entrepreneurial skills and characteristics
 
@@ -47,6 +53,8 @@ Enterprise is not just about businesses. It happens when a person comes up with 
 | Risk-taking | Take on personal and financial risk of decisions |
 | Determined | Confident in their ability to persevere, resilient |
 
+<!--card-->
+
 ## Types of intrapreneurship
 
 | | |
@@ -55,6 +63,8 @@ Enterprise is not just about businesses. It happens when a person comes up with 
 | Reduce costs | Streamline production, reduce waste/costs of production |
 | Increase revenue | Change sales channels, times, places, target markets |
 | New processes | Improve work methods/procedures |
+
+<!--card-->
 
 ## Methods to promote intrapreneurship
 
