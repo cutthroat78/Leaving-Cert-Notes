@@ -26,3 +26,18 @@ An algorithm in computer science is:
 
 - Algorithms can be badly designed
 - Removes the human component
+
+---
+
+## What is an algorithm?
+
+> "A step-by-step procedure for solving a problem or accomplishing some end especially by a computer" - Merriam-Webster
+
+Because of their speed and reliability computers are an ideal tool for running algorithms
+
+Algorithms are:
+- a sequence of instructions
+- a way of capturing intelligence
+- general solutions to problems
+- expressed in a variety of different ways
+- characterised by input, processing and output
