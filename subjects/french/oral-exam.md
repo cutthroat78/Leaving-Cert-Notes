@@ -120,3 +120,18 @@ This script is a template/guide/example, modify it for it to work best for you i
 | Je vais travailler | |
 | Je vais aider ma mère / mon père a la maison | |
 | Je vais me reposer | |
+
+## Pasttimes
+
+| French | English |
+|-|-|
+| écouter de la musique | listening to music |
+| la lecture | reading |
+| les ordinateurs | computers |
+| les jeux-vidéos | video games |
+| Aller au cinéma | going to the cinema |
+| faire la promenade | walking |
+| le programming | programming |
+| J'aime _ | I like |
+| Mon passe-temps préféré c'est _ | My favourite pastimes is/are _ |
+| se reposer | to rest |

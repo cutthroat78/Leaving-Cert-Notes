@@ -57,7 +57,7 @@
 - [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
 ### Derek Mahon
 ### Elizabeth Bishop
-### Paula Meehan
+### [Paula Meehan](poetry/paula-meehan/paula-meehan.pdf)
 - [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
 - [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
 - [Buying Winkles](poetry/paula-meehan/winkles.md)
