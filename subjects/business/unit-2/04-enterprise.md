@@ -13,15 +13,15 @@
 
 ## Enterprise
 
-Enterprise involves being <!--c1-->innovative and creative<!--}-->, while taking on the personal and financial <!--c2-->risk of failure<!--}-->, to achieve one’s goal.
+Enterprise involves being <!--c1::-->innovative and creative<!--}-->, while taking on the personal and financial <!--c2::-->risk of failure<!--}-->, to achieve one’s goal.
 
-Enterprise is not just about <!--c3-->businesses<!--}-->. It happens when a person comes up with <!--c4-->something new<!--}--> and tries to make it a <!--c5-->success<!--}-->, aware of the <!--c6-->downside that it may fail<!--}-->. 
+Enterprise is not just about <!--c3::-->businesses<!--}-->. It happens when a person comes up with <!--c4::-->something new<!--}--> and tries to make it a <!--c5::-->success<!--}-->, aware of the <!--c6::-->downside that it may fail<!--}-->. 
 
 Examples of enterprise:
-- <!--c7-->**Personal<!--}--> enterprise:** Taking a course to <!--c8-->develop a skill<!--}-->
-- <!--c9-->**Business<!--}--> enterprise:** Launching new <!--c10-->products<!--}--> (e.g. VR glasses)
-- <!--c11-->**Government<!--}--> enterprise:** <!--c12-->Connecting<!--}--> the LUAS lines
-- <!--c13-->**Social<!--}--> enterprise:** Organising the <!--c14-->Colour Dash for cancer support<!--}-->
+- <!--c7::-->**Personal<!--}--> enterprise:** Taking a course to <!--c8::-->develop a skill<!--}-->
+- <!--c9::-->**Business<!--}--> enterprise:** Launching new <!--c10::-->products<!--}--> (e.g. VR glasses)
+- <!--c11::-->**Government<!--}--> enterprise:** <!--c12::-->Connecting<!--}--> the LUAS lines
+- <!--c13::-->**Social<!--}--> enterprise:** Organising the <!--c14::-->Colour Dash for cancer support<!--}-->
 
 <!--card-->
 
@@ -29,7 +29,7 @@ Examples of enterprise:
 
 | | |
 |-|-|
-| To earn <!--c1-->more income<!--}--> | Not limited to a set wage or salary, keep all profits |
+| To earn <!--c1::-->more income<!--}--> | Not limited to a set wage or salary, keep all profits |
 | To be their own boss | Responsibility/control over decisions, self-directed |
 | Limited career path | Open up new opportunities for growth and self-development |
 | Spots a gap in the market | Capitalise on an opportunity they think could work |

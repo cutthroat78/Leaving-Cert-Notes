@@ -119,10 +119,78 @@ They indicate that all the different species evolved from a **common ancestor** 
 
 <!--card-->
 
+![]()
+
 # Genetic Engineering
 
 **Genetic engineering is the process where humans artificially change the genetic make-up of an individual.**
 
 It is now possible to take **genes** from one species and **insert them** into other species. 
 
-For example, the gene that makes the **human growth hormone** can be extracted from **human DNA** and inserted into the **DNA** of a **bacterium**. The bacterium then divides
+For example, the gene that makes the **human growth hormone** can be extracted from **human DNA** and inserted into the **DNA** of a **bacterium**. The bacterium then divides and produces many copies of itself - each with the human gene for making the human growth hormone.
+
+The bacteria then produce the growth hormone which can easily be collected.
+
+<!--card-->
+
+There are **5 stages** in the process of genetic engineering:
+
+1. Isolation
+2. Cutting
+3. Insertion
+4. Transformation
+5. Expression
+
+## 1. Isolation
+
+Both human DNA and plasmid DNA are removed.
+
+## 2. Cutting
+
+Both human DNA and plasmid DNA are cut by the same enzyme.
+
+## 3. Insertion
+
+The target gene is placed into the plasmid DNA. (Ligation)
+
+## 4. Transformation
+
+The bacteria take in the 'new' plasmid. Bacteria reproduce producing many cells with the plasmid and target gene.
+
+## 5. Expression
+
+The bacteria make the protein required - the human growth hormone
+
+<!--card-->
+
+![]()
+
+## 1. Isolation
+
+_
+
+<!--card-->
+
+## 2. Cutting
+
+_
+
+<!--card-->
+
+## 3. Insertion
+
+_
+
+<!--card-->
+
+## 4. Transformation
+
+_
+
+<!--card-->
+
+## 5. Expression
+
+_
+
+<!--card-->
