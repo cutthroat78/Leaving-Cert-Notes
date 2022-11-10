@@ -22,7 +22,8 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | English | 2 A4 pages or 800 word limit for both options 1. Write a personal essay in which you reflect on words which have had a positive impact on your life 2. Write a talk to be delivered to Fifth and Sixth Years during Careers Week at your school in which you encourage your peers to follow their hearts rather than their heads when it comes to choosing their future careers | Monday, 24/10/2022 | Yes |
-| Biology | DNA Booklet: 1. 2015 q 10b - Pg 26 2. 2013 q 6 - Pg 29 | Thursday, 10/11/2022 | No |
+| Biology | DNA Booklet: 1. 2015 q 10b - Pg 26 2. 2013 q 6 - Pg 29 | Thursday, 10/11/2022 | Yes |
+| Biology | Do worksheet got in class | No |
 
 # Timetable
 
