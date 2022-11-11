@@ -39,3 +39,41 @@ It is marked out of 30
 | Bien sûr | Of course |
 | D'un cóté | On one hand |
 | De l'autre côté | On the other hand | 
+
+---
+
+## The body (le corps) - Developing you argument
+
+| French | English |
+|-|-|
+| Tout d'abord | First of all |
+| Il va sans dire que | It goes with out saying |
+| Sans aucun doute | without a doubt |
+| Je pense que | I think that |
+| Je crois que- | I believe that |
+| À mon avis- | In my opinion |
+| Quant à moi- | As for me |
+|  |  |
+|  |  |
+| Il me semble que | It seems to me that |
+| Il devient de plus en plus difficile de- |  | 
+| Incroyable mais vrai - | Incredible but true |
+| Malheureusement | Unfortunately |
+| Puis/ensuite | Then |
+| Cependant | However |
+| Pourtant | Nevertheless |
+| Par contre | On the other hand |
+|  |  |
+|  |  |
+| C'est vraiment lamentable | It's a real pity |
+|  |  |
+| De nos jours | Nowadays |
+| Prenons le cas de | Let's take the case of |
+| Il est évident que | It's clear that |
+| Appelons un chat un chat | Let's call a spade a spade |
+| Grace à | Thanks to |
+| N'oublions pas que | Don't forget that |
+|  |  |
+|  |  |
+|  |  |
+| C'est une situation très inquiétante/désespérante | It's a very worryinh/deseperate situation |
