@@ -24,7 +24,7 @@
 | 3. Tenor Recitative | No | Recitative Secco | T | / | C |
 | 4. Tenor Aria | No | Dal Segno ABB' | T | G minor | 6/8 |
 | 5. Bass Recitative | No | Recitative Accompagnato | B | E flat - F minor | C |
-| 6. Bass Aria | No | ABA' | B | C minor | C |
+| 6. Bass Aria | No | ABA | B | C minor | C |
 | 7. Chorale | Yes | AABC | SATB | G minor | C |
 
 - This piece is elaborate, ornate and melismatic
@@ -51,3 +51,31 @@
 - Small orchestra
 - Use of timpani
 - Full SATB (Soprano, Alto, Tenor, Bass) choir, All male
+
+## Bach Background
+
+- Germany, born 1685
+- Church organist
+- Mainly church + organ music
+- Word painting in his chorales
+- Rich contrapuntal (Having two or more independent but harmonically related sounds together) textures
+- Melodies played on different instruments
+- Modulation to related keys
+
+## Instruments
+
+- Violins
+- Violas
+- Violencello / Double Bass
+- Continuo - Cello + Organ
+- Oboe
+- Horn
+- Flauto traverse - Flute
+
+## Movement 1
+
+- G minor
+- Ritornello form - reoccuring orchestral section heard 7 times (different each time)
+- Chaconne - ground bass theme heard Continuo and upper instruments and voices (oboe, descending chromatic)
+- Chromatic/austinato theme in ground bass - descending Chromatic line, ends in perfect cadence
+- Grief motif - syncopated rhythm, woodwind strings
