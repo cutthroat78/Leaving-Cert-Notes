@@ -1,11 +1,21 @@
 # Opinion Question
-An opinion question is where we give our opinion on a subject
+<!--Include example of an opinion question with an English translation-->
+An opinion question is where we give our opinion on a subject.
 
-You are required to write between 70 and 90 words in french
+In you leaving certificate Higher level French exam, you will be required to write at least one opinion piece. The first will be based on the comprehensions that you will have read.
+
+You are required to write between 70 and 90 words in french.
 
 It is marked out of 30
 - 15 marks for structures and grammar
 - 15 marks for language
+
+More Details:
+
+- Written production (100 marks), candidates will be required to answer TWO questions.
+- Question 1 is still compulsory and uses the reading comprehensions as a springboard
+- Candidates will now have three options. Answer (a) or (b) or (c) - 60 marks (90 words approx.)
+- Candidates answer one other question from questions 2, 3, 4, 5 and 6 - 40 marks (75 words approx. For these you will either, write another opinion piece or a journal entry
 
 ## Structing an opinion piece
 1. Start by giving your opinion
@@ -41,6 +51,8 @@ It is marked out of 30
 | De l'autre côté | On the other hand | 
 
 ---
+
+
 
 ## The body (le corps) - Developing you argument
 

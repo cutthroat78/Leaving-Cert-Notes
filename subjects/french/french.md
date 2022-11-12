@@ -1,7 +1,6 @@
 # French (Français)
 
-- [How to write a Diary Entry](how-to-write-a-diary-entry.md)
-    - [Diary Entry Examples](diary-entry.md)
+- [Diary/Journal Entry](diary-entry.md)
 - [The Opinion Question](opinion-question.md)
 - [Oral Exam](oral-exam.md)
 

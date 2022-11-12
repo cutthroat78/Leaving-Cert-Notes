@@ -18,7 +18,7 @@ This script is a template/guide/example, modify it for it to work best for you i
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
 | Présentez-vous | | Comme vous voyez, j'ai les cheveux _ et les yeux _. Je suis de _ (grande, petite, moyenne) taille. (*skip to talking about personality here*) | |
-| Déscrivez votre personnalité | | Je suis de caractère _. [Pick three adjectives from this [table](vocabulary/personality-adjectives.md)] (*talk about family now*)| |
+| Déscrivez votre personnalité | | Je suis de caractère _. [Pick three adjectives from this [table](vocabulary/personality-adjectives.md) (*talk about family now*)| |
 
 ### My Family
 
