@@ -119,7 +119,7 @@ They indicate that all the different species evolved from a **common ancestor** 
 
 <!--card-->
 
-![]()
+![1](variation/1.jpg)
 
 # Genetic Engineering
 
@@ -135,62 +135,74 @@ The bacteria then produce the growth hormone which can easily be collected.
 
 There are **5 stages** in the process of genetic engineering:
 
-1. Isolation
-2. Cutting
-3. Insertion
-4. Transformation
-5. Expression
-
-## 1. Isolation
-
-Both human DNA and plasmid DNA are removed.
-
-## 2. Cutting
-
-Both human DNA and plasmid DNA are cut by the same enzyme.
-
-## 3. Insertion
-
-The target gene is placed into the plasmid DNA. (Ligation)
-
-## 4. Transformation
-
-The bacteria take in the 'new' plasmid. Bacteria reproduce producing many cells with the plasmid and target gene.
-
-## 5. Expression
-
-The bacteria make the protein required - the human growth hormone
+1. Isolation: Both human DNA and plasmid DNA are removed.
+2. Cutting: Both human DNA and plasmid DNA are cut by the same enzyme.
+3. Insertion: The target gene is placed into the plasmid DNA. (Ligation)
+4. Transformation: The bacteria take in the 'new' plasmid. Bacteria reproduce producing many cells with the plasmid and target gene.
+5. Expression: The bacteria make the protein required - the human growth hormone
 
 <!--card-->
 
-![]()
+![2](variation/2.jpg)
 
 ## 1. Isolation
 
-_
+Isolation means **removing** both the **human DNA** containing the **target gene** from its chromosome and the **plasmid DNA** from the bacterium. A plasmid is a loop of DNA found in a bacterium, in addition to its larger loop of DNA
 
 <!--card-->
 
 ## 2. Cutting
 
-_
+Enzymes called **restriction enzymes** cut DNA at **specific** places. 
+
+The human DNA and the plasmid DNA are cut with the <u>same</u> restriction enzyme. This ensures that the **'sticky ends'** of the human piece of DNA (containing the target gene) can **match by base-pairing** to the opened sticky ends of the plasmid DNA.
+
+The **restriction enzyme** used cuts the **human DNA** at the base sequence **GAACGC** as shown below
+
+![3](variation/3.jpg) This cutting results in cut ends (sticky ends) with the base sequences TTGC and AACG as shown below
+
+![4](variation/4.jpg)
+
+The **same restriction enzyme** is then used to cut the plasmid DNA. It cuts it when the same base sequence, **GAACGC**, appears. This leaves sticky ends which match (in a complementary way) with the human DNA
+
+![5](variation/5.jpg)
 
 <!--card-->
 
 ## 3. Insertion
 
-_
+The cut plasmids are mixed with the human DNA segments (contains the target gene).
+
+This allows the cut ends to **combine** by base pairing. The joining of the different DNA pieces is called **ligation**. **DNA ligase** (an enzyme) is used to join the two pieces of DNA together and form a strong bond between them.
 
 <!--card-->
 
 ## 4. Transformation
 
-_
+Transformation is the **uptake of DNA into a cell**. When the bacteria and the **recombinant plasmids** are mixed, **some bacteria** take in the re-structured plasmid. These bacteria are **identified** and are **grown** on nutrient agar. Many bacteria with the human gene are produced.
+
+The plasmid is called a **cloning vector** as it carries the foreign DNA into the bacterial host cell.
+
+The bacteria cells then multiply, thereby cloning the human gene.
 
 <!--card-->
 
 ## 5. Expression
 
-_
+**Expression** means getting the genetically engineered organism (the bacteria) to **produce** the required product (human growth hormone in this case). The product is then **isolated** and **purified**.
 
 <!--card-->
+
+## Applications of Genetic Engineering
+
+### 1. Plants
+
+Genes from bacteria can be added to the DNA of **crop plants** (e.g. wheat, barley). The crop plants are then **resistant** to certain **herbicides** (weed-killers). A herbicide will kill the weeds but will not affect the crop plants.
+
+### 2. Animals
+
+**Haemophiliacs** cannot produce a certain blood-clotting factor **(factor VIII)**. The human gene for producing factor VIII can be inserted into **sheep DNA**. The **transgenic sheep** then produce factor VIII in their milk. This can be harvested and given to **haemophiliacs** to treat their condition.
+
+#### 3. Micro-organisms
+
+The human gene for producing **human growth hormone** can be inserted into bacteria **plasmids**, so that the bacteria can then produce human growth hormone *(as described in this Chapter)*.
