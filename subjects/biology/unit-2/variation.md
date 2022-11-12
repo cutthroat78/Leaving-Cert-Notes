@@ -34,7 +34,7 @@ However, <u>cells can repair damage to DNA, so the number of mutations that surv
 
 **Most mutations produce no change in the phenotype** (<u>physical appearance</u>) of the individual. This is because the dominant allele on the second homologous chromosome can still produce the original protein 
 
-A very small number of mutations may be beneficial in that they accidentally produce an even better protein than the original one (see [Evolution](#evolution)<!--make go to evolution of this document-->). However, **most mutations are harmful**
+A very small number of mutations may be beneficial in that they accidentally produce an even better protein than the original one (see [Evolution](#evolution)). However, **most mutations are harmful**
 
 Mutations in **somatic** (body) cells may not be harmful. This is because the gene that is altered may not be active in the particular body cell affected. A **<u>somatic mutation</u> is harmful if it causes an increase in the rate of mitosis as this could cause a tumour (cancer) to result**
 
