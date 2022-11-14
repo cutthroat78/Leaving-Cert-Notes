@@ -46,8 +46,8 @@ Examples of enterprise:
 | <!--c1::-->Innovative<!--}--> | Create new <!--c2::-->ideas/processes<!--}--> |
 | <!--c3::-->Human relations<!--}--> | Communicate, <!--c4::-->energise<!--}-->, network, <!--c5::-->negotiate well<!--}--> |
 | <!--c6::-->Flexible<!--}--> | Respond to <!--c7::-->changing environments<!--}-->, <!--c8::-->adapt when necessary<!--}--> |
-| Reality perception | See things as they are, not how they would like them to be |
-| Proactive | Use initiative in advance, don’t wait to react |
+| <!--c9::-->Reality perception<!--}--> | See things <!--c10::-->as they are<!--}-->, not how they would <!--c11::-->like them to be<!--}--> |
+| <!--c12::-->Proactive<!--}--> | Use <!--c13::-->initiative<!--}--> in advance, don’t wait to <!--c14::-->react<!--}--> |
 | Future-focused | Anticipate future trends, spot gaps in the market |
 | Decisive | Act quickly and decisively under pressure |
 | Risk-taking | Take on personal and financial risk of decisions |
