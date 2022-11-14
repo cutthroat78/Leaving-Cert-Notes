@@ -48,10 +48,10 @@ Examples of enterprise:
 | <!--c6::-->Flexible<!--}--> | Respond to <!--c7::-->changing environments<!--}-->, <!--c8::-->adapt when necessary<!--}--> |
 | <!--c9::-->Reality perception<!--}--> | See things <!--c10::-->as they are<!--}-->, not how they would <!--c11::-->like them to be<!--}--> |
 | <!--c12::-->Proactive<!--}--> | Use <!--c13::-->initiative<!--}--> in advance, don’t wait to <!--c14::-->react<!--}--> |
-| Future-focused | Anticipate future trends, spot gaps in the market |
-| Decisive | Act quickly and decisively under pressure |
-| Risk-taking | Take on personal and financial risk of decisions |
-| Determined | Confident in their ability to persevere, resilient |
+| <!--c15::-->Future-focused<!--}--> | Anticipate <!--c16::-->future trends<!--}-->, spot <!--c17::-->gaps in the market<!--}--> |
+| <!--c18::-->Decisive<!--}--> | Act <!--c19::-->quickly and decisively<!--}--> under pressure |
+| <!--c20::-->Risk-taking<!--}--> | Take on <!--c21::-->personal and financial<!--}--> <!--c22::-->risk of decisions<!--}--> |
+| <!--c23::-->Determined<!--}--> | Confident in their <!--c24::-->ability to persevere<!--}-->, resilient |
 
 <!--card-->
 
@@ -59,10 +59,10 @@ Examples of enterprise:
 
 | | |
 |-|-|
-| New product idea | Create new products, add new USPs to existing ones |
-| Reduce costs | Streamline production, reduce waste/costs of production |
-| Increase revenue | Change sales channels, times, places, target markets |
-| New processes | Improve work methods/procedures |
+| <!--c1::-->New product idea<!--}--> | Create new products, add new USPs to existing ones |
+| <!--c_::-->Reduce costs<!--}--> | Streamline production, reduce waste/costs of production |
+| <!--c_::-->Increase revenue<!--}--> | Change sales channels, times, places, target markets |
+| <!--c_::-->New processes<!--}--> | Improve work methods/procedures |
 
 <!--card-->
 

@@ -69,6 +69,7 @@
 - [Learning Apps](https://learningapps.org/) - Website with Notes and Other Materials
 - [TheLeavingCert.com](https://www.theleavingcert.com/) - Leaving Cert Papers, News, Notes, Tips and Resources
 - [Curriculum Online](https://www.curriculumonline.ie) - Find Info about Every Leaving Cert Subject
+- [Edco Online Learning Hub](https://edco.ie/onlinestudyhub) - Website with study tips and links to "Useful Websites"
 
 ## Language Resources (Irish, French, German, Spanish, Japanese Etc.)
 - [Duolingo](https://www.duolingo.com/) - A gamified approach to learning a language (App and Website)
