@@ -1,5 +1,14 @@
 # General Vision and Viewpoint in Room
 
+1. [Central Characters](#central-characters)
+2. [Ending](#ending)
+3. [Opening](#opening)
+4. [Relationships](#relationships)
+
+## Central Characters
+
+## Ending
+
 ## Opening
 
-The novel opens with a simple statement 'Today I'm five', immediately followed by the young narrator's observation that he was 'four last night going to sleep in wardrobe'
+## Relationships
