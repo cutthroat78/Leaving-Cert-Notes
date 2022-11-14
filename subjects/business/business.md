@@ -35,7 +35,7 @@
 - [24. International Trade](unit-7/24-international-trade.md) - [Slides](slides/unit-7/24-international-trade.pdf)
 - [25. The European Union](unit-7/25-eu.md) - [Slides](slides/unit-7/25-eu.pdf) - In Anki
 - [26. Global Business](unit-7/26-global-business.md) - [Slides](slides/unit-7/26-global-business.pdf)
-- [27. The Applied Business Question (ABQ)]() - [Slides]()
+<!-- [27. The Applied Business Question (ABQ)]() - [Slides]()-->
 
 ## Other Resources
 - [SGC Business Notes](https://sgcbusiness.com/business-notes/) - Website with Notes 

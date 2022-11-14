@@ -29,13 +29,13 @@ Examples of enterprise:
 
 | | |
 |-|-|
-| To earn <!--c1::-->more income<!--}--> | Not limited to a set wage or salary, keep all profits |
-| To be their own boss | Responsibility/control over decisions, self-directed |
-| Limited career path | Open up new opportunities for growth and self-development |
-| Spots a gap in the market | Capitalise on an opportunity they think could work |
-| Government support | Grants/training at Local Enterprise Offices (LEOs) |
-| They were made redundant | Job no longer needed/no vacancies |
-| Inspired by entrepreneurs | Energised/encouraged by success stories of others |
+| To earn <!--c1::-->more income<!--}--> | Not limited to a set <!--c2::-->wage or salary<!--}-->, keep all <!--c3::-->profits<!--}--> |
+| To be their own <!--c4::-->boss<!--}--> | Responsibility/control over <!--c5::-->decisions<!--}-->, <!--c6::-->self-directed<!--}--> |
+| Limited <!--c7::-->career path<!--}--> | Open up new <!--c8::-->opportunities<!--}--> for <!--c9::-->growth<!--}--> and <!--c9::-->self-development<!--}--> |
+| Spots a <!--c10::-->gap in the market<!--}--> | <!--c11::-->Capitalise<!--}--> on an opportunity they think could work |
+| <!--c12::-->Government<!--}--> support | Grants/training at <!--c13::-->Local Enterprise Offices (LEOs)<!--}--> |
+| They were made <!--c14::-->redundant<!--}--> | Job <!--c15::-->no longer needed<!--}-->/<!--c16::-->no vacancies<!--}--> |
+| Inspired by <!--c17::-->entrepreneurs<!--}--> | <!--c18::-->Energised/encouraged<!--}--> by success <!--c19::-->stories of others<!--}--> |
 
 <!--card-->
 
@@ -43,9 +43,9 @@ Examples of enterprise:
 
 | | |
 |-|-|
-| Innovative | Create new ideas/processes |
-| Human relations | Communicate, energise, network, negotiate well |
-| Flexible | Respond to changing environments, adapt when necessary |
+| <!--c1::-->Innovative<!--}--> | Create new <!--c2::-->ideas/processes<!--}--> |
+| <!--c3::-->Human relations<!--}--> | Communicate, <!--c4::-->energise<!--}-->, network, <!--c5::-->negotiate well<!--}--> |
+| <!--c6::-->Flexible<!--}--> | Respond to <!--c7::-->changing environments<!--}-->, <!--c8::-->adapt when necessary<!--}--> |
 | Reality perception | See things as they are, not how they would like them to be |
 | Proactive | Use initiative in advance, don’t wait to react |
 | Future-focused | Anticipate future trends, spot gaps in the market |

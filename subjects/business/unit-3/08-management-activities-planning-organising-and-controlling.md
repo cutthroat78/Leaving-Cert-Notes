@@ -27,6 +27,55 @@
 
 <!--card-->
 
+## Strengths
+- Products
+- USP
+- Good reputation
+- High quality
+
+<!--card-->
+
+## Weakness
+- Production issues
+- Delivery delays
+- Customer feedback
+- Staff issues
+
+<!--card-->
+
+## Opportunities
+- New market
+- Legislation
+- New supplier
+
+<!--card-->
+
+## Threats
+- Taxation
+- New competitors
+- Weather
+
+<!--card-->
+
+## Steps in planning
+
+1. Analyse current situation
+- Carry out a SWOT analysis
+2. Set goals/objectives
+- Time related
+- What we hope to achieve
+- How we will achieve it
+3. Create a plan
+- Labour (manpower) plan
+- Resources planned out
+- Strategic, tactical, contingency, operational
+4. Create the timeline
+- When does each goal/objective need to be achieved
+5. Review the plan
+- Check progress regularly
+
+<!--card-->
+
 ## Types of planning
 
 | | |
