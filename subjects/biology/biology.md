@@ -37,6 +37,7 @@ The Study of Living Organisms
 - [Heart Dissection](experiments/heart-dissection.md)
 - [Breathing Rate](experiments/breathing-rate.md)
 - [Ecology Module](experiments/ecology-module.md)
+- [Isolate DNA from a plant tissue](experiments/isolating-dna.md)
 #### Food Tests
 - [A Test for Starch](experiments/food-tests/starch.md)
 - [A Test for Protein](experiments/food-tests/protein.md)
@@ -70,7 +71,7 @@ The Study of Living Organisms
 | Fermentation of Alcohol                                                                   | Yes           | Yes                 | No      | No | 
 | Heart Dissection                                                                          | Yes           | Yes                 | No      | No |
 | Exercise and the Breathing Rate                                                           | Yes           | Yes                 | No      | No |
-| Isolating DNA                                                                             | No            | No                  | No      | No |
+| Isolating DNA                                                                             | Yes           | Yes                 | No      | No |
 | Leaf Yeast Growth                                                                         | No            | No                  | No      | No |
 | Exercise and the Pulse Rate                                                               | No            | No                  | No      | No |
 | Photosynthesis                                                                            | No            | No                  | No      | No |
