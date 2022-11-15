@@ -3,7 +3,6 @@
 - [Breakdown of Marks](exam-structure/breakdown-of-marks.md)
 - [Marking Criteria](exam-structure/marking-criteria.md)
 - [Modes of Comparison (2023)](exam-structure/modes-of-comparison.md)
-- [Comprehension: Question B](exam-structure/comprehension-question-b.md)
 ## Composition
 - [Steps to Write a Diary Entry](composition/steps-to-write-a-diary-entry.md)
 - [Essay Structure](composition/essay-structure.md)
@@ -15,6 +14,7 @@
 ## Texts
 ### Casablanca
 - [Full Movie](https://ia601809.us.archive.org/1/items/casablanca-1942_202012/Casablanca%20%281942%29.mp4)
+- [General Vision and Viewpoint](texts/casablanca/general-vision-and-viewpoint.md)
 ### A Doll's House
 - [Full Play](texts/dolls-house/dolls-house.pdf)
 - [Study Guide](texts/dolls-house/study-guide.md) - [Study Guide (from Teacher) (Including Questions)](texts/dolls-house/study-guide/a-dolls-house-study-guide.pdf) 
@@ -31,12 +31,12 @@
 
 ### Room
 - [Full Book](texts/room/room.pdf)
-- [General Vision and Viewpoint in Room](texts/room/general-vision-and-viewpoint.md)
 - [Cultural Context](texts/room/cultural-context.md)
 - [Study Guide](texts/room/study-guide.md) - [Study Guide (from Teacher) (Including Questions)](texts/room/study-guide.pdf)
 - [Key Moments](texts/room/key-moments.md)
 - [Control and Violence in Room](texts/room/control-and-violence.md)
 - [Relationships in Room](texts/room/relationships.md)
+- [General Vision and Viewpoint](texts/room/general-vision-and-viewpoint.md)
 <details>
 <summary>Full Movie Version - Warning: The exam will be on the book, not the movie</summary>
 <ul>
