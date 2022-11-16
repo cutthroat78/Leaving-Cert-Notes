@@ -79,3 +79,16 @@
 - Chaconne - ground bass theme heard Continuo and upper instruments and voices (oboe, descending chromatic)
 - Chromatic/austinato theme in ground bass - descending Chromatic line, ends in perfect cadence
 - Grief motif - syncopated rhythm, woodwind strings
+- Joy motif three note idea, bar 17, continuo, canon
+- Polyphonic (mainly)
+- Bass voice doubles continuo, bar 61
+- Voices center innitively from bar 90
+- Full of perfect cadences
+- Mirror canon on oboes
+- Longest movement
+- Pedal bar 68-71
+- Sequences used
+- Trills used
+- Mainly syllabic
+- Opening - homophonic
+- Horn doubles Soprano line but not printed on score
