@@ -11,6 +11,11 @@
 - [Layout of a Formal Letter](composition/letters/layout-of-a-formal-letter.md)
 - [Layout of a Informal Letter](composition/letters/layout-of-an-informal-letter.md)
 - [Open Letter](composition/letters/open-letter.md)
+## Comparative
+### General Vision and Viewpoint
+- [A Doll's House]()
+- [Room]()
+- [Casablanca]()
 ## Texts
 ### Casablanca
 - [Full Movie](https://ia601809.us.archive.org/1/items/casablanca-1942_202012/Casablanca%20%281942%29.mp4)
