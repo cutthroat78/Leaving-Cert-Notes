@@ -3,9 +3,9 @@
   - [Performing Practical](performing-practical.md)
 
 - [Elements of Music](elements-of-music.md)
-  - [Dynamics](elements-of-music/dynamics.md)
-  - [Beat/Pulse/Tempo](elements-of-music/beat.md)
-  - [Melody](elements-of-music/melody.md)
+  - [Dynamics](elements-of-music.md#dynamics)
+  - [Beat/Pulse/Tempo](elements-of-music.md#beatpulsetempo)
+  - [Melody](elements-of-music.md#melody)
 ## [The Orchestra](orchestra.md)
 - [String Family](orchestra/strings.md)
 - [Woodwind Family](orchestra/woodwind.md)

@@ -2,7 +2,7 @@
 1. Instrumentation
     - The instruments used to play the piece
 2. [Dynamics](#dynamics) 
-3. [Beat/Pulse/Tempo](#beats/pulse/tempo)
+3. [Beat/Pulse/Tempo](#beatspulsetempo)
 4. Pitch
     - How high or low a specific sound is
 5. Mood/Expression

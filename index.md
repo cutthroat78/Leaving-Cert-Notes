@@ -44,7 +44,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Test | | 14/11/2022 | |
 | Christmas Exams Start | This date is subject to change | 12/12/2022 | |
 | Christmas French Oral Exams Begin | From Paul | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
