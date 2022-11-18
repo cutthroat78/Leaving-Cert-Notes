@@ -9,11 +9,11 @@ Instruments of the string family:
 - Cello
 - Double Bass
 
-![Untitled](String%20Fam%20cb8b9/Untitled.png)
+![1](strings/1.png)
 
 ## Violin
 
-![Untitled](String%20Fam%20cb8b9/Untitled%201.png)
+![2](strings/2.png)
 
 Smallest and highest in pitch out of all the instruments in the string family
 
@@ -27,7 +27,7 @@ When played, the violin is held under the chin and the fingers on the left hand 
 
 ## Viola
 
-![Untitled](String%20Fam%20cb8b9/Untitled%202.png)
+![3](strings/3.png)
 
 - Slightly larger than the violin
 - Deeper in pitch and tone
@@ -38,7 +38,7 @@ When played, the violin is held under the chin and the fingers on the left hand 
 
 ## Cello
 
-![Untitled](String%20Fam%20cb8b9/Untitled%203.png)
+![4](strings/4.png)
 
 - One of the biggest instruments in the string family
 - Lower in tone than the viola
@@ -48,7 +48,7 @@ When played, the violin is held under the chin and the fingers on the left hand 
 
 ## Double Bass
 
-![Untitled](String%20Fam%20cb8b9/Untitled%204.png)
+![5](strings/5.png)
 
 - Largest instrument out of the string family
 - Has the deepest pitch

@@ -28,6 +28,6 @@ Tuned:
 - Timpani
 - Xylophone
 
-![1](brass/1.png)
+![1](percussion/1.png)
 
 [https://youtu.be/LaXgEHBYT3c](https://youtu.be/LaXgEHBYT3c)

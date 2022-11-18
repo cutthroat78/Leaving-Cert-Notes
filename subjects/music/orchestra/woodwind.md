@@ -25,11 +25,11 @@ Instruments of the woodwind family:
 - Bassoon
 - Saxophone
 
-![Untitled](Woodwind%20F%2090ea8/Untitled.png)
+![1](woodwind/1.png)
 
 ## Flute
 
-![Untitled](Woodwind%20F%2090ea8/Untitled%201.png)
+![2](woodwind/2.png)
 
 - Sounds very bright and cheerful playing high notes
 - Orchestras will have of least two
@@ -38,7 +38,7 @@ Instruments of the woodwind family:
 
 ## Piccolo
 
-![Untitled](Woodwind%20F%2090ea8/Untitled%202.png)
+![3](woodwind/3.png)
 
 - The piccolo is a small flute that plays on octave higher than the ordinary flute
 - Highest sounding instrument in the orchestra, often referred to as a bird call
@@ -47,7 +47,7 @@ Instruments of the woodwind family:
 
 ## Clarinet
 
-![Untitled](Woodwind%20F%2090ea8/Untitled%203.png)
+![4](woodwind/4.png)
 
 - The clarinet is a single reed instrument
 - There are various types of clarinets with each one representing a different pitch
@@ -56,7 +56,7 @@ Instruments of the woodwind family:
 
 ## Oboe
 
-![Untitled](Woodwind%20F%2090ea8/Untitled%204.png)
+![5](woodwind/5.png)
 
 - Double reeded instrument
 - Fast passages can be played
@@ -67,7 +67,7 @@ Instruments of the woodwind family:
 
 ## Bassoon
 
-![Untitled](Woodwind%20F%2090ea8/Untitled%205.png)
+![6](woodwind/6.png)
 
 - Double reeded instruments
 - Plays bass lines
@@ -77,7 +77,7 @@ Instruments of the woodwind family:
 
 ## Saxophone
 
-![Untitled](Woodwind%20F%2090ea8/Untitled%206.png)
+![7](woodwind/7.png)
 
 - Made of brass but uses a reed to produce sound therefore it is classed as a woodwind instrument
 - Various types of saxophones varying in pitch from high to low

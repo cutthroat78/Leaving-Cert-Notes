@@ -19,11 +19,11 @@ Instruments of the brass family:
 - Trombone
 - Tuba
 
-![Untitled](Brass%20Fami%207fdf9/Untitled.png)
+![1](brass/1.png)
 
 ## Trumpet
 
-![Untitled](Brass%20Fami%207fdf9/Untitled%201.png)
+![2](brass/2.png)
 
 - Plays the highest notes in the orchestral brass section
 
@@ -31,7 +31,7 @@ Instruments of the brass family:
 
 ## French Horn
 
-![Untitled](Brass%20Fami%207fdf9/Untitled%202.png)
+![3](brass/3.png)
 
 - Lower range than trumpet and trombone but higher than the tuba
 
@@ -41,7 +41,7 @@ Instruments of the brass family:
 
 ## Tuba
 
-![Untitled](Brass%20Fami%207fdf9/Untitled%203.png)
+![4](brass/4.png)
 
 - Biggest off all the brass instruments
 - Usually plays bass but it is capable of playing higher notes
@@ -50,7 +50,7 @@ Instruments of the brass family:
 
 ## Trombone
 
-![Untitled](Brass%20Fami%207fdf9/Untitled%204.png)
+![5](brass/5.png)
 
 - Only one in the orchestral brass family which has no valves
 - Use slide mechanism
