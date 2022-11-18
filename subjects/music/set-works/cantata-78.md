@@ -1,5 +1,7 @@
 # Cantata 78 "Jesu Der Du Meine Seele” by Johann Sebastian Bach (1685 - 1750)
 
+Composed on 10 September 1724
+
 "Jesu Der Du Meine Seele" = Lord by thy cross and passion
 
 ## Features of Baroque music include
@@ -27,7 +29,7 @@
 | 6. Bass Aria | No | ABA | B | C minor | C |
 | 7. Chorale | Yes | AABC | SATB | G minor | C |
 
-- This piece is elaborate, ornate and melismatic
+- This piece is elaborate, ornate and melismatic (Singing many notes to one syllable of text)
 
 | Term | Definition |
 |-|-|
@@ -92,3 +94,18 @@
 - Mainly syllabic
 - Opening - homophonic
 - Horn doubles Soprano line but not printed on score
+
+## Movement 7 - Chorale
+- Verse 12 of original hymn
+- G minor
+- SATB choir: 
+  - Soprano - doubled by flute, oboe, horn and violin
+  - Alto - double by oboe and violin
+  - Tenor - doubled by viola
+  - Bass - doubled by continuo (cello + organ)
+- 4 four bar phrases AABC
+- Homophonic
+- Repeated notes
+- Cadence every 2 bars (Imperfect + perfect)
+- Tierce de picardy - ends in a major chord
+- Contains all features of the piece

@@ -17,10 +17,10 @@ The role of the conductor is to ensure all players play together to create the c
 They also encourages the orchestra to play with the same kind of feeling
 
 ## 4 Families of the Orchestra
-- [String Family]()
-- [Woodwind Family]()
-- [Brass Family]()
-- [Percussion Family]()
+- [String Family](orchestra/strings.md)
+- [Woodwind Family](orchestra/woodwind.md)
+- [Brass Family](orchestra/brass.md)
+- [Percussion Family](orchestra/percussion.md)
 
 [https://youtu.be/EfedK-dqXWc](https://youtu.be/EfedK-dqXWc)
 

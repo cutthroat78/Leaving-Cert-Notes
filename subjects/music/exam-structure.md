@@ -10,4 +10,4 @@
 25% is 100 Marks
 (Max is 400 Marks)
 
-[Performing Practical](exam-structure/performing-practical.md)
+[Performing Practical](performing-practical.md)
