@@ -5,9 +5,9 @@
 3. [Ending](#ending)
 4. [Relationships](#relationships)
 
-(Central Characters are Rick and Ilsa)
-
 ## Central Characters
+
+(Central Characters are Rick and Ilsa)
 
 Our view of the integrity of a central character, as well as their ability to find fulfilment over the course of the text, colours our general vision and viewpoint. Rick Blaine is a self-contained, somewhat enigmatic figure at the start of the film. He owns a popular café and is well-known in the city. Captain Renault tells Major Strasser, the Third Reich representative who has recently arrived in the city, that ‘everybody comes to Rick’s and the German replies that he has already heard about Rick’s café and **‘about Mr Rick himself’**.
 

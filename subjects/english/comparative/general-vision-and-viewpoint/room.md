@@ -3,8 +3,8 @@
 1. [Central Characters](#central-characters)
   - [Ma](#ma)
   - [Jack](#jack)
-2. [Ending](#ending)
-3. [Opening](#opening)
+2. [Opening](#opening)
+3. [Ending](#ending)
 4. [Relationships](#relationships)
 
 ## Central Characters
@@ -95,42 +95,6 @@ It’s important to know how Jack will fare as he grows but the giant strides he
 
 Life may not be easy but Jack has already shown such determination and generosity of spirit that he seems as well-equipped as any child could be to overcome the social and emotional deprivation caused by his imprisonment.
 
-## Ending
-
-The novel ends on a reflective note as Ma and Jack return to Room one last time. Jack has never fully let go of his first home and, with May Day approaching, he raises the subject with Ma, asking if he can visit Room. She is surprised by the request and asks if he does not like the outside.
-
-Jack’s response: ‘Yeah. Not everything’, shows that he has not fully integrated into the world outside the tiny shed where he spent the five years of his life, and leaves us wondering if he will ever fully succeed in doing so or if he has been irreparably damaged by his experiences.
-
-At the same time, however, Jack shows how far he has come when he says that is ‘choosing for both’ he and Ma.
-
-In the ‘Dying’ section of the book, Jack did not want to leave Room, but Ma insisted, saying, ‘I’m your mother…. That means sometimes I have to choose for both of us’. Now the positions are reversed as Jack takes charge. He is growing up quickly and showing signs of the independent boy he may one day become.
-
-Ma does not want to visit Room but agrees to go when Jack makes it clear that he will only be happy if she is with him. Although she is traumatised at the thought of revisiting the scene of her imprisonment, rape and torture, Ma puts Jack’s needs before hers, and sees that he must find closure before he can move on with his life.
-
-Her selflessness is heart-warming and indicates that she will do her best for Jack at every stage of his life.
-
-Shockingly, one of the first things Jack and Ma see in the garden is the hole in the ground where Jack’s baby sister was buried after her stillbirth. The tension is palpable as Jack says his chest is ‘thump thump thumping’. Ma weeps for her lost baby and, when she reaches the door of Room, is so distressed that she vomits on the grass before summoning the courage to go in.
-
-That Ma is able to enter her former prison at all is a testament to her strength and gives us hope that she possesses the resilience to overcome the horror she has been through and may, therefore, find peace and fulfilment in the future.
-
-Jack is taken aback by how small Room is and he thinks they have come to the wrong place as ‘Nothing says anything’ to him. He has already forgotten where Plant used to be, to Ma’s surprise.
-
-However, this is a good sign. When Jack and Ma were in the Cumberland Clinic, Dr Clay praised Ma for managing to get Jack out when she did, telling her that at five, children are ‘still plastic’ and ‘probably young enough to forget…. Which will be a mercy’.
-
-Finally, Jack accepts that this place ‘was Room one time’ but he does not think it is anymore. He wonders if that is because Door is open. Courageously, Ma offers to close it for a minute but Jack refuses. He walks around, saying ‘Good-bye’ to everything, taking only the picture that Ma drew of him on his birthday while noting that he looks very small in it.
-
-Jack realises that he has outgrown Room in every way. The outside world may not be perfect, but it is better than this cramped prison. As he leaves, Jack looks back one last time, observing that Room is ‘like crater, a hole where something happened’.
-
-We are reminded of the start of the book, when he took the M&Ms from the fifth birthday cake Ma made him and pointed out the holes in the icing to Ma. At the time, she compared them to craters, explaining to Jack that craters are ‘Holes were something happened. Like a volcano or an explosion or something’.
-
-What happened in Room was horrifically violent and left its mark on Ma and Jack but there is a hope that the void it left in their lives can be filled as they heal.
-
-Jack’s birthday cake marked a significant milestone in his life, and leaving Room for the last time is even more momentous. Although he is only 5, Jack is capable of letting go of his former emotional attachment to Room and accepting that he must move forward with his life.
-
-The novel ends at such an early stage in Jack’s life that we cannot know for sure how life will turn out for him and Ma. They both have much to learn and relearn about the world, and the trauma they have endured means we cannot be wholeheartedly optimistic about their future.
-
-However, we have seen the pair endure terrible hardships and survive, against the odds. Their determination and great love for one another is the best indicator we could have that they will make the very best of what is to come.
-
 ## Opening
 
 The novel opens with a simple statement ‘Today I’m five’, immediately followed by the young narrator’s observation that he was ‘four last night going to sleep in Wardrobe’.
@@ -184,6 +148,42 @@ It is obvious that even at 5yrs of age, he needs the physical sustenance of brea
 Jack and Ma are struggling to make the best of the limited resources they have.
 
 Although Ma does her best to protect and care for Jack and the pair love each other, even Jack’s cheerful upbeat narration cannot take from the dreadful reality that a young woman and her little boy are locked in a tiny room and under the control of a menacing figure.
+
+## Ending
+
+The novel ends on a reflective note as Ma and Jack return to Room one last time. Jack has never fully let go of his first home and, with May Day approaching, he raises the subject with Ma, asking if he can visit Room. She is surprised by the request and asks if he does not like the outside.
+
+Jack’s response: ‘Yeah. Not everything’, shows that he has not fully integrated into the world outside the tiny shed where he spent the five years of his life, and leaves us wondering if he will ever fully succeed in doing so or if he has been irreparably damaged by his experiences.
+
+At the same time, however, Jack shows how far he has come when he says that is ‘choosing for both’ he and Ma.
+
+In the ‘Dying’ section of the book, Jack did not want to leave Room, but Ma insisted, saying, ‘I’m your mother…. That means sometimes I have to choose for both of us’. Now the positions are reversed as Jack takes charge. He is growing up quickly and showing signs of the independent boy he may one day become.
+
+Ma does not want to visit Room but agrees to go when Jack makes it clear that he will only be happy if she is with him. Although she is traumatised at the thought of revisiting the scene of her imprisonment, rape and torture, Ma puts Jack’s needs before hers, and sees that he must find closure before he can move on with his life.
+
+Her selflessness is heart-warming and indicates that she will do her best for Jack at every stage of his life.
+
+Shockingly, one of the first things Jack and Ma see in the garden is the hole in the ground where Jack’s baby sister was buried after her stillbirth. The tension is palpable as Jack says his chest is ‘thump thump thumping’. Ma weeps for her lost baby and, when she reaches the door of Room, is so distressed that she vomits on the grass before summoning the courage to go in.
+
+That Ma is able to enter her former prison at all is a testament to her strength and gives us hope that she possesses the resilience to overcome the horror she has been through and may, therefore, find peace and fulfilment in the future.
+
+Jack is taken aback by how small Room is and he thinks they have come to the wrong place as ‘Nothing says anything’ to him. He has already forgotten where Plant used to be, to Ma’s surprise.
+
+However, this is a good sign. When Jack and Ma were in the Cumberland Clinic, Dr Clay praised Ma for managing to get Jack out when she did, telling her that at five, children are ‘still plastic’ and ‘probably young enough to forget…. Which will be a mercy’.
+
+Finally, Jack accepts that this place ‘was Room one time’ but he does not think it is anymore. He wonders if that is because Door is open. Courageously, Ma offers to close it for a minute but Jack refuses. He walks around, saying ‘Good-bye’ to everything, taking only the picture that Ma drew of him on his birthday while noting that he looks very small in it.
+
+Jack realises that he has outgrown Room in every way. The outside world may not be perfect, but it is better than this cramped prison. As he leaves, Jack looks back one last time, observing that Room is ‘like crater, a hole where something happened’.
+
+We are reminded of the start of the book, when he took the M&Ms from the fifth birthday cake Ma made him and pointed out the holes in the icing to Ma. At the time, she compared them to craters, explaining to Jack that craters are ‘Holes were something happened. Like a volcano or an explosion or something’.
+
+What happened in Room was horrifically violent and left its mark on Ma and Jack but there is a hope that the void it left in their lives can be filled as they heal.
+
+Jack’s birthday cake marked a significant milestone in his life, and leaving Room for the last time is even more momentous. Although he is only 5, Jack is capable of letting go of his former emotional attachment to Room and accepting that he must move forward with his life.
+
+The novel ends at such an early stage in Jack’s life that we cannot know for sure how life will turn out for him and Ma. They both have much to learn and relearn about the world, and the trauma they have endured means we cannot be wholeheartedly optimistic about their future.
+
+However, we have seen the pair endure terrible hardships and survive, against the odds. Their determination and great love for one another is the best indicator we could have that they will make the very best of what is to come.
 
 ## Relationships
 
