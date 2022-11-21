@@ -1,51 +1,13 @@
 # General Vision and Viewpoint in Room
 
 1. [Central Characters](#central-characters)
-  - [Ma](#ma)
   - [Jack](#jack)
+  - [Ma](#ma)
 2. [Opening](#opening)
 3. [Ending](#ending)
 4. [Relationships](#relationships)
 
 ## Central Characters
-
-### Ma
-
-Ma is the second central character in Room, she is 26yrs old when the novel begins. We never learn her real name because she is just ‘Ma’ to Jack, the narrator.
-
-She was kidnapped by Old Nick when she was 19yrs of age and has been kept prisoner in Room for seven years, giving birth to a stillborn baby girl the year before Jack was born.
-
-Ma gains our admiration and respect from the outset, doing her best to care for Jack in incredibly difficult circumstances. She educates him, plays with him and showers him with love.
-
-Food is precious in Room, but Jack says that when they eat a tub of mandarins, he gets ‘the big bits because she prefers the little ones’. When they run low on food and there is only one bagel left, Ma only has a quarter and lets Jack believe that she is ‘not very hungry’.
-
-Her selfless devotion and strength of purpose are counterbalanced by her utter helplessness.
-
-Although Jack means everything to Ma, she knows that she cannot keep him safe forever. He will eventually grow too big to be hidden in a wardrobe at night, and Ma cannot possibly provide everything he will need as he matures. She has done well to get him to 5yrs of age in reasonably good health.
-
-Jack is unaware of her concerns but the reader is not. In the early stages of the novel,  it is hard to be optimistic about Ma and Jack’s future.
-
-Eventually Ma decides that Jack must escape Room, she knows that she may not make it but doesn’t care as long as Jack is alright: ‘You’re the one who matters, though. Just you’.
-
-The agony of her dilemma is heartbreaking. She cries so hard when telling Old Nick that her son is dead that Jack says he nearly believes that she is not pretending. Of course, the reader knows she is not acting: there is every chance that Jack will not make it or, if he does, Ma will not be saved. The odds of both surviving are low, and Ma’s bravery and self-sacrifice are truly admirable.
-
-Ma longed for freedom for 7yrs, but it proves to be less than she hoped for. In Room she was just ‘Ma’, but now she is a person in her own right again and has to behave in a way that is seen as normal by society.
-
-For example, she is still breastfeeding Jack, and is angry and upset when others find this unacceptable.
-
-She has moments where she finds Jack’s demands too much, telling him, ‘I keep messing up. I know you need me to be your ma but I’m having to remember how to be as well at the same time’.
-
-She is not the same person she was when she was kidnapped, and she cannot simply pick up the pieces of her old life.
-
-Despite all that she suffered in Room, Ma is devoted to Jack that one of the most difficult moments in her life actually occurs during a television interview that she has agreed to only so she can earn money for Jack’s college fund. When the interviewer suggests that she was selfish by not asking Old Nick to leave Jack at a hospital and give him the chance to be adopted and live a normal life, Ma is so devastated that he attempts to take her own life.
-
-It never occurred to her that she was not doing her best for Jack and that he needed more than her love. Her attempted suicide is one of the lowest points in the book and it is difficult to see how she will recover and go on to lead a happy and fulfilling life. Escape was not the end of her difficulties, but rather the start of a new set of problems.
-
-Eventually the doctors find the right balance of medication to help Ma cope and she has continuing support from Dr. Clay.
-
-She leaves rehab and moves into an independent living facility with Jack.
-
-There is no doubt that Ma, despite her incredible strength and resilience, will be forever scarred by what has happened to her, and that all that is left is a hope that she will eventually find some sort of peace.
 
 ### Jack
 
@@ -94,6 +56,44 @@ Jack learns something new every day; saying , ‘I thought all the weird things 
 It’s important to know how Jack will fare as he grows but the giant strides he takes in that short time after he gains his freedom leave us with a guardedly optimistic  view of his future.
 
 Life may not be easy but Jack has already shown such determination and generosity of spirit that he seems as well-equipped as any child could be to overcome the social and emotional deprivation caused by his imprisonment.
+
+### Ma
+
+Ma is the second central character in Room, she is 26yrs old when the novel begins. We never learn her real name because she is just ‘Ma’ to Jack, the narrator.
+
+She was kidnapped by Old Nick when she was 19yrs of age and has been kept prisoner in Room for seven years, giving birth to a stillborn baby girl the year before Jack was born.
+
+Ma gains our admiration and respect from the outset, doing her best to care for Jack in incredibly difficult circumstances. She educates him, plays with him and showers him with love.
+
+Food is precious in Room, but Jack says that when they eat a tub of mandarins, he gets ‘the big bits because she prefers the little ones’. When they run low on food and there is only one bagel left, Ma only has a quarter and lets Jack believe that she is ‘not very hungry’.
+
+Her selfless devotion and strength of purpose are counterbalanced by her utter helplessness.
+
+Although Jack means everything to Ma, she knows that she cannot keep him safe forever. He will eventually grow too big to be hidden in a wardrobe at night, and Ma cannot possibly provide everything he will need as he matures. She has done well to get him to 5yrs of age in reasonably good health.
+
+Jack is unaware of her concerns but the reader is not. In the early stages of the novel,  it is hard to be optimistic about Ma and Jack’s future.
+
+Eventually Ma decides that Jack must escape Room, she knows that she may not make it but doesn’t care as long as Jack is alright: ‘You’re the one who matters, though. Just you’.
+
+The agony of her dilemma is heartbreaking. She cries so hard when telling Old Nick that her son is dead that Jack says he nearly believes that she is not pretending. Of course, the reader knows she is not acting: there is every chance that Jack will not make it or, if he does, Ma will not be saved. The odds of both surviving are low, and Ma’s bravery and self-sacrifice are truly admirable.
+
+Ma longed for freedom for 7yrs, but it proves to be less than she hoped for. In Room she was just ‘Ma’, but now she is a person in her own right again and has to behave in a way that is seen as normal by society.
+
+For example, she is still breastfeeding Jack, and is angry and upset when others find this unacceptable.
+
+She has moments where she finds Jack’s demands too much, telling him, ‘I keep messing up. I know you need me to be your ma but I’m having to remember how to be as well at the same time’.
+
+She is not the same person she was when she was kidnapped, and she cannot simply pick up the pieces of her old life.
+
+Despite all that she suffered in Room, Ma is devoted to Jack that one of the most difficult moments in her life actually occurs during a television interview that she has agreed to only so she can earn money for Jack’s college fund. When the interviewer suggests that she was selfish by not asking Old Nick to leave Jack at a hospital and give him the chance to be adopted and live a normal life, Ma is so devastated that he attempts to take her own life.
+
+It never occurred to her that she was not doing her best for Jack and that he needed more than her love. Her attempted suicide is one of the lowest points in the book and it is difficult to see how she will recover and go on to lead a happy and fulfilling life. Escape was not the end of her difficulties, but rather the start of a new set of problems.
+
+Eventually the doctors find the right balance of medication to help Ma cope and she has continuing support from Dr. Clay.
+
+She leaves rehab and moves into an independent living facility with Jack.
+
+There is no doubt that Ma, despite her incredible strength and resilience, will be forever scarred by what has happened to her, and that all that is left is a hope that she will eventually find some sort of peace.
 
 ## Opening
 
