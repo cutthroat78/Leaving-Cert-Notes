@@ -21,11 +21,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | 2 A4 pages or 800 word limit for both options 1. Write a personal essay in which you reflect on words which have had a positive impact on your life 2. Write a talk to be delivered to Fifth and Sixth Years during Careers Week at your school in which you encourage your peers to follow their hearts rather than their heads when it comes to choosing their future careers | Monday, 24/10/2022 | Yes |
-| French | 1. Translate introduction phrases 2. Translate rest of Questions | Friday, 11/11/2022 | No |
-| Biology | HL 2011 Q13 a page 206, HL 2012 Q6 page 187, HL 2013 Q11 a page 178 | Thursday, 17/11/2022 | Yes |
-| French | Pick someone from comprehension sheet and write about what they watched on tele. Write about what you watch on tele | Thursday, 17/11/2022 | No |
-| Biology | 2018 q 4, 2012 q 10 c, 2022 q 17 a | Monday, 21/11/2022 | No |
+| Biology | Page 97 Question 1 in textbook | Tuesday, 22/11/2022 | No |
 
 # Timetable
 
