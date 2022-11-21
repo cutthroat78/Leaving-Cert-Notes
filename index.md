@@ -49,6 +49,7 @@
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |
 | French State Exam Typical Date | From Paul | 14/06/2023 or 16/06/2023 | |
+| Debs | Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | 23/08/2023 | |
 
 ![Timetable](timetable.jpeg)
 
