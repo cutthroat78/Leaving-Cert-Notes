@@ -1,11 +1,11 @@
 # Notes, Anki Decks and Resources
-- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Biology/Biology.apkg)
-- Business: [Notes](subjects/business/business.md) - [Anki Deck](https://github.com/cutthroat78/Leaving-Cert-Notes/releases/download/Business/Business.apkg)
+- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](anki/biology.apkg)
+- Business: [Notes](subjects/business/business.md) - [Anki Deck](anki/business.apkg)
 - Computer Science: [Notes](subjects/computer-science/computer-science.md)
 - English: [Notes](subjects/english/english.md)
-- French (Français): [Notes](subjects/french/french.md)
+- French (Français): [Notes](subjects/french/french.md) - [Anki Deck](anki/french.apkg)
 - Maths: [Notes](subjects/maths/maths.md)
-- Music: [Notes](subjects/music/music.md)
+- Music: [Notes](subjects/music/music.md) - [Anki Deck](anki/music.apkg)
 <!-- [Study Methods & Tips](study.md)-->
 
 ---
@@ -22,6 +22,7 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | Biology | Page 97 Question 1 in textbook | Tuesday, 22/11/2022 | No |
+| French | finish what you were doing in class | Wednesday, 23/11/2022 | No |
 
 # Timetable
 
