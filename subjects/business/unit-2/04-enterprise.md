@@ -59,10 +59,10 @@ Examples of enterprise:
 
 | | |
 |-|-|
-| <!--c1::-->New product idea<!--}--> | Create new products, add new USPs to existing ones |
-| <!--c_::-->Reduce costs<!--}--> | Streamline production, reduce waste/costs of production |
-| <!--c_::-->Increase revenue<!--}--> | Change sales channels, times, places, target markets |
-| <!--c_::-->New processes<!--}--> | Improve work methods/procedures |
+| <!--c1::-->New product idea<!--}--> | Create <!--c2::-->new products<!--}-->, add <!--c3::-->new USPs<!--}--> to existing ones |
+| <!--c4::-->Reduce costs<!--}--> | <!--c5::-->Streamline<!--}--> production, reduce <!--c6::-->waste/costs<!--}--> of production |
+| <!--c7::-->Increase revenue<!--}--> | Change <!--c8::-->sales channels<!--}-->, times, places, <!--c9::-->target markets<!--}--> |
+| <!--c10::-->New processes<!--}--> | Improve <!--c11::-->work methods/procedures<!--}--> |
 
 <!--card-->
 
@@ -70,8 +70,8 @@ Examples of enterprise:
 
 | | |
 |-|-|
-| Create a culture | Foster an environment that encourages risks/ideas |
-| Allocate resources | Fund R&D, reduce workload to facilitate time |
-| Incentivise ideas | Offer bonuses or profit-sharing for new ideas |
-| Use teamwork | Brainstorm: cross-departmental teams, shared responsibility |
-| Pay for training | Provide training to allow staff to upskill  |
+| Create a <!--c1::-->culture<!--}--> | Foster an <!--c2::-->environment<!--}--> that encourages <!--c3::-->risks/ideas<!--}--> |
+| Allocate <!--c4::-->resources<!--}--> | Fund <!--c5::-->R&D<!--}-->, reduce <!--c6::-->workload<!--}--> to facilitate time |
+| <!--c7::-->Incentivise<!--}--> ideas | Offer <!--c8::-->bonuses<!--}--> or <!--c8::-->profit-sharing<!--}--> for new ideas |
+| Use <!--c9::-->teamwork<!--}--> | Brainstorm: <!--c10::-->cross-departmental<!--}--> teams, shared <!--c11::-->responsibility<!--}--> |
+| Pay for <!--c12::-->training<!--}--> | Provide training to <!--c13::-->allow staff<!--}--> to <!--c14::-->upskill<!--}--> |

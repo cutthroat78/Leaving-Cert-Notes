@@ -112,6 +112,21 @@
 
 <!--card-->
 
+#### Chain of Command
+
+- Armed forces
+- Flows down (instructions)
+
+#### Span of control
+
+Factors affecting span of control:
+
+1. Skill of the manager
+2. Skill of the workforce
+3. Nature of the work
+
+<!--card-->
+
 ## Organisational structures – functional
 
 **Benefits:** specialisation, clear hierarchy, clear promotional path, wider span of control
