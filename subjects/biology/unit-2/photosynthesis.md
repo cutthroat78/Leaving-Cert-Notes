@@ -58,7 +58,9 @@ Checking if the equation is balanced
 
 ![]()
 
-The thylakoids contain the chlorophyll which traps the sun's energy
+- The thylakoids contain the chlorophyll which traps the sun's energy
+- Single sheet of thylakoid = Lamella
+- Stacks of lamella = Granum
 
 <!--card--> 
 
@@ -80,7 +82,7 @@ The thylakoids contain the chlorophyll which traps the sun's energy
 
 ## Photosynthesis converts
 
-light energy -> chemical energy
+Light energy -> chemical energy
 
 <!--card--> 
 
@@ -106,7 +108,7 @@ light energy -> chemical energy
 ## Water is split
 
 - Some of the trapped light energy is used to split water into oxygen gas (O<sub>2</sub>) protons (H+) and electrons (e-)
-- Summarised as 2H<sub>2</sub>O -> 4H+ and 4e- and O<sub>2</sub>
+- **Summarised as 2H<sub>2</sub>O -> 4H+ and 4e- and O<sub>2</sub>**
 
 <!--card--> 
 
