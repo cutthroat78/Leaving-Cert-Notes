@@ -21,8 +21,8 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Page 97 Question 1 in textbook | Tuesday, 22/11/2022 | Yes |
 | French | finish what you were doing in class | Wednesday, 23/11/2022 | No |
+| Biology | Page 97 Question 2 in textbook | Monday, 28/11/2022 | No |
 
 # Timetable
 

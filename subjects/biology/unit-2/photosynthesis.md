@@ -2,7 +2,7 @@
 
 Plants making their own food
 
-![]()
+![1](photosynthesis/1.png)
 
 <!--card-->
 
@@ -16,7 +16,7 @@ Plants making their own food
 
 <!--card--> 
 
-![]()
+![2](photosynthesis/2.png)
 
 Stoma is singular. Stomata is plural.
 
@@ -44,19 +44,11 @@ Word Equation: Carbon Dioxide + Water + Light -> Glucose + Oxygen
 - C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> = Glucose
 - O<sub>2</sub> = Oxygen
 
-Checking if the equation is balanced
-
-| Side 1 | Side 2 |
-|-|-|
-| 6 x C | 6 x C |
-| 18 x O | 18 x O |
-| 12 x H | 12 x H |
-
 <!--card--> 
 
 ## Ultra structure of the Chloroplast
 
-![]()
+![3](photosynthesis/3.png)
 
 - The thylakoids contain the chlorophyll which traps the sun's energy
 - Single sheet of thylakoid = Lamella
@@ -143,7 +135,7 @@ Light energy -> chemical energy
 - Plants have 2 sources of carbon dioxide one is external the other is internal
 - Plants get most of their carbon dioxide from the atmosphere this is external
 - Plants get carbon dioxide internally from their own cellular respiration
-- Sometimes artificial sources of carbon dioxide are used to stimulate growth e.g. burning gas in a green house
+- **Sometimes artificial sources of carbon dioxide are used to stimulate growth** e.g. burning gas in a green house
 
 <!--card-->
 
@@ -154,7 +146,7 @@ Light energy -> chemical energy
 
 <!--card-->
 
-![]()
+![4](photosynthesis/4.png)
 
 <!--card-->
 
@@ -186,7 +178,7 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 - Explain the role of ATP
 - Explain the production if ATP from ADP
 - Explain the role of NADP+ in trapping & transferring electrons & H ions
-- Explain the Light Stage/Dark Stage
+- Explain the Light Stage (Light Dependent)/Dark Stage (Light Independent)
 - State the two-pathway system of electron carriage
 1. Direct to chlorophyll
 2. Trapped by NADP+
@@ -195,17 +187,17 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 ### 2 Stages of Photosynthesis
 
-![]()
+![5](photosynthesis/5.png)
 
 <!--card-->
 
-#### Light Stage 
+#### Light Stage (Light Dependent) 
 
-![]()
+![6](photosynthesis/6.png)
 
-- This takes place in the grana of the chloroplast
-- It involves the very fast movement of electrons and is not controlled by enzymes
-- Light is absorbed by a range of pigment clusters found in the chloroplast (almost all colours of light are absorbed but green is normally reflected)
+- This takes place in the **grana (stacks)** of the chloroplast
+- It involves the very fast **movement** of **electrons** and **is not controlled by enzymes**
+- Light is absorbed by a range of pigment clusters found in the chloroplast (almost all colours of light are absorbed but **green is normally reflected**)
 - This light energy is transferred to the electron that has been passed to the chlorophyll
 - This chlorophyll is in the pigment cluster and is strategically placed near an electron acceptor
 - The pigment cluster absorbs as much light energy as possible and passes it to the chlorophyll which passes it to the electron
@@ -213,8 +205,17 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![]()
+![7](photosynthesis/7.png)
 
+<!--card-->
+
+- ADP = Adenosine Diphosphate
+  - 2 phosphates
+  - Low Energy Carrier
+- ATP = Adenosine Triphosphate
+  - 3 phosphates
+  - High Energy Carrier
+  
 <!--card-->
 
 **There are two different pathways involved in Light Phase**
@@ -225,9 +226,9 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 - As the electrons are passed around they lose energy
 - This energy is used to join a phosphate to ADP to form high energy ATP
 - Water is also formed in this process
-- ADP + Energy + P -> ATP + Water
-- The addition of phosphate to ADP is called **phosphorylation**
-- Because the electron travel in a cycle and returns to its original chlorophyll this process is called **Cyclic Phosphorylation**
+- **ADP + Energy + P -> ATP + Water**
+- The addition of phosphate to ADP is called **<u>phosphorylation</u>.**
+- Because **the electron travel** in a cycle and returns to its **original chlorophyll** this process is called **<u>Cyclic Phosphorylation</u>**
 
 <!--card-->
 
@@ -244,15 +245,11 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![]()
+![8](photosynthesis/8.png)
 
-<!--card-->
+![9](photosynthesis/9.png)
 
-![]()
-
-<!--card-->
-
-![]()
+![10](photosynthesis/10.png)
 
 <!--card-->
 
@@ -265,7 +262,7 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-#### Dark Stage
+#### Dark Stage (Light Independent)
 
 - This may also be called the light independent stage as it can occur in the light but does not need to use it
 - It takes place in the stroma of the chloroplast
@@ -279,11 +276,9 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![]()
+![11](photosynthesis/11.png)
 
-<!--card-->
-
-![]()
+![12](photosynthesis/12.png)
 
 <!--card-->
 
@@ -299,4 +294,4 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![]()
+![13](photosynthesis/13.png)
