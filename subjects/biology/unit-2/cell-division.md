@@ -6,8 +6,8 @@
 - Define the terms: haploid & diploid number
 - Describe the cell activities in he state of non-division: Interphase and Division (mitosis)
 - Define the term: mitosis
-• Explain the process in simple terms with some diagrams
-• Define cancer and state causes
+- Explain the process in simple terms with some diagrams
+- Define cancer and state causes
 - State the primary function of mitosis for single-celled vs multi-cell. Organisms
 - Define the term: meiosis
 - State the functions of meiosis

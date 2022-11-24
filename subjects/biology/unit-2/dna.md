@@ -126,6 +126,93 @@ What scientists discovered the shape and structure of DNA?
 
 <!--card-->
 
+## Structure of RNA
+
+**RNA** = **r**ibo**n**ucleic **a**cid
+
+- RNA also consist of four bases
+- RNA contains the base **uracil instead of thymine**
+- The bases in RNA pair up with those in a section of DNA
+- RNA is a single stranded molecule
+
+<!--card-->
+
+What are the four bases of RNA:
+
+1. Adenine (A)
+2. **Uracil (U)**
+3. Guanine (G)
+4. Cytosine (C)
+
+<!--card-->
+
+## Base pairing between DNA and RNA
+
+![10](dna/10.png)
+
+**Example:** If DNA has sequence **GCAATC** along one strand, then the RNA will have the sequence **CGUUAG**
+
+<!--card-->
+
+## Differences between DNA and RNA
+
+| DNA | RNA |
+|-|-|
+| Has the bases ATGC | Has the bases AUGC |
+| Double stranded | Single stranded |
+| Sugar = deoxyribose | Sugar = ribose |
+| Found in the nucleus | Found in nucleus, cytoplasm, ribosome |
+
+**NOTE**: DNA is also found in the mitochondria and the chloroplast (this is known as **non-nuclear DNA**)
+
+<!--card-->
+
+## Protein Synthesis (the making of protein)
+
+- Genes are used to produce different proteins. A gene is a **section of DNA** that has the code for the production of protein
+- The major steps involved in protein synthesis include:
+  1. **Transcription** = making of mRNA from DNA (occurs in **nucleus**)
+  2. **Translation** = making of protein depending on the mRNA code (occurs in the **ribosome**)
+
+<!--card-->
+
+Three types of RNA involved in production of protein:
+
+1. Messenger RNA (mRNA) 
+2. Transfer RNA (tRNA)
+3. Ribosomal RNA (rRNA)
+- Remember: all produced in the <u>nucleus!</u>
+
+Steps involved in transcription:
+
+- 1: Enzymes start to unwind the DNA double helix in the nucleus
+- 2: Complimentary RNA bases join to the exposed DNA strand to form mRNA **(transcription)**
+- 3: The enzyme **RNA polymerase** joins the RNA bases together to **form mRNA** (messenger RNA)
+
+![11](dna/11.png)
+
+<!--card-->
+
+NOTE: **Each mRNA strand has:**
+
+1. A **start** codon
+2. A series of codons represent different amino acids
+3. A **stop** codon
+
+**NOTE**: start codon and stop codon are not involved in protein production
+
+![12](dna/12.png)
+
+<!--card-->
+
+Steps involved in translation:
+
+- 4: mRNA moves from the nucleus to the cytoplasm
+- 5: rRNA (ribosomal RNA) are found in the ribosome
+- 6: **mRNA** then moves into the ribosome and forms a **weak bond** with the **rRNA** (rRNA holds the mRNA in place in ribosome)
+  - **NOTE:** ribosome is the site for protein synthesis
+- 7: _
+
 _
 
 ## Important Definitions
