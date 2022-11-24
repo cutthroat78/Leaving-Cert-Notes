@@ -59,6 +59,7 @@
 - [Conditional Verbs](vocabulary/conditional-verbs.md) <!--In Anki-->
 - [Phones](vocabulary/phones.md) <!--In Anki-->
 - [Wow Phrases](vocabulary/wow-phrases.md) <!--In Anki-->
+- [Sports](vocabulary/sports.md)
 - [Uncategorised](vocabulary/uncategorised.md) <!--In Anki-->
 
 ## Other Resources

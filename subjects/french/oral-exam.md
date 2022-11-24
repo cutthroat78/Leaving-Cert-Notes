@@ -134,4 +134,4 @@ This script is a template/guide/example, modify it for it to work best for you i
 | le programming | programming |
 | J'aime _ | I like |
 | Mon passe-temps préféré c'est _ | My favourite pastimes is/are _ |
-| se reposer | to rest |
+ se reposer | to rest |
