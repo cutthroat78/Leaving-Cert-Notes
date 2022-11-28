@@ -30,7 +30,8 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| | | | |
+| English | Exam Papers Page 14, do either 1 or 2 on General Vision and Viewpoint | None (Somwhat optional for people who were out for Maynooth Trip) | No |
+| English | Exam Papers Page 31, do question 1 or 2 on Theme or Issue | Thursday, 01/1/2022 | No |
 
 # Timetable
 
