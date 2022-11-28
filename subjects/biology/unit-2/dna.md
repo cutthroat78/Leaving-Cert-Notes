@@ -211,9 +211,68 @@ Steps involved in translation:
 - 5: rRNA (ribosomal RNA) are found in the ribosome
 - 6: **mRNA** then moves into the ribosome and forms a **weak bond** with the **rRNA** (rRNA holds the mRNA in place in ribosome)
   - **NOTE:** ribosome is the site for protein synthesis
-- 7: _
+- 7: **tRNA** (transfer RNA) is found in the cytoplasm
+  - tRNA contains an **anticodon attached to an amino acid**
+  - ![13](dna/13.png)
+  - **NOTE:** an anticodon is a sequence of three bases on tRNA
+- 8: tRNA is attracted to the mRNA in the ribosome. The anticodon on the **<u>tRNA compliments</u> the codon on <u>the mRNA</u>**
+- 9: As the tRNA attach to the mRNA in the ribosome, it also brings with it an **amino acid**
 
-_
+![14](dna/14.png)
+
+_ 10: As the tRNA continue to enter the ribosome, the **amino acids detach from the tRNA** and bond together to form a new protein
+- 11: RNA leave the ribosome without any amino acids and pull with it the mRNA strand out of the ribosome
+- 12: The process stops once it has reached the stop codon. A new protein has been produced and **becomes functional when it folds**
+
+<!--card-->
+
+### Review
+
+Functions of RNA:
+
+- **mRNA (messenger RNA)** – gets code from the DNA in nucleus/ then carries this code to the ribosome
+- **rRNA (ribosomal RNA)** – binds (or holds) the mRNA in place in the ribosome
+- **tRNA (transfer RNA)** – carries an amino acid to the ribosome/ it binds with the mRNA/ places amino acid in sequence
+- **NOTE:** If a DNA sequence in a gene is not correct, the amino acids that join together will not form the correct protein (e.g cystic fibrosis)
+
+<!--card-->
+
+## DNA Replication
+
+- When **mitosis** occurs, one cell divides into two identical daughter cells
+- DNA replication occurs so there is an **exact copy of the DNA** for mitosis to occur
+- Takes place during the **interphase** of a cell
+
+![15](dna/15.png)
+
+<!--card-->
+
+How does DNA replication occur?
+
+- Enzyme breaks the hydrogen bond between the base pairs. The double helix **unwinds**
+- Other DNA bases now enter the nucleus and join with the exposed DNA strand
+- **Two new strands of DNA** are formed that are identical to the original strand
+
+![16](dna/16.png)
+
+<!--card-->
+
+## DNA Profiling
+
+What is DNA Profiling?
+
+- It is a method of making a **unique pattern of bands** from the DNA of a person which is then used to tell the difference of that DNA from other DNA
+
+![17](dna/17.png)
+
+<!--card-->
+
+### Method of DNA profiling
+
+1. **DNA is released:**
+  - DNA is released by the breaking down of the cell
+2. **DNA is cut into fragments:**
+  - _
 
 ## Important Definitions
 

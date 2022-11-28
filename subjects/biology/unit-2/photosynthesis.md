@@ -205,9 +205,11 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![7](photosynthesis/7.png)
+**There are two different pathways involved in Light Phase**
 
-<!--card-->
+##### Electron Pathway 1
+
+![Pathway 1: Cyclic electron flow](photosynthesis/7.png)
 
 - ADP = Adenosine Diphosphate
   - 2 phosphates
@@ -216,23 +218,19 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
   - 3 phosphates
   - High Energy Carrier
   
-<!--card-->
-
-**There are two different pathways involved in Light Phase**
-
-##### Electron Pathway 1
-
 - In pathway 1 the electrons pass from the first electron acceptor to a series of other electron acceptors and **back again to the chlorophyll**
 - As the electrons are passed around they lose energy
 - This energy is used to join a phosphate to ADP to form high energy ATP
 - Water is also formed in this process
-- **ADP + Energy + P -> ATP + Water**
-- The addition of phosphate to ADP is called **<u>phosphorylation</u>.**
+- **ADP + <u>Energy</u> + P -> ATP + Water**
+- **The addition of phosphate to ADP is called <u>phosphorylation</u>**
 - Because **the electron travel** in a cycle and returns to its **original chlorophyll** this process is called **<u>Cyclic Phosphorylation</u>**
 
 <!--card-->
 
 ##### Electron Pathway 2
+
+![Pathway 2: Non-cyclic electron flow](photosynthesis/8.png)
 
 - 2 high energy electrons at a time are passed from chlorophyll to the electron acceptor and then along another series of electron acceptors
 - In this case the electrons do not return to the original chlorophyll
@@ -245,11 +243,11 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![8](photosynthesis/8.png)
-
 ![9](photosynthesis/9.png)
 
 ![10](photosynthesis/10.png)
+
+![11](photosynthesis/11.png)
 
 <!--card-->
 
@@ -276,9 +274,9 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![11](photosynthesis/11.png)
-
 ![12](photosynthesis/12.png)
+
+![13](photosynthesis/13.png)
 
 <!--card-->
 
@@ -294,4 +292,4 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 
 <!--card-->
 
-![13](photosynthesis/13.png)
+![14](photosynthesis/14.png)
