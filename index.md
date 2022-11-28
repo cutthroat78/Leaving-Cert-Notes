@@ -17,12 +17,20 @@
 - [Japanese](other-subjects/japanese.md)
 - [Physics](other-subjects/physics.md)
 
+# Christmas Exams Info
+- [Biology](christmas/biology.md)
+- [Business](christmas/business.md)
+- [Computer Science](christmas/computer-science.md)
+- [English](christmas/english.md)
+- [French](christmas/french.md)
+- [Maths](christmas/maths.md)
+- [Music](christmas/music.md)
+
 # Homework
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| French | finish what you were doing in class | Wednesday, 23/11/2022 | No |
-| Biology | Page 97 Question 2 in textbook | Monday, 28/11/2022 | No |
+| | | | |
 
 # Timetable
 
