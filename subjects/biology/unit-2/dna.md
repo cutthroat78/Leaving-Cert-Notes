@@ -272,7 +272,86 @@ What is DNA Profiling?
 1. **DNA is released:**
   - DNA is released by the breaking down of the cell
 2. **DNA is cut into fragments:**
-  - _
+  - **DNA is cut into fragments** using enzymes **(restriction enzymes)** depending on the sequence of bases
+  - The section of DNA bases cut will be of different lengths because of the different distances between the base sequences
+3. **The fragments are separated:**
+  - **Fragments of DNA are separated based on their size**
+  - They are separated by a process called **gel electrophoresis**. An electric current is passed through the gel which allows bands of small DNA fragments to be separated from bands of larger DNA fragments
+  - **NOTE:** The smaller DNA fragments move quicker through the gel
+4. **Patterns are compared:**
+  - If two different DNA samples are the same, then the two samples must have come from the same person
+
+![18](dna/18.png)
+
+<!--card-->
+
+## Applications of DNA profiles (DNA fingerprints)
+
+Solving Crimes:
+
+- If a suspects DNA profile is compared to a victims DNA profile in a crime, and they are similar, then it can be said that this person was present at the crime scene
+
+Medical (e.g maternity/ paternity tests):
+
+- DNA profiles can be used to determine whether a person is the parent of a child (e.g financial inheritance cases)
+
+![19](dna/19.png)
+
+<!--card-->
+
+## Genetic Screening
+
+- Genetic screening is **testing DNA** for the presence or absence of an **altered gene**
+- Genes can be altered by mutations
+- Altered genes do not have the correct code for the production of protein
+- **NOTE:** Genetic disorders caused by altered genes include albinism, cystic fibrosis
+
+<!--card-->
+
+Where is genetic screening used?
+
+1. **Adult screening:**
+  - Carried out on people who do not have a genetic disorder but may carry altered genes
+  - Tells them the chances if their children will have the genetic disease
+  - **Examples:** Carriers of sickle cell anaemia and cystic fibrosis
+2. **Foetal screening:**
+  - Cells can be removed from the placenta of a foetus
+  - Child can be tested for genetic disorders
+
+![20](dna/20.png)
+
+<!--card-->
+
+What Ethical issues does genetic screening bring?
+
+- Mothers may terminate a pregnancy if they find out their unborn child has a genetic disorder
+
+<!--card-->
+
+## Experiment: To isolate DNA from tissue of a plant
+
+1. Chop up a kiwi or an onion (this **increases the surface area** for the washing up liquid to act on)
+2. Add sodium **chloride (salt)** to **washing up liquid** in distilled water 
+  - **NOTE:** Washing up liquid causes the **cell and nuclear membranes** to break, which releases DNA from the cells
+  - **NOTE:** The salt causes the **DNA to clump** together
+3. Add the kiwi to the washing up liquid and salt solution
+4. Place this solution in a **water bath at 60°C for 15 minutes** (denatures the enzymes which stops the DNA being digested)
+  - **NOTE:** Should not be left more than 15 minutes as the DNA would break down
+5. Place the solution in a **water bath that is ice cold** for 5 minutes (the breakdown of DNA is slowed down)
+6. Place the solution into a blender for **3 seconds** (the **cell walls are broken down** to release DNA)
+  - **NOTE:** If left any longer than 3 seconds will break down the DNA itself
+7. Filter the solution using coffee filter paper (using normal filter paper would slow down the process)
+  - **NOTE:** The DNA and protein pass through the filter paper
+  - ![21](dna/21.png)
+8. Using a **syringe** place some of the filtered solution into a boiling tube
+9. Add **protease enzyme** which helps break down the proteins around the DNA
+10. Add **ice cold ethanol** slowly down the side of the boiling tube
+  - **NOTE:** Alcohol helps remove water from DNA which causes the DNA to float to top
+  - **NOTE:** DNA forms white threads
+  - ![22](dna/22.png)
+11. Using a glass rod, DNA should attach to it as it is twisted
+
+<!--card-->
 
 ## Important Definitions
 
@@ -282,7 +361,7 @@ What is DNA Profiling?
 | Genetic code | <u>A sequence of three bases</u> (codon or triplet) that represents a code for an amino acid |
 | Gene | <u>A section of DNA</u> that has the code for the production of protein |
 | Complementary bases | Complementary bases are when each base has a different corresponding base (or bases that match each other) |
-| Nucleotide | A nucleotide consists of a phosphate group , deoxyribose (sugar) and a nitrogen base |
+| Nucleotide | A nucleotide consists of a phosphate group, deoxyribose (sugar) and a nitrogen base |
 | Polynucleotide | A polynecleotide are many nucleotides joined together |
 | Anti codon | A sequence of three bases on the tRNA that complement three bases on the mRNA |
 | DNA profiling | DNA profiling makes a pattern of DNA bands of a person, which can be used to distinguish that DNA from other DNA |
