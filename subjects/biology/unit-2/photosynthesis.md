@@ -265,10 +265,12 @@ Carbon dioxide is then combined with the protons and the high-energy electrons a
 - This may also be called the light independent stage as it can occur in the light but does not need to use it
 - It takes place in the stroma of the chloroplast
 - It is controlled by enzymes and therefore can be affected by temperature
-- Carbon dioxide from the air enters the chloroplast where they combine with protons + electrons to form glucose
-- This needs energy and protons + electrons
-- It uses energy got from breaking down ATP into ADP + P
-- It uses hydrogen ions and electrons got from breaking down NADPH into NADP<sup>+</sup> + 2 electrons + H<sup>+</sup>
+- **Carbon dioxide from the air enters the chloroplast where they combine with protons + electrons to form glucose**
+- This needs **energy** and protons + electrons
+- It uses energy got from breaking down 
+  - ATP into ADP + P
+- It uses hydrogen ions and electrons got from breaking down 
+  - **NADPH** into NADP<sup>+</sup> + 2 electrons + H<sup>+</sup>
 - Remember the addition of electrons to anything is known as reduction
 - Carbon Dioxide is **reduced** to glucose
 
