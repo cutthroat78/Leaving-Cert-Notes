@@ -16,6 +16,7 @@
 - [Irish (Gaeilge)](other-subjects/irish.md)
 - [Japanese](other-subjects/japanese.md)
 - [Physics](other-subjects/physics.md)
+- [Phys-Chem](other-subjects/phys-chem/phys-chem.md)
 
 # Christmas Exams Info
 - [Biology](christmas/biology.md)
