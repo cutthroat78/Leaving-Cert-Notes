@@ -8,6 +8,8 @@ Link playlists from this channel here (and figure out what else to put here for 
 https://www.youtube.com/channel/UCRsoWpMiCLUwVWhgRvu-1Yg/playlists
 -->
 
+![Constructions](constructions.jpeg)
+
 ## Old (I don't recommend using these)
 - [Types of Functions](old/types-of-functions.md)
 ### Factorising
