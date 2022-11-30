@@ -1,4 +1,4 @@
-# Theme of identity in Casablanca
+ Theme of identity in Casablanca
 
 Rick Blaine is an enigmatic figure at the start of the film. Before we meet him, there are hints that Rick is important and well-known in wartime Casablanca. Captain Renault tells Major Strasser, the Third Reich representative who has recently arrived in the city, that ‘Everybody comes to Rick’s’ and the German replies that he has already heard about Rick’s café and ‘about Mr Rick himself’. The sense of intrigue increases when the action moves to the interior of the café. We hear that Rick never drinks with customers and that he is indifferent to wealth or status. A customer suggests to Carl, the head waiter, that Rick might be willing to join them at their table if he knew that he, the customer, used to run ‘the second largest banking house in Amsterdam’, but Carl assures him that Rick would not be in the least impressed.
 
