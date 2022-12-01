@@ -86,7 +86,7 @@ This script is a template/guide/example, modify it for it to work best for you i
 | Le trajet dure environ _ minutes | |
 | J'arrive à l'école a _ heures | |
 | Les cours commencent a _ heures et terminent a _ heures | |
-| Je rents chez moi a _ heures | |
+| Je rentre chez moi a _ heures | |
 | Je me répose et puis je fais mes devoirs | |
 | Je regarde la télé / je sors avec mes amis / Je joue aux jeux-vidéos | |
 | Je me couche vers _ heures | |
