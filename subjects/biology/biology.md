@@ -19,7 +19,7 @@ The Study of Living Organisms
 - [Genetic Inheritance](unit-2/genetic-inheritance.md) - [Slides](slides/unit-2/genetic-inheritance.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/genetics.md)
 - [DNA and RNA](unit-2/dna.md) - [Slides](slides/unit-2/dna.pdf)
 - [Variation and Evolution](unit-2/variation.md) - [Slides](slides/unit-2/variation.pdf)
-- [Photosynthesis](unit-2/photosynthesis.md)
+- [Photosynthesis](unit-2/photosynthesis.md) - [Slides](slides/unit-2/photosynthesis.pdf)
 
 ## Unit 3 - The Organism - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
 - [Skeletal System](unit-3/skeletal-system.md) - [Slides](slides/unit-3/skeletal-system.pdf)

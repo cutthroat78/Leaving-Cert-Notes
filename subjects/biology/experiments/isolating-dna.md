@@ -15,7 +15,7 @@
 - Syringe
 - Water bath
 - Glass rod
-- (ice cold) ethanol
+- (Ice cold) ethanol
 - Test tubes
 - Kiwi
 - Peeler
