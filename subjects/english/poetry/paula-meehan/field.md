@@ -51,22 +51,45 @@
 > In every wingbeat in every beat of time   
 
 ## Theme(s)
-- 
+- Nature
+- Loss of nature
+- Teenage/coming of age memories
+- Urbanisation
 
 ## Poetic Techniques
-- 
+- Repetition ("Where first smokes, first tokes, first gropes")
+- Sibilance ("Where first smokes, first tokes, first gropes")
+- Simile
+- Personification
+- Anaphora
 
 ## Rhyme + Structure
-- 
+- Free verse
+- 12 Stanzas
+- 39 Lines
 
 ## Tone + Mood
-- 
+- Sad
+- Sombre
+- Nostalgic
+- Pensive
+- Frustrated
+- Pissed off
 
 ## Imagery
-- 
+- Flowers
+- Plants
+- Housing Estate
+- Birds
+- Teenagers in a field
+- Cleaning house
+- Smoking
 
 ## Symbolism
-- 
+- Loss of nature due to chemicals
+- Capitalism - brand names
 
 ## Quotes
-- 
+- "Where first smokes, first tokes, first gropes"
+- "I might possess it or it possess me"
+- "The magpies sound like flying castanets"

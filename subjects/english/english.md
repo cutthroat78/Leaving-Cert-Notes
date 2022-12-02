@@ -55,7 +55,6 @@
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
 - [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
-#### Elizabeth Bishop
 #### [Paula Meehan](poetry/paula-meehan/paula-meehan.pdf)
 - [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
 - [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
@@ -63,6 +62,7 @@
 - [The Exact Moment I Became a Poet](poetry/paula-meehan/exact-moment.md)
 - [Them Ducks Died for Ireland](poetry/paula-meehan/ducks.md)
 - [Death of a Field](poetry/paula-meehan/field.md)
+#### Elizabeth Bishop
 #### Derek Mahon
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->

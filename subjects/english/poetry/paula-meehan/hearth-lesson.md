@@ -14,7 +14,7 @@
 - Personification
 - Pun
 - Allusion
-- enjambment
+- Enjambment
 
 ## Rhyme Structure
 - 35 lines
