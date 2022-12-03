@@ -53,6 +53,7 @@
 | Event | Information | Date | Time |
 |-|-|-|-|
 | Biology Photosynthesis Test | | 05/12/2022 | |
+| Music Musescore Test | | 06/12/2022 | |
 | French Oral Christmas Exam | From Paul | 07/12/2022 | 09:00 |
 | Half Day | From Paul | Friday, 08/12/2022 | |
 | French Listening Christmas Exam | | Friday, 09/12/2022 | 09:50 |
