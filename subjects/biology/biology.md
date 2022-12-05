@@ -39,6 +39,7 @@ The Study of Living Organisms
 - [Breathing Rate](experiments/breathing-rate.md)
 - [Ecology Module](experiments/ecology-module.md)
 - [Isolate DNA from a plant tissue](experiments/isolating-dna.md)
+- [Photosynthesis](experiments/photosynthesis.md)
 #### Food Tests
 - [A Test for Starch](experiments/food-tests/starch.md)
 - [A Test for Protein](experiments/food-tests/protein.md)
@@ -75,7 +76,7 @@ The Study of Living Organisms
 | Isolating DNA                                                                             | Yes           | Yes                 | No      | No |
 | Leaf Yeast Growth                                                                         | No            | No                  | No      | No |
 | Exercise and the Pulse Rate                                                               | No            | No                  | No      | No |
-| Photosynthesis                                                                            | No            | No                  | No      | No |
+| Photosynthesis                                                                            | Yes           | No                  | No      | No |
 | TS of a Dicot Stem                                                                        | No            | No                  | No      | No |
 | IAA as a Growth Regulator                                                                 | No            | No                  | No      | No |
 | Germination                                                                               | No            | No                  | No      | No |
