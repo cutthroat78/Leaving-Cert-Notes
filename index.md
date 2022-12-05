@@ -47,9 +47,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | Exam Papers Page 14, do either 1 or 2 on General Vision and Viewpoint | None (Somewhat optional for people who were out for Maynooth Trip) | No |
-| English | Exam Papers Page 31, do question 1 or 2 on Theme or Issue | Thursday, 01/12/2022 | No |
-| Biology | OL 2022 Q 14 b, OL 2021 Q 17 b, HL 2022 Q 14 a + b | Thursday, 01/12/2022 | No |
+| Biology | Finish Photosynthesis Experiment Write-Up | Tuesday, 06/12/2022 | No |
 
 # Timetable
 
