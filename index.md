@@ -27,6 +27,22 @@
 - [Maths](christmas/maths.md)
 - [Music](christmas/music.md)
 
+# Christmas Exams 2022 Timetable
+
+| Date | Time | Exam | Location |
+|-|-|-|-|
+| 14/12/2022 (Wednesday) | 09:00 - 11:50 | English Paper 1 | Room 22 |
+| 15/12/2022 (Thursday) | 09:00 - 12:00 | Maths | Room 22 |
+| 15/12/2022 (Thursday) | 12:30 - 15:30 | French / Metal Work | Room 22 |
+| 16/12/2022 (Friday) | 09:00 - 12:00 | Irish / Computer Science | Irish (Room 22) & Computer Science (Room 20) |
+| 16/12/2022 (Friday) | 12:30 - 15:30 | Business (3 Hours for Higher Level, 2 Hours 30 Minutes for Ordinary Level) | Room 22 |
+| 19/12/2022 (Monday) | 09:00 - 12:00 | Geography / Music / Phys-Chem / Art | Music (Room 9) & Rest (Room 22)
+| 19/12/2022 (Monday) | 12:30 - 14:30 | English Paper 2 | Room 22 |
+| 20/12/2022 (Tuesday) | 09:00 - 12:00 | Biology / Construction Studies | Room 22 |
+| 21/12/2022 (Wednesday) | 09:00 - 12:00 & 12:30 - 15:30 | Mop up exams for students who missed exams | |
+ 
+![Christmas Exams 2022 Timetable](christmas-exams.jpeg)
+
 # Homework
 
 | Subject | What to Do | Due | Done? |
