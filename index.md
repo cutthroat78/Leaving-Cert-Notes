@@ -60,7 +60,6 @@
 | Ice Skating | | Friday, 09/12/2022 | |
 | Christmas Exams Start | This date is subject to change | 12/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
-| Kayaking | | ??/04/2023 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |
 | French State Exam Typical Date | From Paul | 14/06/2023 or 16/06/2023 | |
