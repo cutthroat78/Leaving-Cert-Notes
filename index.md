@@ -66,10 +66,9 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Music Musescore Test | | 06/12/2022 | |
-| French Oral Christmas Exam | From Paul | 07/12/2022 | 09:00 |
-| Half Day | From Paul | Friday, 08/12/2022 | |
-| French Listening Christmas Exam | | Friday, 09/12/2022 | 09:50 |
+| French Oral Christmas Exam | | 07/12/2022 | |
+| Half Day | From Paul | Thursday, 08/12/2022 | |
+| French Listening Christmas Exam | | Friday, 09/12/2022? | 09:50? |
 | Ice Skating | | Friday, 09/12/2022 | |
 | Day Off | | Monday, 13/12/2022 | |
 | Christmas Exams Start | This date is subject to change | 14/12/2022 | |
