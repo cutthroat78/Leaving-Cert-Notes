@@ -1,5 +1,53 @@
-# The Modal Verbs
-## Vouloir - To Want to
+# Verbs
+
+## Irregular Verbs
+
+### Être - To Be
+
+| Français          | Anglais          |
+|-------------------|------------------|
+| Je suis           | I am             |
+| Tu es             | You are          |
+| Il/Elle/On est    | He/She/One is    |
+| Nous sommes       | We are           |
+| Vous êtes         | You (all) are    |
+| Ils/Elles sont    | They are         |
+
+### Aller - To Go
+
+| Français          | Anglais          |
+|-------------------|------------------|
+| Je vais           | I go             |
+| Tu vas            | You go           |
+| Il/Elle/On va     | He/She/One goes  |
+| Nous allons       | We go            |
+| Vous allez        | You (all) go     |
+| Ils/Elles vont    | They go          |
+
+### Avoir - To Have
+
+| Français          | Anglais          |
+|-------------------|------------------|
+| J'ai              | I have           |
+| Tu as             | You have |
+| Il/Elle/On a      | He/She/One has |
+| Nous avons        | We have |
+| Vous avez         | You (all) have |
+| Ils/Elles ont     | They have |
+
+### Faire - To Make/To Do 
+
+| Français          | Anglais          |
+|-------------------|------------------|
+| Je fais | I make / I do |
+| Tu fais | You make / You do |
+| Il/Elle/On fait | He/She/One makes / He/She/One does |
+| Nous faisons | We make / We do |
+| Vous faites | You (all) make / You (all) do |
+| Ils/Elles font | They make / They do |
+
+## The Modal Verbs
+### Vouloir - To Want to
 
 | Français          | Anglais                                           |
 |-------------------|---------------------------------------------------|
@@ -10,7 +58,7 @@
 | vous voulez       | you (all) want to                                 |
 | ils/elles veulent | they want to                                      |
 
-## Pouvoir - To Be Able to / To Can
+### Pouvoir - To Be Able to / To Can
 
 | Français          | Anglais                                           |
 |-------------------|---------------------------------------------------|
@@ -22,7 +70,7 @@
 | ils/elles peuvent | they are able to / they can                       |
 | puis-je           | may I                                             |
 
-## Devoir - To Have to / To Must
+### Devoir - To Have to / To Must
 
 | Français          | Anglais                                           |
 |-------------------|---------------------------------------------------|
@@ -33,7 +81,7 @@
 | vous devez        | you have to / you must                            |
 | ils/elles doivent | they have to / they must                          |
 
-## Savoir -  To Know a Fact / To Know How to
+### Savoir -  To Know a Fact / To Know How to
 
 | Français          | Anglais                                           |
 |-------------------|---------------------------------------------------|
@@ -43,3 +91,14 @@
 | nous savons       | we know a fact / we know how to                   |
 | vous savez        | you (all) know a fact / you (all) know how to     |
 | ils/elles savent  | they know a fact / they know how to               |
+
+## Porter - To Wear
+
+| Français          | Anglais          |
+|-------------------|------------------|
+| Je porte          | I wear           |
+| Tu portes         | You wear         |
+| Il/Elle/On porte  | He/She/One wears |
+| Nous portons      | We wear          |
+| Vous portez       | You (all) wear   |
+| Ils/Elles portent | They wear        |

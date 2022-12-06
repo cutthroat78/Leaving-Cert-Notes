@@ -3,6 +3,7 @@
 - [Diary/Journal Entry](diary-entry.md)
 - [The Opinion Question](opinion-question.md)
 - [Oral Exam](oral-exam.md)
+  - [Revision Sheets (From Pauline)](pauline-revision-sheets.md)
 
 ## Grammar
 
@@ -17,20 +18,20 @@
 - [Future Tense](grammar/tenses/future-tense.md)
 - [Conditional Tense](grammar/tenses/conditional-tense.md)
 
-### Verbs
+### [Verbs](grammar/verbs/verbs.md)
 
-- Irregular Verbs
-  - [Être - To Be](grammar/verbs/etre.md) <!--In Anki-->
-  - [Aller - To Go](grammar/verbs/aller.md) <!--In Anki-->
-  - [Avoir - To Have](grammar/verbs/avoir.md) <!--In Anki-->
-  - [Faire - To Make/To Do](grammar/verbs/faire.md) <!--In Anki-->
-- [The Modal Verbs](grammar/verbs/modal-verbs.md) 
-  - [Vouloir - To Want to](grammar/verbs/modal-verbs.md#vouloir---to-want-to)
-  - [Pouvoir - To Be Able to / To Can](grammar/verbs/modal-verbs.md#pouvoir---to-be-able-to--to-can)
-  - [Devoir - To Have to / To Must](grammar/verbs/modal-verbs.md#devoir---to-have-to--to-must)
-  - [Savoir - To Know a Fact / To Know How to](grammar/verbs/modal-verbs.md#savoir---to-know-a-fact--to-know-how-to)
+- [Irregular Verbs](grammar/verbs/verbs.md#irregular-verbs) <!--In Anki-->
+  - [Être - To Be](grammar/verbs/verbs.md#être---to-be) <!--In Anki-->
+  - [Aller - To Go](grammar/verbs/verbs.md#aller---to-go) <!--In Anki-->
+  - [Avoir - To Have](grammar/verbs/verbs.md#avoir---to-have) <!--In Anki-->
+  - [Faire - To Make/To Do](grammar/verbs/verbs.md#faire---to-maketo-do) <!--In Anki-->
+- [The Modal Verbs](grammar/verbs/verbs.md#the-modal-verbs) 
+  - [Vouloir - To Want to](grammar/verbs/verbs.md#vouloir---to-want-to)
+  - [Pouvoir - To Be Able to / To Can](grammar/verbs/verbs.md#pouvoir---to-be-able-to--to-can)
+  - [Devoir - To Have to / To Must](grammar/verbs/verbs.md#devoir---to-have-to--to-must)
+  - [Savoir - To Know a Fact / To Know How to](grammar/verbs/verbs.md#savoir---to-know-a-fact--to-know-how-to)
 - [Spelling Changes to Verbs](grammar/verbs/spelling-changes-to-verbs.md)
-- [Porter - To Wear](grammar/verbs/porter.md) <!--In Anki-->
+- [Porter - To Wear](grammar/verbs/verbs.md#porter---to-wear) <!--In Anki-->
 
 ## Vocabulary & Phrases
 
