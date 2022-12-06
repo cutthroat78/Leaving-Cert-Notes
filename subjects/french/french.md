@@ -29,7 +29,7 @@
   - [Vouloir - To Want to](grammar/verbs/verbs.md#vouloir---to-want-to)
   - [Pouvoir - To Be Able to / To Can](grammar/verbs/verbs.md#pouvoir---to-be-able-to--to-can)
   - [Devoir - To Have to / To Must](grammar/verbs/verbs.md#devoir---to-have-to--to-must)
-  - [Savoir - To Know a Fact / To Know How to](grammar/verbs/verbs.md#savoir---to-know-a-fact--to-know-how-to)
+  - [Savoir - To Know a Fact / To Know How to](grammar/verbs/verbs.md#savoir----to-know-a-fact--to-know-how-to)
 - [Spelling Changes to Verbs](grammar/verbs/spelling-changes-to-verbs.md)
 - [Porter - To Wear](grammar/verbs/verbs.md#porter---to-wear) <!--In Anki-->
 
