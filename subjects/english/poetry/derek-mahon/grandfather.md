@@ -37,12 +37,18 @@
 ## Tone + Mood
 - Nostalgic
 - Sombre
+- Anecdotal
 
 ## Imagery
-- 
+- Industrial boiler rooms
+- Docks / ship building / gantries
+- Old man busying himself not even noticing others calling him
 
 ## Symbolism
-- 
+- "rows upon rows of gantries rolled to reveal the landscape of a childhood only he can recapture"
+- "memories of the grandfather's childhood" = could refer to his mind/memory
+- "wind the clock against the future" = trying to prevent time from passing, getting old / dying
+- "nothing escapes him, he escapes us all." = the grandfather's death
 
 ## Quotes
 - "wind the clock against the future"

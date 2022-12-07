@@ -55,6 +55,13 @@
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
 - [Storm Warnings](poetry/adrienne-rich/storm-warnings.md)
+#### Derek Mahon
+- [Grandfather](poetry/derek-mahon/grandfather.md)
+- [Day Trip in Donegal](poetry/derek-mahon/day-trip.md)
+- [Antartica](poetry/derek-mahon/antartica.md) - To Be Covered in Class
+- [As It Should Be](poetry/derek-mahon/should.md) - To Be Covered in Class
+- [Kinsale](poetry/derek-mahon/kinsale.md) - To Be Covered in Class
+- [The Chinese Restaurant in Portrush](poetry/derek-mahon/chinese.md) - To Be Covered in Class
 #### [Paula Meehan](poetry/paula-meehan/paula-meehan.pdf)
 - [Hearth Lesson](poetry/paula-meehan/hearth-lesson.md)
 - [Praying for the Children of Longing](poetry/paula-meehan/praying.md)
@@ -62,9 +69,7 @@
 - [The Exact Moment I Became a Poet](poetry/paula-meehan/exact-moment.md)
 - [Them Ducks Died for Ireland](poetry/paula-meehan/ducks.md)
 - [Death of a Field](poetry/paula-meehan/field.md)
-#### Elizabeth Bishop
-#### Derek Mahon
-- [Grandfather](poetry/derek-mahon/grandfather.md)
+<!--#### Elizabeth Bishop-->
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->
 <!--#### Patrick Kavanagh-->
