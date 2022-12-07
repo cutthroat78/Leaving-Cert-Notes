@@ -66,13 +66,12 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Oral Christmas Exam | | 07/12/2022 | |
 | Half Day | From Paul | Thursday, 08/12/2022 | |
 | French Listening Christmas Exam | | Friday, 09/12/2022? | 09:50? |
 | Ice Skating | | Friday, 09/12/2022 | |
-| Day Off | | Monday, 13/12/2022 | |
-| Christmas Exams Start | This date is subject to change | 14/12/2022 | |
+| Day Off | | Tuesday, 13/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
+| Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2022 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |
 | French State Exam Typical Date | From Paul | 14/06/2023 or 16/06/2023 | |
