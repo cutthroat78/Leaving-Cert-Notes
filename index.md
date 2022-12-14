@@ -31,7 +31,6 @@
 
 | Date | Time | Exam | Location |
 |-|-|-|-|
-| 14/12/2022 (Wednesday) | 09:00 - 11:50 | English Paper 1 | Room 22 |
 | 15/12/2022 (Thursday) | 09:00 - 12:00 | Maths | Room 22 |
 | 15/12/2022 (Thursday) | 12:30 - 14:30 (Informed by Reynolds that it actually ends at 14:30 and not 15:30 like the printed out timetable says) | French / Metal Work | Room 22 |
 | 16/12/2022 (Friday) | 09:00 - 12:00 | Irish / Computer Science | Irish (Room 22) & Computer Science (Room 20) |
@@ -66,11 +65,8 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Half Day | From Paul | Thursday, 08/12/2022 | |
-| French Listening Christmas Exam | | Friday, 09/12/2022? | 09:50? |
-| Ice Skating | | Friday, 09/12/2022 | |
-| Day Off | | Tuesday, 13/12/2022 | |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
+| Computer Science Coursework Project Due date | | Wednesday, 22/03/2022 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2022 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |
@@ -79,7 +75,7 @@
 
 ![Timetable](timetable.jpeg)
 
-# Resources
+# Resources (For All Subjects)
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
 - [Studyclix](https://studyclix.ie/) - Website with Notes, Previous Exam Questions, Quizzes, Past Papers and Marking Schemes
 - [Leaving Cert Help Notes](https://leaving-cert-helpnotes.blogspot.com/2014/10/links-to-all-my-posts-by-subject.html) - Website with Notes
