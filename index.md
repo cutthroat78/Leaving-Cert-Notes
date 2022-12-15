@@ -31,8 +31,6 @@
 
 | Date | Time | Exam | Location |
 |-|-|-|-|
-| 15/12/2022 (Thursday) | 09:00 - 12:00 | Maths | Room 22 |
-| 15/12/2022 (Thursday) | 12:30 - 14:30 (Informed by Reynolds that it actually ends at 14:30 and not 15:30 like the printed out timetable says) | French / Metal Work | Room 22 |
 | 16/12/2022 (Friday) | 09:00 - 12:00 | Irish / Computer Science | Irish (Room 22) & Computer Science (Room 20) |
 | 16/12/2022 (Friday) | 12:30 - 15:30 | Business (3 Hours for Higher Level, 2 Hours 30 Minutes for Ordinary Level) | Room 22 |
 | 19/12/2022 (Monday) | 09:00 - 12:00 | Geography / Music / Phys-Chem / Art | Music (Room 9) & Rest (Room 22)
