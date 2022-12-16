@@ -31,8 +31,6 @@
 
 | Date | Time | Exam | Location |
 |-|-|-|-|
-| 16/12/2022 (Friday) | 09:00 - 12:00 | Irish / Computer Science | Irish (Room 22) & Computer Science (Room 20) |
-| 16/12/2022 (Friday) | 12:30 - 15:30 | Business (3 Hours for Higher Level, 2 Hours 30 Minutes for Ordinary Level) | Room 22 |
 | 19/12/2022 (Monday) | 09:00 - 12:00 | Geography / Music / Phys-Chem / Art | Music (Room 9) & Rest (Room 22)
 | 19/12/2022 (Monday) | 12:30 - 14:30 | English Paper 2 | Room 22 |
 | 20/12/2022 (Tuesday) | 09:00 - 12:00 | Biology / Construction Studies | Room 22 |
