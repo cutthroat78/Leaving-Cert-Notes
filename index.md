@@ -20,12 +20,7 @@
 
 # Christmas Exams Info
 - [Biology](christmas/biology.md)
-- [Business](christmas/business.md)
-- [Computer Science](christmas/computer-science.md)
-- [English](christmas/english.md)
-- [French](christmas/french.md)
 - [Maths](christmas/maths.md)
-- [Music](christmas/music.md)
 
 # Christmas Exams 2022 Timetable
 
