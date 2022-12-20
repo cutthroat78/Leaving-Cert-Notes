@@ -15,7 +15,7 @@ Notes Courtesy of Ethan
 ## Revision
 
 - [Revision](PhysChem - Revision.docx)
-- [Revision 2]("PhysChem - Revision (2).docx")
-- [Revision Booklet]("PhysChem - Revision Booklet.docx")
-- [Revision Booklet 2]("PhysChem - Revision Booklet (2).docx")
-- [Revision Booklet Questions]("PhysChem - Revision Booklet Questions.docx")
+- [Revision 2](PhysChem - Revision (2).docx)
+- [Revision Booklet](PhysChem - Revision Booklet.docx)
+- [Revision Booklet 2](PhysChem - Revision Booklet (2).docx)
+- [Revision Booklet Questions](PhysChem - Revision Booklet Questions.docx)
