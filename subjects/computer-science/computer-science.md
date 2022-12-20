@@ -1,7 +1,9 @@
 # Computer Science
 
 - [Exam Structure](exam-structure.md)
-- [Flashcards (I converted from Studyclix)](flashcards.md)
+- [Python Reference Guide](python-reference-guide.pdf) - [Backup Link](https://www.examinations.ie/misc-doc/EN-EX-78311206.pdf) This will given to you to use during the computer science exam, kinda like the log tables books
+
+- [Flashcards (From Studyclix)](flashcards.md)
 - [Artificial Intelligence](AI.md)
 - [Computer Components](computer-components.md)
 - [Data Feminism - Full Book](https://data-feminism.mitpress.mit.edu)
@@ -12,7 +14,6 @@
 - [The Central Processing Unit (CPU)](cpu.md) - [Handout](cpu.pdf)
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 ## [Python Programming](python.md)
-- [Python Reference Guide](python-reference-guide.pdf) - This will given to you to use during the computer science exam, kinda like the log tables books
 - [Log Tables](../maths/log-tables.pdf)
 - [Numerical Python](python/numerical-python.md)
 - [Variables](python/variables.md)

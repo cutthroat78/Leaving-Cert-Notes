@@ -18,24 +18,11 @@
 - [Physics](other-subjects/physics.md)
 - [Phys-Chem](other-subjects/phys-chem/phys-chem.md)
 
-# Christmas Exams Info
-- [Biology](christmas/biology.md)
-- [Maths](christmas/maths.md)
-
-# Christmas Exams 2022 Timetable
-
-| Date | Time | Exam | Location |
-|-|-|-|-|
-| 20/12/2022 (Tuesday) | 09:00 - 12:00 | Biology / Construction Studies | Room 22 |
-| 21/12/2022 (Wednesday) | 09:00 - 12:00 & 12:30 - 15:30 | Mop up exams for students who missed exams | |
- 
-![Christmas Exams 2022 Timetable](christmas-exams.jpeg)
-
 # Homework
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Finish Photosynthesis Experiment Write-Up | Tuesday, 06/12/2022 | No |
+| Biology | Finish Photosynthesis Experiment Write-Up | Tuesday, 06/12/2022 | Yes |
 
 # Timetable
 
