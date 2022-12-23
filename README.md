@@ -97,7 +97,7 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 
 ### Extra
 - Take up phys-chem notes and convert them
-- Take up german notes and convert them
+- Take up German notes and convert them
 
 #### Make Irish Notes
 - Make notes on how the papers work
