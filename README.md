@@ -78,8 +78,8 @@ Add ```<!--No Anki-->``` to any title that isn't to be converted to anki
 ### Maths
 - make notes on sine rule (trigononmetry)
 - convert that one maths sheet Áine gave us in 5th year
-- Look through maths ebook for things to put into digital notes
-- Rules in Maths ebook section 2.6 anki and/or digital notes
+- Look through maths E-Book for things to put into digital notes
+- Rules in Maths E-Book section 2.6 anki and/or digital notes
 - Find videos for each Maths thing/section we have done so far and add to notion
 - Convert maths notes that was sent to me into digital notes
 
