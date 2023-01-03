@@ -41,6 +41,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
+| Back to School | From Megan | 05/01/2023 | Standard School Time |
 | Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
 | Computer Science Coursework Project Due date | | Wednesday, 22/03/2022 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2022 | |
