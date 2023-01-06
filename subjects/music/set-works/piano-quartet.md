@@ -32,3 +32,38 @@
 - Introduces dissonance
 - Plays note cluster
 - Solo section - "Hommage Á horowitz"
+
+## Instruments Techniques
+
+- Open strings
+- Hand clusters on piano
+- Harmonics - delicate whispey sound
+- Détaché - detached - Separate bow for each note
+- Flautando - Bow over the fingerboard
+
+## Form
+
+- Quartet begins and ends with music that is heard only once
+- Section C is centre of piece occur occuring 9 times but never the same
+- One movement - 18 sections
+- Eight themes (4 appear once)
+- A, B1, C1, C2, B2, C3, D1, D2+B3, E1, C4, C5, E2+D3, C6, C7, F
+- Unusual form - doesn't fit a standard one
+- Ends with 3 new sections (F, G, H) - unusual
+
+## Tonality
+
+- Mainly Atonal
+- Section A is pentatonic (no 7th notes)
+- B+B1 refer to key of C
+- C1 is in A flat
+- E2+D3 only section with noted key signature (B flat minor)
+
+## Rhythmic Features
+
+- Over 330 time signature changes
+- Unusual time signatures 1/8
+- Complex rhythmic patterns
+- Irregular rhythms + patterns
+- Metronome marks for tempo changes
+- Polymetry - Combining different metres simultaneously

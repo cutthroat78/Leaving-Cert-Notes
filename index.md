@@ -49,7 +49,8 @@
 | 3th & 6th Year Mocks | From Journal | Tuesday, 07/02/2023 - Friday 10/02/2023 | |
 | SciFest School Event | From Journal | Wednesday, 08/02/2023 | | 
 | Mid-Term Break | From Fran & Journal | 13/02/2023-17/02/2023 | |
-| Music Practical Week | From Amy, no specific has been given yet | 20/02/2023-31/02/2023 | |
+| Music Class Concert | | Tuesday, 28/02/2022 | |
+| Music Practical Week | From Amy, no specific has been given yet | 20/03/2023-31/03/2023 | |
 | Computer Science Coursework Project Due Date | | Wednesday, 22/03/2022 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2022 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
