@@ -82,7 +82,7 @@
 | tout d'abord                                       | first of all                                |
 | dans mon quartier                                  | in my area                                  |
 | c'est                                              | it is                                       |
-| "il y a "                                          | there is/there are                          |
+| il y a                                             | there is/there are                          |
 | d'un côté                                          | to one side                                 |
 | de l'autre côté                                    | on the other hand                           |
 | en général                                         | in general                                  |
@@ -107,3 +107,8 @@
 | Très naturelle et décontracté | Very natural and relaxed |
 | Et tout à coup | And suddenly |
 | Il devait partir | He had to leave |
+| Une grande fête | A big party |
+| en plain air | outside |
+| C'est gratuit | It's free |
+| démenager | to relocate, move |
+| Être bouleverse | To be very emotional |

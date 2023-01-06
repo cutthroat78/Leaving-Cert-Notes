@@ -41,9 +41,16 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Back to School | From Megan | 05/01/2023 | Standard School Time |
-| Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | 07/02/2023 | |
-| Computer Science Coursework Project Due date | | Wednesday, 22/03/2022 | |
+| CAO Information Evening | From Journal | Thursday, 26/01/2023 | |
+| Science Students UCD | From Journal | Monday, 23/01/2023 - Friday, 27/01/2023 | |
+| School Closed | From Journal | Friday, 03/02/2023 | |
+| Bank Holiday - St Brigid's Day | From Journal | Monday, 06/02/2023 | |
+| Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | Tuesday, 07/02/2023 | |
+| 3th & 6th Year Mocks | From Journal | Tuesday, 07/02/2023 - Friday 10/02/2023 | |
+| SciFest School Event | From Journal | Wednesday, 08/02/2023 | | 
+| Mid-Term Break | From Fran & Journal | 13/02/2023-17/02/2023 | |
+| Music Practical Week | From Amy, no specific has been given yet | 20/02/2023-31/02/2023 | |
+| Computer Science Coursework Project Due Date | | Wednesday, 22/03/2022 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2022 | |
 | LC French Oral Week Begins | From Paul, LC Oral with take place week beginning: 01/04/2023 | 01/04/2023 | |
 | State Exams Commence | From Paul | 07/06/2023 | |

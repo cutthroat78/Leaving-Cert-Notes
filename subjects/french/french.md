@@ -61,7 +61,7 @@
 - [Phones](vocabulary/phones.md) <!--In Anki-->
 - [Wow Phrases](vocabulary/wow-phrases.md) <!--In Anki-->
 - [Sports](vocabulary/sports.md)
-- [Uncategorised](vocabulary/uncategorised.md) <!--In Anki-->
+- [Uncategorised](vocabulary/uncategorised.md) <!--Most In Anki-->
 
 ## Other Resources
 - TV5Monde: [Android](https://play.google.com/store/apps/details?id=com.tv5monde.apprendre&hl=en_US&gl=US), [Apple](https://apps.apple.com/us/app/tv5monde-learn-french/id1482250598) - Learn French by watching videos
