@@ -34,13 +34,14 @@
 
 <!--### Financial Mathematics-->
 
-<!--### Proof by Induction-->
+### Proof by Induction
 
-<!--### Complex Numbers-->
+### Complex Numbers
 
 ### Differential Calculus
 
 - [YouTube Playlist (ExamLearn)](https://www.youtube.com/playlist?list=PLIQ2_pWs9yrnBvnVqvqnHcRKUblWSbd5u)
+- [Applications Of Differentiation Notes](applications-of-differentiation.pdf)
 
 <!--### Integral Calculus-->
 
