@@ -41,6 +41,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
+| French Listening Test | From Paul, during last class of the day | Thursday, 12/01/2023 | |
 | CAO Information Evening | From Journal | Thursday, 26/01/2023 | |
 | Science Students UCD | From Journal | Monday, 23/01/2023 - Friday, 27/01/2023 | |
 | School Closed | From Journal | Friday, 03/02/2023 | |

@@ -112,3 +112,6 @@
 | C'est gratuit | It's free |
 | démenager | to relocate, move |
 | Être bouleverse | To be very emotional |
+| jeune | young |
+| j'aimais | I used to like |
+| j'aime | I like |
