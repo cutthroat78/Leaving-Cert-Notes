@@ -22,7 +22,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Finish Photosynthesis Experiment Write-Up | Tuesday, 06/12/2022 | Yes |
+| French | Do Journal Intime diary entry from out exam papers | Wednesday, 11/01/2023 | No |
 
 # Timetable
 
