@@ -67,3 +67,65 @@
 - Irregular rhythms + patterns
 - Metronome marks for tempo changes
 - Polymetry - Combining different metres simultaneously
+
+## Compositional Features
+
+- Canon
+- Retrograde -> Melody played backwards (E1 is retrograde of D2)
+- Augmentation -> Note values are lengthened, usually doubled (C8)
+- Diminuation -> Note values are shortened (B1 notes are halved in B3)
+- Wedging -> Making intervals bigger (C2+C3)
+- Splicing -> Making intervals smaller (C2+C3)
+- Inversion -> Melody turned upside down
+- Counterpoint -> Combining 2 themes - polyphonic (D2+B3)
+- Telescoping -> Fragments of previous sections in a short section (Section G)
+
+## Section A
+
+### Layout
+
+- Based on inversion of "Sí Bheag Sí Mhór"
+- 4 part canon at distance of a crotchet, yet all being at same time
+- Feeling of C major
+- Mainly 3/4 but time signature changes
+
+### Contemporary Features
+
+- Harmonies
+- Open strings
+- Canon at distance of crotchet
+- Time Signature changes
+
+### Non-Contemporary Features
+
+- Instruments
+- Use of canons
+- Repetition
+- Range
+- Staccato
+- 2 Bass Clefs
+
+## Section A1
+
+- Starts to develop
+- Loud dynamics
+- Very high register and wide range
+- Piano entirely in Bass Clef
+- Five part canon
+- Harmonics - open strings
+- Very polyphonic
+- Two part piano
+- Page repeated, louder 2nd time
+
+## Section B1
+
+- Key C major
+- Atonal
+- Homophonic
+- Rhythmic melody on violin, starts with upbeat in 3/4
+- Drone like staccato two note pattern on viola
+- Slower speed
+- Change of time signature to 5/8 creating instability and imbalance
+- Cello part is inversion of viola two note patterns
+- From bar 90, melody is repeated on all 3 string instruments playing an octave apart
+- Melody repeated without accompaniment
