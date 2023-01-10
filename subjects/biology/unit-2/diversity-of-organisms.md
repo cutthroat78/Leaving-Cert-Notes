@@ -77,3 +77,38 @@
 - Mildews
 - Moulds
 - Yeast
+
+## Monera (Bacteria)
+
+- Micro-organisms are tiny organisms which can only be seen using a microscope
+- Bacteria and fungi are found in stagnant water, soil, rotten carcass
+- Bacteria are prokaryotes as they have no membrane bound nucleus or membrane bound cell organelles
+- The 3 main types of shapes of bacteria are <!--Add images for each shape below-->
+  1. **Spherical (cocci)**
+    - ![Streptococcus](diversity-of-organisms/streptococcus.jpg)
+    - E.g. Streptococcus (Group A)
+    - Causes Strep Throat
+  2. **Rod (bacillus)**
+    - ![Lactobaccllus](diversity-of-organisms/lactobaccllus.jpg)
+    - E.g. Lactobaccllus
+    - Used in Yoghurt
+  3. **Spiral (spirillum)**
+    - ![Treponema pallidum](diversity-of-organisms/treponema-pallidum.jpg)
+    - E.g. Treponema pallidum
+    - Causes Syphilis
+
+![Bacterial Structure](diversity-of-organisms/bacterial-structure.jpeg)
+
+- 4 Ways that bacteria get food
+  - Photosynthetic bacteria:
+  - Chemosynthetic bacteria:
+  - Saprophytes:
+  - Parasites:
+<!---
+- How do bacteria reproduce?
+- What benefit do mutations give to bacteria?
+- How do bacteria withstand unfavorable conditions?
+- Define autotrophic
+- Define heterotrophic
+- Define pathogenic and give two examples of pathogenic bacteria
+-->
