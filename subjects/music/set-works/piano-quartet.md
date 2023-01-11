@@ -129,3 +129,54 @@
 - Cello part is inversion of viola two note patterns
 - From bar 90, melody is repeated on all 3 string instruments playing an octave apart
 - Melody repeated without accompaniment
+
+## Section B2
+
+- B section melody is played 5 times in canon creating polyphonic texture, varied slightly each time
+- Very loud
+- Viola, violin, cello
+
+### Bars 188 - 205
+
+- Three part canon on strings
+- Piano doubles string parts at the octave in bass clef
+
+### Bar 222
+
+- Three part canon in 5ths at octave on strings + piano
+- Violin, viola, cello, piano
+- Double stopping on violin
+- Soft dynamics and light articulation
+
+### Bar 239
+
+- Repeat of canon from previous part
+- Drone affect using adjacent open strings
+- Pedal note on D in strings
+- Double stopping on strings
+
+## Section D2+B3
+
+- Both sections heard simultaneously
+- D2 on violin and RH (right hand) piano. B3 on viola and cello in unison 
+- B melody in diminuation
+- LH (left hand) piano plays hurdy-gurdy in 3rds
+- B3 becomes rhythmically distorted adding tension
+- Music is repeated at bar 344 with different time signatures
+- Texture -> polyphonic
+
+## Section C1
+
+- Takes music from *Tis the Last Rpse of Summer*
+- Strings only
+- Polyphonic
+- 2 melodies on violin + viola
+- Feeling of A flat
+- Flow of melodies interrupts by abrupt time signature changes
+- Harmonies on cellos
+
+### From Bar 124
+
+- Repeated on octave lower
+- Piano introduced
+- Louder + faster
