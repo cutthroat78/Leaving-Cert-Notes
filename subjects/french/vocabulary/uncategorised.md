@@ -115,3 +115,10 @@
 | jeune | young |
 | j'aimais | I used to like |
 | j'aime | I like |
+| Connecté en permanence | Permanently connected |
+| Un panier | a tray/basket |
+| En cas d'urgence | In case of an emergency |
+| Les repas | meal |
+| Á l'écoute de l'autre | Listening to another (person) |
+| Montrer l'exemple | To show an example/To be an example |
+| Leurs écrans | Their screens |
