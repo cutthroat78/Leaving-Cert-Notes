@@ -22,7 +22,6 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| French | Do Journal Intime diary entry from out exam papers | Wednesday, 11/01/2023 | No |
 | Biology | Finish off first sheet on Monera (Bacteria) using the powerpoint the teacher put on teams | Monday, 16/01/2023 | No |
 
 # Timetable
@@ -42,7 +41,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Listening Test | From Paul, during last class of the day | Thursday, 12/01/2023 | |
 | CAO Information Evening | From Journal | Thursday, 26/01/2023 | |
 | Science Students UCD | From Journal | Monday, 23/01/2023 - Friday, 27/01/2023 | |
 | School Closed | From Journal | Friday, 03/02/2023 | |
