@@ -99,16 +99,33 @@
 
 ![Bacterial Structure](diversity-of-organisms/bacterial-structure.jpeg)
 
+- Bacteria reproduce asexually
+  - The method used by a bacteria to reproduce is called **Binary Fission**
+  - ![Binary Fission](diversity-of-organisms/binary-fission.jpeg)
+  - Mutations give rise to new bacteria and this allows bacteria to evolve resistance
+- Some bacteria can withstand unfavourable conditions by producing endospores
+  - These are formed when the bacterial chromosome replicates
+  - ![Endoscore Formation 1](diversity-of-organisms/endoscore-formation-1.jpg)
+  - One of the new strands becomes enclosed in a tough-walled capsule called an endospore
+  - ![Endoscore Formation 2](diversity-of-organisms/endoscore-formation-2.jpg)
+  - The parent cell then breaks down and the endospore remains dormant
+  - When conditions are favourable the spores absorb water, break their walls and reproduce by binary fission
+  - ![Endoscore Formation 3](diversity-of-organisms/endoscore-formation-3.jpg)
 - 4 Ways that bacteria get food
   - Photosynthetic bacteria:
   - Chemosynthetic bacteria:
   - Saprophytes:
   - Parasites:
 <!---
-- How do bacteria reproduce?
-- What benefit do mutations give to bacteria?
-- How do bacteria withstand unfavorable conditions?
 - Define autotrophic
 - Define heterotrophic
 - Define pathogenic and give two examples of pathogenic bacteria
+  - The chromosome attaches to the plasma membrane and the DNA is replicated
+  - ![Binary Fission](diversity-of-organisms/)
+  - The cell elongates and the two chromosomes separate
+  - ![Binary Fission 2](diversity-of-organisms/)
+  - The cell wall grows  to divide the cell in two
+  - ![Binary Fission 3](diversity-of-organisms/)
+  -
+  - ![Binary Fission 3](diversity-of-organisms/)
 -->
