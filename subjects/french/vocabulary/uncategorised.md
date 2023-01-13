@@ -122,3 +122,11 @@
 | Á l'écoute de l'autre | Listening to another (person) |
 | Montrer l'exemple | To show an example/To be an example |
 | Leurs écrans | Their screens |
+| un achat | purchases |
+| acheter | to buy |
+| un portefeuille | a wallet |
+| voler | to be stolen |
+| tout | all |
+| une carte bancaire/bleue | a credit/bank/blue card |
+| téléphoner | To call/phone/ring |
+| J'étais aussi _ que _ | I was so _ that _ |
