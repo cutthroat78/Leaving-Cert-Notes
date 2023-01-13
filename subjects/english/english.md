@@ -48,9 +48,9 @@
 - [Full Play with Modern Translation](texts/macbeth/modern-translation.pdf)
 - [Full Play](texts/macbeth/macbeth.pdf)
 ### Poetry
-#### Adrienne Rich
+#### [Adrienne Rich](poetry/adrienne-rich/adrienne-rich.pdf)
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
-- [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md)
+- [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md) - [PowerPoint](poetry/adrienne-rich/aunt-jennifer-tigers.pdf)
 - [The Uncle Speaks in the Drawing Room](poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md)
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
@@ -62,7 +62,7 @@
 - [The Exact Moment I Became a Poet](poetry/paula-meehan/exact-moment.md)
 - [Them Ducks Died for Ireland](poetry/paula-meehan/ducks.md)
 - [Death of a Field](poetry/paula-meehan/field.md)
-#### Derek Mahon
+#### [Derek Mahon](poetry/derek-mahon/derek-mahon.pdf)
 - [Grandfather](poetry/derek-mahon/grandfather.md)
 - [Day Trip in Donegal](poetry/derek-mahon/day-trip.md)
 - [Antartica](poetry/derek-mahon/antartica.md) - To Be Covered in Class
