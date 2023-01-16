@@ -23,8 +23,8 @@
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
 | Biology | Use the PowerPoint on teams to grow the growth curve and begin digestion revision questions | Tuesday, 17/01/2023 | No |
-| French | Do 2022 Journal Entry Question | Monday, 16/01/2023 | No |
-| English | 2019 page 65, General Vision and Viewpoint | Monday, 16/01/2023 | No |
+| French | Do 2019 Question 1 Comprehension on Page 50 of Exam Papers | Wednesday, 18/01/2023 | No |
+| English | 2019 page 65, General Vision and Viewpoint | Wednesday, 18/01/2023 | No |
 
 # Timetable
 
