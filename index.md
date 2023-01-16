@@ -22,7 +22,7 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Finish off first sheet on Monera (Bacteria) using the powerpoint the teacher put on teams | Monday, 16/01/2023 | No |
+| Biology | Use the PowerPoint on teams to grow the growth curve and begin digestion revision questions | Tuesday, 17/01/2023 | No |
 | French | Do 2022 Journal Entry Question | Monday, 16/01/2023 | No |
 | English | 2019 page 65, General Vision and Viewpoint | Monday, 16/01/2023 | No |
 

@@ -83,6 +83,7 @@
 - Micro-organisms are tiny organisms which can only be seen using a microscope
 - Bacteria and fungi are found in stagnant water, soil, rotten carcass
 - Bacteria are prokaryotes as they have no membrane bound nucleus or membrane bound cell organelles
+
 - The 3 main types of shapes of bacteria are <!--Add images for each shape below-->
   1. **Spherical (cocci)**
     - ![Streptococcus](diversity-of-organisms/streptococcus.jpg)
@@ -111,21 +112,68 @@
   - The parent cell then breaks down and the endospore remains dormant
   - When conditions are favourable the spores absorb water, break their walls and reproduce by binary fission
   - ![Endoscore Formation 3](diversity-of-organisms/endoscore-formation-3.jpg)
+ 
 - 4 Ways that bacteria get food
-  - Photosynthetic bacteria:
-  - Chemosynthetic bacteria:
-  - Saprophytes:
-  - Parasites:
-<!---
-- Define autotrophic
-- Define heterotrophic
-- Define pathogenic and give two examples of pathogenic bacteria
-  - The chromosome attaches to the plasma membrane and the DNA is replicated
-  - ![Binary Fission](diversity-of-organisms/)
-  - The cell elongates and the two chromosomes separate
-  - ![Binary Fission 2](diversity-of-organisms/)
-  - The cell wall grows  to divide the cell in two
-  - ![Binary Fission 3](diversity-of-organisms/)
-  -
-  - ![Binary Fission 3](diversity-of-organisms/)
--->
+  - Photosynthetic bacteria: Use light energy to make food
+    - E.g. purple sulphur bacteria
+  - Chemosynthetic bacteria: Use energy from chemical reactions to make food
+    - E.g. Nitrifying bacteria that convert ammonia to nitrates in the nitrogen cycle
+  - Saprophytes: Live off dead organic matter
+    - E.g. bacteria of decay in the soil
+  - Parasites: Take food from live host
+    - Some causes diseases
+    - E.g. Bacillus anthracis
+      - Causes anthrax
+
+- Autotrophic - organisms which make their own food
+  - E.g. Plants
+- Heterotrophic - organisms which take in food made by other organisms
+  - E.g. Humans
+
+- 5 factors affecting growth of bacteria
+  1. Temperature (20°C - 30°C)
+  2. Oxygen Concentration
+  3. pH (Acidic/Basic)
+  4. External Solute Concentration
+  5. Pressure
+
+- Two Economic Benefits of Bacteria
+  1. Bacteria such as **Lactobacillus are used to** convert milk to products such as cheese and **yoghurt**
+  2. Genetically modified bacteria e.g. **E. Coli are used to make** products such as **Insulin**, enzymes, drugs, food flavourings and vitamins
+- Two Economic Disadvantages of Bacteria
+  1. Bacteria can cause food spoilage
+  2. Pathogenic Bacteria can cause diseases in humans and animals
+    - Examples:
+      - Tuberculosis
+      - Anthrax
+      - Thyphoid
+
+- Pathogens are micro-organisms that cause disease
+  - Examples:
+    - Anthrax
+    - Thyphoid
+
+- Antibiotics are produced by micro-organisms that stop the growth of, or kill, other micro-organisms without damaging human tissue
+- Antibiotics can be used to control bacterial and fungal infections but do **not** effect viruses
+
+- **Mutations** in bacterial genes can allow bacteria to develop **antibiotic resistance**
+- **Bacterial strains have emerged which are resistant to almost all known antibiotics <u>(multi-resistant)</u>**
+  - As a result present day antibiotics become ineffective. 
+  - E.g. **MRSA** - Type of bacteria resistant to most forms of antibiotics (Super Bug)
+- Overuse of antibiotics
+  - This results in the increased growth of antibiotic resistant bacteria
+  - Failure of some patients to complete a course of antibiotics prescribed to them by a doctor allows the bacteria to survive and re-grow
+
+- Bioprocessing is when we use living things cells or their parts to make useful products
+  - E.g. Making Insulin (using bacteria)
+
+- A bioreactor is a vessel in which bioprocessing happens
+
+- A Growth Curve of a Microbial Culture
+- ![A Growth Curve of a Microbial Culture](diversity-of-organisms/monera-graph.png)
+
+- Give an example of batch process in industrial microbiology. What phases of the growth curve occur?
+
+- Give an example of a continuous process in industrial microbiology. In what growth phase are the micro-organisms maintained?
+
+- What makes bacteria prokaryotic but all other kingdoms eukaryotic?
