@@ -65,10 +65,10 @@
 #### [Derek Mahon](poetry/derek-mahon/derek-mahon.pdf)
 - [Grandfather](poetry/derek-mahon/grandfather.md)
 - [Day Trip in Donegal](poetry/derek-mahon/day-trip.md)
+- [The Chinese Restaurant in Portrush](poetry/derek-mahon/chinese.md)
 - [Antartica](poetry/derek-mahon/antartica.md) - To Be Covered in Class
 - [As It Should Be](poetry/derek-mahon/should.md) - To Be Covered in Class
 - [Kinsale](poetry/derek-mahon/kinsale.md) - To Be Covered in Class
-- [The Chinese Restaurant in Portrush](poetry/derek-mahon/chinese.md) - To Be Covered in Class
 <!--#### Elizabeth Bishop-->
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->

@@ -17,25 +17,36 @@
 > Under a framed photograph of Hong Kong  
 > The proprietor of the Chinese restaurant  
 > Stands at the door as if the world were young,  
-> Watching the first yacht hoist a sail  
-> - An ideogram on sea-cloud – and the light  
+> Watching the first yacht hoist a sail -  
+> An ideogram on sea-cloud – and the light  
 > Of heaven upon the hills of Donegal;  
 > And whistles a little tune, dreaming of home.  
 
 ## Theme(s)
-- 
+- Nature (seascape)
+- Politics
+- Sense of place
 
 ## Poetic Techniques
-- 
+- Metaphor (yacht hoisting is ideogram)
+- Sibilance
+- Personification
 
 ## Rhyme + Structure
-- 
+- Blank verse
+- 2 stanzas
+- Not even
+- 20 lines
 
 ## Tone + Mood
 - 
 
 ## Imagery
-- 
+- Yacht
+- Man reading a paper
+- Chinese restaurant
+- seagulls
+- sea
 
 ## Symbolism
 - 
