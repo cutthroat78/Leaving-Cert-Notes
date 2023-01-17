@@ -172,8 +172,25 @@
 - A Growth Curve of a Microbial Culture
 - ![A Growth Curve of a Microbial Culture](diversity-of-organisms/monera-graph.png)
 
-- Give an example of batch process in industrial microbiology. What phases of the growth curve occur?
+- Batch Processing is when a fixed amount of nutrient medium is added to the bioreactor and all the stages of the bacteria growth curve happen
+  - Then the process starts again
+  - E.g. Making antibiotics
 
-- Give an example of a continuous process in industrial microbiology. In what growth phase are the micro-organisms maintained?
+- In Continuous Flow nutrients are continuously being added and wastes removed to ensure that it is is always in the log phase
+  - E.g. Alcohol Brewing
 
-- What makes bacteria prokaryotic but all other kingdoms eukaryotic?
+- Bacteria are prokaryotic because they don't have a true nucleus or membrane bound organelles
+
+## Protista (Amoeba)
+
+- Draw a diagram of an Amoeba, labelling the cell membrane, cytoplasm, nucleus, food vacuole, contractile vacuole, pseudopods, ectoplasm and endoplasm
+
+![Structure of Amoeba](diversity-of-organisms)
+
+- Describe how an Amoeba osmoregulates
+
+- Describe the functions of the following parts of an Amoeba
+  - Food vacuole:
+  - Contractile vacuole:
+  - Psuedopods:
+  - Cell Membrane:
