@@ -39,17 +39,18 @@
 - 20 lines
 
 ## Tone + Mood
-- 
+- Cautiously optimistic
+- Reflective
 
 ## Imagery
 - Yacht
 - Man reading a paper
 - Chinese restaurant
-- seagulls
-- sea
+- Seagulls
+- Sea
+- Wolfhound
 
 ## Symbolism
-- 
-
-## Quotes
-- 
+- Wolfhound - Irish republic/Irish myth
+- 'Invasion' - Literally in the poem means tourists but could allude to Ireland being invaded throughout history
+- Young girl - New emerging young society

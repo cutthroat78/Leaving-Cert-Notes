@@ -11,6 +11,6 @@
 > I will arise and go now, for always night and day  
 > I hear lake water lapping with low sounds by the shore;  
 > While I stand on the roadway, or on the pavements grey,  
-> I hear it in the deep heart’s core. 
+> I hear it in the deep heart’s core.   
 
 Lake water lapping with low sounds by the shore; = example of alliteration

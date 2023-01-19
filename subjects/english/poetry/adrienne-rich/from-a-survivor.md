@@ -11,7 +11,7 @@
 > the race had failures of that order  
 > and that we were going to share them  
 
-> Like everyone else, we thought of ourselves as special
+> Like everyone else, we thought of ourselves as special  
 
 > Your body is as vivid to me  
 > as it ever was: even more  

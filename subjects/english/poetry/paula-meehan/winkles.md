@@ -44,7 +44,7 @@
 - Sibilance
 - Assonance
 - Alliteration
-- Collquial language
+- Colloquial language
 
 ## Rhyme + Structure
 - 31 lines
