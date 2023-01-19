@@ -185,7 +185,7 @@
 
 - Draw a diagram of an Amoeba, labelling the cell membrane, cytoplasm, nucleus, food vacuole, contractile vacuole, pseudopods, ectoplasm and endoplasm
 
-![Structure of Amoeba](diversity-of-organisms)
+![Structure of Amoeba](diversity-of-organisms/structure-of-amoeba.jpg)
 
 - Describe how an Amoeba osmoregulates
 
