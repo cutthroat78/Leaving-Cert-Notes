@@ -22,10 +22,9 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| Biology | Use the PowerPoint on teams to grow the growth curve and begin digestion revision questions | Tuesday, 17/01/2023 | No |
-| French | Do 2019 Question 1 Comprehension on Page 50 of Exam Papers | Wednesday, 18/01/2023 | No |
-| English | 2019 page 65, General Vision and Viewpoint | Wednesday, 18/01/2023 | No |
-| Biology | 2022 Q 11 b + c | Thursday, 19/01/2022 | No |
+| English | 2019 page 65, General Vision and Viewpoint | Friday, 19/01/2023 | No |
+| Biology | 2022 Q 11 b + c | Monday, 23/01/2023 | No |
+| Biology | Finish sheet we got in class | Monday, 23/01/2023 | No |
 
 # Timetable
 
