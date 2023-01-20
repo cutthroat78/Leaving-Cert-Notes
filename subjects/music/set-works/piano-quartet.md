@@ -167,7 +167,7 @@
 
 ## Section C1
 
-- Takes music from *Tis the Last Rpse of Summer*
+- Takes music from *Tis the Last Rose of Summer*
 - Strings only
 - Polyphonic
 - 2 melodies on violin + viola
