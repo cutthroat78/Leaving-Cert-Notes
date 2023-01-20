@@ -180,3 +180,118 @@
 - Repeated on octave lower
 - Piano introduced
 - Louder + faster
+
+## Section C2
+
+- Based on C1
+- Atonal
+- Violin and viola melodies
+- Polyphonic
+- Slower
+- Softer dynamics
+- Wedging and splicing
+- No piano
+
+## Section C3
+- Based on 4 different versions
+- Gets louder and faster each time
+- Polyphonic
+
+### Bar 256
+
+- Viola and cello repeat C2 with descant melody on violin
+- Violin doubles cello part at intervals of 2nd and 7th (dissonance)
+- Slow
+- Quieter
+- No piano
+
+### Bar 272
+
+- Single fragmented piano line, doubles some strings parts at interval of 2nd
+- Faster and louder than previous
+- Double stopping
+
+### Bar 288
+
+- Higher pitch - cello in treble clef
+- Faster and louder
+
+### Bar 303
+
+- Violin higher
+
+## Section C4
+
+- Hommage á Horowitz
+- Piano solo - only instrument with solo section
+- Very very loud
+- Derived from C melodies
+- Both hands play in octaves
+- Homophonic
+- Flamboyant
+- Dedicated to Horowitz, a Russian pianist
+
+## Section C5
+
+- Shortened version of C3
+- Slower
+- 3 part canon distance of a crotchet
+- Soft dynamics
+- Changing time signatures
+- No piano
+- Canon repeated at bar 415 with some notes left out
+
+## Section C6
+
+- 3 part canon at distance of a quaver
+- C6 is C5 up a semi-tone and shortened
+- Instruments technique *flautando* used - Player on finger board giving a wispy sound
+- Polyphonic
+- Soft dynamics
+
+## Section C7
+
+- Based on C material but sounds like a new section
+- Cello based on one of original C melodies
+- Piano doubles string parts
+- Notes added at distance of 2nds, 4ths and 5ths - adds dissonance
+- Polyphonic
+
+### Bar 483
+
+- Faster
+- Double stopping adds to intensity
+- Higher pitch, accelerates then stops suddenly
+
+## Section C8 + F
+
+- One bar rest, then new material, F, on violin
+- Triplets in Melody, jig rhythm, Irish dance music
+- Piano part is retrograde of F melody
+- C material heard in augmentation (longer notes) on viola and cello
+- Polyphonic
+- Different time signatures used simultaneously - polymetry (need to know)
+
+(where we ended in class)
+
+## Section C9
+
+- One bar rest then 3 part canon two octaves distance of crotchet on strings
+- Shortest and slowest version of C
+- Polyphonic
+- Wide distance between parts, high pitch in violin, low pitch in cello
+
+## Section D1
+
+- Based on Beidh Aonach Amárach
+- Shortest section of D
+- A minor
+- Shortest time sig in piece used - 1/8
+- Loud
+- Homophonic
+- Hurdy gurdy effect in cello (similar to B1)
+- Very unstable due to time signature changes
+- 3/16 time signature - contemporary - not usual
+- Repeated notes in melody on viola
+
+## Section D2+B3
