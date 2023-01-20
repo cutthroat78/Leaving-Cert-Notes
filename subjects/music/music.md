@@ -43,5 +43,5 @@
 ## Set Works (Set A) - [Spotify](https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link) - [YouTube]()
 - [Romeo & Juilet Fantasy Overture by Tchaikovsky](set-works/romeo-and-juliet.md) - [Annotated Score](set-works/romeo-and-juliet.pdf)
 - [Bohemian Rhapsody by Queen](set-works/bohemian-rhapsody.md)
-- [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md)
+- [Piano Quartet No. 1 by Gerald Barry](set-works/piano-quartet.md) - [Notes Slides](set-works/piano-quartet-notes.pdf)
 - [Cantata 78 "Jesu Der Du Meine Seele” by Bach](set-works/cantata-78.md) - [Annotated Score](set-works/cantata-78.pdf)
