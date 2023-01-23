@@ -183,14 +183,32 @@
 
 ## Protista (Amoeba)
 
-- Draw a diagram of an Amoeba, labelling the cell membrane, cytoplasm, nucleus, food vacuole, contractile vacuole, pseudopods, ectoplasm and endoplasm
-
 ![Structure of Amoeba](diversity-of-organisms/structure-of-amoeba.jpg)
 
-- Describe how an Amoeba osmoregulates
+- Examples:
+  - Unicellular = Amoeba
+  - Multicellular = Algae (seaweed)
 
-- Describe the functions of the following parts of an Amoeba
-  - Food vacuole:
-  - Contractile vacuole:
-  - Psuedopods:
-  - Cell Membrane:
+- How an Amoeba osmoregulates
+  1. Water enters the cell by osmosis and excess water is collected in the **contractile vacuole**
+  2. Vacuole swells and touches the cell membrane
+  3. It bursts and expels the water
+
+- The functions of the following parts of an Amoeba
+  - Food vacuole: Releases enzymes to digest and absorb food/prey
+  - Contractile vacuole: Maintains salt and water balance in the cell by the process called osmoregulation
+  - Psuedopods (False Feet): Help amoeba to move by extending in different directions and engulf ("Amoeba Hug") prey
+  - Cell Membrane: Holds in cell contents and allows gas exchange
+
+## Fungi
+
+- Fungi are mostly multicellular structures which reproduce by spores
+
+- Parasitic fungi are organisms that lives in/on another organism **causing harm**
+- Saprophytic fungi get nutrients from dead materials
+
+- Obligate parasite has to live in or on another organism to cause it harm
+- Facultative parasite may use parasitic activity but doesn't rely on it
+
+- Edible fungi are safe to eat
+- Poisonous fungi are not safe to eat (Potentially Deadly)
