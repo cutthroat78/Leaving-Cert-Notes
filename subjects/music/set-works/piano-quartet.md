@@ -227,7 +227,7 @@
 - Very very loud
 - Derived from C melodies
 - Both hands play in octaves
-- Homophonic
+- [x] Homophonic
 - Flamboyant
 - Dedicated to Horowitz, a Russian pianist
 
@@ -272,12 +272,10 @@
 - Polyphonic
 - Different time signatures used simultaneously - polymetry (need to know)
 
-(where we ended in class)
-
 ## Section C9
 
-- One bar rest then 3 part canon two octaves distance of crotchet on strings
-- Shortest and slowest version of C
+- One bar rest then 3 part canon two octaves are crotchet distance
+- Shortest and slowest section of C
 - Polyphonic
 - Wide distance between parts, high pitch in violin, low pitch in cello
 
@@ -286,12 +284,67 @@
 - Based on Beidh Aonach Amárach
 - Shortest section of D
 - A minor
-- Shortest time sig in piece used - 1/8
+- Shortest time sig in piece used 1/8
 - Loud
 - Homophonic
-- Hurdy gurdy effect in cello (similar to B1)
+- Hurdy gurdy effect in cello
 - Very unstable due to time signature changes
-- 3/16 time signature - contemporary - not usual
+- 3/16 time signature
 - Repeated notes in melody on viola
 
 ## Section D2+B3
+
+- See previous section with the heading "Section D2+B3"
+
+## Section D3+E2
+
+- Only section with a noted key signature - B flat minor
+- E and D combined and up a semitone to B flat minor
+- Polyphonic
+- Very loud, with accented notes
+- E2 is a retrograde of D and heard on violin and viola in unison
+- D3 heard on cello on piano RH in unison
+- Music repeated at bar 442 with violin an octave higher and piano LH octave lower
+
+## Section E1
+
+_ 4 part canon at distance of quaver at the octave, violin, viola, cello, LH piano
+- D2 played in reverse (retrograde)
+- Repeat sign
+- Changing time signatures - obscure
+- Polyphonic
+- Loud with accented notes
+
+## Section E2+D3
+
+- See previous section with the heading "Section E2+D3"
+
+## Section F+C8
+
+- See previous section with the heading "Section F+C8"
+
+## Section G
+
+- New music but derived from rest of quartet
+- Telescoping - complete work in nine bars by taking notes from beginning an end of each section
+- Homophonic
+- Very fast
+- Very loud with accented notes
+- Constantly changing time signatures
+
+## Section H
+
+- Based on Irish tune, "Lord Mayo's Delight"
+- Polyphonic
+- 2 part canon, unison, distance of crotchet on viola, cello
+- Flautando used again
+
+### Bar 542
+
+- 3 part canon, unison, distance of crotchet, viola, cello and Piano LH - base on second part of tune
+
+### Bar 558
+
+- Final section return to first part of tune
+- 3 part canon, unison, distance of crotchet, violin, viola, cello
+- Soft dynamics
