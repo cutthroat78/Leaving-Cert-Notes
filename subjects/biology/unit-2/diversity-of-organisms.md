@@ -212,3 +212,12 @@
 
 - Edible fungi are safe to eat
 - Poisonous fungi are not safe to eat (Potentially Deadly)
+
+- A diagram of a Rhizopus (Bread Mould)
+- ![Structure of Rhizopus (Bread Mould)](diversity-of-organisms/rhizopus 1.jpeg)
+- ![Structure of Rhizopus (Bread Mould)](diversity-of-organisms/rhizopus 2.jpeg)
+
+- Rhizopus Nutrition
+  - The hyphae digest the substrate on which they grows
+  - **Rhizoids** provide extra surface area for absorption of the digested material
+  - Stolons are arial hyphae _

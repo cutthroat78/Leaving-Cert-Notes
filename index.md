@@ -26,6 +26,7 @@
 | Biology | 2022 Q 11 b + c | Monday, 23/01/2023 | No |
 | Biology | Finish sheet we got in class | Monday, 23/01/2023 | No |
 | English | Answer Derek Mahon Poetry question | Thursday, 26/01/2023 | No | 
+| Biology | Take down diagrams + notes from teams on nutrition, sexual and asexual reproduction for rhizopus | Thursday, 26/01/2023 | No |
 
 # Timetable
 
