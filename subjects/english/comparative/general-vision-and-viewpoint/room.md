@@ -27,7 +27,7 @@ He is looking forward to a future he cannot have, and Ma feels powerless to do a
 
 Eventually Ma is forced to engineer Jack’s escape. Old Nick has lost his job and Ma is afraid that the bank will foreclose on his house and he will do something terrible to her and Jack to avoid their being discovered.
 
-Jack has to pretend to be dead and allow himself to be carried away by Old Nick. He is terrified he is going to ‘mess it all up and Old Nick will buy me for real and Ma will be waiting always’.
+Jack has to pretend to be dead and allow himself to be carried away by Old Nick. He is terrified he is going to ‘mess it all up and Old Nick will bury me for real and Ma will be waiting always’.
 
 The description of the bid for freedom makes it the point of highest tension in the novel.
 
