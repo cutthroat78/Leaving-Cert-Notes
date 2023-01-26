@@ -213,11 +213,71 @@
 - Edible fungi are safe to eat
 - Poisonous fungi are not safe to eat (Potentially Deadly)
 
-- A diagram of a Rhizopus (Bread Mould)
-- ![Structure of Rhizopus (Bread Mould)](diversity-of-organisms/rhizopus 1.jpeg)
-- ![Structure of Rhizopus (Bread Mould)](diversity-of-organisms/rhizopus 2.jpeg)
+### Rhizopus
 
-- Rhizopus Nutrition
-  - The hyphae digest the substrate on which they grows
-  - **Rhizoids** provide extra surface area for absorption of the digested material
-  - Stolons are arial hyphae _
+#### A diagram of a Rhizopus (Bread Mould)
+
+![Structure of Rhizopus (Bread Mould)](diversity-of-organisms/rhizopus 1.jpeg)
+
+![Structure of Rhizopus (Bread Mould)](diversity-of-organisms/rhizopus 2.jpeg)
+
+#### Rhizopus Nutrition (Saprophytic)
+
+- The hyphae digest the substrate on which they grows
+- **Rhizoids** provide extra surface area for absorption of the digested material
+- Stolons are arial hyphae which allow Rhizopus to spread sideways
+
+#### Rhizopus Asexual Reproduction (Main Method of Reproduction)
+
+![Asexual Reproduction in Rhizopus](diversity-of-organisms/rhizopus-asexual-reproduction.png)
+
+- Some hyphae grow up vertically from the substrate and form a **sporangium**
+- **Mitosis** (grows) occurs
+- Each cell develops a resistant wall and is now called a **spore**
+- In dry conditions the sporangium dires out and bursts, releasing spores
+- If spores land on a suitable substrate, they will **germinate**
+- A new mycelium will form
+
+#### Rhizopus Sexual Reproduction (Only Under Harsh Conditions like Lack of Water - Method of Survival)
+
+![Sexual Reproduction in Rhizopus](diversity-of-organisms/rhizopus-sexual-reproduction.png)
+
+- **+** and **-** strains grow close together
+- Swellings form along the length of the hyphae and touch
+- Nuclei move into each swelling, now know as **progametangia**
+- Cross-walls form to produce **gametangia**
+- The wall between the gametangia breaks down
+- **Fertilisation** occurs when two nuclei fuse. Many **diploid** nuclei form
+- A tough, resistant outer wall forms around the old gametangia forming a **zygospore (2n)**
+- The parent hyphae die away and the zygospores are released
+
+### Yeast
+
+![Yeast Structure](diversity-of-organisms/yeast-structure.png)
+
+#### Asexual Reproduction in Yeast (Main Method - also know a budding)
+
+![Asexual Reproduction in Yeast](diversity-of-organisms/yeast-asexual-reproduction.png)
+
+- In favourable conditions, a small extension (**bud**) forms on the cell
+- The bud enlarges and fills with cytoplasm
+- The parent cell nucleus divides by **mitosis**
+- the second nucleus moves into the bud
+- The bud will then grow and **may separate** from the parent cell
+- The new cell **may remain attached** and divide again, forming a **colony**
+
+### Economic Importance of Fungi
+
+#### Beneficial Fungi
+
+- Yeasts can be used to make bread and alcohols such as wine and beer
+- Fungi can be used as a source of food 
+  - e.g. mushroom
+
+#### Harmful Fungi
+
+- Fungi can attach crops
+  - e.g. corn and wheat and cause major financial losses as a result
+- Fungi such as athletes foot and ringworm can infect animals
+- Fungi can spoil food
+  - e.g. rhizopus grows on bread
