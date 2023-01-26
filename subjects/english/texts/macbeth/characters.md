@@ -25,8 +25,44 @@ A brave + loyal general exhibits hubris the great man overreaches his ambitions 
 - hesitates before killing Duncan
 - approaching the dead with with horror
 - wishes Duncan was alive after he kills him immediate regret
-- pity for murderer is more that pity for dead
-- - feeling has been morally blackmailed by Lady Macbeth
+- We don't observe him killing Duncan we see Macbeth appalled response response
+  - pity for murderer is more that pity for dead
+- feeling has been morally blackmailed by Lady Macbeth his self condemnation and self disgust
+- Macbeth seen as pityful victim of the crime he was unwilling to commit he is doomed to live life in shadow of crime
+- Lost inner peace
+- Focus = Macbeth victim = largely forgotten
+- "Monster and a hellhound"
+- He looses sympathy of audience as he descends into a tyrannical villain with his planned murder of Banquo
+- They were once friends
+- Now seen as cunning calculated and deceitful sharp moral decline
+- Pity for Banquo overshadowed be Banquett scene and Macbeth's response
+- Murder of Lady Macduff and children shifts focus away from Macbeth and onto the actual crime
+- This crime them causes Lady Macbeth to breakdown and the breakdown of their relationship - sleepwalking scene
+- She acted as force pushing him past his moral line. He broke through it and is now a monster with no morality. She still has a small bit of morality and is appalled by the monster she created
+- The doomed damned villain causes to accept himself as he is and dies a warriors death
+- He realises he's done bad things but he doesn't give up because honour is so important agent
+
+### Macbeth - Fully Responsible Agent?
+
+- 2 issues responsibility and motivation
+- If we believe that Macbeth only killed Duncan because of the witches then he's mot morally responsible
+- Witches were the catalyst of everything that happened
+- Soliloquy Act 1 Scene 7 Line 1-29 "if it were done when tis done"
+- Macbeth victim because he knows his future
+- cursed by knowledge ignorance is bliss
+- Lady Macbeth disturbs his moral balance her brow beat of him
+- She bullies him into this as a test of his manly hood and love for her
+- He originally was hesitant and didn't want to
+- She doesn't care about right and wrong cares about if they can get away with it because she persuaded him, so easily maybe his free will was already gone
+- On surface level looks like Macbeth is ambitious and power hungry but his actions run counter to his feelings and inner thought
+- Maniac in a trance
+- taunts of wife torments of imagination
+
+---
+
+- He ends up killing for the sake of killing because he killed once
+- Goes from centrality (decorated hero, nobility) to isolator
+- Seen as brave by other is people, but is actually cowardice
 
 ### Positives
 
@@ -45,3 +81,16 @@ A brave + loyal general exhibits hubris the great man overreaches his ambitions 
 - Isolated
 - Easily manipulated
 - Tyrannical
+
+## Lady Macbeth
+
+- Very ambitious
+- Can't let profusely go urges Macbeth to kill Duncan
+- Focuses all her ability on one thing, tunnel vision
+- doesn't care about consequences of her husbands actions on him
+- contrast between their morality
+- turn logic on its head to convince Macbeth to kill Duncan
+- She supports Macbeth and gets him through after he kills Duncan and Banquo
+- She keeps calm and collected after the event
+- She breaks after murder of Lady Macduff and children
+- He's no longer under her control
