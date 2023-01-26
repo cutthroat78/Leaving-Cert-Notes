@@ -25,6 +25,7 @@ The Study of Living Organisms
 - [Photosynthesis](unit-2/photosynthesis.md) - [Slides](slides/unit-2/photosynthesis.pdf)
 - [Diversity of Organisms](unit-2/diversity-of-organisms.md)
   - Monera - [Slides](slides/unit-2/monera.pdf)
+  - Fungi - [Slides](slides/unit-2/fungi.pdf)
 
 ## Unit 3 - The Organism - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
 - [Skeletal System](unit-3/skeletal-system.md) - [Slides](slides/unit-3/skeletal-system.pdf)
