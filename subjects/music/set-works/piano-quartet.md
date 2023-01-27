@@ -2,11 +2,50 @@
 
 ## Compositional Techniques
 
-| Technique | Description | Occurs in Section(s) |
-|-|-|-|
-| Canon | Created when a melody is imitated by one or more parts at a fixed distance + interval contains 2, 3, 4, 5, part canons. When parts overlap in this way polyphony is created | A, B2, E1, C5, C6, C7, C9, H |
-| Inversion | Flipping the melody upside down, inverting its melodic shape. If a melody opens on a descending scale, it's inversion will open with an ascending scale | A |
-| Retrograde | A retrograde results from the rewriting and performing of an original melodic line in reverse. In this quartet, Barry has created the thematic material for E1 by using the retrograde of D1 | E1, F + C8 |
+- Canon = Created when a melody is imitated by one or more parts at a fixed distance + interval contains 2, 3, 4, 5, part canons. When parts overlap in this way polyphony is created. In Sections: A, B2, E1, C5, C6, C7, C9, H
+  - ![Canon](piano-quartet/canon.png)
+- Inversion = Flipping the melody upside down, inverting its melodic shape. If a melody opens on a descending scale, it's inversion will open with an ascending scale. In Section: A
+  - ![Inversion](piano-quartet/inversion.png)
+- Retrograde = A retrograde results from the rewriting and performing of an original melodic line in reverse. In this quartet, Barry has created the thematic material for E1 by using the retrograde of D1. In Sections: E1, F + C8
+  - ![Retrograde](piano-quartet/retrograde.png)
+- Wedging = Stretching the melodic intervals of the original melody
+  - ![Wedging](piano-quartet/wedging.png)
+- Splicing = Reducing the interval distance between notes of original melody
+  - ![Splicing](piano-quartet/splicing.png)
+- Polymetry = Combining two different time signatures simultaneously
+  - ![Polymetry](piano-quartet/polymetry.png)
+- Counterpoint = Combining two or more different melodies simultaneously
+  - ![Counterpoint](piano-quartet/counterpoint.png)
+- Telescoping = Taking first and final fragments from the piece to create new material
+
+## Instrumental Techniques
+
+- 8ve/8va = Instructions on the score to play on octave higher or lower
+  - ![8ve/8va](piano-quartet/8va.png)
+- Hammered = Play with force
+  - ![Hammered](piano-quartet/hammered.png)
+- Clusters = Playing a group of adjacent notes simultaneously on piano. Creates dissonant sound
+  - ![Clusters](piano-quartet/clusters.png)
+- Detaché - Using a separate movement of bow for each note
+  - ![Detaché](piano-quartet/detache.png)
+- Open Strings - When string not stopped by placing finger on fingerboard
+  - ![Open Strings](piano-quartet/open-strings.png)
+- Double Stopping = Playing two notes at the same time
+  - ![Double Stopping](piano-quartet/double-stopping.png)
+- Harmonics = Overtones that create whistling sound
+  - ![Harmonics](piano-quartet/harmonics.png)
+- Flautando = Playing bow across strings on fingerboard instead of body
+  - ![Flautando](piano-quartet/flautando.png)
+- Senza Vibrato = No vibrate
+  - ![Senza Vibrato](piano-quartet/senza-vibrato.png)
+
+## Feature of 20th Century Music
+
+- 1901 - 2000
+- No dominant + style resulting in the genre being hard to define
+- Tonality - use of dissonance
+- Texture - polyphonic is common
+- No structure/plan -> inspiration comes from the heart
 
 ## Introduction
 
@@ -245,7 +284,7 @@
 
 - 3 part canon at distance of a quaver
 - C6 is C5 up a semi-tone and shortened
-- Instruments technique *flautando* used - Player on finger board giving a wispy sound
+- Instruments technique *flautando* used - Played on finger board giving a wispy sound
 - Polyphonic
 - Soft dynamics
 
