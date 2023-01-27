@@ -47,6 +47,7 @@
 #### Macbeth
 - [Full Play with Modern Translation](texts/macbeth/modern-translation.pdf)
 - [Full Play](texts/macbeth/macbeth.pdf)
+- [Characters](texts/macbeth/characters.md)
 ### Poetry
 #### [Adrienne Rich](poetry/adrienne-rich/adrienne-rich.pdf)
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)

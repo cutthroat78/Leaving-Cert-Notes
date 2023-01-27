@@ -94,3 +94,13 @@ A brave + loyal general exhibits hubris the great man overreaches his ambitions 
 - She keeps calm and collected after the event
 - She breaks after murder of Lady Macduff and children
 - He's no longer under her control
+- Lady Macbeth is cool, calm and collected after each murder
+- She convinced Macbeth to kill the king (Duncan)
+- Without her helping him after killing Duncan he would have got caught or confessed to his crime
+- After the death of Banquo she helps Macbeth by covering for him at the ball and reassuring him that he's not going insane
+- Sleepwalking scene shows the collapse character and their relationship
+- Stress becomes too much for her
+- Blood on her hands and she can't wash it off
+- She descended into madness
+- Even though shes a bad person there's a line she won't cross and when it's crossed she breaks down completely and looses all sense of reality
+- She warned Macbeth not to believe what he was seeing at Banquet scene to prevent him from going crazy but in the end she was the one who descented into madness
