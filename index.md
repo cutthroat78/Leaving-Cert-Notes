@@ -43,6 +43,8 @@
 | 13:30 | French / Engineering     | Business                        | 4 Way Split                     | English                         | English                           |
 | 14:30 | English                  | 4 Way Split                     |                                 | French / Engineering            | Maths                             |
 
+![Mock Timetable](mock-timetable.jpeg)
+
 # Calendar
 
 | Event | Information | Date | Time |
