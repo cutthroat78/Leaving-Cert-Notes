@@ -69,10 +69,27 @@
 | Germany Trip | From Journal, probably just for TY | Tuesday, 09/05/2023 - Tuesday, 16/05/2023 | |
 | Sports Day & Awards | From Journal | Friday, 19/05/2023 | |
 | Summer House Exams | From Journal, we may have to do these, but I am not sure | Monday, 22/05/2023 - Wednesday, 31/05/2023 | |
-| Computer Science Exam | Written Examination Higher and Ordinary Level. Section A & B: 9:30 - 11:00. Section C: 11:30 - 12:30 | Wednesday, 24/05/2023 | 9:30 |
+| Computer Science Exam | Written Examination Higher and Ordinary Level. Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 | Wednesday, 24/05/2023 | 9:30 |
 | 6th Year Graduation | From Journal | Thursday, 25/05/2023 | TBC | 
 | State Exams Commence | From Paul | Wednesday, 07/06/2023 | |
 | Debs | Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
+
+# Calendar of Practicals and Exam Dates (At the Moment, Only Subjects I do)
+
+| Date | Subject | Info | Time |
+|-|-|-|-|
+| Monday, 20/03/2023 - Friday, 31/03/2023 | Music | Practical Tests | TBA |
+| Wednesday, 23/03/2023 | Computer Science | Coursework Project Due Date | |
+| Saturday, 01/04/2023 - Thursday, 06/04/2023 | French | Oral Test | TBA |
+| Wednesday, 24/05/2023 | Computer Science | State Exam | Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 |
+| Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
+| Thursday, 08/06/2023 | English | Paper 2 State Exam | 14:00 - 17:20 |
+| Friday, 09/06/2023 | Maths | Paper 1 State Exam | 14:00 - 16:30 |
+| Monday, 12/06/2023 | Maths | Paper 2 State Exam | 09:00 - 12:00 |
+| Tuesday, 13/06/2023 | Biology | State Exam | 14:00 - 17:00 |
+| Wednesday, 14/06/2023 | French | State Exam | Written: 09:30 - 12:00, Listening: 12:10 - 12:50 |
+| Thursday, 15/06/2023 | Business | State Exam | 09:30 - 12:30 |
+| Thursday, 22/06/2023 | Music | State Exam | Listening: 13:30 - 15:00, Composing: 15:15 - 16:45 |
 
 ![2023 Exam Timetable](2023-exam-timetable.jpg)
 
