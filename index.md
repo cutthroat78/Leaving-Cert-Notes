@@ -49,14 +49,11 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Science Students UCD | From Journal | Monday, 23/01/2023 - Friday, 27/01/2023 | |
 | School Closed | From Journal | Friday, 03/02/2023 | |
 | Bank Holiday - St Brigid's Day | From Journal | Monday, 06/02/2023 | |
-| Mock Exams Begin | From Paul, Mock to take place 10 days before SEC oral | Tuesday, 07/02/2023 | |
-| 3th & 6th Year Mocks | From Journal | Tuesday, 07/02/2023 - Friday 10/02/2023 | |
 | SciFest School Event | From Journal | Wednesday, 08/02/2023 | | 
 | Mid-Term Break | From Fran & Journal | Monday, 13/02/2023 - Friday, 17/02/2023 | |
-| Music Class Concert | | Tuesday, 28/02/2023 | |
+| Music Class Romeo and Juliet Concert | Only for the Music Class, each student has to give €10 for the ticket | Tuesday, 28/02/2023 | |
 | German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
 | St. Patrick's Day - School Closed | From Journal | Friday, 17/03/2023 | |
 | Music Practical Week | From Amy & Official, no specific date has been given yet | Monday, 20/03/2023 - Friday, 31/03/2023 | |
@@ -76,7 +73,7 @@
 | State Exams Commence | From Paul | Wednesday, 07/06/2023 | |
 | Debs | Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 
-# Calendar of Practicals and Exam Dates (At the Moment, Only Subjects I do)
+# Calendar of Practicals and Exam Dates (At the Moment, Only Subjects I Do)
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
