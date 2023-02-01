@@ -18,7 +18,9 @@
 
 - [YouTube Playlist (ExamLearn)](https://www.youtube.com/playlist?list=PLIQ2_pWs9yrm7Ao7B57MMlmBZGuVm3jnL)
 
-<!--### Length, Area and Volume-->
+### Length, Area and Volume
+
+- [YouTube Playlist (ExamLearn)](https://www.youtube.com/playlist?list=PLIQ2_pWs9yrm8SWdBZLUXpdnmyh3UuNNh) 
 
 <!--### Real Numbers-->
 
@@ -32,11 +34,17 @@
 
 <!--### Arithmetic-->
 
-<!--### Financial Mathematics-->
+### Financial Mathematics
+
+- [YouTube Playlist (ExamLearn)](https://www.youtube.com/playlist?list=PLIQ2_pWs9yrlo8-l89CXQ7lEwG1fbxmYk)
 
 ### Proof by Induction
 
+- [YouTube Playlist (ExamLearn)](https://www.youtube.com/playlist?list=PLIQ2_pWs9yrnL5WQEgJRIAAKarKwGpXg7)
+
 ### Complex Numbers
+
+- [YouTube Playlist (ExamLearn)](https://www.youtube.com/playlist?list=PLIQ2_pWs9yrmL72NPrVxtFBpWE-Npinrx) 
 
 ### Differential Calculus
 
