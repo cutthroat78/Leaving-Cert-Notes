@@ -13,7 +13,7 @@
     - [Exam Technique Webinar Part 5b](https://youtu.be/Jt2D2twlYFk)
 
 - [Áine's Old Maths Videos for Previous Classes (Requires Teams Login)](https://web.microsoftstream.com/user/41733308-e43d-4e4f-8dca-479fef12ecb4?view=UserVideos)
-  - [Áine's Old Leaving Notes Videos for a Previous Class (Requires Teams Login)](https://web.microsoftstream.com/channel/4f54b6e0-ed98-45e5-8fba-6f60e735de0c)
+  - [Áine's Old Leaving Cert Notes Videos for a Previous Class (Requires Teams Login)](https://web.microsoftstream.com/channel/4f54b6e0-ed98-45e5-8fba-6f60e735de0c)
 
 ## Paper 1
 
