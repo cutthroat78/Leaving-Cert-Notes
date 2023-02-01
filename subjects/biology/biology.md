@@ -1,6 +1,6 @@
 # Biology
 
-![Revision Sheet](biology-revision.jpg)
+![Revision Sheet](biology-revision.png)
 
 The Study of Living Organisms
 - [Syllabus & Exam Structure](syllabus-and-exam-structure.md)
