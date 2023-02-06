@@ -22,11 +22,12 @@
 
 | Subject | What to Do | Due | Done? |
 |-|-|-|-|
-| English | 2019 page 65, General Vision and Viewpoint | Friday, 19/01/2023 | No |
-| Biology | 2022 Q 11 b + c | Monday, 23/01/2023 | No |
-| Biology | Finish sheet we got in class | Monday, 23/01/2023 | No |
-| English | Answer Derek Mahon Poetry question | Thursday, 26/01/2023 | No | 
-| Biology | Take down diagrams + notes from teams on nutrition, sexual and asexual reproduction for rhizopus | Thursday, 26/01/2023 | No |
+|||||
+<!--| English | 2019 page 65, General Vision and Viewpoint | Friday, 19/01/2023 | No |-->
+<!--| Biology | 2022 Q 11 b + c | Monday, 23/01/2023 | No |-->
+<!--| Biology | Finish sheet we got in class | Monday, 23/01/2023 | No |-->
+<!--| English | Answer Derek Mahon Poetry question | Thursday, 26/01/2023 | No |-->
+<!--| Biology | Take down diagrams + notes from teams on nutrition, sexual and asexual reproduction for rhizopus | Thursday, 26/01/2023 | No |-->
 
 # Timetable
 
@@ -49,8 +50,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| School Closed | From Journal | Friday, 03/02/2023 | |
-| Bank Holiday - St Brigid's Day | From Journal | Monday, 06/02/2023 | |
 | SciFest School Event | From Journal | Wednesday, 08/02/2023 | | 
 | Mid-Term Break | From Fran & Journal | Monday, 13/02/2023 - Friday, 17/02/2023 | |
 | Music Class Romeo and Juliet Concert | Only for the Music Class, each student has to give €10 for the ticket | Tuesday, 28/02/2023 | |

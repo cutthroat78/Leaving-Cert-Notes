@@ -4,7 +4,7 @@
 
 ## Tips
 
-<!---
+<!--
 To Do
 - methods:
     - languages: sentence/word mining
@@ -36,4 +36,4 @@ To Do
         - Black and white filters
 - look at brain friendly thinking to find more ways
 - Look through this [https://www.usa.edu/blog/study-techniques/](https://www.usa.edu/blog/study-techniques/)
---->
+-->
