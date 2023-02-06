@@ -48,6 +48,11 @@
 - [Full Play with Modern Translation](texts/macbeth/modern-translation.pdf)
 - [Full Play](texts/macbeth/macbeth.pdf)
 - [Characters](texts/macbeth/characters.md)
+- [Character Profiles](texts/macbeth/macbeth-character-profiles.pdf)
+- [Macbeth LitCharts Notes](texts/macbeth/macbeth-litchart.pdf)
+- [Key Quotes and Important Shakespearean Elements of a Tragedy](texts/macbeth/macbeth-quotes-and-elements-of-a-tragedy.pdf)
+- [Revision Booklet](texts/macbeth/macbeth-revision-booklet.pdf)
+- [Knowledge Organiser](texts/macbeth/macbeth-knowledge-organiser.png)
 ### Poetry
 #### [Adrienne Rich](poetry/adrienne-rich/adrienne-rich.pdf)
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
