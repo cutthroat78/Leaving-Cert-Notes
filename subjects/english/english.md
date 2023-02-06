@@ -59,7 +59,7 @@
 ### Poetry
 #### [Adrienne Rich](poetry/adrienne-rich/adrienne-rich.pdf)
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
-- [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md) - [PowerPoint](poetry/adrienne-rich/aunt-jennifer-tigers.pdf)
+- [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md) - [Slides](poetry/adrienne-rich/aunt-jennifer-tigers.pdf)
 - [The Uncle Speaks in the Drawing Room](poetry/adrienne-rich/the-uncle-speaks-in-the-drawing-room.md)
 - [Our Whole Life](poetry/adrienne-rich/our-whole-life.md)
 - [Trying to Talk with a Man](poetry/adrienne-rich/trying-to-talk-with-a-man.md)
@@ -78,7 +78,7 @@
 - [Antartica](poetry/derek-mahon/antartica.md)
 - [As It Should Be](poetry/derek-mahon/should.md)
 - [Kinsale](poetry/derek-mahon/kinsale.md)
-<!--#### Elizabeth Bishop-->
+<!--#### [Elizabeth Bishop](poetry/elizabeth-bishop/elizabeth-bishop-1.pdf) - [More Slides](poetry/elizabeth-bishop/elizabeth-bishop-2.pdf)-->
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->
 <!--#### Patrick Kavanagh-->
