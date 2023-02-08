@@ -108,6 +108,12 @@
 - [Key Moments Question](example-questions/key-moments-question.md)
 - [Exploration of Theme is Emotionally Engaging Question](example-questions/emotionally-engaging-theme.md)
 - [A Doll's House - Theme Satisfaction Question](example-questions/theme-satisfaction-a-dolls-house.md)
+- [General Vision and Viewpoint - Comparative Study - Macbeth and A Doll's House](example-questions/gvav-macbeth-and-dolls-house.pdf)
+- [General Vision and Viewpoint - Comparative Study - Macbeth and Room](example-questions/gvav-macbeth-and-room.pdf)
+- [Literary Genre - Comparative Study - Macbeth and A Doll's House](example-questions/lg-macbeth-and-dolls-house.pdf)
+- [Literary Genre - Comparative Study - Macbeth and Room](example-questions/lg-macbeth-and-room.pdf)
+- [Theme or Issue: Conflict - Comparative Study - Macbeth and A Doll's House](example-questions/toi-conflict-macbeth-and-dolls-house.pdf)
+- [Theme or Issue: Isolation - Comparative Study - Macbeth and Room](example-questions/toi-isolation-macbeth-and-room.pdf)
 ## Other Resources
 - [Thug Notes](https://www.wisecrack.co/thug-notes) - Videos about Literature/Texts told by a "Gangster"
 - [Aoife's Notes](http://www.aoifesnotes.com/leaving-cert/) - Website with Notes
