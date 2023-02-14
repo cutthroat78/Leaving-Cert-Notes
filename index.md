@@ -51,9 +51,9 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| SciFest School Event | From Journal | Wednesday, 08/02/2023 | | 
-| Mid-Term Break | From Fran & Journal | Monday, 13/02/2023 - Friday, 17/02/2023 | |
 | Music Class Romeo and Juliet Concert | Only for the Music Class, each student has to give €10 for the ticket | Tuesday, 28/02/2023 | |
+| HEAR and DARE (Online) Form Deadline | | Wednesday, 01/03/2023 | 17:00 |
+| HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
 | German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
 | St. Patrick's Day - School Closed | From Journal | Friday, 17/03/2023 | |
 | Music Practical Week | From Amy & Official, no specific date has been given yet | Monday, 20/03/2023 - Friday, 31/03/2023 | |
