@@ -281,3 +281,42 @@
 - Fungi such as athletes foot and ringworm can infect animals
 - Fungi can spoil food
   - e.g. rhizopus grows on bread
+
+## Viruses
+
+- Viruses are infectious agents made up of nucleic acid (DNA or RNA) surrounded by a protein coat
+- Three main virus shapes:
+  - Round
+  - Rod
+  - Complex in shape
+- The basic structure of a virus is:
+  - Not made of cells
+  - Outer protein coat called capsid
+  - Inside capsid is either DNA or RNA
+
+- Virus Reproduction
+1. Bacteriophage attaches to cell surface
+2. It inserts its DNA into the host cell
+3. Viral enzymes destroy host DNA
+4. Phases use host cell machinery to make more viral DNA and protein coats
+5. New viruses are assembled and burst out of hosts to infect other cells
+
+- Three pieces of evidence that suggest that viruses are *living*:
+  1. Possess genetic material DNA or RNA
+  2. Can replicate
+  3. Have a protein coat
+
+- Four pieces of evidence that suggest that viruses are *dead*
+  1. Are non cellular
+  2. Cannot reproduce by themselves
+  3. Only have DNA or RNA, not both
+  4. Don't have mitochondria or chloroplasts
+
+- A bacteriophage is a virus that infects bacteria, but are harmless to humans
+  - Can kill MRSA bacteria (superbugs)
+  - Friendly viruses
+
+- Parasite = Organisms that live in or on another organism causing it harm
+- Obligate Parasite = Has to be a parasite (have a host) e.g. virus
+- Facultative = Doesn't have to be a parasite (have a host) e.g. candida
+- Pathogenic = disease causing
