@@ -293,13 +293,19 @@
   - Not made of cells
   - Outer protein coat called capsid
   - Inside capsid is either DNA or RNA
+  - [Basic Structure of a Virus](diversity-of-organisms/virus-basic-structure.jpg)
 
-- Virus Reproduction
+- Virus (Bacteriophage) Reproduction
 1. Bacteriophage attaches to cell surface
+  - [Bacteriophage Reproduction 1](diversity-of-organisms/bacteriophage-1.jpg)
 2. It inserts its DNA into the host cell
+  - [Bacteriophage Reproduction 2](diversity-of-organisms/bacteriophage-2.jpg)
 3. Viral enzymes destroy host DNA
+  - [Bacteriophage Reproduction 3](diversity-of-organisms/bacteriophage-3.jpg)
 4. Phases use host cell machinery to make more viral DNA and protein coats
+  - [Bacteriophage Reproduction 4](diversity-of-organisms/bacteriophage-4.jpg)
 5. New viruses are assembled and burst out of hosts to infect other cells
+  - [Bacteriophage Reproduction 5](diversity-of-organisms/bacteriophage-5.jpg)
 
 - Three pieces of evidence that suggest that viruses are *living*:
   1. Possess genetic material DNA or RNA
