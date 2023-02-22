@@ -49,7 +49,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Glendalouch Walk | Originally Kayaking, but changed to a walk in Glendalough | Thursday. 21/02/2023 | 09:00 |
 | Music Class Romeo and Juliet Concert | Only for the Music Class, each student has to give €10 for the ticket | Tuesday, 28/02/2023 | |
 | HEAR and DARE (Online) Form Deadline | | Wednesday, 01/03/2023 | 17:00 |
 | HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
