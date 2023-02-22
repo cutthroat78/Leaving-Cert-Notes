@@ -3,7 +3,7 @@
 - [Diary/Journal Entry](diary-entry.md)
 - [The Opinion Question](opinion-question.md)
 - [Oral Exam](oral-exam.md)
-  - [Revision Sheets (From Pauline)](pauline-revision-sheets.md)
+- [Revision Sheets (From Pauline)](pauline-revision-sheets.md)
 
 ## Grammar
 
