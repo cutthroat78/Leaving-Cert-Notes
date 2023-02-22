@@ -39,6 +39,8 @@
 
 ## La maison et le quartier (The House and The Area)
 
+### La maison (The House)
+
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
 | Où habitez-vous? | | | |
@@ -47,6 +49,19 @@
 | Est-ce que vous avez votre propre chambre? Décrivez votre chambre | | | |
 | Quelle est votre pièces préférée à la maison? Pourquoi? | | | |
 | Est-ce que vous habitez loin de l'école? | | | |
+| Comment sont vos voisins? |  |  |  |
+
+### Le Quartier  (The Area)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Décrivez votre quartier |  |  |  |
+| Est-ce qu'il y a des choses a faire pour les jeunes dans votre quartier? |  |  |  |
+| Est-ce que vous aimez votre quartier? |  |  |  |
+| Aimeriez-vous habiter a la campagne / en ville (conditionnel) |  |  |  |
+| Est-ce qu'il y a beaucoup de problèmes sociaux dans votre quartier? Si oui, lesquels? |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ---
 
