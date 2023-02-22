@@ -34,15 +34,19 @@
 | Qu'est-ce que vous faites pour aider vos parents avec le ménage? | | | |
 | Qu'est-ce que vous n'aimez pas faire comme tache ménagère? | | | |
 | Est-ce que vous recevez de l'argent de poche? | | | |
-|  | | | |
-|  | | | |
+| Comment dépensez-vous votre argent de poche? | | | |
+| Est-ce vous devez travailler pour gagner de l'argent de poche? Que faites-vous? | | | |
 
 ## La maison et le quartier (The House and The Area)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
 | Où habitez-vous? | | | |
-|  | | | |
+| Décrivez votre maison / appartement | | | |
+| Est-ce que vous aimez votre maison / appartement? | | | |
+| Est-ce que vous avez votre propre chambre? Décrivez votre chambre | | | |
+| Quelle est votre pièces préférée à la maison? Pourquoi? | | | |
+| Est-ce que vous habitez loin de l'école? | | | |
 
 ---
 
