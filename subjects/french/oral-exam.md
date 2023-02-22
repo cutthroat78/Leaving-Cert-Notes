@@ -1,5 +1,51 @@
 # Oral Exam
 
+- The oral exam lasts between **twelve and fifteen** minutes
+- It's about having **a real conversation** with your examiner - not giving a series of speeches you've memorized
+- To do this, **you must know how to answer** the following questions in a convincing way
+- After **a general conversation** we then move on to your 'document': a photo (personal or from a newspaper), a press article, a poem, a song, a file on any aspect of life in France or a French-speaking country
+
+## Parlez de soi (Talking about yourself)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Comment vous appelez-vous? | What is your name? | Je m'appelle _ (et mon nom de famille est _) | My name is _ (and my surname/family name is _) |
+| Quel âge aves-vous? | What is your age? | J'ai _ ans | I am _ years old |
+| Quelle est la date de votre anniversarie? | | | |
+| Vous êtes né(e) en quelle année? (passé composé) | | | |
+| Vous êtes de quel signe du zodiaque? | | | |
+| Quand aurez-vous dix-huit / dix-neuf (futur simple) | | | |
+| Pouvez-vous vous décrire? | | | |
+| Parlez-moi un peu de votre personnalité | | | |
+
+## La Famille (The Family)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Il y a combien de personnes dans votre famille? | | | |
+| Est-ce que vous avez des frères et des sœurs? | | | |
+| Parlez-moi un peu de votre frère ou de votre sœur | | | |
+| Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | | | |
+| Pourquoi est-ce que vous vous disputez avec vos frères ou sœurs? | | | |
+| Parlez-moi de vos parents*** | | | |
+| Quels sont les avantages d'être l'ainé(e) / le cadet / la cadette de la famille? | | | |
+| Est-ce que vous entendez bien avec vos parents? | | | |
+| Est-ce que vous avez un animal domestique à la maison? Parlez-moi un peu de lui/d'elle | | | |
+| Qu'est-ce que vous faites pour aider vos parents avec le ménage? | | | |
+| Qu'est-ce que vous n'aimez pas faire comme tache ménagère? | | | |
+| Est-ce que vous recevez de l'argent de poche? | | | |
+|  | | | |
+|  | | | |
+
+## La maison et le quartier (The House and The Area)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Où habitez-vous? | | | |
+|  | | | |
+
+---
+
 ## Script
 
 This script is a template/guide/example, modify it for it to work best for you in the oral exam
