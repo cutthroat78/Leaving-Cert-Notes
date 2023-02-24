@@ -22,20 +22,20 @@
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
-| Il y a combien de personnes dans votre famille? | | | |
-| Est-ce que vous avez des frères et des sœurs? | | | |
-| Parlez-moi un peu de votre frère ou de votre sœur | | | |
-| Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | | | |
-| Pourquoi est-ce que vous vous disputez avec vos frères ou sœurs? | | | |
-| Parlez-moi de vos parents*** | | | |
-| Quels sont les avantages d'être l'ainé(e) / le cadet / la cadette de la famille? | | | |
-| Est-ce que vous entendez bien avec vos parents? | | | |
-| Est-ce que vous avez un animal domestique à la maison? Parlez-moi un peu de lui/d'elle | | | |
-| Qu'est-ce que vous faites pour aider vos parents avec le ménage? | | | |
-| Qu'est-ce que vous n'aimez pas faire comme tache ménagère? | | | |
-| Est-ce que vous recevez de l'argent de poche? | | | |
-| Comment dépensez-vous votre argent de poche? | | | |
-| Est-ce vous devez travailler pour gagner de l'argent de poche? Que faites-vous? | | | |
+| Il y a combien de personnes dans votre famille? | | Il y a _ personnes dans ma famille | |
+| Est-ce que vous avez des frères et des sœurs? | | J'ai _ sœur(s) / Je n'ai pas de sœur et j'ai _ frère(s) / je n'ai pas de frère | |
+| Parlez-moi un peu de votre frère ou de votre sœur | | Mon frère s'appelle John, il a 24 ans, il est informaticien. | |
+| Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | |  | |
+| Pourquoi est-ce que vous vous disputez avec vos frères ou sœurs? | |  | |
+| Parlez-moi de vos parents*** | |  | |
+| Quels sont les avantages d'être l'ainé(e) / le cadet / la cadette de la famille? | |  | |
+| Est-ce que vous entendez bien avec vos parents? | |  | |
+| Est-ce que vous avez un animal domestique à la maison? Parlez-moi un peu de lui/d'elle | |  | |
+| Qu'est-ce que vous faites pour aider vos parents avec le ménage? | |  | |
+| Qu'est-ce que vous n'aimez pas faire comme tache ménagère? | |  | |
+| Est-ce que vous recevez de l'argent de poche? | |  | |
+| Comment dépensez-vous votre argent de poche? | |  | |
+| Est-ce vous devez travailler pour gagner de l'argent de poche? Que faites-vous? | |  | |
 
 ## La maison et le quartier (The House and The Area)
 
@@ -60,10 +60,86 @@
 | Est-ce que vous aimez votre quartier? |  |  |  |
 | Aimeriez-vous habiter a la campagne / en ville (conditionnel) |  |  |  |
 | Est-ce qu'il y a beaucoup de problèmes sociaux dans votre quartier? Si oui, lesquels? |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Quels sont les avantages d'habiter en ville / a la campagne? |  |  |  |
+| Que voudriez-vous améliorer dans votre quartier? (conditionnel) |  |  |  |
+
+## Les passe-temps et les amis (Hobbies and Friends)
+
+### Les passe-temps (Hobbies)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Parlez-moi un peu de vos passe-temps | | | |
+| Quel est votre passe-temps préféré? | | | |
+| Qu'est-ce que vous aimez faire pendant votre temps libre / pour vous détendre? | | | |
+| A votre avis, est-il important d'avoir un passe-temps en terminale? | | | |
+| Qu'est-ce que *vous faites* le week-end pour vous amuser? (présent) | | | |
+| Qu'est-ce que *vous avez fait* le week-end dernier pour vous amuser? (passé composé) | | | |
+| Qu'est-ce que *vous allez* faire ce week-end? (futur proche) | | | |
+
+
+### Les amis (Friends)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Est-ce que vous avez un meiller ami / une meilleure amie? | | | |
+| Décrivez votre ami(e) | | | |
+| Depuis quand êtes-vous ami(e)s | | | |
+| Est-ce que vous partagez les mêmes gouts? | | | |
+| Qu'est-ce que vous aimez faire ensemble? | | | |
+| Est-ce que vous un(e) petit(e) ami(e)? Parlez un peu d'elle / de lui | | | |
+
+## L'école et l'avenir (School and the Future)
+
+### L'école (School)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Parlez-moi un peu de votre école | | | |
+| Aimez-vous cette école? Pourquoi / pourquoi pas? | | | |
+| Il y a combien d'élèves / de profs dans votre école? | | | |
+| Est-ce qu'il y a de bons rapports entre les profs et les élèves?| | | |
+| Est-ce que votre école a de bons équipements (installations)? | | | |
+| Quelles sont les matières que vous étudiez? | | | |
+| Quelles est votre matières préférée? Pourquoi? | | | |
+| Est-ce qu'il a une matière que vous n'aimez pas? Pourquoi? | | | |
+| Décrivez votre uniforme | | | |
+| A votre avis, est-ce que c'est une bonne idée de porter un uniforme? | | | |
+| Décrivez le règlement intérieur de votre école. Est-il juste? | | | |
+| Est-ce que l'année de terminale est une année difficile pour vous? Pourquoi? | | | |
+
+### L'avenir (The Future)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Qu'est-ce que vous ferez l'année prochaine? | | | |
+| Est-ce que vous allez aller à l'université ou a un institut universitaire de technologie? | | | |
+| Qu'est-ce que vous pensez du système de points en Irlande? | | | |
+| Aimeriez-vous faire une partie de vos études dans un autre pays? (conditionnel) | | | |
+| Quel métier souhaitez-vous faire? Pourquoi? | | | |
+| Quelles sont les qualités nécessaires pour ce travail? | | | |
+| A votre avis, quels sont les avantages de ce métier? | | | |
+| Quels sont les inconvénients de ce métier? | | | |
+| *Aimeriez-vous* travailler à l'étranger? Pourquoi (pas)? (conditionnel) | | | |
+
+### Une journée typique (A Typical Day)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Décrivez une journée typique a l'école | | | |
+| Décrivez ce que vous faites le week-end | | | |
+
+### Le sport (Sport)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Quel(s) sport(s) pratiquez-vous? | | | |
+| Quel est votre sport préféré? Pourquoi? | | | |
+|  | | | |
 
 ---
+
+## The rest of this page is from an older booklet that Paul gave us before the current booklet we are using
 
 ## Script
 
