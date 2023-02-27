@@ -1,5 +1,5 @@
 # Business
-- [Answering Exam Questions](answering-exam-questions.md)
+- [Answering Exam Questions](answering-exam-questions.md) <!--No Anki-->
 - [Definitions List](definitions/definitions.pdf)
 ## Unit 1: Introduction to People in Business - [Definitions](definitions/unit-1-definitions.pdf) - [Padlet](https://padlet.com/grahammaher/wh79o1thg564lb9t)
 - [1. People in Business](unit-1/01-people-in-business.md) - [Slides](slides/unit-1/01-people-in-business.pdf) - [Revision Material](revision-material/01-revision-material.pdf) - In Anki
@@ -39,4 +39,5 @@
 <!-- [27. The Applied Business Question (ABQ)]() - [Slides]()-->
 
 ## Other Resources
-- [SGC Business Notes](https://sgcbusiness.com/business-notes/) - Website with Notes 
+- [SGC Business Notes](https://sgcbusiness.com/business-notes/) - Website with Notes
+- [Gavin Duffy LC Business - Mastering the ABQ](https://gavinduffybusiness.com/pages/mastering-the-2022-abq)
