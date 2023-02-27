@@ -1,25 +1,25 @@
 # Biology
 
 The Study of Living Organisms
-- [Syllabus & Exam Structure](syllabus-and-exam-structure.md)
-- [Study and Exam Tips (From Teachers)](tips.md)
-- [Definitions List](terms-and-definitions/biology-definitions.pdf)
-  - [‘MUST KNOW’ Biology Terms](terms-and-definitions/need-to-know-definitions.pdf)
+- [Syllabus & Exam Structure](syllabus-and-exam-structure.md) <!--No Anki-->
+- [Study and Exam Tips (From Teachers)](tips.md) <!--No Anki-->
+- [Definitions List](terms-and-definitions/biology-definitions.pdf) (In Anki)
+  - [‘MUST KNOW’ Biology Terms](terms-and-definitions/need-to-know-definitions.pdf) <!--No Anki-->
 ## Unit 1 - The Study of Life - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
-- [(A Search for a) Definition of Life & Characteristics of Life](unit-1/a-search-for-a-definition-of-life.md) (In Anki) - [Slides](slides/unit-1/characteristics-of-life.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/characteristics-of-life.md)
-- [Scientific Method](unit-1/scientific-method.md) (In Anki) - [Slides](slides/unit-1/scientific-method.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/scientific-method.md)
-- [Nutrition (& Food)](unit-1/nutrition.md) - [Slides](slides/unit-1/nutrition.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/nutrition.md) - [Crossword](other/nutrition-crossword.pdf)
-### Ecology - [Terms & Definitions](terms-and-definitions/unit-1/ecology.md)
+- [(A Search for a) Definition of Life & Characteristics of Life](unit-1/a-search-for-a-definition-of-life.md) (In Anki) - [Slides](slides/unit-1/characteristics-of-life.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/characteristics-of-life.md) (In Anki)
+- [Scientific Method](unit-1/scientific-method.md) (In Anki) - [Slides](slides/unit-1/scientific-method.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/scientific-method.md) (In Anki)
+- [Nutrition (& Food)](unit-1/nutrition.md) - [Slides](slides/unit-1/nutrition.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/nutrition.md) (In Anki) - [Crossword](other/nutrition-crossword.pdf)
+### Ecology - [Terms & Definitions](terms-and-definitions/unit-1/ecology.md) (In Anki)
 - [Ecology, Ecosystem, Biosphere, Habitat & Niche](unit-1/ecology-ecosystem-biosphere-habitiat-and-niche.md) - [Slides](slides/unit-1/ecology-ecosystem-biosphere-habitat-&-niche.pdf)
 - [Environmental Factors](unit-1/environmental-factors.md) - [Slides](slides/unit-1/environmental-factors.pdf)
 - [Nutrient Recycling](unit-1/nutrient-recycling.md) - [Slides](slides/unit-1/nutrient-recycling.pdf)
 - [Pyramid of Numbers](unit-1/pyramid-of-numbers.md) - [Slides](slides/unit-1/pyramid-of-numbers.pdf)
 
 ## Unit 2 - The Cell - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1dnBCtGOPCN-ak7TARs-wu1)
-- [The Cell](unit-2/the-cell.md) - [Slides](slides/unit-2/the-cell.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/the-cell.md)
+- [The Cell](unit-2/the-cell.md) - [Slides](slides/unit-2/the-cell.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/the-cell.md) (In Anki)
 - [Respiration](unit-2/respiration.md) - [Slides](slides/unit-2/respiration.pdf)
 - [Cell Division](unit-2/cell-division.md) - [Slides](slides/unit-2/cell-division.pdf)
-- [Genetic Inheritance](unit-2/genetic-inheritance.md) - [Slides](slides/unit-2/genetic-inheritance.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/genetics.md)
+- [Genetic Inheritance](unit-2/genetic-inheritance.md) - [Slides](slides/unit-2/genetic-inheritance.pdf) - [Terms & Definitions](terms-and-definitions/unit-2/genetics.md) (In Anki)
 - [DNA and RNA](unit-2/dna.md) - [Slides](slides/unit-2/dna.pdf)
 - [Variation and Evolution](unit-2/variation.md) - [Slides](slides/unit-2/variation.pdf)
 - [Photosynthesis](unit-2/photosynthesis.md) - [Slides](slides/unit-2/photosynthesis.pdf)
@@ -29,13 +29,13 @@ The Study of Living Organisms
 
 ## Unit 3 - The Organism - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1f_J5DHWRNb_mcZw_2pYtO8)
 - [Skeletal System](unit-3/skeletal-system.md) - [Slides](slides/unit-3/skeletal-system.pdf)
-- [Digestive System](unit-3/digestive-system.md) - [Slides](slides/unit-3/digestive-system.pdf) - [Terms & Definitions](terms-and-definitions/unit-3/digestive-system.md)
+- [Digestive System](unit-3/digestive-system.md) - [Slides](slides/unit-3/digestive-system.pdf) - [Terms & Definitions](terms-and-definitions/unit-3/digestive-system.md) (In Anki)
 - [Enzymes & Metabolism](unit-3/enzymes-and-metabolism.md) - [Slides](slides/unit-3/enzymes-and-metabolism.pdf)
-- [Circulatory System](unit-3/circulatory-system.md) - [Slides](slides/unit-3/circulatory-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/circulatory-system.md)
+- [Circulatory System](unit-3/circulatory-system.md) - [Slides](slides/unit-3/circulatory-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/circulatory-system.md) (In Anki)
   - [Flashcards (From Teacher)](unit-3/circulatory-system.md#flashcards-from-teacher)
 - [Movement of Molecules Across Cell Membranes](unit-3/movement-of-molecules-across-cell-membranes.md) - [Slides](slides/unit-3/movement-of-molecules-across-cell-membranes.pdf)
 - [Homeostasis](unit-3/homeostasis.md) - [Slides](slides/unit-3/homeostasis.pdf)
-- [Breathing System](unit-3/breathing-system.md) - [Slides](slides/unit-3/breathing-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/breathing-system.md)
+- [Breathing System](unit-3/breathing-system.md) - [Slides](slides/unit-3/breathing-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/breathing-system.md) (In Anki)
 - [Excretion](unit-3/excretion.md) - [Slides (Poster)](slides/unit-3/excretion.pdf)
 ## Experiments
 - [Plant (Onion) Cells](experiments/plant-onion-cells.md)
