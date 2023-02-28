@@ -38,14 +38,15 @@ The Study of Living Organisms
 - [Breathing System](unit-3/breathing-system.md) - [Slides](slides/unit-3/breathing-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/breathing-system.md) (In Anki)
 - [Excretion](unit-3/excretion.md) - [Slides (Poster)](slides/unit-3/excretion.pdf)
 ## Experiments
-- [Plant (Onion) Cells](experiments/plant-onion-cells.md)
+- [Plant (Onion) Cells](experiments/plant-onion-cells.md) - [Video](https://youtu.be/uEnyHL9yBsI)
     - [Cell Pictures](experiments/plant-onion-cells/cell-pictures/cell-pictures.md)
-- [Osmosis Demonstration](experiments/osmosis-demonstration.md)
+- [Osmosis Demonstration](experiments/osmosis-demonstration.md) - [Video](https://youtu.be/atf1npo1IOA)
 - [Heart Dissection](experiments/heart-dissection.md)
 - [Breathing Rate](experiments/breathing-rate.md)
 - [Ecology Module](experiments/ecology-module.md)
-- [Isolate DNA from a plant tissue](experiments/isolating-dna.md)
+- [Isolate DNA from a Plant Tissue](experiments/isolating-dna.md) - [Video](https://youtu.be/hDV7EhINZww)
 - [Photosynthesis](experiments/photosynthesis.md)
+- Fermentation of Alcohol - [Video](https://youtu.be/yTnQrh36S58)
 #### Food Tests
 - [A Test for Starch](experiments/food-tests/starch.md)
 - [A Test for Protein](experiments/food-tests/protein.md)
