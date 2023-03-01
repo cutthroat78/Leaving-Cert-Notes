@@ -9,20 +9,20 @@
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
-| Comment vous appelez-vous? | What is your name? | Je m'appelle _ (et mon nom de famille est _) | My name is _ (and my surname/family name is _) |
-| Quel âge aves-vous? | What is your age? | J'ai _ ans | I am _ years old |
-| Quelle est la date de votre anniversarie? | | | |
-| Vous êtes né(e) en quelle année? (passé composé) | | | |
-| Vous êtes de quel signe du zodiaque? | | | |
-| Quand aurez-vous dix-huit / dix-neuf (futur simple) | | | |
-| Pouvez-vous vous décrire? | | | |
-| Parlez-moi un peu de votre personnalité | | | |
+| Comment vous appelez-vous? | What is your name? | Je m'appelle Matthew (et mon nom de famille est Renehan) | My name is Matthew (and my surname/family name is Renehan) |
+| Quel âge aves-vous? | What is your age? | J'ai dix-neuf ans | I am 19 years old |
+| Quelle est la date de votre anniversarie? | What is your birthday? | Mon anniversarie est le neuf janvier | My birthday is the ninth of Janurary |
+| Vous êtes né(e) en quelle année? (passé composé) | What year were you born? | Je suis né en deux mille quatre | I was born in 2004 |
+| Vous êtes de quel signe du zodiaque? | What zodiac sign are you? | Mon signe du zodiaque est capricorne | My zodiac sign is capricorn |
+| Quand aurez-vous dix-huit / dix-neuf / vingt? (futur simple) | When will you be 18 / 19 / 20? | J'aurai vingt ans l'an prochain, le 9 janvier, dans _ mois | I will be twenty next year, on January 9th, in _ months |
+| Pouvez-vous vous décrire? | Can you describe yourself? | | |
+| Parlez-moi un peu de votre personnalité | Tell me a bit about your personality | | |
 
 ## La famille (The Family)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
-| Il y a combien de personnes dans votre famille? | | Il y a _ personnes dans ma famille | |
+| Il y a combien de personnes dans votre famille? | How many people are there in your family? | Il y a neuf personnes dans ma famille | There are 9 people in my family |
 | Est-ce que vous avez des frères et des sœurs? | | J'ai _ sœur(s) / Je n'ai pas de sœur et j'ai _ frère(s) / je n'ai pas de frère | |
 | Parlez-moi un peu de votre frère ou de votre sœur | | Mon frère s'appelle John, il a 24 ans, il est informaticien. | |
 | Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | |  | |
@@ -51,7 +51,7 @@
 | Est-ce que vous habitez loin de l'école? | | | |
 | Comment sont vos voisins? |  |  |  |
 
-### Le quartier  (The Area)
+### Le quartier (The Area)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
@@ -220,7 +220,7 @@
 
 ---
 
-## The rest of this page is from an older booklet that Paul gave us before the current booklet we are using
+## The rest of this page is from an older booklet that the teacher gave us before the current booklet we are using
 
 ## Script
 
