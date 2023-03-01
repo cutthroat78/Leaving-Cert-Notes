@@ -49,8 +49,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Music Class Romeo and Juliet Concert | Only for the Music Class, each student has to give €10 for the ticket | Tuesday, 28/02/2023 | |
-| HEAR and DARE (Online) Form Deadline | | Wednesday, 01/03/2023 | 17:00 |
 | HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
 | German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
 | St. Patrick's Day - School Closed | From Journal | Friday, 17/03/2023 | |
@@ -59,8 +57,8 @@
 | School Closes for Easter Holidays | From Journal | Friday, 31/03/2023 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
 | Language Oral Week | Oral Week for Irish, French, German, Spanish, Italian, Russian, Japanese, Mandarin Chinese, Lithuanian, Portuguese and Polish | Saturday, 01/04/2023 - Thursday, 06/04/2023 | |
-| Language Oral Contingency Days | I don't know what this is | Wednesday, 19/04/2023 - Thursday, 20/04/2023 | |
 | School re-opens for Easter Holiday | From Journal | Monday, 17/04/2023 | |
+| Language Oral Contingency Days | I don't know what this is | Wednesday, 19/04/2023 - Thursday, 20/04/2023 | |
 | SciFest College Event | From Journal | Thursday, 20/04/2023 | |
 | Public Holiday | From Journal | Monday, 01/05/2023 | |
 | Germany Trip | From Journal, probably just for TY | Tuesday, 09/05/2023 - Tuesday, 16/05/2023 | |
