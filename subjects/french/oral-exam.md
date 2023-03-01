@@ -18,7 +18,7 @@
 | Pouvez-vous vous décrire? | | | |
 | Parlez-moi un peu de votre personnalité | | | |
 
-## La Famille (The Family)
+## La famille (The Family)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
@@ -51,7 +51,7 @@
 | Est-ce que vous habitez loin de l'école? | | | |
 | Comment sont vos voisins? |  |  |  |
 
-### Le Quartier  (The Area)
+### Le quartier  (The Area)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
@@ -73,9 +73,9 @@
 | Quel est votre passe-temps préféré? | | | |
 | Qu'est-ce que vous aimez faire pendant votre temps libre / pour vous détendre? | | | |
 | A votre avis, est-il important d'avoir un passe-temps en terminale? | | | |
-| Qu'est-ce que *vous faites* le week-end pour vous amuser? (présent) | | | |
-| Qu'est-ce que *vous avez fait* le week-end dernier pour vous amuser? (passé composé) | | | |
-| Qu'est-ce que *vous allez* faire ce week-end? (futur proche) | | | |
+| Qu'est-ce que **vous faites** le week-end pour vous amuser? (présent) | | | |
+| Qu'est-ce que **vous avez fait** le week-end dernier pour vous amuser? (passé composé) | | | |
+| Qu'est-ce que **vous allez** faire ce week-end? (futur proche) | | | |
 
 
 ### Les amis (Friends)
@@ -120,22 +120,103 @@
 | Quelles sont les qualités nécessaires pour ce travail? | | | |
 | A votre avis, quels sont les avantages de ce métier? | | | |
 | Quels sont les inconvénients de ce métier? | | | |
-| *Aimeriez-vous* travailler à l'étranger? Pourquoi (pas)? (conditionnel) | | | |
+| **Aimeriez-vous** travailler à l'étranger? Pourquoi (pas)? (conditionnel) | | | |
 
-### Une journée typique (A Typical Day)
+## Une journée typique (A Typical Day)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
 | Décrivez une journée typique a l'école | | | |
 | Décrivez ce que vous faites le week-end | | | |
 
-### Le sport (Sport)
+## Le sport (Sport)
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
 | Quel(s) sport(s) pratiquez-vous? | | | |
 | Quel est votre sport préféré? Pourquoi? | | | |
-|  | | | |
+| Est-ce que vous jouez pour votre école ou votre club local? | | | |
+| Combien de fois par semaine vous entrainez-vous? | | | |
+| Quelles sont les installations sportives que vous avez dans cette école? | | | |
+| Est-ce que votre école est forte en sport? | | | |
+| Est-ce que vous faites réguilièrement du sport? | | | |
+| A votre avis, est-ce qu'il est important de faire du sport? | | | |
+| Pourquoi est-ce que vous aimez / n'aimez pas le sport? | | | |
+| Est-ce que vous etes supporter d'une équipe? Si oui, laquelle? | | | |
+| Quel(s) sport(s) regardez-vous à la télé? | | | |
+| A votre avis, est-ce qu'il y a trop de sport à la télé? | | | |
+
+## La musique et les livres (Music and Books)
+
+### La musique (Music)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Est-ce que vous aimez la musique? | | | |
+| Quel genre de musique aimez-vous? | | | |
+| Qui est votre chanteur / chanteuse préféré(e)? | | | |
+| Avez-vous déjà assisté a un concert? (passé composé) | | | |
+| Est-ce que vous etes déjà allé a un festival de musique? Lequel? (passé composé) | | | |
+| Est-ce que vous jouez d'un instrument de musique? Si oui, lequel? | | | |
+
+### Les livres (Books)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Est-ce que vous aimez la lecture? | | | |
+| Quel est le dernier livre que vous **avez-lu**? (passé composé) | | | |
+| Parlez-moi un peu de l'intrigue de ce livre | | | |
+
+## Les vacances (Vacations)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| En général, ou est-ce que vous partez en vacances? | | | |
+| Qu'est-ce que vous aimes faire en vacances? | | | |
+| Qu'est-ce que vous etes allé(e) en vacances, l'été dernier? (passé composé) | | | |
+| Qu'est-ce que vous avez fait pendant les vacances? (passé composé) | | | |
+| Ou irez-vous en vacances cet été? (futur simple) | | | |
+| Que ferez-vous pendant ces vacances? (futur simple) | | | |
+| Quels pays étrangers avez-vous visités? | | | |
+| Est-ce que vous **avez** déjà **visité** la France? Si oui, décrivez votre séjour (passé composé) | | | |
+
+## La télévision et le cinéma (Television and Cinema)
+
+### La télévision (Television)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Est-ce que vous aimez la télévision? | | | |
+| Est-ce que vous regardez souvent la télévision? | | | |
+| Qu'est-ce que vous regardez | | | |
+| Aimez-vous regarder des séries en ligne sur des sites comme Netflix / NOW / Disney+ / (etc.)? | | | |
+| Quel genre d'émission aimez vous? | | | |
+| Quelle est-votre émission préférée? Pourquoi? | | | |
+| Que pensez-vous de la télé réalité? | | | |
+| Est-ce que vous regardez les infos? | | | |
+
+## Le cinéma (Cinema)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Vous allez souvent au cinéma? | | | |
+| Quels genres de films aimez-vous ? | | | |
+| Quel est votre film préféré? Pourquoi? | | | |
+| Quel est le dernier film que vous **avez vu**? (passé composé) | | | |
+| Parlez-moi un peu de l'intrigue de ce film. Quel est votre personnage préféré? | | | |
+
+## Le travail et les petits boulots (Work and Part Time Jobs)
+
+| Question | Question in English | Answer | Answer in English |
+|-|-|-|-|
+| Est-ce que vous avez un petit boulot? | | | |
+| Ou travaillez-vous? | | | |
+| Qu'est-ce que vous faites au travail? | | | |
+| Est-ce que vous etes bien payé(e)? | | | |
+| Comment dépensez-vous l'argent que vous gagnez? | | | |
+| Envisagez-vous de faire ce métier plus tard dans la vie? | | | |
+| Pensez-vous que c'est une bonne idée de travailler en terminale? | | | |
+| Est-ce que vous avez fait un stage pendant l'année de transition? (passé composé) Parlez-moi un peu de ce stage | | | |
 
 ---
 
