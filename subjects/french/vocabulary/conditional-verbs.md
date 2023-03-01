@@ -1,6 +1,6 @@
 # Conditional Verbs
 
-| French | English
+| French | English |
 |----------------------|-----------------|
 | I would go           | j'irais       |
 | I would have         | j'aurais      |
