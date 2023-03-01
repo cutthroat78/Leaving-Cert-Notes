@@ -38,6 +38,7 @@
 - [To Present Yourself (Vocabulary)](vocabulary/to-present-yourself.md) <!--In Anki-->
 - [Descriptions](vocabulary/descriptions.md) <!--In Anki-->
 - [Question Words](vocabulary/question-words.md)
+- [Too Good to Go](vocabulary/too-good-to-go.md)
 - [Personality Adjectives (Qualities & Faults)](vocabulary/personality-adjectives.md) <!--In Anki-->
 - [The Family](vocabulary/family/family.md) <!--In Anki-->
   - [Family Dynamics](vocabulary/family/family-dynamics.md) <!--In Anki-->
