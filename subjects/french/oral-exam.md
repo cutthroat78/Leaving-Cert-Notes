@@ -9,13 +9,13 @@
 
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
-| Comment vous appelez-vous? | What is your name? | Je m'appelle Matthew (et mon nom de famille est Renehan) | My name is Matthew (and my surname/family name is Renehan) |
-| Quel âge aves-vous? | What is your age? | J'ai dix-neuf ans | I am 19 years old |
-| Quelle est la date de votre anniversarie? | What is your birthday? | Mon anniversarie est le neuf janvier | My birthday is the ninth of Janurary |
-| Vous êtes né(e) en quelle année? (passé composé) | What year were you born? | Je suis né en deux mille quatre | I was born in 2004 |
-| Vous êtes de quel signe du zodiaque? | What zodiac sign are you? | Mon signe du zodiaque est capricorne | My zodiac sign is capricorn |
-| Quand aurez-vous dix-huit / dix-neuf / vingt? (futur simple) | When will you be 18 / 19 / 20? | J'aurai vingt ans l'an prochain, le 9 janvier, dans _ mois | I will be twenty next year, on January 9th, in _ months |
-| Pouvez-vous vous décrire? | Can you describe yourself? | | |
+| Comment vous appelez-vous? | What is your name? | Je m'appelle _ | My name is _ |
+| Quel âge aves-vous? | What is your age? | J'ai _ ans | I am _ years old |
+| Quelle est la date de votre anniversarie? | What is your birthday? | Mon anniversarie c'est le _ [jour] _ [mois] | My birthday is the _ of _ |
+| Vous êtes né(e) en quelle année? (passé composé) | What year were you born? | Je suis né(e) en _ | I was born in _ |
+| Vous êtes de quel signe du zodiaque? | What zodiac sign are you? | Mon signe zodiaque est _ | My zodiac sign is _ |
+| Quand aurez-vous dix-huit / dix-neuf / vingt? (futur simple) | When will you be 18 / 19 / 20? | J'aurai dix-huit / dix-neuf / vingt ans _ [if your birthday happening this year, give months. If not, say next year (l'an prochaine)] | I will be 18 / 19 / 20 years old _ |
+| Pouvez-vous vous décrire? | Can you describe yourself? | | As you can see, I have _ eyes and _ hair |
 | Parlez-moi un peu de votre personnalité | Tell me a bit about your personality | | |
 
 ## La famille (The Family)
