@@ -7,6 +7,7 @@
 - Language of **Aesthetics**
 - Language of **Persuasion**
 - Language of **Argument**
+- Language of **Personal Writing**
 
 ## Language of Information
 
@@ -115,3 +116,22 @@
 - Logical
 - Structured
 - Reasonable
+
+## Language of Personal Writing
+
+### Where would you find argumentative writing?
+
+- Diary
+- Journal
+- Opinion Pieces
+- Blogs
+- Letters
+
+### What features would you expect to find in a piece of argumentative writing?
+
+- Using "I"
+- Emotional
+- Personal anecdotes
+- Personal opinions
+- Personal beliefs
+- Wants/wishes/hopes
