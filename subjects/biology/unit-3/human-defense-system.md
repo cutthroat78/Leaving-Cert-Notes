@@ -28,7 +28,7 @@ How each of the following function in the general defence system
 
 How each of the following function in the second line of general defence:
 - (Monocytes) Phagocytic white blood cells: They digest bacteria
-  - ![Phagocytic white blood cells](human-defense-system/)
+  - ![Phagocytic white blood cells](human-defense-system/phagocytic-white.jpeg)
 - Defense proteins complement and interferon:
 - Inflammation:
 
