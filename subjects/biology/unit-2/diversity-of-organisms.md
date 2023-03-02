@@ -322,6 +322,17 @@
   - Can kill MRSA bacteria (superbugs)
   - Friendly viruses
 
+- The three main virus shapes:
+  1. Round Shaped
+  2. Rod Shaped
+  3. Complex in shape
+
+- One example of a beneficial use of viruses is genetic engineering, Covid 19 vaccine - genetically modified viruses
+
+- Two examples of where viruses cause harm
+  1. Covid 19
+  2. Cold
+
 - Parasite = Organisms that live in or on another organism causing it harm
 - Obligate Parasite = Has to be a parasite (have a host) e.g. virus
 - Facultative = Doesn't have to be a parasite (have a host) e.g. candida
