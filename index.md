@@ -21,7 +21,8 @@
 # Homework
 
 | Subject | What to Do | Due |
-|-|-|-|-|
+|-|-|-|
+| English | Finish the question we got in class | Friday, 03/03/2023 |
 | Biology | Study notes and do Higher Level: 2021 HL q 16c, Ordinary Level: 2011 OL a 15c | Monday, 06/03/2023 |
 
 # Timetable
