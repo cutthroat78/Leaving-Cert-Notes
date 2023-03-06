@@ -1,11 +1,11 @@
 # Notes, Anki Decks and Resources
-- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](anki/biology.apkg)
-- Business: [Notes](subjects/business/business.md) - [Anki Deck](anki/business.apkg)
-- Computer Science: [Notes](subjects/computer-science/computer-science.md)
-- English: [Notes](subjects/english/english.md)
-- French (Français): [Notes](subjects/french/french.md) - [Anki Deck](anki/french.apkg)
-- Maths: [Notes](subjects/maths/maths.md)
-- Music: [Notes](subjects/music/music.md) - [Anki Deck](anki/music.apkg)
+- Biology: [Notes](subjects/biology/biology.md) - [Anki Deck](anki/biology.apkg) - [Previous Exam Papers](subjects/biology/exam-papers.md)
+- Business: [Notes](subjects/business/business.md) - [Anki Deck](anki/business.apkg) - [Previous Exam Papers](subjects/business/exam-papers.md)
+- Computer Science: [Notes](subjects/computer-science/computer-science.md) - [Previous Exam Papers](subjects/computer-science/exam-papers.md)
+- English: [Notes](subjects/english/english.md) - [Previous Exam Papers](subjects/english/exam-papers.md)
+- French (Français): [Notes](subjects/french/french.md) - [Anki Deck](anki/french.apkg) - [Previous Exam Papers](subjects/french/exam-papers.md)
+- Maths: [Notes](subjects/maths/maths.md) - [Previous Exam Papers](subjects/maths/exam-papers.md)
+- Music: [Notes](subjects/music/music.md) - [Anki Deck](anki/music.apkg) - [Previous Exam Papers](subjects/music/exam-papers.md)
 <!-- [Study Methods & Tips](study.md)-->
 
 ---
@@ -24,6 +24,7 @@
 |-|-|-|
 | English | Finish the question we got in class | Friday, 03/03/2023 |
 | Biology | Study notes and do Higher Level: 2021 HL q 16c, Ordinary Level: 2011 OL a 15c | Monday, 06/03/2023 |
+| Biology | HL: 2021 a 16 c, 2020 a 15 b i. ii., 2013 a 12 c OL: Continue completing all questions on defense system | Thursday, 09/03/2023 |
 
 # Timetable
 
