@@ -1,7 +1,6 @@
 # Maths
 
 - [Log Tables (Formulae and Tables Book)](log-tables.pdf)
-- [Exam Structure](exam-structure.md)
 - [Exam Technique (from themathstutor.ie)](https://themathstutor.ie/booklet)
   - [Exam Technique Booklet](https://www.themathstutor.ie/wp-content/uploads/2018/08/Maximise-Your-Maths-Grade-V8.1p.pdf)
   - Exam Technique Webinar

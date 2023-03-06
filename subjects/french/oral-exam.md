@@ -15,8 +15,8 @@
 | Vous êtes né(e) en quelle année? (passé composé) | What year were you born? | Je suis né(e) en _ | I was born in _ |
 | Vous êtes de quel signe du zodiaque? | What zodiac sign are you? | Mon signe zodiaque est _ | My zodiac sign is _ |
 | Quand aurez-vous dix-huit / dix-neuf / vingt? (futur simple) | When will you be 18 / 19 / 20? | J'aurai dix-huit / dix-neuf / vingt ans _ [if your birthday happening this year, give months. If not, say next year (l'an prochaine)] | I will be 18 / 19 / 20 years old _ |
-| Pouvez-vous vous décrire? | Can you describe yourself? | | As you can see, I have _ eyes and _ hair |
-| Parlez-moi un peu de votre personnalité | Tell me a bit about your personality | | |
+| Pouvez-vous vous décrire? | Can you describe yourself? | Comme vous voyez, j'ai les yeux (bleus / verts / marrons / noisettes) et les cheveux (noirs / blonds / bruns/ roux / châtains / bleus) | As you can see, I have _ (blue / green / brown / hazel) eyes and _ (black / blond(e) / brown / red / brown / blue) hair |
+| Parlez-moi un peu de votre personnalité | Tell me a bit about your personality | Je suis de caractère sympa, gentil(le), amical(e), généreux(/se), travailler(/euse), bavard(e), intelligent(e) OR Côté caractère, je suis quelqu'un qui est ambitieux(/se), sensible, digne, etc. | _ |
 
 ## La famille (The Family)
 

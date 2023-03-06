@@ -4,7 +4,7 @@
 
 - In French, the final letter is not pronounced except when it has an accent on it: é/è/ê/ë
   - Ex: mang**e** ≠ (not pronounced the same as) mang**é**
-- The letters << ill >> are most of the time pronounced like a « y » sound (like in the word yellow) except for the work « ville >>
+- The letters << ill >> are most of the time pronounced like a « y » sound (like in the word yellow) except for the word « ville >>
   - Ex: trava**ill**er = (pronounced like) travayé
 - The final « s » are not pronounced
   - Ex: dan**s** = (pronounced like) dan

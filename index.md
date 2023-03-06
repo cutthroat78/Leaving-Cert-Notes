@@ -45,6 +45,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
+| French Mock Oral Exams | | Tuesday, 14/03/2023 | |
 | HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
 | German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
 | St. Patrick's Day - School Closed | From Journal | Friday, 17/03/2023 | |
