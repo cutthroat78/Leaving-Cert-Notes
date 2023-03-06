@@ -1,4 +1,4 @@
-# Biology Exam papers
+# Biology Exam Papers
 
 ## Higher Level
 
