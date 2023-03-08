@@ -23,8 +23,8 @@
 | Question | Question in English | Answer | Answer in English |
 |-|-|-|-|
 | Il y a combien de personnes dans votre famille? | How many people are there in your family? | Il y a neuf personnes dans ma famille | There are 9 people in my family |
-| Est-ce que vous avez des frères et des sœurs? | | J'ai _ sœur(s) / Je n'ai pas de sœur et j'ai _ frère(s) / je n'ai pas de frère | |
-| Parlez-moi un peu de votre frère ou de votre sœur | | Mon frère s'appelle John, il a 24 ans, il est informaticien. | |
+| Est-ce que vous avez des frères et des sœurs? | | Je viens d'une famille nombreuse AND/OR Oui, j'ai _ frère(s) et j'ai _ sœur(s) OR Non, je suis enfant unique | I come from a large family AND/OR Yes, I have _ brother(s) and I have sister(s) OR No, I am an only child |
+| Parlez-moi un peu de votre frère ou de votre sœur | |  | |
 | Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | |  | |
 | Pourquoi est-ce que vous vous disputez avec vos frères ou sœurs? | |  | |
 | Parlez-moi de vos parents*** | |  | |
