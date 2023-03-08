@@ -28,4 +28,4 @@ When he arrives home Macbeth allow his weaknesses to be exploited by his wife en
 
 Following the murder of Duncan, Macbeth initially reacts in a manner that we would expect, he is skittish, he doesn't what to do in the situation and relies on his wife to help him cover up his crime
 
-Macbeth the once trusted and reliable citizen and friend now turns his attention towards Banquo, who he thinks will suspect him of his crime. Macbeth has killed his king and now plans to kill his friend and comrade in arms. Instead of getting his own hands dirty he hires hitmen to murder Banquo and his son, to prevent this part of the prophecy becoming reality. However Macbeth
+Macbeth the once trusted and reliable citizen and friend now turns his attention towards Banquo, who he thinks will suspect him of his crime. Macbeth has killed his king and now plans to kill his friend and comrade in arms. Instead of getting his own hands dirty he hires hitmen to murder Banquo and his son, to prevent this part of the prophecy becoming reality. However Macbeth's plan fails and Fleance escapes. Macbeth is then faced with the ghost of Banquo

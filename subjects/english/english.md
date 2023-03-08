@@ -50,6 +50,7 @@
 - [Intro to Macbeth 1](texts/macbeth/macbeth-intro-1.pdf)
 - [Intro to Macbeth 2](texts/macbeth/macbeth-intro-2.pdf)
 - [Characters](texts/macbeth/characters.md)
+- [Character Analysis](texts/macbeth/character-analysis.md)
 - [Character Profiles](texts/macbeth/macbeth-character-profiles.pdf)
 - [Macbeth LitCharts Notes](texts/macbeth/macbeth-litchart.pdf)
 - [Key Quotes and Important Shakespearean Elements of a Tragedy](texts/macbeth/macbeth-quotes-and-elements-of-a-tragedy.pdf)
