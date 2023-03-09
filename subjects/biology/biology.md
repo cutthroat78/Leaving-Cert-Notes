@@ -39,7 +39,8 @@ The Study of Living Organisms
 - [Breathing System](unit-3/breathing-system.md) - [Slides](slides/unit-3/breathing-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/breathing-system.md) (In Anki)
 - [Excretion](unit-3/excretion.md) - [Slides (Poster)](slides/unit-3/excretion.pdf)
 - [Human Defense System (Immune System)](unit-3/human-defense-system.md) (Being converting to anki while doing topic in class)
-## Experiments
+- The Nervous System - [Slides](https://www.theconicalflask.ie/biology/the-nervous-system) - [Slides 2 (Handout Notes)](unit-3/nervous-system/nervous-system.pdf)
+## Experiments -[Notes (Handout)](experiments/experiments.pdf)
 - [Plant (Onion) Cells](experiments/plant-onion-cells.md) - [Video](https://youtu.be/uEnyHL9yBsI)
     - [Cell Pictures](experiments/plant-onion-cells/cell-pictures/cell-pictures.md)
 - [Osmosis Demonstration](experiments/osmosis-demonstration.md) - [Video](https://youtu.be/atf1npo1IOA)
