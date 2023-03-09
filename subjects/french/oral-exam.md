@@ -108,6 +108,30 @@
 | Décrivez le règlement intérieur de votre école. Est-il juste? | | | |
 | Est-ce que l'année de terminale est une année difficile pour vous? Pourquoi? | | | |
 
+#### Phrases Supplémentaires pour l'école (Extra Sentences for School)
+
+##### Présentez l'école (Introduce the School)
+
+| French | English |
+|-|-|
+| Mon école s'appelle _ | My school's name is _ |
+| L'école est assez petite. Il y a environ _ éleves et _ profs |  |
+| Le lycée se trouve en banlieu / à cinq kilometres du centre ville |  |
+| Évidemment, C'est une école mixte. Je le trouve plus natureul à mon avis |  |
+| Il y a une bonne ambiance, les profs sont sympas et il y a beaucoup d'activitiés supplémentaires comme, le basket, le foot, le club de français, le groupe musical, etc. |  |
+
+###### Les installations de l'école (School Facilitates)
+
+| French | English |
+|-|-|
+| Elle est assez bien équipée dans l'ensemble. Il y a _ (Un cantine, une bibliotheque, un gymnase, une salle de construction, une salle du travail des métaux, deux laboratoires et deux salles d'informatique, etc.) |  |
+| Mais, il manque un bon terrain de foot - il faut aller au stade municipale pour s'entrainer |  |
+
+###### Les matières que j'étudie (Subjects That I Study)
+
+| French | English |
+|-|-|
+
 ### L'avenir (The Future)
 
 | Question | Question in English | Answer | Answer in English |
