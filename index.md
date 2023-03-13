@@ -48,11 +48,11 @@
 | Event | Information | Date | Time |
 |-|-|-|-|
 | French Mock Oral Exams | | Tuesday, 14/03/2023 | |
-| HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
 | German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
+| HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
 | St. Patrick's Day - School Closed | From Journal | Friday, 17/03/2023 | |
-| Music Practical Week | From Amy & Official, no specific date has been given yet | Monday, 20/03/2023 - Friday, 31/03/2023 | |
 | Computer Science Coursework Project Due Date | | Wednesday, 23/03/2023 |
+| Music Practical | From Amy | Friday, 31/03/2023 | |
 | School Closes for Easter Holidays | From Journal | Friday, 31/03/2023 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
 | Language Oral Week | Oral Week for Irish, French, German, Spanish, Italian, Russian, Japanese, Mandarin Chinese, Lithuanian, Portuguese and Polish | Saturday, 01/04/2023 - Thursday, 06/04/2023 | |
