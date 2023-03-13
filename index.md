@@ -72,8 +72,8 @@
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Monday, 20/03/2023 - Friday, 31/03/2023 | Music | Practical Tests | TBA |
 | Wednesday, 23/03/2023 | Computer Science | Coursework Project Due Date | |
+| Friday, 31/03/2023 | Music | Practical Tests | TBA |
 | Saturday, 01/04/2023 - Thursday, 06/04/2023 | French | Oral Test | TBA |
 | Wednesday, 24/05/2023 | Computer Science | State Exam | Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 |
 | Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
