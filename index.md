@@ -47,14 +47,12 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| French Mock Oral Exams | | Tuesday, 14/03/2023 | |
 | German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
-| HEAR and DARE (Physical) Documents Deadline | | Wednesday, 15/03/2023 | 17:00 |
-| St. Patrick's Day - School Closed | From Journal | Friday, 17/03/2023 | |
 | Computer Science Coursework Project Due Date | | Wednesday, 23/03/2023 |
 | Music Practical | From Amy | Friday, 31/03/2023 | |
 | School Closes for Easter Holidays | From Journal | Friday, 31/03/2023 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
+| French Oral Days | From Paul | Monday, 03/04/2023 - Tuesday, 04/04/2023 | TBA |
 | Language Oral Week | Oral Week for Irish, French, German, Spanish, Italian, Russian, Japanese, Mandarin Chinese, Lithuanian, Portuguese and Polish | Saturday, 01/04/2023 - Thursday, 06/04/2023 | |
 | School re-opens for Easter Holiday | From Journal | Monday, 17/04/2023 | |
 | Language Oral Contingency Days | I don't know what this is | Wednesday, 19/04/2023 - Thursday, 20/04/2023 | |
@@ -74,7 +72,7 @@
 |-|-|-|-|
 | Wednesday, 23/03/2023 | Computer Science | Coursework Project Due Date | |
 | Friday, 31/03/2023 | Music | Practical Tests | TBA |
-| Saturday, 01/04/2023 - Thursday, 06/04/2023 | French | Oral Test | TBA |
+| Monday, 03/04/2023 - Tuesday, 04/04/2023 | French | Oral Test | TBA |
 | Wednesday, 24/05/2023 | Computer Science | State Exam | Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 |
 | Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
 | Thursday, 08/06/2023 | English | Paper 2 State Exam | 14:00 - 17:20 |
