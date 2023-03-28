@@ -47,8 +47,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| German Students Visiting | From Journal | Tuesday, 14/03/2023 - Tuesday, 21/03/2023 | |
-| Computer Science Coursework Project Due Date | | Wednesday, 23/03/2023 |
 | Music Practical | From Amy | Friday, 31/03/2023 | |
 | School Closes for Easter Holidays | From Journal | Friday, 31/03/2023 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
