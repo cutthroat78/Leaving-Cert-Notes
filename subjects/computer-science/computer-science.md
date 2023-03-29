@@ -13,6 +13,7 @@
 - [Electronics](electronics.md)
 - [The Central Processing Unit (CPU)](cpu.md) - [Handout](cpu.pdf)
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
+- Sorting Algorithms - [Video](https://www.youtube.com/watch?v=zuwBCImIyaw) - [Sorting Algorithms Animations (Website)](https://www.toptal.com/developers/sorting-algorithms)
 ## [Python Programming](python.md)
 - [Log Tables](../maths/log-tables.pdf)
 - [Numerical Python](python/numerical-python.md)
@@ -28,3 +29,7 @@
 
 ## Other Resources
 - [The LCCS Guide](https://www.lccs.ie/) - Website with Notes
+- [Danny Murray (YouTube)](https://www.youtube.com/@DanielMurrayMakes) - Videos on Computer Science and Computer Science Exam Paper Question Solutions
+  - [Computer Science Exam Paper Question Solutions Playlist](https://youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
+  - [Computer Science Lessons Playlist](https://youtube.com/playlist?list=PL-CrepeJ9RXLIP3RyJLrmAmscPzcgzaMh)
+  - [Python Lessons Playlist](https://youtube.com/playlist?list=PL-CrepeJ9RXJeOfb1Qs7dDfLmpVhvNz3c)
