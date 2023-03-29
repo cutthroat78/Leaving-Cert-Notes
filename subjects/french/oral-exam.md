@@ -24,15 +24,15 @@
 |-|-|-|-|
 | Il y a combien de personnes dans votre famille? | How many people are there in your family? | Il y a neuf personnes dans ma famille | There are 9 people in my family |
 | Est-ce que vous avez des frères et des sœurs? | | Je viens d'une famille nombreuse AND/OR Oui, j'ai _ frère(s) et j'ai _ sœur(s) OR Non, je suis enfant unique | I come from a large family AND/OR Yes, I have _ brother(s) and I have sister(s) OR No, I am an only child |
-| Parlez-moi un peu de votre frère ou de votre sœur | |  | |
-| Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | |  | |
-| Pourquoi est-ce que vous vous disputez avec vos frères ou sœurs? | |  | |
-| Parlez-moi de vos parents*** | |  | |
-| Quels sont les avantages d'être l'ainé(e) / le cadet / la cadette de la famille? | |  | |
-| Est-ce que vous entendez bien avec vos parents? | |  | |
-| Est-ce que vous avez un animal domestique à la maison? Parlez-moi un peu de lui/d'elle | |  | |
-| Qu'est-ce que vous faites pour aider vos parents avec le ménage? | |  | |
-| Qu'est-ce que vous n'aimez pas faire comme tache ménagère? | |  | |
+| Parlez-moi un peu de votre frère ou de votre sœur | | Mon frère s'appelle _. Il a _ ans. Il est _ (job / occupation) | |
+| Est-ce que vous avez de bons rapports avec vos frères ou sœurs? | | Je m'entends très bien. Nous partageons les mêmes passe-temps. Nous aimons passer du temps ensemble. Le weekend on aime fair du vélo / jouer au foot / regarder la télé / sortir en ville ensemble | |
+| Pourquoi est-ce que vous vous disputez avec vos frères ou sœurs? | | On ne se dispute jamais, on est très proche. OR On se dispute de temps en temps a cause de la télé / quand elle vole mes vêtements | |
+| Parlez-moi de vos parents*** | | Mon père s'appelle John et ma mère s'appelle Mary | |
+| Quels sont les avantages d'être l'ainé(e) / le cadet / la cadette de la famille? | | Comme, je suis l'ainé(e), la/la cadet(te) de la famille, je suis bien gaté(e), mes parents me donnent plus / moins de responsabilités a la maison, ils me font confiance | |
+| Est-ce que vous entendez bien avec vos parents? | | Oui, j'ai des bons rapports avec mes parents, ils me font confiance / ils sont toujours a l'écoute. OR Non, je ne m'entends pas du tout avec mes parents, ils sont insupportables! | |
+| Est-ce que vous avez un animal domestique à la maison? Parlez-moi un peu de lui/d'elle | | Oui, j'ai un chat / un chien / un hamster. Il/elle s'appelle _. Il/elle est très mignon(ne) / fidèle / docile / obéissant(e). | |
+| Qu'est-ce que vous faites pour aider vos parents avec le ménage? | | J'aime aider mes parents à la maison. Je fais la lessive, je fais la vaisselle, je range ma chambre, je fais les courses, j'aide mon frère avec ses devoirs. | |
+| Qu'est-ce que vous n'aimez pas faire comme tache ménagère? | | Personnellement, je déteste sortir les poubelles, c'est vraiment [add word for disgusting here] | |
 | Est-ce que vous recevez de l'argent de poche? | |  | |
 | Comment dépensez-vous votre argent de poche? | |  | |
 | Est-ce vous devez travailler pour gagner de l'argent de poche? Que faites-vous? | |  | |
@@ -108,7 +108,7 @@
 | Décrivez le règlement intérieur de votre école. Est-il juste? | | | |
 | Est-ce que l'année de terminale est une année difficile pour vous? Pourquoi? | | | |
 
-#### Phrases Supplémentaires pour l'école (Extra Sentences for School)
+#### Phrases Supplémentaires pour l'école (Extra Sentences for "School")
 
 ##### Présentez l'école (Introduce the School)
 
@@ -131,7 +131,24 @@
 
 | French | English |
 |-|-|
+| Je fais / j'étudie les trois matières obligatories, c'est-à-dire, l'anglais, le gaélique et les mathématiques | |
+| Je n'étudie pas le gaélique | |
+| Je fais aussi _ | |
+| Ma matière préférée est (sans aucun doute) _ | |
+| Je trouve cette matière extrêmement intéressante / utile / passionnante / facile / etc. | |
+| Le prof est bien motivé et par conséquent cela motive les élèves | |
+| Cette matière sera importante pour moi à l'avenir comme je veux devenir _ / Comme je veux étudier _ à la fac | |
 
+###### Les matières que vous n'aimez pas? Et si oui, pourquoi pas? (Subjects you don't like? And if so, why not?)
+
+| French | English |
+|-|-|
+| Je dois admettre que je n'aime pas du tout _ | |
+| Je trouve cette matière completement debile / inutile / ennuyeuse / barbante / etc. | |
+| Je n'y comprends strictement rien! | |
+| C'est ma bête noire! | |
+| Je suis nul / nulle en _. J'ai toujours de mauvaises notes | |
+ 
 ### L'avenir (The Future)
 
 | Question | Question in English | Answer | Answer in English |
