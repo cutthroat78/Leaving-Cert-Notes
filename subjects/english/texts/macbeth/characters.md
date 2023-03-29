@@ -104,3 +104,19 @@ A brave + loyal general exhibits hubris the great man overreaches his ambitions 
 - She descended into madness
 - Even though shes a bad person there's a line she won't cross and when it's crossed she breaks down completely and looses all sense of reality
 - She warned Macbeth not to believe what he was seeing at Banquet scene to prevent him from going crazy but in the end she was the one who descented into madness
+
+## Banquo
+
+- Brave
+- Noble
+- Loyal
+- Honest
+- Sceptical
+- Patriotic
+- Unfortunate
+- Strong willed
+- Cowardly
+
+He is introduced as a comrade of Macbeth and of equal status, he is a war hero. He serves as a foil of Macbeth. They both hear prophecies from the witches, but he doesn't act on the information he received like Macbeth. Banquo becomes suspicious of Macbeth following the murder of Duncan because he knows of the prophecy
+
+Banquo meets his untimely death at the hands of a hitman because he knows about the prophecy and could pose a threat to Macbeth and his tyranny

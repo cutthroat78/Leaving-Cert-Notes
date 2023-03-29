@@ -52,6 +52,7 @@
 - [Characters](texts/macbeth/characters.md)
 - [Character Analysis](texts/macbeth/character-analysis.md)
 - [Character Profiles](texts/macbeth/macbeth-character-profiles.pdf)
+- [Dramatic Techniques](texts/macbeth/dramatic-techniques.md)
 - [Macbeth LitCharts Notes](texts/macbeth/macbeth-litchart.pdf)
 - [Key Quotes and Important Shakespearean Elements of a Tragedy](texts/macbeth/macbeth-quotes-and-elements-of-a-tragedy.pdf)
 - [Revision Booklet](texts/macbeth/macbeth-revision-booklet.pdf)
