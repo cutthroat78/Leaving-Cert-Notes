@@ -22,11 +22,7 @@
 
 | Subject | What to Do | Due |
 |-|-|-|
-| English | Finish the question we got in class | Friday, 03/03/2023 |
-| Biology | Study notes and do Higher Level: 2021 HL q 16c, Ordinary Level: 2011 OL a 15c | Monday, 06/03/2023 |
-| Biology | HL: 2021 a 16 c, 2020 a 15 b i. ii., 2013 a 12 c OL: Continue completing all questions on defense system | Thursday, 09/03/2023 |
-| Biology | Check Teams for homework | Monday, 13/03/2023 |
-| English | 2009 Question E | Monday, 13/03/2023 |
+| Biology | Do work that is in this [link](subjects/biology/easter.md) | Monday, 17/04/2023 |
 
 # Timetable
 
@@ -47,7 +43,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Music Practical | From Amy | Friday, 31/03/2023 | |
 | School Closes for Easter Holidays | From Journal | Friday, 31/03/2023 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
 | French Oral | From Paul | Monday, 03/04/2023 | 09:00 |
@@ -68,7 +63,6 @@
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Friday, 31/03/2023 | Music | Practical Tests | TBA |
 | Monday, 03/04/2023 | French | Oral Test | 09:00 |
 | Wednesday, 24/05/2023 | Computer Science | State Exam | Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 |
 | Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
