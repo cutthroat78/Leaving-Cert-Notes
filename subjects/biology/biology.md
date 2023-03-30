@@ -5,6 +5,9 @@ The Study of Living Organisms
 - [Study and Exam Tips (From Teachers)](tips.md) <!--No Anki-->
 - [Definitions List](terms-and-definitions/biology-definitions.pdf) (In Anki)
   - [‘MUST KNOW’ Biology Terms](terms-and-definitions/need-to-know-definitions.pdf) <!--No Anki-->
+
+- [Easter Break Revision Work](easter.md)
+
 ## Unit 1 - The Study of Life - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
 - [(A Search for a) Definition of Life & Characteristics of Life](unit-1/a-search-for-a-definition-of-life.md) (In Anki) - [Slides](slides/unit-1/characteristics-of-life.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/characteristics-of-life.md) (In Anki)
 - [Scientific Method](unit-1/scientific-method.md) (In Anki) - [Slides](slides/unit-1/scientific-method.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/scientific-method.md) (In Anki)
@@ -40,6 +43,9 @@ The Study of Living Organisms
 - [Excretion](unit-3/excretion.md) - [Slides (Poster)](slides/unit-3/excretion.pdf)
 - [Human Defense System (Immune System)](unit-3/human-defense-system.md) (Being converting to anki while doing topic in class)
 - The Nervous System - [Slides](https://www.theconicalflask.ie/biology/the-nervous-system) - [Slides 2 (Handout Notes)](unit-3/nervous-system/nervous-system.pdf)
+- The Senses - [Slides](slides/unit-3/senses.pdf)
+- Responses in the Human: Endocrine System - [Slides](slides/unit-3/endocrine-system.pdf)
+
 ## Experiments - [Notes (Handout)](experiments/experiments.pdf)
 - [Plant (Onion) Cells](experiments/plant-onion-cells.md) - [Video](https://youtu.be/uEnyHL9yBsI)
     - [Cell Pictures](experiments/plant-onion-cells/cell-pictures/cell-pictures.md)
