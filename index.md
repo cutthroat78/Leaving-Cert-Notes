@@ -43,10 +43,7 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| School Closes for Easter Holidays | From Journal | Friday, 31/03/2023 | |
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
-| French Oral | From Paul | Monday, 03/04/2023 | 09:00 |
-| Language Oral Week | Oral Week for Irish, French, German, Spanish, Italian, Russian, Japanese, Mandarin Chinese, Lithuanian, Portuguese and Polish | Saturday, 01/04/2023 - Thursday, 06/04/2023 | |
 | School re-opens for Easter Holiday | From Journal | Monday, 17/04/2023 | |
 | Language Oral Contingency Days | I don't know what this is | Wednesday, 19/04/2023 - Thursday, 20/04/2023 | |
 | SciFest College Event | From Journal | Thursday, 20/04/2023 | |

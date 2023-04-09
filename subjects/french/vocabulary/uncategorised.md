@@ -130,3 +130,41 @@
 | une carte bancaire/bleue | a credit/bank/blue card |
 | téléphoner | To call/phone/ring |
 | J'étais aussi _ que _ | I was so _ that _ |
+| toujours d'accord | Still okay |
+| Tu es toujours d'accord _ | Are you still on for _ |
+| On ne prend pas la voiture alors? | Are we not taking the car then? |
+| Ne m'en parle pas! | Don't talk to me about it! |
+| complet(s) | complete, full |
+| la climatisation est toujours en panne | the air conditioning is always breaking down |
+| une auberge de jeunesse | a youth hostel |
+| si j'annule la réservation | if I cancel the reservation |
+| l'hôtel ne me remboursera pas | the hotel will not give me a refund |
+| tant pis | too bad, so much for that, Oh well |
+| Dans ce cas, d'accord | In that case, it's all right |
+| j'y arrive plus détendu | I arrive (there) more relaxed |
+| offrir | to give for free |
+| frapper à toutes les portes | To know on all the doors |
+| convaincre | to convince |
+| l'écran | the screen |
+| un four à micro-ondes | a microwave oven |
+| reconnaissants | grateful |
+| tu peux m'y accompagner | you can come with me |
+| je dois travailler | I have to work |
+| gagner de l'argent de poche | earn pocket money |
+| le ménage | housework |
+| je m'occupe | I look after |
+| mes praents rentrent tard | my parents come home late |
+| à la caisse | at the checkout |
+| je range les rayons | I stack the shelves |
+| mon permis de conduire | my driving license |
+| aller à la fac | to go to college |
+| payer les frais | pay (my) expenses |
+| avoir un travail à mi-temps | to have a part-time job |
+| un salon de beauté | a beauty salon |
+| mon père ne me permet pas de travailler | my father won't allow me work |
+| je dois me concentrer | I have to concentrate |
+| je fais des économies | I save |
+| beaux cadeaux de Noël | beautiful/nice Christmas presents |
+| mon maquillage | my makeup |
+| crédit pour mon portable | credit for my phone |
+| garder de l'argent | to keep (save) money |

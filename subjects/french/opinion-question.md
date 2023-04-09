@@ -89,3 +89,15 @@ More Details:
 |  |  |
 |  |  |
 | C'est une situation très inquiétante/désespérante | It's a very worryinh/deseperate situation |
+
+## Opinion Question Examples (From Teacher)
+
+### Le sport dans la vie des ados (Sport in the life of teenagers)
+
+#### Question
+
+Pensez-vous que le sport est important pour les adolescents?
+
+#### Answer
+
+
