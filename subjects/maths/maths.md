@@ -106,3 +106,4 @@
 - [Maths Points](http://mathspoints.ie/) - Website with Worksheets, Exam Papers and Cheat Sheets
 - [TheMathsTutor.ie](https://www.themathstutor.ie/)
   - [TheMathsTutor.ie (YouTube Channel)](https://www.youtube.com/channel/UC-6NnHT6NL6IDITbe0sKbXA/playlists)
+- [UCD Leaving Cert Maths Videos](https://www.ucd.ie/msc/leavingcertificatevideos/)
