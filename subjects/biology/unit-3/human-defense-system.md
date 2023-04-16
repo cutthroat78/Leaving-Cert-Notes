@@ -49,6 +49,8 @@ Passive immunity: Antibodies are introduced to the body
   - Artificial Passive: Introducing antibodies made by another animal
     - Example: Anti-tetanus injection
 
+- ![Types of Immunity](human-defense-system/types-of-immunity.jpg)
+
 3 Organs specific to immune system
   1. Spleen
   2. Thymus

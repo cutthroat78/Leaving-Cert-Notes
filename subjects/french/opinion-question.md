@@ -88,7 +88,7 @@ More Details:
 |  |  |
 |  |  |
 |  |  |
-| C'est une situation très inquiétante/désespérante | It's a very worryinh/deseperate situation |
+| C'est une situation très inquiétante/désespérante | It's a very worrying/desperate situation |
 
 ## Opinion Question Examples (From Teacher)
 
