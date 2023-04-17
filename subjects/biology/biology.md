@@ -45,6 +45,8 @@ The Study of Living Organisms
 - The Nervous System - [Slides](https://www.theconicalflask.ie/biology/the-nervous-system) - [Slides 2 (Handout Notes)](unit-3/nervous-system/nervous-system.pdf)
 - The Senses - [Slides](slides/unit-3/senses.pdf)
 - Responses in the Human: Endocrine System - [Slides](slides/unit-3/endocrine-system.pdf)
+- Structure of Flowering Plants
+- Transport in Plants - [Slides](slides/unit-3/transport-in-plants.pdf)
 
 ## Experiments - [Notes (Handout)](experiments/experiments.pdf)
 - [Plant (Onion) Cells](experiments/plant-onion-cells.md) - [Video](https://youtu.be/uEnyHL9yBsI)
