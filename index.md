@@ -23,6 +23,7 @@
 | Subject | What to Do | Due |
 |-|-|-|
 | Biology | Do work that is in this [link](subjects/biology/easter.md) | Monday, 17/04/2023 |
+| Biology | Copy Diagrams from Flowering Plant Notes | Tuesday, 18/04/2023 |
 
 # Timetable
 
