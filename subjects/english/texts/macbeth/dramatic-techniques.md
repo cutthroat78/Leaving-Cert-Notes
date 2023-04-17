@@ -8,7 +8,25 @@ _
 
 ### Blood
 
-_
+Blood symbolises murder and guilt throughout this tragedy.
+
+There are 2 colours repeated through out the play, black and red. The frequent references to there colours create an atmosphere of darkness, violence and horror.
+
+Images of blood are used to establish Macbeth as a terrifying killer before we ever meet him. We are told by the Sargent in Act 1 Scene 2 that he cut the traitor in two from his groin to his jaw **"he unseamed him from the have to the chops"**. Despite the fact that these actions are barbaric, Macbeth is viewed as a hero being so bruted.
+
+Lady Macbeth is also associated with blood and violence. Before Duncan's murder, she calls for her blood to be made, so thick that she will feel neither pity nor remorse. By this, she means that she wants to harden her heart to an act she knows is purely evil of course, she fails and later proves to be incapable of coping with her guilt.
+
+The killing of Duncan is made even more horrifying by the images of blood. As he prepares to murder the king, Macbeth hallucinates and sees a dagger with **"gouts of blood"** on the blade and handle.
+
+Immediately after the deed, Macbeth is appalled by the amount of blood on his hands, called it **"a sorry sight"**. He believes that if he were to dip his hands in the seas, they would turn red: **"no this my hand will rather the multitudinous seas incarnadine making the green one red"**.
+
+Macbeth's first order as king is to order the death of his former friend and comrade in arms, Banquo. This is a shocking betrayal of their bond, and it reinforced Macbeth's moral decline and his commitment to a rule pf violent tyranny Banquo's murder is described in gory detail. He is left with **"twenty trenched gashes on his head"** and Macbeth is pleased to note that the murder who reports back to him is covered in Banquo's blood **"Tis better thee without than he within"**. Banquo's bloody ghost appears at the banquet later that evening, shaking it's **"gory locks"** unnerving Macbeth and causing him to tell his wife that "blood will have blood". By this he means that he who sheds blood will have his own blood spilled (foreshadowing).
+
+The most famous reference to blood in the play is Lady Macbeth's sleepwalking scene. She is tormented by the memory of Duncan's murder, despite saying at the time **"A little water clears us of this deed"**. Now no amount of water can make the blood vanish from her imagination or rid her of her guilt. Lady Macbeth wanders the castel at night, vainly trying to scrub the stain away **"out damed spot, out, I say"**.
+
+Images of blood are used in a more positive way to symbolise the sacrifice those loyal to Scotland are wiling to make in order that Malcolm claim the throne of Scotland.
+
+The play ends as it began, with the defeat of a traitor and the restoration of order.
 
 ### Clothing
 
@@ -22,4 +40,17 @@ The opening scene of Macbeth gives us an indication of the Witches' nature and i
 
 When the Sergeant is describing to Duncan in Act 1 Scene 2, he also uses storm imagery, subtly linking Macbeth to the Witches and prefiguring the disorder that is to come: "As whatever the sun 'gins his reflection. / Shipwrecking storms and direful thunders break, / So from that spring whence comfort seemed to come. / Discomfort swells."
 
-At the same time, the Sergeant compares Macbeth and Banquo to eagles and lions when describing their bravery and strength on the 
+At the same time, the Sergeant compares Macbeth and Banquo to eagles and lions when describing their bravery and strength on the battlefield. This positive imagery highlights the pairs nobility as well as their courage: both eagles and lions are traditionally associated with courage and honour. 
+
+_
+
+is hoarse from saying again and again that King Duncan must die. When King Duncan comes to Macbeth's castle, he remarks how sweet the air is, Banquo agrees, and adds:
+
+**"This quest is summer,    
+The temple haunting martlet, does approve      
+By his loved mansionry, that the heaven's breath        
+Smells wooingly here. No jutty, frieze      
+Buttress, nor coign of vantage, but this bird       
+Hath made his pendant bed and procreant cradle."**
+
+A 'market' is a house martin (kind of swallow), which is 'temple-haunting' because it likes to build its nest high on the walls of tall buildings. ("Haunting" doesn't have any ghostly connotations here.) When Lady Macbeth heard that King Duncan was coming for the night, she imagined a raven under her battlements, foretelling the death of the King. Instead _
