@@ -40,7 +40,7 @@
 | 11:50 | Break                    | Break                           | Maths                           | Break                           | Break                             |
 | 12:30 | Business                 | PE                              | English                         | 4 Way Split                     | 4 Way Split                       |
 | 13:30 | French / Engineering     | Business                        | 4 Way Split                     | English                         | English                           |
-| 14:30 | English                  | 4 Way Split                     |                                 | French / Engineering            | Maths                             |
+| 14:30 | English                  | 4 Way Split                     | Biology                         | French / Engineering            | Maths                             |
 
 # Calendar
 
