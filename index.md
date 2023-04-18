@@ -47,7 +47,6 @@
 | Event | Information | Date | Time |
 |-|-|-|-|
 | Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
-| School re-opens for Easter Holiday | From Journal | Monday, 17/04/2023 | |
 | Language Oral Contingency Days | I don't know what this is | Wednesday, 19/04/2023 - Thursday, 20/04/2023 | |
 | SciFest College Event | From Journal | Thursday, 20/04/2023 | |
 | Public Holiday | From Journal | Monday, 01/05/2023 | |
@@ -59,11 +58,10 @@
 | State Exams Commence | From Paul | Wednesday, 07/06/2023 | |
 | Debs | Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 
-# Calendar of Practicals and Exam Dates (At the Moment, Only Subjects I Do)
+# Calendar of Practicals and Exam Dates (Only Subjects I Do)
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Monday, 03/04/2023 | French | Oral Test | 09:00 |
 | Wednesday, 24/05/2023 | Computer Science | State Exam | Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 |
 | Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
 | Thursday, 08/06/2023 | English | Paper 2 State Exam | 14:00 - 17:20 |
