@@ -55,8 +55,8 @@
 | Summer House Exams | From Journal, we may have to do these, but I am not sure | Monday, 22/05/2023 - Wednesday, 31/05/2023 | |
 | Computer Science Exam | Written Examination Higher and Ordinary Level. Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 | Wednesday, 24/05/2023 | 9:30 |
 | 6th Year Graduation | From Journal | Thursday, 25/05/2023 | TBC | 
-| State Exams Commence | From Paul | Wednesday, 07/06/2023 | |
-| Debs | Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
+| State Exams Commence | Official | Wednesday, 07/06/2023 | |
+| Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 
 # Calendar of Practicals and Exam Dates (Only Subjects I Do)
 
