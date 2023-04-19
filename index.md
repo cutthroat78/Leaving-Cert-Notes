@@ -26,6 +26,8 @@
 | Biology | Copy Diagrams from Flowering Plant Notes | Tuesday, 18/04/2023 |
 | Maths | Higher Level: Exam Papers Pages 18-19 and Read Chapter 1 of Active Maths 4 Book 2 | Wednesday, 19/04/2023 |
 | English | Do Macbeth Question on 2014 Paper 2/Page 143 in Exam Papers Book | Thursday, 20/04/2023 |
+| Maths | Questions in picture in WhatsApp chat. Paper 2, 2022, Question 8. Optional: Paper 2, 2017, Question 2 | Thursday, 20/04/2023 |
+| Music | Do two chord banks (you can choose your own time signature) | Thursday, 20/04/2023 |
 
 # Timetable
 
