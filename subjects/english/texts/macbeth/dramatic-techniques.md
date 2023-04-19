@@ -54,3 +54,17 @@ Buttress, nor coign of vantage, but this bird
 Hath made his pendant bed and procreant cradle."**
 
 A 'market' is a house martin (kind of swallow), which is 'temple-haunting' because it likes to build its nest high on the walls of tall buildings. ("Haunting" doesn't have any ghostly connotations here.) When Lady Macbeth heard that King Duncan was coming for the night, she imagined a raven under her battlements, foretelling the death of the King. Instead _
+
+_ case can reflect the natures of the characters
+
+Lady Macduff's young son on hearing ______ mother that he shall live **"as birds do"**.
+
+When he hears of the murder of his wife and children Macduff cries **"What, all my pretty chickens and their dam/At one fell swoop?".** He calls Macbeth a "hell-kite", thus likening him to a hawk who has likening him to a hawk who has killed all his 'pretty chickens' in one, swoop or dive.
+
+## Soliloquies
+
+The soliloquy is a speech delivered by a single character on stage, the character will appear to be thinking aloud. It allows the breakdown of what is often referred to as the fourth wall that separates the audience from the stage.
+
+An aside is a similar dramatic technique the difference is that the character does not need to be alone. When a character makes and aside, the audience can hear every word but the other characters present are oblivious.
+
+Some of the plays most powerful language is found in Macbeth's speeches. Soliloquies contribute _ 
