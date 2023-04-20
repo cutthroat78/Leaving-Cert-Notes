@@ -28,6 +28,7 @@
 | English | Do Macbeth Question on 2014 Paper 2/Page 143 in Exam Papers Book | Thursday, 20/04/2023 |
 | Maths | Questions in picture in WhatsApp chat. Paper 2, 2022, Question 8. Optional: Paper 2, 2017, Question 2 | Thursday, 20/04/2023 |
 | Music | Do two chord banks (you can choose your own time signature) | Thursday, 20/04/2023 |
+| French | HL: 2022 HL Question 2 P6 in Exam Papers | Friday, 21/04/2023 |
 
 # Timetable
 
