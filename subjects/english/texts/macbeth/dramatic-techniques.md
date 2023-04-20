@@ -4,7 +4,13 @@
 
 ### Light and Darkness
 
-_
+Light and Darkness is used as a metaphor throughout the play to represent good and evil. When the witches appear to Macbeth, it is amidst a thunderstorm with flashes of lightening foreshadowing Duncan's death and the witches promising that they will meet again **"ere the set sun"**.
+
+Light symbolises good, innocence, truth and honour. Darkness is often linked to immortality evil, corruption and guilt. The witches only appear when it is dark, alluding to their dark nature. The influence that they have on the actions of the characters in the play only have negative implications on the characters, those around them and Scotland at large. Banquo refers to them as **"instruments of Darkness"**.
+
+Lady Macbeth also references darkness just before the murder of Duncan she asks that she be surrounded with **"thick night"** and a **"blanket of the Dark"**.
+
+Most of the corrupt and abnormal events happen in Darkness. The murder of Duncan, the killing of Banquo, the sleepwalking scene and the appearance of the witches happen at night. Lady Macbeth who once craved the Darkness becomes terrified of it and carries a candle with her to keep it away. This symbolises her guilt and insecurity. The once powerful, confident and ambitious queen has been reduced to being afraid of the Dark like a small child. 
 
 ### Blood
 
@@ -20,7 +26,7 @@ The killing of Duncan is made even more horrifying by the images of blood. As he
 
 Immediately after the deed, Macbeth is appalled by the amount of blood on his hands, called it **"a sorry sight"**. He believes that if he were to dip his hands in the seas, they would turn red: **"no this my hand will rather the multitudinous seas incarnadine making the green one red"**.
 
-Macbeth's first order as king is to order the death of his former friend and comrade in arms, Banquo. This is a shocking betrayal of their bond, and it reinforced Macbeth's moral decline and his commitment to a rule pf violent tyranny Banquo's murder is described in gory detail. He is left with **"twenty trenched gashes on his head"** and Macbeth is pleased to note that the murder who reports back to him is covered in Banquo's blood **"Tis better thee without than he within"**. Banquo's bloody ghost appears at the banquet later that evening, shaking it's **"gory locks"** unnerving Macbeth and causing him to tell his wife that "blood will have blood". By this he means that he who sheds blood will have his own blood spilled (foreshadowing).
+Macbeth's first order as king is to order the death of his former friend and comrade in arms, Banquo. This is a shocking betrayal of their bond, and it reinforced Macbeth's moral decline and his commitment to a rule of violent tyranny Banquo's murder is described in gory detail. He is left with **"twenty trenched gashes on his head"** and Macbeth is pleased to note that the murder who reports back to him is covered in Banquo's blood **"Tis better thee without than he within"**. Banquo's bloody ghost appears at the banquet later that evening, shaking it's **"gory locks"** unnerving Macbeth and causing him to tell his wife that "blood will have blood". By this he means that he who sheds blood will have his own blood spilled (foreshadowing).
 
 The most famous reference to blood in the play is Lady Macbeth's sleepwalking scene. She is tormented by the memory of Duncan's murder, despite saying at the time **"A little water clears us of this deed"**. Now no amount of water can make the blood vanish from her imagination or rid her of her guilt. Lady Macbeth wanders the castel at night, vainly trying to scrub the stain away **"out damed spot, out, I say"**.
 
@@ -30,13 +36,13 @@ The play ends as it began, with the defeat of a traitor and the restoration of o
 
 ### Clothing
 
-_
+Shakespeare uses clothes as a metaphor throughout Macbeth. There are thirty and forty clothing images in Macbeth. When Ross hails Macbeth as Thane of Cawdor. Macbeth asks **"Why do you dress me in borrowed robes?"** Shakespeare uses clothing as a way of talking about appearance versus reality. Dressing someone as a king doesn't make them a king. The repetition of this images drives the idea home. Banquo notices Macbeth is distracted when he is named Thane of Cawdor, and he observes to Ross **"New honours came upon him, Like our strange garments, cleave not to their mould But with me aid of use."** Just before Macbeth is going to kill Duncan he hesitates and tells his wife he wants to enjoy his new title like clothes **"Which would be worn now in their newest gloss/Not cast aside so soon."** Lady Macbeth also uses the metaphor of clothing to respond **"Was hope drunk/Wherein you dressed yourself?"** Following the murder of Duncan. Macduff bids farewell to Ross, **"Lest our old robes sit easier than our new."** The old robes refer to Duncan's royal garments; the new robes will be Macbeth's. The reference to 'our' alludes to the fact that everyone in Scotland will be affected by the new king's reign. As the armies gather in front of the play, various noblemen comment on Macbeth's tyrannical rule Angus says: **"Those he commands move only in command, Nothing in love. Now does he feel his title. Hung loose about him, like a giant's robe upon a dwarfish thief." Macbeth is ill suited to the kingship because he has stolen a title that was not his. Compared to the rightful king, Macbeth is a tiny, insignificant figure. He asks that his armour be brought when he hears that none of his Thanes will fight for him. Maybe, he feels more comfortable in the role of soldier and wants to revert to the man he was at the start of the story. Most of the images refer to one of the plays central themes - the protagonist's failure to fit into his role as a king - and illustrate the highly complex character.
 
 ### Nature
 
-Macbeth is typical of Shakespeare's tragedies in that the natural world of the play reflects key aspects of the plot. The imagery of disease acts as a metaphor for evil. Nature or the natural world also represents feelings for the actions of the characters and it therefore reflects their emotional state, this is known as pathetic fallacy
+Macbeth is typical of Shakespeare's tragedies in that the natural world of the play reflects key aspects of the plot. The imagery of disease acts as a metaphor for evil. Nature or the natural world also represents feelings for the actions of the characters and it therefore reflects their emotional state, this is known as pathetic fallacy.
 
-The opening scene of Macbeth gives us an indication of the Witches' nature and intentions. They meet on a heath in a foul mist and plan their next gathering "In thunder, lightening, or in rain". Stormy weather is a sign that evil is afoot
+The opening scene of Macbeth gives us an indication of the Witches' nature and intentions. They meet on a heath in a foul mist and plan their next gathering "In thunder, lightening, or in rain". Stormy weather is a sign that evil is afoot.
 
 When the Sergeant is describing to Duncan in Act 1 Scene 2, he also uses storm imagery, subtly linking Macbeth to the Witches and prefiguring the disorder that is to come: "As whatever the sun 'gins his reflection. / Shipwrecking storms and direful thunders break, / So from that spring whence comfort seemed to come. / Discomfort swells."
 
