@@ -67,4 +67,14 @@ The soliloquy is a speech delivered by a single character on stage, the characte
 
 An aside is a similar dramatic technique the difference is that the character does not need to be alone. When a character makes and aside, the audience can hear every word but the other characters present are oblivious.
 
-Some of the plays most powerful language is found in Macbeth's speeches. Soliloquies contribute _ 
+Some of the plays most powerful language is found in Macbeth's speeches. Soliloquies contribute greatly to his characterisation as a tragic hero, because we know the true state of Macbeth's mind, we understand his dilemma as he contemplates the murder of Duncan.  He is acutely aware that this course of action is wrong, but the temptation to be king is so strong that it eventually overrides all his concerns. n Macbeth, the protagonist has the greatest number of soliloquies. This adds to our experience of the drama as we share in his fears and anxieties.
+
+Macbeth's soliloquies are:
+- Act 1, Scene 3: "Two truths are told..."
+- Act 1, Scene 7: "If it were done, when 'tis done..."
+- Act 2, Scene 1: "Is this a dagger which I see before me...?"
+- Act 3, Scene 1: "To be thus is nothing..."
+- Act 5, Scene 3: "I have lived long enough..."
+- Act 5, Scene 5: "Tomorrow, and tomorrow, and tomorrow..."
+
+In his (Macbeth) first soliloquy (Act 1, Scene 3), Macbeth is considering what the witches have promised him. Their prophecies have already made a deep impact and his desire for power is starting to take hold. He ignores Banquo's warning and focuses instead on the possibility of becoming Scotland's next king. The witches have been proved right on two counts: they recognised that Macbeth was Thane of Glamis; and now he has been rewarded with the new title of Thane of Cawdor. Yet he wonders if their soliciting is to be fully trusted. What disturbs him most is his own evil ambition.

@@ -84,10 +84,10 @@
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->
 <!--#### Patrick Kavanagh-->
-#### Rudyard Kipling
-- [If](poetry/rudyard-kipling/if.md)
 #### William Butler Yeats (W. B. Yeats)
 - [The Lake Isle of Innisfree](poetry/w-b-yeats/the-lake-isle-of-innisfree.md)
+#### Rudyard Kipling
+- [If](poetry/rudyard-kipling/if.md)
 
 ### Comparative - [Video](https://youtu.be/agcXyqsk-dg)
 #### General Vision and Viewpoint - [Video](https://youtu.be/vIZAJmsScW0)
