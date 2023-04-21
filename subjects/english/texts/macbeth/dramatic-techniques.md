@@ -84,3 +84,19 @@ Macbeth's soliloquies are:
 - Act 5, Scene 5: "Tomorrow, and tomorrow, and tomorrow..."
 
 In his (Macbeth) first soliloquy (Act 1, Scene 3), Macbeth is considering what the witches have promised him. Their prophecies have already made a deep impact and his desire for power is starting to take hold. He ignores Banquo's warning and focuses instead on the possibility of becoming Scotland's next king. The witches have been proved right on two counts: they recognised that Macbeth was Thane of Glamis; and now he has been rewarded with the new title of Thane of Cawdor. Yet he wonders if their soliciting is to be fully trusted. What disturbs him most is his own evil ambition.
+
+_
+
+It is clear that the of killing Duncan is now firmly lodged in his mind. Macbeth's nervous tone reflects his inner conflict and the sibilant effect of 'Shakes so my single state of man' has a sinister quality that foreshadows his future actions.
+
+Macbeth's first soliloquy not only engages the audience, it also heightens the dramatic tension, develops the plot and reveals Macbeth's complex nature. The audience have seen two sides to his character: he was first associated with the witches but he is also a loyal and courages solider.
+
+The critical soliloquy in Act 3 ('To be thus is nothing') highlights Macbeth's growing obsession with securing his family's control of the Scottish throne. If the witches' promises come true 
+
+_ Banquo's hairs. Macbeth _ threatened _ himself inferior _ courage and nobility.
+
+Macbeth is acutely aware that he has no legitimate right to be king. Duncan had already named Malcol as his lawful successor.
+
+The repetitive structure of Macbeth's speech also shows his _ deep-rooted uncertainty. He repeatedly returns to his anxieties about Banquo and the unresolved subject of safeguarding his kingship. Again, this illustrates his anxiety and unsettled state of mind. He is now determined to eliminate any threats - real or imagined - that could undermine his long-term control of the Scottish throne.
+
+Dismissive references to the 'fruitless crown' and 'barren sceptre' emphasise Macbeth's dissatisfaction and sense of self-pity. He is also conscious of the irony of sacrificing his immoral soul ('mine eternal jewel') - and all to advance the political interests of 'the seeds of Banquo'. In contrast to earlier soliloquies, in which he reflected on the morality of his plans. Macbeth shows no humanity.
