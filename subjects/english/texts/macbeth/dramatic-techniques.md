@@ -28,7 +28,7 @@ Immediately after the deed, Macbeth is appalled by the amount of blood on his ha
 
 Macbeth's first order as king is to order the death of his former friend and comrade in arms, Banquo. This is a shocking betrayal of their bond, and it reinforced Macbeth's moral decline and his commitment to a rule of violent tyranny Banquo's murder is described in gory detail. He is left with **"twenty trenched gashes on his head"** and Macbeth is pleased to note that the murder who reports back to him is covered in Banquo's blood **"Tis better thee without than he within"**. Banquo's bloody ghost appears at the banquet later that evening, shaking it's **"gory locks"** unnerving Macbeth and causing him to tell his wife that "blood will have blood". By this he means that he who sheds blood will have his own blood spilled (foreshadowing).
 
-The most famous reference to blood in the play is Lady Macbeth's sleepwalking scene. She is tormented by the memory of Duncan's murder, despite saying at the time **"A little water clears us of this deed"**. Now no amount of water can make the blood vanish from her imagination or rid her of her guilt. Lady Macbeth wanders the castel at night, vainly trying to scrub the stain away **"out damed spot, out, I say"**.
+The most famous reference to blood in the play is Lady Macbeth's sleepwalking scene. She is tormented by the memory of Duncan's murder, despite saying at the time **"A little water clears us of this deed"**. Now no amount of water can make the blood vanish from her imagination or rid her of her guilt. Lady Macbeth wanders the castle at night, vainly trying to scrub the stain away **"out damed spot, out, I say"**.
 
 Images of blood are used in a more positive way to symbolise the sacrifice those loyal to Scotland are wiling to make in order that Malcolm claim the throne of Scotland.
 
@@ -36,21 +36,23 @@ The play ends as it began, with the defeat of a traitor and the restoration of o
 
 ### Clothing
 
-Shakespeare uses clothes as a metaphor throughout Macbeth. There are thirty and forty clothing images in Macbeth. When Ross hails Macbeth as Thane of Cawdor. Macbeth asks **"Why do you dress me in borrowed robes?"** Shakespeare uses clothing as a way of talking about appearance versus reality. Dressing someone as a king doesn't make them a king. The repetition of this images drives the idea home. Banquo notices Macbeth is distracted when he is named Thane of Cawdor, and he observes to Ross **"New honours came upon him, Like our strange garments, cleave not to their mould But with me aid of use."** Just before Macbeth is going to kill Duncan he hesitates and tells his wife he wants to enjoy his new title like clothes **"Which would be worn now in their newest gloss/Not cast aside so soon."** Lady Macbeth also uses the metaphor of clothing to respond **"Was hope drunk/Wherein you dressed yourself?"** Following the murder of Duncan. Macduff bids farewell to Ross, **"Lest our old robes sit easier than our new."** The old robes refer to Duncan's royal garments; the new robes will be Macbeth's. The reference to 'our' alludes to the fact that everyone in Scotland will be affected by the new king's reign. As the armies gather in front of the play, various noblemen comment on Macbeth's tyrannical rule Angus says: **"Those he commands move only in command, Nothing in love. Now does he feel his title. Hung loose about him, like a giant's robe upon a dwarfish thief." Macbeth is ill suited to the kingship because he has stolen a title that was not his. Compared to the rightful king, Macbeth is a tiny, insignificant figure. He asks that his armour be brought when he hears that none of his Thanes will fight for him. Maybe, he feels more comfortable in the role of soldier and wants to revert to the man he was at the start of the story. Most of the images refer to one of the plays central themes - the protagonist's failure to fit into his role as a king - and illustrate the highly complex character.
+Shakespeare uses clothes as a metaphor throughout Macbeth. There are thirty and forty clothing images in Macbeth. When Ross hails Macbeth as Thane of Cawdor. Macbeth asks **"Why do you dress me in borrowed robes?"** Shakespeare uses clothing as a way of talking about appearance versus reality. Dressing someone as a king doesn't make them a king. The repetition of this images drives the idea home. Banquo notices Macbeth is distracted when he is named Thane of Cawdor, and he observes to Ross **"New honours came upon him, Like our strange garments, cleave not to their mould But with me aid of use."** Just before Macbeth is going to kill Duncan he hesitates and tells his wife he wants to enjoy his new title like clothes **"Which would be worn now in their newest gloss/Not cast aside so soon."** Lady Macbeth also uses the metaphor of clothing to respond **"Was hope drunk/Wherein you dressed yourself?"** Following the murder of Duncan. Macduff bids farewell to Ross, **"Lest our old robes sit easier than our new."** The old robes refer to Duncan's royal garments; the new robes will be Macbeth's. The reference to 'our' alludes to the fact that everyone in Scotland will be affected by the new king's reign. As the armies gather in front of the play, various noblemen comment on Macbeth's tyrannical rule Angus says: **"Those he commands move only in command, Nothing in love. Now does he feel his title. Hung loose about him, like a giant's robe upon a dwarfish thief."** Macbeth is ill suited to the kingship because he has stolen a title that was not his. Compared to the rightful king, Macbeth is a tiny, insignificant figure. He asks that his armour be brought when he hears that none of his Thanes will fight for him. Maybe, he feels more comfortable in the role of soldier and wants to revert to the man he was at the start of the story. Most of the images refer to one of the plays central themes - the protagonist's failure to fit into his role as a king - and illustrate the highly complex character.
 
 ### Nature
 
 Macbeth is typical of Shakespeare's tragedies in that the natural world of the play reflects key aspects of the plot. The imagery of disease acts as a metaphor for evil. Nature or the natural world also represents feelings for the actions of the characters and it therefore reflects their emotional state, this is known as pathetic fallacy.
 
-The opening scene of Macbeth gives us an indication of the Witches' nature and intentions. They meet on a heath in a foul mist and plan their next gathering "In thunder, lightening, or in rain". Stormy weather is a sign that evil is afoot.
+The opening scene of Macbeth gives us an indication of the Witches' nature and intentions. They meet on a heath in a foul mist and plan their next gathering **"In thunder, lightening, or in rain"**. Stormy weather is a sign that evil is afoot.
 
-When the Sergeant is describing to Duncan in Act 1 Scene 2, he also uses storm imagery, subtly linking Macbeth to the Witches and prefiguring the disorder that is to come: "As whatever the sun 'gins his reflection. / Shipwrecking storms and direful thunders break, / So from that spring whence comfort seemed to come. / Discomfort swells."
+When the Sergeant is describing to Duncan in Act 1 Scene 2, he also uses storm imagery, subtly linking Macbeth to the Witches and prefiguring the disorder that is to come: **"As whatever the sun 'gins his reflection. / Shipwrecking storms and direful thunders break, / So from that spring whence comfort seemed to come. / Discomfort swells."**
 
 At the same time, the Sergeant compares Macbeth and Banquo to eagles and lions when describing their bravery and strength on the battlefield. This positive imagery highlights the pairs nobility as well as their courage: both eagles and lions are traditionally associated with courage and honour. 
 
-_
+The negative imagery associated with the witches would have resonated with Shakespeare's audience. For example, one of the witches tells her sisters that she was busy "killing swine". In Shakespeare's time it was believed that swine fever was caused by the witches, yet another reason for people to feat and hate them. After the same with compares herself to a "rat without a tail". The animal imagery linked to the witches is consistently disgusting.
 
-is hoarse from saying again and again that King Duncan must die. When King Duncan comes to Macbeth's castle, he remarks how sweet the air is, Banquo agrees, and adds:
+As the play progresses, however the negative animal imagery also comes to be associated with Macbeth: his loss of nobility and increasing will is reflected in these comparisons. Immediately after Lady Macbeth reads her husbands letter about the witches prophecies, a messenger arrives with the news that King Duncan is coming to spend the night at her castle. After the messenger has left Lady Macbeth says "The raven himself is hoarse. That croaks the fatal entrance of Duncan under my battlements".
+
+The raven is a bird of ill omen and Lady Macbeth means that the raven is hoarse from saying again and again that King Duncan must die. When King Duncan comes to Macbeth's castle, he remarks how sweet the air is, Banquo agrees, and adds:
 
 **"This quest is summer,    
 The temple haunting martlet, does approve      
@@ -59,13 +61,11 @@ Smells wooingly here. No jutty, frieze
 Buttress, nor coign of vantage, but this bird       
 Hath made his pendant bed and procreant cradle."**
 
-A 'market' is a house martin (kind of swallow), which is 'temple-haunting' because it likes to build its nest high on the walls of tall buildings. ("Haunting" doesn't have any ghostly connotations here.) When Lady Macbeth heard that King Duncan was coming for the night, she imagined a raven under her battlements, foretelling the death of the King. Instead _
+A "market" is a house martin (kind of swallow), which is 'temple-haunting' because it likes to build its nest high on the walls of tall buildings. ("Haunting" doesn't have any ghostly connotations here.) When Lady Macbeth heard that King Duncan was coming for the night, she imagined a raven under her battlements, foretelling the death of the King. Instead, as the king looks up to those battlements, he sees swallows gliding to and fro on the breath of heaven. The birds in each case can reflect the natures of the characters.
 
-_ case can reflect the natures of the characters
+Lady Macduff's young son on hearing that he no longer has a father to protect him, tells his mother that he shall live **"as birds do"**.
 
-Lady Macduff's young son on hearing ______ mother that he shall live **"as birds do"**.
-
-When he hears of the murder of his wife and children Macduff cries **"What, all my pretty chickens and their dam/At one fell swoop?".** He calls Macbeth a "hell-kite", thus likening him to a hawk who has likening him to a hawk who has killed all his 'pretty chickens' in one, swoop or dive.
+When he hears of the murder of his wife and children Macduff cries **"What, all my pretty chickens and their dam / At one fell swoop?".** He calls Macbeth a **"hell-kite"**, thus likening him to a hawk who has likening him to a hawk who has killed all his **"pretty chickens"** in one, swoop or dive.
 
 ## Soliloquies
 
@@ -73,7 +73,7 @@ The soliloquy is a speech delivered by a single character on stage, the characte
 
 An aside is a similar dramatic technique the difference is that the character does not need to be alone. When a character makes and aside, the audience can hear every word but the other characters present are oblivious.
 
-Some of the plays most powerful language is found in Macbeth's speeches. Soliloquies contribute greatly to his characterisation as a tragic hero, because we know the true state of Macbeth's mind, we understand his dilemma as he contemplates the murder of Duncan.  He is acutely aware that this course of action is wrong, but the temptation to be king is so strong that it eventually overrides all his concerns. n Macbeth, the protagonist has the greatest number of soliloquies. This adds to our experience of the drama as we share in his fears and anxieties.
+Some of the plays most powerful language is found in Macbeth's speeches. Soliloquies contribute greatly to his characterisation as a tragic hero, because we know the true state of Macbeth's mind, we understand his dilemma as he contemplates the murder of Duncan.  He is acutely aware that this course of action is wrong, but the temptation to be king is so strong that it eventually overrides all his concerns. In Macbeth, the protagonist has the greatest number of soliloquies. This adds to our experience of the drama as we share in his fears and anxieties.
 
 Macbeth's soliloquies are:
 - Act 1, Scene 3: "Two truths are told..."
@@ -83,7 +83,7 @@ Macbeth's soliloquies are:
 - Act 5, Scene 3: "I have lived long enough..."
 - Act 5, Scene 5: "Tomorrow, and tomorrow, and tomorrow..."
 
-In his (Macbeth) first soliloquy (Act 1, Scene 3), Macbeth is considering what the witches have promised him. Their prophecies have already made a deep impact and his desire for power is starting to take hold. He ignores Banquo's warning and focuses instead on the possibility of becoming Scotland's next king. The witches have been proved right on two counts: they recognised that Macbeth was Thane of Glamis; and now he has been rewarded with the new title of Thane of Cawdor. Yet he wonders if their soliciting is to be fully trusted. What disturbs him most is his own evil ambition.
+In Macbeth's first soliloquy (Act 1, Scene 3), Macbeth is considering what the witches have promised him. Their prophecies have already made a deep impact and his desire for power is starting to take hold. He ignores Banquo's warning and focuses instead on the possibility of becoming Scotland's next king. The witches have been proved right on two counts: they recognised that Macbeth was Thane of Glamis; and now he has been rewarded with the new title of Thane of Cawdor. Yet he wonders if their soliciting is to be fully trusted. What disturbs him most is his own evil ambition.
 
 _
 

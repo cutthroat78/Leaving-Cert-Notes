@@ -47,6 +47,7 @@
 #### Macbeth
 - [Full Play with Modern Translation](texts/macbeth/modern-translation.pdf)
 - [Full Play](texts/macbeth/macbeth.pdf)
+- [Summary](texts/macbeth/summary.md)
 - [Intro to Macbeth 1](texts/macbeth/macbeth-intro-1.pdf)
 - [Intro to Macbeth 2](texts/macbeth/macbeth-intro-2.pdf)
 - [Characters](texts/macbeth/characters.md)
