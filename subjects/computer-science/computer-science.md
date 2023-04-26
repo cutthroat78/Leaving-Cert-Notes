@@ -14,6 +14,7 @@
 - [The Central Processing Unit (CPU)](cpu.md) - [Handout](cpu.pdf)
 - [Video Playlist of Previous Exam Paper Solutions](https://www.youtube.com/playlist?list=PL-CrepeJ9RXLpQNqhcEBKRava2Lo2fudT)
 - Sorting Algorithms - [Video](https://www.youtube.com/watch?v=zuwBCImIyaw) - [Sorting Algorithms Animations (Website)](https://www.toptal.com/developers/sorting-algorithms)
+- [Databases and Relational Databases (Slides)](databases.pdf)
 ## [Python Programming](python.md)
 - [Log Tables](../maths/log-tables.pdf)
 - [Numerical Python](python/numerical-python.md)
