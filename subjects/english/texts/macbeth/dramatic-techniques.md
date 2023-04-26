@@ -71,6 +71,42 @@ When he hears of the murder of his wife and children Macduff cries **"What, all 
 
 The soliloquy is a speech delivered by a single character on stage, the character will appear to be thinking aloud. It allows the breakdown of what is often referred to as the fourth wall that separates the audience from the stage.
 
+An aside is a similar dramatic technique the difference is that the character does not need to be alone. When a character makes an aside, the audience can hear every word but the other characters present are oblivious.
+
+Some of the plays most powerful language is found in Macbeth’s speeches. Soliloquies contribute greatly to his characterisation as a tragic hero, because we know the true state of Macbeth’s mind, we understand his dilemma as he contemplates the murder of Duncan. He is acutely aware that this course of action is wrong, but the temptation to be king is so strong that it eventually overrides all his concerns. In Macbeth the protagonist has the greatest number of soliloquies. This adds to our experience of the drama as we share in his fears and anxieties.
+
+Macbeth’s soliloquies are:
+- Act 1, Scene 3: “Two truths are told…”
+- Act 1, Scene 7: “If it were done, when ‘tis done…”
+- Act 2, Scene 1: “Is this a dagger which I see before me…?
+- Act 3, Scene 1: “To be thus is nothing…”
+- Act 5, Scene 3: “I have lived long enough…”
+- Act 5, Scene 5: “Tomorrow, and tomorrow, and tomorrow…”
+
+In his first soliloquy(a1 sc3) Macbeth is considering what the witches have promised him. Their prophecies have already made a deep impact and his desire for power is starting to take hold. He ignores Banquo’s warning and focuses instead on the possibility of becoming Scotland’s next king. The witches have been proved right on two counts: they recognised that Macbeth was Thane of Glamis; and now he has been rewarded with the new title of Thane of Cawdor. Yet he wonders if their soliciting is to be fully trusted. What disturbs him most is his own evil ambition. How can the prospect of becoming king be good if it creates such ‘horrible imaginings’?
+
+It is clear that the of killing Duncan is now firmly lodged in his mind. Macbeth’s nervous tone reflects his inner conflict and the sibilant effect of ‘Shakes so my single state of man’ has a sinister quality that foreshadows his future actions.
+
+Macbeth’s first soliloquy not only engages the audience, it also heightens the dramatic tension, develops the plot and reveals Macbeth’s complex nature. The audience have already seen two sides to his character: he was first associated with the witches but he is also a loyal and courageous soldier. 
+
+The critical soliloquy in Act 3 (‘To be thus is nothing’) highlights Macbeth’s growing obsession with securing his family’s control of the Scottish throne. If the witches’ promises come true, he will have murdered Duncan to benefit Banquo’s heirs. Macbeth feels threatened because he considers himself inferior to Banquo in courage and nobility. 
+
+Macbeth is acutely aware that he has no legitimate right to be king. Duncan had already named Malcolm as his lawful successor.
+
+The repetitive structure of Macbeth’s speech also shows his deep-rooted uncertainty. He repeatedly returns to his anxieties about Banquo and the unresolved subject of safeguarding his kingship. Again, this illustrates his anxiety and unsettled state of mind. He is now determined to eliminate any threats – real or imagined – that could undermine his long-term control of the Scottish throne.
+
+Dismissive references to the ‘fruitless crown’ and ‘barren sceptre’ emphasise Macbeth’s dissatisfaction and sense of self-pity. He is also conscious of the irony of sacrificing his immoral soul (‘mine eternal jewel’) – and all to advance the political interests of ‘the seeds of Banquo’. In contrast to earlier soliloquies, in which he reflected on the morality of his plans, Macbeth shows no humanity. The enormity of committing the murder no longer effects him; now it merely a means to an end.
+
+This crucial soliloquy marks the point at which Macbeth’s complete moral downfall begins. No longer satisfied with power for himself, his discontent grows to ferocious antagonism as he vows to challenge what the weird sisters have foretold. His tone varies from despair and insecurity to resentment and defiance, but he is always conscious of his own evil choices. This is what saves him from becoming a one dimensional monster and makes him a truly tragic character. 
+
+Macbeth’s second soliloquy in Act 5 (“Tomorrow, and tomorrow, and tomorrow….) address the subject of time, which has become an intolerable burden for him. His response to the news of Lady Macbeth’s death is not altogether surprising. Beyond all feeling he can only say ‘She should have died hereafter’. For him, time itself no longer makes sense and the ‘hereafter’ does not exist. The word he focuses on is ‘tomorrow’. A rhythmic, childlike pace suggests the relentless passage of time, and the compulsive repetition reflects Macbeth’s growing madness.
+
+Macbeth considers that our short lives ‘have lighted fools/ The way to dusty death’: people are excited by the prospect of success and happiness when their desires are fulfilled only to be disappointed in the end. 
+
+In this final soliloquy, we see the play’s ultimate tragedy as Shakespeare invites us to identify with the central character. Macbeth is poignantly aware of the rapid deterioration of his humanity and concludes that existence is entirely meaningless. The short concluding phrase (‘Signifying nothing’) fades away, leaving only silence. Macbeth’s pathos makes a devastating impact and his sickness of heart is likely to awaken some sympathy in the audience. 
+
+<!---The soliloquy is a speech delivered by a single character on stage, the character will appear to be thinking aloud. It allows the breakdown of what is often referred to as the fourth wall that separates the audience from the stage.
+
 An aside is a similar dramatic technique the difference is that the character does not need to be alone. When a character makes and aside, the audience can hear every word but the other characters present are oblivious.
 
 Some of the plays most powerful language is found in Macbeth's speeches. Soliloquies contribute greatly to his characterisation as a tragic hero, because we know the true state of Macbeth's mind, we understand his dilemma as he contemplates the murder of Duncan.  He is acutely aware that this course of action is wrong, but the temptation to be king is so strong that it eventually overrides all his concerns. In Macbeth, the protagonist has the greatest number of soliloquies. This adds to our experience of the drama as we share in his fears and anxieties.
@@ -97,4 +133,18 @@ Macbeth is acutely aware that he has no legitimate right to be king. Duncan had 
 
 The repetitive structure of Macbeth's speech also shows his _ deep-rooted uncertainty. He repeatedly returns to his anxieties about Banquo and the unresolved subject of safeguarding his kingship. Again, this illustrates his anxiety and unsettled state of mind. He is now determined to eliminate any threats - real or imagined - that could undermine his long-term control of the Scottish throne.
 
-Dismissive references to the 'fruitless crown' and 'barren sceptre' emphasise Macbeth's dissatisfaction and sense of self-pity. He is also conscious of the irony of sacrificing his immoral soul ('mine eternal jewel') - and all to advance the political interests of 'the seeds of Banquo'. In contrast to earlier soliloquies, in which he reflected on the morality of his plans. Macbeth shows no humanity.
+Dismissive references to the 'fruitless crown' and 'barren sceptre' emphasise Macbeth's dissatisfaction and sense of self-pity. He is also conscious of the irony of sacrificing his immoral soul ('mine eternal jewel') - and all to advance the political interests of 'the seeds of Banquo'. In contrast to earlier soliloquies, in which he reflected on the morality of his plans. Macbeth shows no humanity.-->
+
+## Dramatic Irony
+
+Dramatic irony means that the audience knows something the characters do not. Because of this awareness, the characters’ words take on a different meaning, often giving rise to increased suspense or – on some occasions – humour. Shakespeare shows that people can be blind to the truth of a situation by enabling his audience to see things as they really are.
+
+Throughout Macbeth, various forms of dramatic irony are used to create tension and involve the audience. An early example occurs in Act 1 Scene 3 when the witches greet Macbeth as Thane of Cawdor . He is bemused, saying ,`The Thane of Cawdor lives.’ However, we have already seen Duncan condemn the traitor to death and grant the title to Macbeth. Later, when Ross arrives to announce this news, Macbeth’s reaction is one of shock.
+
+There is more dramatic irony when Duncan arrives at Macbeth’s catle at Inverness and is struck by the peaceful atmosphere of the place: `This castle hath a pleasant seat.’ His words follow the dramatic exchange in which Macbeth and his wife begin plotting the king’s murder. Lady Macbeth’s  behaviour is also ironic in this same scene, particularly in the refined and formal language with which she welcomes the unsuspecting king. Duncan’s complete unawareness of the danger he is in engages the audience and builds suspense.
+
+Perhaps the most powerful example of dramatic irony is Macbeth’s reliance on the witches’ apparitions. He is desperate to believe their assurance that no man `of woman born shall harm Macbeth’ and that he will remain protected until the trees in Birnam Wood begin to move. The audience recognises the equivocations of the witches long before Macbeth does.
+
+A more subtle form of irony is when a character’s words only become significant later in the story. For example, during the murder scene, Lady Macbeth confidently says, ‘A little water clears us of the deed’. By the end of the play – when she has become weak and deranged – she will be haunted by the smell of blood and obsessively trying to wash her hands. Before her powers began to sloop Lady Macbeth supported her guilt-ridden husband, dismissing his talk of hearing voices: ‘So, it will make us mad’. This is an ironic foreshadowing of her sleep walking scene, when she is finally overwhelmed by conscience and descends into insanity.
+
+Shakespeare’s use of dramatic irony places his character’s weaknesses into sharp relief. Their errors of judgement stand out all the more when the audience is aware of their impending doom. The fact that we know what lies ahead when some of the characters do not enhance the emotional experience of the play, creating feelings of suspense, sympathy, fear, disbelief and even anger in the audience

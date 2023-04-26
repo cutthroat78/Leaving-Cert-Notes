@@ -8,6 +8,7 @@
 - [Steps to Write a Diary Entry](composition/steps-to-write-a-diary-entry.md)
 - [Essay Structure](composition/essay-structure.md)
 - [The 6 Styles of Language (Different Writing Styles in Leaving Cert English)](composition/6-langauge-styles.md)
+- [Debate Speech Layout (Slides)](composition/debate-speech-layout.pdf)
 #### Letters
 - [Layout of a Formal Letter](composition/letters/layout-of-a-formal-letter.md)
 - [Layout of a Informal Letter](composition/letters/layout-of-an-informal-letter.md)
