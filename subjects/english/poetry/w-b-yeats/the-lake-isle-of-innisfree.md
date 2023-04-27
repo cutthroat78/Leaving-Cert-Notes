@@ -15,26 +15,32 @@
 > While I stand on the roadway, or on the pavements grey,  
 > I hear it in the deep heart’s core.   
 
-Lake water lapping with low sounds by the shore; = example of alliteration
-
 ## Theme(s)
-- 
+- Homesick
+- Longing for peace
+- To return to nature
+- Isolation / loneliness
+- Renewal
+- Nature
 
 ## Poetic Techniques
-- 
+- Assonance
+- Onomatopoeia
+- Repetition
+- Sibilance
+- Alliteration
 
 ## Rhyme + Structure
-
-ABAB CDCD EFEF
+- Consists of 3 quatrains (stanzas of 4 lines)
+- Rhyme scheme: ABAB CDCD EFEF
 
 ## Tone + Mood
-- 
+- Determined, the opening line are a personal commitment repeated, "I will arise now" creates sense of urgency
+- Hopefully, that the poet will escape two current city life and create a peaceful life on Innisfree
 
 ## Imagery
-- 
+- Nature: bee loud glade, moonlights all a glimmer
+- Single cabin nestled against the natural landscape of Sligo
 
 ## Symbolism
-- 
-
-## Quotes
-- 
+The place the poet is thinking about could be a reference to heaven and his ideal place to go to in death

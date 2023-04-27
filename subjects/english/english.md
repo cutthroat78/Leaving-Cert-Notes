@@ -88,8 +88,12 @@
 <!--#### Patrick Kavanagh-->
 #### William Butler Yeats (W. B. Yeats)
 - [The Lake Isle of Innisfree](poetry/w-b-yeats/the-lake-isle-of-innisfree.md)
+- [The Wild Swans at Coole](poetry/w-b-yeats/wild-swans.md)
 #### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
+
+## Quotes
+- 
 
 ### Comparative - [Video](https://youtu.be/agcXyqsk-dg)
 #### General Vision and Viewpoint - [Video](https://youtu.be/vIZAJmsScW0)
