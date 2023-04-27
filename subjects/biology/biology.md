@@ -6,8 +6,6 @@ The Study of Living Organisms
 - [Definitions List](terms-and-definitions/biology-definitions.pdf) (In Anki)
   - [‘MUST KNOW’ Biology Terms](terms-and-definitions/need-to-know-definitions.pdf) <!--No Anki-->
 
-- [Easter Break Revision Work](easter.md)
-
 ## Unit 1 - The Study of Life - [Video Playlist](https://youtube.com/playlist?list=PLgPhtu6xzA1cwFwOLbYpxJTaJbUdZiC8O)
 - [(A Search for a) Definition of Life & Characteristics of Life](unit-1/a-search-for-a-definition-of-life.md) (In Anki) - [Slides](slides/unit-1/characteristics-of-life.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/characteristics-of-life.md) (In Anki)
 - [Scientific Method](unit-1/scientific-method.md) (In Anki) - [Slides](slides/unit-1/scientific-method.pdf) - [Terms & Definitions](terms-and-definitions/unit-1/scientific-method.md) (In Anki)
@@ -112,8 +110,6 @@ The Study of Living Organisms
 
 To make things easier, DNA provided has been already cut
 -->
-
-![Revision Sheet](biology-revision.png)
 
 ## Other Resources
 - [Biology Bugbears](https://www.youtube.com/channel/UCGuBY43N719wlQ0e17nbKRQ) - YouTube Videos for Revision

@@ -22,14 +22,7 @@
 
 | Subject | What to Do | Due |
 |-|-|-|
-| Biology | Do work that is in this [link](subjects/biology/easter.md) | Monday, 17/04/2023 |
-| Biology | Copy Diagrams from Flowering Plant Notes | Tuesday, 18/04/2023 |
-| Maths | Higher Level: Exam Papers Pages 18-19 and Read Chapter 1 of Active Maths 4 Book 2 | Wednesday, 19/04/2023 |
-| English | Do Macbeth Question on 2014 Paper 2/Page 143 in Exam Papers Book | Thursday, 20/04/2023 |
-| Maths | Questions in picture in WhatsApp chat. Paper 2, 2022, Question 8. Optional: Paper 2, 2017, Question 2 | Thursday, 20/04/2023 |
-| Music | Do two chord banks (you can choose your own time signature) | Thursday, 20/04/2023 |
-| French | HL: 2022 HL Question 2 P6 in Exam Papers | Friday, 21/04/2023 |
-| Maths | HL: Page 494 & 2018 Hl Paper 2 Question | Monday, 21/04/2023 |
+| | | |
 
 # Timetable
 
@@ -50,9 +43,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Kayaking | This may not happen. Graham just said we might go kayaking in April | ??/04/2023 | |
-| Language Oral Contingency Days | I don't know what this is | Wednesday, 19/04/2023 - Thursday, 20/04/2023 | |
-| SciFest College Event | From Journal | Thursday, 20/04/2023 | |
 | Public Holiday | From Journal | Monday, 01/05/2023 | |
 | Germany Trip | From Journal, probably just for TY | Tuesday, 09/05/2023 - Tuesday, 16/05/2023 | |
 | Sports Day & Awards | From Journal | Friday, 19/05/2023 | |
