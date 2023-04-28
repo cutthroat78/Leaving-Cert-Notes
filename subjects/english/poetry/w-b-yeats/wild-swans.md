@@ -36,22 +36,28 @@
 > To find they have flown away?  
 
 ## Theme(s)
-- 
+- Aging (Passing of Time)
+- Fear of losing sense of self / creativity
 
 ## Poetic Techniques
-- 
+- Metaphor
+- Alliteration
+- Onomatopoeia
 
 ## Rhyme + Structure
-- 
+- Rhyme Scheme: ABCBDD
+- 6 line stanzas, 5 stanzas
 
 ## Tone + Mood
-- 
+- Nostalgic
+- Loneliness
+- Reflective
+- Longing
 
 ## Imagery
-- 
+- 59 swans
+- Flying and making noise
 
 ## Symbolism
-- 
-
-## Quotes
--
+- Swans: represent creativity
+- Swans: beauty, elegance, graceful

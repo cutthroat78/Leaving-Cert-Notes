@@ -44,3 +44,8 @@
 
 ## Symbolism
 The place the poet is thinking about could be a reference to heaven and his ideal place to go to in death
+
+## Quotes
+- "I will arise and go now, and go to Innisfree"
+- "live alone in the bee-loud glade"
+- "While I stand on the roadway, or on the pavements grey"
