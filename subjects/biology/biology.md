@@ -45,6 +45,7 @@ The Study of Living Organisms
 - Responses in the Human: Endocrine System - [Slides](slides/unit-3/endocrine-system.pdf)
 - Structure of Flowering Plants - [Slides](slides/unit-3/plant-structure.pdf)
 - Transport in Plants - [Slides](slides/unit-3/transport-in-plants.pdf)
+- Human Reproduction - [Slides](slides/unit-3/human-reproduction.pdf)
 
 ## Experiments - [Notes (Handout)](experiments/experiments.pdf)
 - [Plant (Onion) Cells](experiments/plant-onion-cells.md) - [Video](https://youtu.be/uEnyHL9yBsI)
