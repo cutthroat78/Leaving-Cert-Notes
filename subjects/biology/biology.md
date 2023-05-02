@@ -45,7 +45,9 @@ The Study of Living Organisms
 - Responses in the Human: Endocrine System - [Slides](slides/unit-3/endocrine-system.pdf)
 - Structure of Flowering Plants - [Slides](slides/unit-3/plant-structure.pdf)
 - Transport in Plants - [Slides](slides/unit-3/transport-in-plants.pdf)
-- Human Reproduction - [Slides](slides/unit-3/human-reproduction.pdf)
+- Plant Responses - [Slides](slides/unit-3/plant-responses.pdf)
+- Human Reproduction - [Slides](slides/unit-3/human-reproduction.pdf) - [Video](https://youtu.be/fcGDUcGjcyk)
+  - [Male Reproductive System Video](https://youtu.be/UbaHww04iLo)
 
 ## Experiments - [Notes (Handout)](experiments/experiments.pdf)
 - [Plant (Onion) Cells](experiments/plant-onion-cells.md) - [Video](https://youtu.be/uEnyHL9yBsI)
@@ -57,6 +59,7 @@ The Study of Living Organisms
 - [Isolate DNA from a Plant Tissue](experiments/isolating-dna.md) - [Video](https://youtu.be/hDV7EhINZww)
 - [Photosynthesis](experiments/photosynthesis.md)
 - Fermentation of Alcohol - [Video](https://youtu.be/yTnQrh36S58)
+- T/S (Transverse Section) of a Dicot Stem - [Video](https://youtu.be/Oy0bTweXHP4)
 #### Food Tests
 - [A Test for Starch](experiments/food-tests/starch.md)
 - [A Test for Protein](experiments/food-tests/protein.md)
