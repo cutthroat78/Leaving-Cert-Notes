@@ -1,6 +1,7 @@
 # Business
 - [Answering Exam Questions](answering-exam-questions.md) <!--No Anki-->
 - [Definitions List](definitions/definitions.pdf)
+- Exam Language - [Slides](exam-language.pdf)
 ## Unit 1: Introduction to People in Business - [Definitions](definitions/unit-1-definitions.pdf) - [Padlet](https://padlet.com/grahammaher/wh79o1thg564lb9t)
 - [1. People in Business](unit-1/01-people-in-business.md) - [Slides](slides/unit-1/01-people-in-business.pdf) - [Revision Material](revision-material/01-revision-material.pdf) - In Anki
 - [2. Consumer Conflict](unit-1/02-consumer-conflict.md) - [Slides](slides/unit-1/02-consumer-conflict.pdf) - [Revision Material](revision-material/02-revision-material.pdf) - In Anki
