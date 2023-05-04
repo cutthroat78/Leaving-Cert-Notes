@@ -86,9 +86,11 @@
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->
 <!--#### Patrick Kavanagh-->
-#### William Butler Yeats (W. B. Yeats)
+#### William Butler Yeats (W.B. Yeats)
 - [The Lake Isle of Innisfree](poetry/w-b-yeats/the-lake-isle-of-innisfree.md)
 - [The Wild Swans at Coole](poetry/w-b-yeats/wild-swans.md)
+- [Sailing to Byzantium](poetry/w-b-yeats/sailing-to-byzantium.md)
+- [An Irish Airman Foresees his Death](poetry/w-b-yeats/irish-airman.md)
 #### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
 

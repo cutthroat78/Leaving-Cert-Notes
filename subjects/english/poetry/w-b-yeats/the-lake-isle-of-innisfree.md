@@ -1,4 +1,4 @@
-# The Lake Isle of Innisfree by W. B. Yeats
+# The Lake Isle of Innisfree by W.B. Yeats
 
 > I will arise and go now, and go to Innisfree,  
 > And a small cabin build there, of clay and wattles made;  

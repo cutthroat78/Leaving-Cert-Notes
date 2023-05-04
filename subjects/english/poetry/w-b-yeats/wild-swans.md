@@ -1,4 +1,4 @@
-# The Wild Swans at Coole by W. B. Yeats
+# The Wild Swans at Coole by W.B. Yeats
 
 > The trees are in their autumn beauty,  
 > The woodland paths are dry,  
