@@ -39,9 +39,14 @@ The Study of Living Organisms
 - [Homeostasis](unit-3/homeostasis.md) - [Slides](slides/unit-3/homeostasis.pdf)
 - [Breathing System](unit-3/breathing-system.md) - [Slides](slides/unit-3/breathing-system.pdf)- [Terms & Definitions](terms-and-definitions/unit-3/breathing-system.md) (In Anki)
 - [Excretion](unit-3/excretion.md) - [Slides (Poster)](slides/unit-3/excretion.pdf)
-- [Human Defense System (Immune System)](unit-3/human-defense-system.md) (Being converting to anki while doing topic in class)
+- [Human Defense System (Immune System)](unit-3/human-defense-system.md)
+  - [General Defence System Video Part 1](https://www.youtube.com/watch?v=70AmV9O2Kfs)
+  - [General Defence System Video Part 2](https://www.youtube.com/watch?v=DULAd1P8TKo)
 - The Nervous System - [Slides](https://www.theconicalflask.ie/biology/the-nervous-system) - [Slides 2 (Handout Notes)](unit-3/nervous-system/nervous-system.pdf)
 - The Senses - [Slides](slides/unit-3/senses.pdf)
+  - [How to Draw the Skin Diagram (Video)](https://www.youtube.com/shorts/A8jR4cq-PPY)
+  - [The Eye (Video)](https://www.youtube.com/watch?v=GflMkCZUS6o)
+  - [The Ear (Video)](https://www.youtube.com/watch?v=kpjnvZ_3CpQ)
 - Responses in the Human: Endocrine System - [Slides](slides/unit-3/endocrine-system.pdf)
 - Structure of Flowering Plants - [Slides](slides/unit-3/plant-structure.pdf)
 - Transport in Plants - [Slides](slides/unit-3/transport-in-plants.pdf)
@@ -118,6 +123,7 @@ To make things easier, DNA provided has been already cut
 ## Other Resources
 - [Biology Bugbears](https://www.youtube.com/channel/UCGuBY43N719wlQ0e17nbKRQ) - YouTube Videos for Revision
 - [Amobea Sisters](https://www.youtube.com/c/AmoebaSisters) - YouTube Videos for Revision
+- [Linda Ward - Biology (YouTube)](https://www.youtube.com/@lindaward-biology8457/videos)
 - [Mr C Biology - Biology Notes](https://www.mrcbiology.com/) - Website with Notes
 - [The Conical Flask](https://www.theconicalflask.ie/biology/) - Website with Slideshows, Notes, Task Sheets and Quizzes
 - [Leaving Certificate Biology](http://leavingbio.net/) - Website with Notes
