@@ -74,3 +74,11 @@ Swing of a pendulum begins low, depressed about being old + useless but becomes 
 ## Symbolism
 - Byzantium represents heaven or afterlife
 - Scarecrow = old man
+
+## Quotes
+- "Whatever is begotten, born, and dies."
+- "Fish, flesh, or fowl, commend all summer long"
+- "A tattered coat upon a stick, unless"
+- "For every tatter in its mortal dress,"
+- "gather me / Into the artifice of eternity."
+- "But such a form as Grecian goldsmiths make / Of hammered gold and gold enamelling"

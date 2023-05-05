@@ -91,11 +91,9 @@
 - [The Wild Swans at Coole](poetry/w-b-yeats/wild-swans.md)
 - [Sailing to Byzantium](poetry/w-b-yeats/sailing-to-byzantium.md)
 - [An Irish Airman Foresees his Death](poetry/w-b-yeats/irish-airman.md)
+- [Swift's Epitaph](poetry/w-b-yeats/irish-airman.md)
 #### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
-
-## Quotes
-- 
 
 ### Comparative - [Video](https://youtu.be/agcXyqsk-dg)
 #### General Vision and Viewpoint - [Video](https://youtu.be/vIZAJmsScW0)

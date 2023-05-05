@@ -18,22 +18,29 @@
 > In balance with this life, this death.  
 
 ## Theme(s)
-- 
+- Death
+- War
+-
 
 ## Poetic Techniques
-- 
+- Monologue
+- Anaphora
+- Balances ideas by using contrasting phrases
+  - "love/hate, years to come/years behind, life/death."
 
 ## Rhyme + Structure
-- 
+- 16 Lines
+- One stanza
+- Rhyme scheme: ABAB CDCD EFEF GHGH
 
 ## Tone + Mood
-- 
+- Fatalistic
+- Acceptance
+- His enjoyment of flying
 
 ## Imagery
-- 
-
-## Symbolism
-- 
+- Lonely solider in an airplane flying amongst the clouds
 
 ## Quotes
-- 
+- "Nor law, nor duty bade me fight, / Nor public men, nor cheering crowds, / A lonely impulse of delight"
+- "Those that I fight I do not hate, / Those that I guard I do not love;"
