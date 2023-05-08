@@ -92,6 +92,7 @@
 - [Sailing to Byzantium](poetry/w-b-yeats/sailing-to-byzantium.md)
 - [An Irish Airman Foresees his Death](poetry/w-b-yeats/irish-airman.md)
 - [Swift's Epitaph](poetry/w-b-yeats/irish-airman.md)
+- [The Stare’s Nest By My Window (From Meditations In Time Of Civil War, VI)](poetry/w-b-yeats/stares-nest.md)
 #### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
 
