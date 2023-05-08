@@ -6,7 +6,6 @@
 - French (Français): [Notes](subjects/french/french.md) - [Anki Deck](anki/french.apkg) - [Previous Exam Papers](subjects/french/exam-papers.md)
 - Maths: [Notes](subjects/maths/maths.md) - [Previous Exam Papers](subjects/maths/exam-papers.md)
 - Music: [Notes](subjects/music/music.md) - [Anki Deck](anki/music.apkg) - [Previous Exam Papers](subjects/music/exam-papers.md)
-<!-- [Study Methods & Tips](study.md)-->
 
 ---
 
@@ -37,18 +36,17 @@
 | 11:50 | Break                    | Break                           | Maths                           | Break                           | Break                             |
 | 12:30 | Business                 | PE                              | English                         | 4 Way Split                     | 4 Way Split                       |
 | 13:30 | French / Engineering     | Business                        | 4 Way Split                     | English                         | English                           |
-| 14:30 | English                  | 4 Way Split                     | Biology                         | French / Engineering            | Maths                             |
+| 14:30 | English                  | 4 Way Split                     | Biology (Extra Class)           | French / Engineering            | Maths                             |
 
 # Calendar
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Public Holiday | From Journal | Monday, 01/05/2023 | |
 | Germany Trip | From Journal, probably just for TY | Tuesday, 09/05/2023 - Tuesday, 16/05/2023 | |
 | Sports Day & Awards | From Journal | Friday, 19/05/2023 | |
-| Summer House Exams | From Journal, we might have to do these, but I am not sure | Monday, 22/05/2023 - Wednesday, 31/05/2023 | |
+| Summer House Exams | From Journal | Monday, 22/05/2023 - Wednesday, 31/05/2023 | |
 | Computer Science Exam | Written Examination, Higher and Ordinary Level. Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 | Wednesday, 24/05/2023 | 9:30 |
-| 6th Year Graduation | From Journal | Thursday, 25/05/2023 | TBC | 
+| 6th Year Graduation | From Journal and talking about it in class, most likely happen in PE Hall. After ceremony, we will got to a pub, which will have a DJ | Thursday, 25/05/2023 | 18:00 | 
 | State Exams Commence | Official | Wednesday, 07/06/2023 | |
 | Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 
@@ -88,14 +86,14 @@
 
 ## Language Resources (Irish, French, German, Spanish, Japanese Etc.)
 - [Duolingo](https://www.duolingo.com/) - A gamified approach to learning a language (App and Website)
-- [Drops](https://languagedrops.com/) - Learn Vocabulary of a langauge (App and Website)
+- [Drops](https://languagedrops.com/) - Learn Vocabulary of a language (App and Website)
 - [Scripts](https://languagedrops.com/scripts) - Learn to write in different Writing Systems (App & Website) (Good for Japanese, Mandarin and Russian)
 - [Clozemaster](https://www.clozemaster.com/) - Learn Language in Context (App and Website)
 - [Ling Learn](https://ling-app.com/) - Learn a Language (App and Website)
 - [MetaLanguage](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzgwNDgwMjQ4Mjc4OTc0OTY0MzUQCBgDEhkKEzgwNDgwMjQ4Mjc4OTc0OTY0MzUQCBgDGAA%3D:S:ANO1ljIqyhA&gsr=CjuKAzgKGQoTODA0ODAyNDgyNzg5NzQ5NjQzNRAIGAMSGQoTODA0ODAyNDgyNzg5NzQ5NjQzNRAIGAMYAA%3D%3D:S:ANO1ljKKjXw&hl=en_US&gl=US) - Company that makes Android apps to help learn a language
 - Jernung: [Android](https://play.google.com/store/apps/dev?id=7157988227995618199&hl=en_US&gl=US), [Apple](https://apps.apple.com/us/developer/jernung/id1268225656#see-all/i-phonei-pad-apps) - Company that makes games to help learn and write in a language
 - [Mango Languages](https://mangolanguages.com/) - Website and App to Learn Languages
-- [Toucan](https://jointoucan.com/) - Browser Extenion that helps build vocabulary by replacing words on websites with words in your target language
+- [Toucan](https://jointoucan.com/) - Browser Extension that helps build vocabulary by replacing words on websites with words in your target language
 
 ![Timetable](timetable.jpeg)
 
