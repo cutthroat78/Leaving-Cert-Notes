@@ -1,4 +1,6 @@
 # Business
+- [Business Exam Predictions 2023](https://www.youtube.com/watch?v=aTSgJAIaxas)
+
 - [Answering Exam Questions](answering-exam-questions.md) <!--No Anki-->
 - [Definitions List](definitions/definitions.pdf)
 - [Exam Language (Slides)](exam-language.pdf)
