@@ -82,8 +82,6 @@ What is the structure of a nucleotide?
 
 <!--card-->
 
-![6](dna/6.png)
-
 Sugar is Deoxyribose = D
 
 Phosphate group = P
