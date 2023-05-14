@@ -3,6 +3,7 @@
 The Study of Living Organisms
 - [Syllabus & Exam Structure](syllabus-and-exam-structure.md) <!--No Anki-->
 - [Study and Exam Tips (From Teachers)](tips.md) <!--No Anki-->
+- [Revision Booklet](revision-booklet.pdf)
 - [Definitions List](terms-and-definitions/biology-definitions.pdf) (In Anki)
   - [‘MUST KNOW’ Biology Terms](terms-and-definitions/need-to-know-definitions.pdf) <!--No Anki-->
 
