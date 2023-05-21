@@ -17,11 +17,13 @@
 - [Physics](other-subjects/physics.md)
 - [Phys-Chem](other-subjects/phys-chem/phys-chem.md)
 
+<!--
 # Homework
 
 | Subject | What to Do | Due |
 |-|-|-|
 | | | |
+-->
 
 # Timetable
 
@@ -42,8 +44,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Germany Trip | From Journal, probably just for TY | Tuesday, 09/05/2023 - Tuesday, 16/05/2023 | |
-| Sports Day & Awards | From Journal | Friday, 19/05/2023 | |
 | Summer House Exams | From Journal | Monday, 22/05/2023 - Wednesday, 31/05/2023 | |
 | Computer Science Exam | Written Examination, Higher and Ordinary Level. Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 | Wednesday, 24/05/2023 | 9:30 |
 | 6th Year Graduation | From Journal and talking about it in class, most likely happen in PE Hall. After ceremony, we will got to a pub, which will have a DJ | Thursday, 25/05/2023 | 18:00 | 
