@@ -1,5 +1,13 @@
 # DNA and RNA
 
+![23](dna/23.png)
+
+![24](dna/24.png)
+
+![25](dna/25.png)
+
+---
+
 ## Structure of DNA
 
 DNA = **d**eoxribo**n**ucleic **a**cid

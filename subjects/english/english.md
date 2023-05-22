@@ -14,6 +14,7 @@
 - [Layout of a Informal Letter](composition/letters/layout-of-an-informal-letter.md)
 - [Open Letter](composition/letters/open-letter.md)
 ## Paper 2
+- [Paper 2 Revision Booklet](paper-2-revision-booklet-2023.pdf)
 - [Essay Formatting for Paper 2](essay-formatting-paper-2.md)
 ### Texts
 #### Casablanca
