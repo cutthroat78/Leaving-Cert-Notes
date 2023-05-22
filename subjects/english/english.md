@@ -82,7 +82,11 @@
 - [Antartica](poetry/derek-mahon/antartica.md)
 - [As It Should Be](poetry/derek-mahon/should.md)
 - [Kinsale](poetry/derek-mahon/kinsale.md)
-<!--#### [Elizabeth Bishop](poetry/elizabeth-bishop/elizabeth-bishop-1.pdf) - [More Slides](poetry/elizabeth-bishop/elizabeth-bishop-2.pdf)-->
+#### [Elizabeth Bishop](poetry/elizabeth-bishop/elizabeth-bishop-1.pdf) - [More Slides](poetry/elizabeth-bishop/elizabeth-bishop-2.pdf)
+- [The Fish](poetry/elizabeth-bishop/the-fish.md)
+- [Prodigal](poetry/elizabeth-bishop/prodigal.md)
+- [Sestina](poetry/elizabeth-bishop/sestina.md)
+- [The Armadillo](poetry/elizabeth-bishop/the-armadillo.md)
 <!--#### Emily Dickinson-->
 <!--#### John Donne-->
 <!--#### Patrick Kavanagh-->
