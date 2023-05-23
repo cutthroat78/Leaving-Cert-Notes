@@ -17,6 +17,22 @@
 - [Physics](other-subjects/physics.md)
 - [Phys-Chem](other-subjects/phys-chem/phys-chem.md)
 
+# Block Classes Timetable
+
+| Subject | Date | Time |
+|-|-|
+| Ordinary Level Irish | 09:00 - 11:00 | Monday, 29/05/2023 | 
+| Music/Phys-Chem/Geography | 11:30 - 13:00 | Monday, 29/05/2023 |
+| Biology/Construction | 13:30 - 15:00 | Monday, 29/05/2023 |
+| French | 09:00 - 11:00 | Tuesday, 30/05/2023 |
+| Higher Level Irish | 11:30 - 15:30 | Tuesday, 30/05/2023 |
+| Art | 13:30 - 15:30 | Tuesday, 30/05/2023 |
+| Higher Level Irish | 09:00 - 10:30 | Wednesday, 31/05/2023 |
+| Business | 11:30 - 13:00 | Wednesday, 31/05/2023 |
+| English | 09:00 - 11:00 | Thursday, 01/06/2023 |
+| Ordinary Level Irish | 11:30 - 13:30 | Thursday, 01/06/2023 |
+| Maths | 14:00 - 15:30 | Thursday, 01/06/2023 |
+
 <!--
 # Homework
 
@@ -25,6 +41,7 @@
 | | | |
 -->
 
+<!--
 # Timetable
 
 4 Way Split = Music/Phys-Chem/Art/Geography
@@ -39,6 +56,7 @@
 | 12:30 | Business                 | PE                              | English                         | 4 Way Split                     | 4 Way Split                       |
 | 13:30 | French / Engineering     | Business                        | 4 Way Split                     | English                         | English                           |
 | 14:30 | English                  | 4 Way Split                     | Biology (Extra Class)           | French / Engineering            | Maths                             |
+-->
 
 # Calendar
 
