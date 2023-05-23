@@ -19,7 +19,7 @@
 
 # Block Classes Timetable
 
-| Subject | Date | Time |
+| Subject | Time | Date |
 |-|-|-|
 | Ordinary Level Irish | 09:00 - 11:00 | Monday, 29/05/2023 | 
 | Music/Phys-Chem/Geography | 11:30 - 13:00 | Monday, 29/05/2023 |
