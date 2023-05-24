@@ -25,7 +25,7 @@
 | Music/Phys-Chem/Geography | 11:30 - 13:00 | Monday, 29/05/2023 |
 | Biology/Construction | 13:30 - 15:00 | Monday, 29/05/2023 |
 | French | 09:00 - 11:00 | Tuesday, 30/05/2023 |
-| Higher Level Irish | 11:30 - 15:30 | Tuesday, 30/05/2023 |
+| Higher Level Irish | 11:30 - 13:00 | Tuesday, 30/05/2023 |
 | Art | 13:30 - 15:30 | Tuesday, 30/05/2023 |
 | Higher Level Irish | 09:00 - 10:30 | Wednesday, 31/05/2023 |
 | Business | 11:30 - 13:00 | Wednesday, 31/05/2023 |
@@ -62,8 +62,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| Summer House Exams | From Journal | Monday, 22/05/2023 - Wednesday, 31/05/2023 | |
-| Computer Science Exam | Written Examination, Higher and Ordinary Level. Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 | Wednesday, 24/05/2023 | 9:30 |
 | 6th Year Graduation | From Journal and talking about it in class, most likely happen in PE Hall. After ceremony, we will got to a pub, which will have a DJ | Thursday, 25/05/2023 | 18:00 | 
 | State Exams Commence | Official | Wednesday, 07/06/2023 | |
 | Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
@@ -72,7 +70,6 @@
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Wednesday, 24/05/2023 | Computer Science | State Exam | Section A & B: 9:30 - 11:00, Section C: 11:30 - 12:30 |
 | Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
 | Thursday, 08/06/2023 | English | Paper 2 State Exam | 14:00 - 17:20 |
 | Friday, 09/06/2023 | Maths | Paper 1 State Exam | 14:00 - 16:30 |
@@ -112,9 +109,3 @@
 - Jernung: [Android](https://play.google.com/store/apps/dev?id=7157988227995618199&hl=en_US&gl=US), [Apple](https://apps.apple.com/us/developer/jernung/id1268225656#see-all/i-phonei-pad-apps) - Company that makes games to help learn and write in a language
 - [Mango Languages](https://mangolanguages.com/) - Website and App to Learn Languages
 - [Toucan](https://jointoucan.com/) - Browser Extension that helps build vocabulary by replacing words on websites with words in your target language
-
-![Timetable](timetable.jpeg)
-
-![Image of Calendar from Journal](calendar-from-journal.jpg)
-
-![2023 Exam Practicals Dates](exam-practicals-dates.jpg)
