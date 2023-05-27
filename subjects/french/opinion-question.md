@@ -100,4 +100,8 @@ Pensez-vous que le sport est important pour les adolescents?
 
 #### Answer
 
+A mon avis, le sport est absolument essentiel pour les adolsecents. Je suis tout à fait pour le sport dans la vie des jeunes. Tout d'abord, le sport est un bon moyen de se décontractrer. De nos jours, les éleves de lycée sont très stresses, surtout pendant la période des examens. Les activitiés sportives aident les éleves a s'échapper de la stresse et de l'inquiet des examens.
 
+De plus, le sport est un bon moyen de recontrer des nouveaux amis, surtout si on pratique un sport d'équipe. D'après plusiers études, il y a un fort lien entre le sport et le bonheur des adolescent et la camaraderie joue un grand role dans ces études.
+
+En bref, les activités sportives sont essentiels dans la vie des jeunes pour qu'ils soient contents.
