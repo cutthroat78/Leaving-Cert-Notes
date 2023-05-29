@@ -21,9 +21,6 @@
 
 | Subject | Time | Date |
 |-|-|-|
-| Ordinary Level Irish | 09:00 - 11:00 | Monday, 29/05/2023 | 
-| Music/Phys-Chem/Geography | 11:30 - 13:00 | Monday, 29/05/2023 |
-| Biology/Construction | 13:30 - 15:00 | Monday, 29/05/2023 |
 | French | 09:00 - 11:00 | Tuesday, 30/05/2023 |
 | Higher Level Irish | 11:30 - 13:00 | Tuesday, 30/05/2023 |
 | Art | 13:30 - 15:30 | Tuesday, 30/05/2023 |
