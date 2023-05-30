@@ -17,13 +17,84 @@ More Details:
 - Candidates will now have three options. Answer (a) or (b) or (c) - 60 marks (90 words approx.)
 - Candidates answer one other question from questions 2, 3, 4, 5 and 6 - 40 marks (75 words approx. For these you will either, write another opinion piece or a journal entry
 
-## Structing an opinion piece
+## Structuring an opinion piece
+
 1. Start by giving your opinion
 2. Introduce your first point = Tout d'abord (first of all) - 4-5 sentences 
 3. Use words like ensuite (then) and deuxiemement (secondly) + point no.2 - about 3 or 4 sentences
-4. <u>Quant à moi (as for myself) / personellement (personally)</u> + give your personal experience of this topic, if relevant (as for me ....)
-5. Give your conclusion which may include a solution, <u>En conclusion (to conclude) / afin de conclure (As to conclude)</u> + conclusion
+4. **Quant à moi (as for myself) / personellement (personally)** + give your personal experience of this topic, if relevant (as for me ....)
+5. Give your conclusion which may include a solution, **En conclusion (to conclude) / afin de conclure (As to conclude)** + conclusion
 6. Try to include a relevant idiom or proverb
+
+## Making a Plan
+
+Once you have come up with a general idea of what the question is about, you can start by laying out a plan. It's important that you break up your plan into three different parts.
+
+- L'introduction (The introduction)
+- Le corps (The body)
+- La conclusion (The conclusion)
+
+You should use the extra pages at the end of your exam paper to plan for this - This will give you space to jot down some ideas and it demonstrates strong exam technique to the examiner.
+
+Below you will find some phrases to use in your opinion piece. They have been divided into the three sections for this piece. Even if you don't fully understand the question or have an opinion on the topic you've selected, the more of these phrases you can use, the better you will do!
+
+### L'introduction (The Introduction)
+
+This is the start of your opinion piece - Try to use two of these phrases together. E.g. Je suis tout à fait f'accord avec cet affirmation, on entend souvent parler de ce sujet.
+
+| French | English |
+|-|-|
+| Je suis tout à fait f'accord avec _ |  |
+| Je ne suis pad d'accord avec _ |  |
+| Je partage l'avis de l'auteur |  |
+| Cet avis me choque |  |
+| Cette iamge me choque/me touche profondement |  |
+| Ce sujet fait souvent la une de tous les journaux |  |
+| Ceci est le grand fléau de nos jours |  |
+| On entend souvent parler de ce sujet |  |
+
+
+---
+
+### The body (le corps) 
+
+#### Developing your argument
+
+This is where you look to develop your argument. Use these phrases but also link them to your own thoughts about the argument
+
+| French | English |
+|-|-|
+| Tout d'abord | First of all |
+| Il va sans dire que | It goes with out saying |
+| Sans aucun doute | without a doubt |
+| Je pense que | I think that |
+| Je crois que _ | I believe that |
+| À mon avis _ | In my opinion |
+| Quant à moi _ | As for me |
+| Il ne faut pas masquer la réalité |  |
+| Les sondages nous montrent que _ |  |
+| Il me semble que | It seems to me that |
+| Il devient de plus en plus difficile de _ |  | 
+| Incroyable mais vrai _ | Incredible but true |
+| Malheureusement | Unfortunately |
+| Puis/ensuite | Then |
+| Cependant | However |
+| Pourtant | Nevertheless |
+| Par contre | On the other hand |
+| Ce n'est pas juste que (+ subjunctive) |  |
+| Quelle honte / Quelle tristesse pour notre societé |  |
+| C'est vraiment lamentable | It's a real pity |
+|  |  |
+| De nos jours | Nowadays |
+| Prenons le cas de | Let's take the case of |
+| Il est évident que | It's clear that |
+| Appelons un chat un chat | Let's call a spade a spade |
+| Grace à | Thanks to |
+| N'oublions pas que | Don't forget that |
+|  |  |
+|  |  |
+|  |  |
+| C'est une situation très inquiétante/désespérante | It's a very worrying/desperate situation |
 
 ## Opinion Question Structuring Phrases
 
@@ -50,47 +121,7 @@ More Details:
 | D'un cóté | On one hand |
 | De l'autre côté | On the other hand | 
 
----
-
-
-
-## The body (le corps) - Developing you argument
-
-| French | English |
-|-|-|
-| Tout d'abord | First of all |
-| Il va sans dire que | It goes with out saying |
-| Sans aucun doute | without a doubt |
-| Je pense que | I think that |
-| Je crois que- | I believe that |
-| À mon avis- | In my opinion |
-| Quant à moi- | As for me |
-|  |  |
-|  |  |
-| Il me semble que | It seems to me that |
-| Il devient de plus en plus difficile de- |  | 
-| Incroyable mais vrai - | Incredible but true |
-| Malheureusement | Unfortunately |
-| Puis/ensuite | Then |
-| Cependant | However |
-| Pourtant | Nevertheless |
-| Par contre | On the other hand |
-|  |  |
-|  |  |
-| C'est vraiment lamentable | It's a real pity |
-|  |  |
-| De nos jours | Nowadays |
-| Prenons le cas de | Let's take the case of |
-| Il est évident que | It's clear that |
-| Appelons un chat un chat | Let's call a spade a spade |
-| Grace à | Thanks to |
-| N'oublions pas que | Don't forget that |
-|  |  |
-|  |  |
-|  |  |
-| C'est une situation très inquiétante/désespérante | It's a very worrying/desperate situation |
-
-## Opinion Question Examples (From Teacher)
+## Opinion Question Sample Answers
 
 ### Le sport dans la vie des ados (Sport in the life of teenagers)
 

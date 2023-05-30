@@ -21,9 +21,6 @@
 
 | Subject | Time | Date |
 |-|-|-|
-| French | 09:00 - 11:00 | Tuesday, 30/05/2023 |
-| Higher Level Irish | 11:30 - 13:00 | Tuesday, 30/05/2023 |
-| Art | 13:30 - 15:30 | Tuesday, 30/05/2023 |
 | Higher Level Irish | 09:00 - 10:30 | Wednesday, 31/05/2023 |
 | Business | 11:30 - 13:00 | Wednesday, 31/05/2023 |
 | English | 09:00 - 11:00 | Thursday, 01/06/2023 |
