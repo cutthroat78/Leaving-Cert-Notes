@@ -21,19 +21,9 @@
 
 | Subject | Time | Date |
 |-|-|-|
-| Higher Level Irish | 09:00 - 10:30 | Wednesday, 31/05/2023 |
-| Business | 11:30 - 13:00 | Wednesday, 31/05/2023 |
 | English | 09:00 - 11:00 | Thursday, 01/06/2023 |
 | Ordinary Level Irish | 11:30 - 13:30 | Thursday, 01/06/2023 |
 | Maths | 14:00 - 15:30 | Thursday, 01/06/2023 |
-
-<!--
-# Homework
-
-| Subject | What to Do | Due |
-|-|-|-|
-| | | |
--->
 
 <!--
 # Timetable
@@ -56,7 +46,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| 6th Year Graduation | From Journal and talking about it in class, most likely happen in PE Hall. After ceremony, we will got to a pub, which will have a DJ | Thursday, 25/05/2023 | 18:00 | 
 | State Exams Commence | Official | Wednesday, 07/06/2023 | |
 | Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 

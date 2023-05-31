@@ -53,9 +53,6 @@ This is the start of your opinion piece - Try to use two of these phrases togeth
 | Ceci est le grand fléau de nos jours |  |
 | On entend souvent parler de ce sujet |  |
 
-
----
-
 ### The body (le corps) 
 
 #### Developing your argument
@@ -84,7 +81,7 @@ This is where you look to develop your argument. Use these phrases but also link
 | Ce n'est pas juste que (+ subjunctive) |  |
 | Quelle honte / Quelle tristesse pour notre societé |  |
 | C'est vraiment lamentable | It's a real pity |
-|  |  |
+| Quelle bonne nouvelle pour notre pays |  |
 | De nos jours | Nowadays |
 | Prenons le cas de | Let's take the case of |
 | Il est évident que | It's clear that |
