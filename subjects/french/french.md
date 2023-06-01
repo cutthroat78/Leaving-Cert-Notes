@@ -1,9 +1,12 @@
 # French (Français)
 
-- [Diary/Journal Entry](diary-entry.md)
-- [The Opinion Question](opinion-question.md)
 - [Oral Exam](oral-exam.md)
 - [Revision Sheets (From Pauline)](pauline-revision-sheets.md)
+
+## Leaving Cert Question Types
+
+- [Diary/Journal Entry](diary-entry.md)
+- [The Opinion Question](opinion-question.md)
 
 ## Grammar
 

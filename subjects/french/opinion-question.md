@@ -1,5 +1,5 @@
 # Opinion Question
-<!--Include example of an opinion question with an English translation-->
+
 An opinion question is where we give our opinion on a subject.
 
 In you leaving certificate Higher level French exam, you will be required to write at least one opinion piece. The first will be based on the comprehensions that you will have read.
@@ -53,7 +53,7 @@ This is the start of your opinion piece - Try to use two of these phrases togeth
 | Ceci est le grand fléau de nos jours |  |
 | On entend souvent parler de ce sujet |  |
 
-### The body (le corps) 
+### Le Corps (The Body)
 
 #### Developing your argument
 
@@ -88,10 +88,37 @@ This is where you look to develop your argument. Use these phrases but also link
 | Appelons un chat un chat | Let's call a spade a spade |
 | Grace à | Thanks to |
 | N'oublions pas que | Don't forget that |
-|  |  |
-|  |  |
-|  |  |
+| Bien sûr, il y en a des avantages mais il y en aussi des inconvénients |  |
+| Mais tout ce qui brille n'est pas d'or |  |
+| Par conséquent |  |
 | C'est une situation très inquiétante/désespérante | It's a very worrying/desperate situation |
+
+#### Offering a Solution
+
+| French | English |
+|-|-|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+### La Conclusion (The Conclusion) - Concluding Your Argument
+
+| French | English |
+|-|-|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## Opinion Question Structuring Phrases
 
