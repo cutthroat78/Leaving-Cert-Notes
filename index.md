@@ -17,39 +17,7 @@
 - [Physics](other-subjects/physics.md)
 - [Phys-Chem](other-subjects/phys-chem/phys-chem.md)
 
-# Block Classes Timetable
-
-| Subject | Time | Date |
-|-|-|-|
-| English | 09:00 - 11:00 | Thursday, 01/06/2023 |
-| Ordinary Level Irish | 11:30 - 13:30 | Thursday, 01/06/2023 |
-| Maths | 14:00 - 15:30 | Thursday, 01/06/2023 |
-
-<!--
-# Timetable
-
-4 Way Split = Music/Phys-Chem/Art/Geography
-
-| Time  | Monday                   | Tuesday                         | Wednesday                       | Thursday                        | Friday                            |
-|-------|--------------------------|---------------------------------|---------------------------------|---------------------------------|-----------------------------------|
-| 8:50  | Tutorial                 | Tutorial                        | Business                        | Tutorial                        | Tutorial                          |
-| 9:00  | Maths                    | Computer Science / Irish        | French / Engineering            | Maths                           | Relationship and Sexual Education |
-| 9:50  | Woodwork / Biology (1/2) | Woodwork / Biology              | Computer Science / Irish        | Computer Science / Irish        | French / Engineering              |
-| 10:50 | Woodwork / Biology (2/2) | Career Guidance                 | Break                           | Woodwork / Biology              | Computer Science / Irish          |
-| 11:50 | Break                    | Break                           | Maths                           | Break                           | Break                             |
-| 12:30 | Business                 | PE                              | English                         | 4 Way Split                     | 4 Way Split                       |
-| 13:30 | French / Engineering     | Business                        | 4 Way Split                     | English                         | English                           |
-| 14:30 | English                  | 4 Way Split                     | Biology (Extra Class)           | French / Engineering            | Maths                             |
--->
-
-# Calendar
-
-| Event | Information | Date | Time |
-|-|-|-|-|
-| State Exams Commence | Official | Wednesday, 07/06/2023 | |
-| Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
-
-# Calendar of Practicals and Exam Dates (Only Subjects I Do)
+# Exam Dates (Only Subjects I Do)
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
@@ -61,6 +29,13 @@
 | Wednesday, 14/06/2023 | French | State Exam | Written: 09:30 - 12:00, Listening: 12:10 - 12:50 |
 | Thursday, 15/06/2023 | Business | State Exam | 09:30 - 12:30 |
 | Thursday, 22/06/2023 | Music | State Exam | Listening: 13:30 - 15:00, Composing: 15:15 - 16:45 |
+
+# Calendar
+
+| Event | Information | Date | Time |
+|-|-|-|-|
+| State Exams Commence | Official | Wednesday, 07/06/2023 | |
+| Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 
 ![2023 Exam Timetable](2023-exam-timetable.jpg)
 
