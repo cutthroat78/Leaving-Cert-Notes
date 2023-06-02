@@ -101,7 +101,7 @@
 #### Rudyard Kipling
 - [If](poetry/rudyard-kipling/if.md)
 
-### Comparative - [Video](https://youtu.be/agcXyqsk-dg)
+### Comparative - [Notes](comparative/comparative.md) - [Video](https://youtu.be/agcXyqsk-dg)
 #### General Vision and Viewpoint - [Video](https://youtu.be/vIZAJmsScW0)
 - [A Doll's House](comparative/general-vision-and-viewpoint/dolls-house.md)
 - [Room](comparative/general-vision-and-viewpoint/room.md)

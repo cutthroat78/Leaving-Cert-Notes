@@ -97,28 +97,30 @@ This is where you look to develop your argument. Use these phrases but also link
 
 | French | English |
 |-|-|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Je crois qu'il y a trois mesures phares que le gouvernement devrait mettre en place |  |
+| Mais quelle est la solution? |  |
+| La seule solution à cette question est de _ |  |
+| C'est un problème qui sera très difficile à résoudre |  |
+| C'est non seulement un travail du gouvernement, nous avons tous un rôle à jouer |  |
+| Tout le monde a un rôle à jouer afin de trouver une solution à ce probleme |  |
+| Essayons de _ (add infinitive verb here) |  |
+| Tout le monde espère que _ |  |
+| Le gouvernement doit travailler d'avantage afin de résoudre ce problème _ |  |
+| A mon avis il y a trois mesures phares que le gouvernement devrait prendre: _ |  |
+| Le gouvernement devrait _ |  |
+
+**N.B.** - You don't need to know all of these phrases, however, it's important to have a few of them that you can use universally in each opinion piece. Pick 5-8 that you think could be useful
 
 ### La Conclusion (The Conclusion) - Concluding Your Argument
 
 | French | English |
 |-|-|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| En conclusion |  |
+| Enfin |  |
+| Afin de conclure |  |
+| Il faut lutter contre ce fleau |  |
+| Il faut trouver une solution avant qu'il ne soit trop tard |  |
+| Alors, c'est pour ces raiso que je suis d'accord avec l'avis de l'auteur |  |
 
 ## Opinion Question Structuring Phrases
 
@@ -160,3 +162,33 @@ A mon avis, le sport est absolument essentiel pour les adolsecents. Je suis tout
 De plus, le sport est un bon moyen de recontrer des nouveaux amis, surtout si on pratique un sport d'équipe. D'après plusiers études, il y a un fort lien entre le sport et le bonheur des adolescent et la camaraderie joue un grand role dans ces études.
 
 En bref, les activités sportives sont essentiels dans la vie des jeunes pour qu'ils soient contents.
+
+### Interdire les téléphones portables dans les écoles irlandaises (Banning Phones in Irish Schools)
+
+#### Question
+
+À partir de septembre 2018, par ordre du ministre de l'Éducation nationale, les téléphones portables seront interdits dans toutes les écoles de France.
+
+Faut-il interdire les téléphones portables dans les écoles irlandaises?
+
+#### Answer (Given By a Student)
+
+Est-ce qu'il faut interdire les téléphones portables dans les écoles irlandaises? A mon avis, Il est essentiel que les téléphones portables soient interdits dans nos écoles. Tout d'abord, les portables sont une grande distraction et les jeunes manquent de la concentration a cause des notifications envoyées par les applis toutes les cinq minutes.
+
+Bien sur que les portable sont très utiles pour garder le contact avec les autres. Pourtant, on a vu dans les années récentes que la technologie est tellement addictive. C'est évident que le gouvernement doit faire quelque chose pour lutter contre ce problème.
+
+### Parents Irlandais Stricts (Strict Irish Parents)
+
+#### Question
+
+Selon la Section 1, Q2, George semble être un père très strict, ce qui était plutôt normal dans les années 60.
+
+A votre avis, est-ce que les parents en Irlande aujourd'hui donnent trop de liberté à leurs enfants?
+
+#### Answer
+
+Je pense partager l'avis de beaucoup en disant que les parents, de nos hours en Irlande, ont tendance à donner probablement trop de liberté à leurs enfants. La question qu'il faut alors se poser est de savoir si c'est un bien ou un mal …
+
+Au siècle dernier, comme le disent si souvent mes parents, un enfant « ça ne s'entendait pas », il obéissait sans poser de questions que ce soit en classe ou à la maison. Les choses ont énormément changé et on pourrait mème dire qu'elles sont passées d'un extrême à un autre!
+
+Certains affirment que les parents, qui la plupart du temps, travaillent en dehors de la maison, n'ont plus le temps de discipliner leurs enfants et recherchent une vie facile en les laissant faire plus ou moins ce qu'ils veulent, Donc, ils sortent, ils ne font pas leurs devoirs, ils passent des heures sur Internet et j'en passe … D'autres prétendent que les parents ont finalement compris que l'interdiction ne marchait pas aussi bien que la discussion et qu'une bonne relation familiale était basée sur la négociation. Soit. Personnellement, je pense que les jeunes, à qui on donne de la liberté, apprennent plus vite à gérer leur indépendance, néanmoins j'estime qu'il est toujours important que les parents leur imposent des limites pourvu qu'elles soient raisonnables et consistantes. Ce qui compte, d'après moi, c'est que les enfants et les aos puissent communiquer avec leurs parents, tout en sachant qu'ils doivent les respecter. Je dirai donc pour conclure qu'il faut avoir un équilibre entre la compréhension et la discipline. Alors, pour répondre à la question posée, oui, je pense que parfois les parents donnent trop de liberté alors que l'enfant a besoin de repères et donc de règles pour apprendre à vivre en communauté.
