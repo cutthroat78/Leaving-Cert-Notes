@@ -21,7 +21,6 @@
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Wednesday, 07/06/2023 | English | Paper 1 State Exam | 9:30 - 12:20 |
 | Thursday, 08/06/2023 | English | Paper 2 State Exam | 14:00 - 17:20 |
 | Friday, 09/06/2023 | Maths | Paper 1 State Exam | 14:00 - 16:30 |
 | Monday, 12/06/2023 | Maths | Paper 2 State Exam | 09:00 - 12:00 |
@@ -34,7 +33,6 @@
 
 | Event | Information | Date | Time |
 |-|-|-|-|
-| State Exams Commence | Official | Wednesday, 07/06/2023 | |
 | Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
 
 ![2023 Exam Timetable](2023-exam-timetable.jpg)
