@@ -54,6 +54,7 @@
 - [Intro to Macbeth 1](texts/macbeth/macbeth-intro-1.pdf)
 - [Intro to Macbeth 2](texts/macbeth/macbeth-intro-2.pdf)
 - [Characters](texts/macbeth/characters.md)
+  - [Lady Macbeth Quotes](texts/macbeth/lady-macbeth-quotes.md)
 - [Character Analysis](texts/macbeth/character-analysis.md)
 - [Character Profiles](texts/macbeth/macbeth-character-profiles.pdf)
 - [Dramatic Techniques](texts/macbeth/dramatic-techniques.md)

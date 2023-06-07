@@ -49,7 +49,8 @@
 ## Rhyme + Structure
 - 31 lines
 - 4 stanzas
-- Opening of poem rhyme 'say' + 'way' creating lyrical
+- Opening of poem rhyme 'say' + 'way'
+- creates lyrical
 - Simple rhyme - childlike language
 - 'Winkles/would be wet' continues this lyrical rhyme scheme
 
@@ -68,4 +69,4 @@
 ## Symbolism
 - The dark stairway could symbolise the poverty and bleakness of tenement life
 - "ghosts on the stairs" possibly represent the child's imagination thinking of ghosts and monsters, but could also allude to the people who lived in the building that died, as the mortality rates during the tenement life was extremely high
-- The girl carrying the wrapped winkles like torches symbolises the triumph the girl feels, like an olympian 
+- The girl carrying the wrapped winkles like torches symbolises the triumph the girl feels, like an olympian
