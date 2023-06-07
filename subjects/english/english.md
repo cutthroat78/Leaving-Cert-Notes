@@ -64,6 +64,7 @@
 - [Knowledge Organiser](texts/macbeth/macbeth-knowledge-organiser.png)
 
 ### Poetry
+- [Poems Cheatsheet](poetry/cheatsheet.md)
 #### [Adrienne Rich](poetry/adrienne-rich/adrienne-rich.pdf)
 - [From a Survivor](poetry/adrienne-rich/from-a-survivor.md)
 - [Aunt Jennifer's Tigers](poetry/adrienne-rich/aunt-jennifer-tigers.md) - [Slides](poetry/adrienne-rich/aunt-jennifer-tigers.pdf)

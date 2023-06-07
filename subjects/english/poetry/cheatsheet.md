@@ -1,0 +1,125 @@
+- Adrienne Rich
+  - From a Survivor - ""
+    - Summary:
+    - Themes:
+      - 
+  - Aunt Jennifer's Tigers - ""
+    - Summary:
+    - Themes:
+      - 
+  - The Uncle Speaks in the Drawing Room - ""
+    - Summary:
+    - Themes:
+      - 
+  - Our Whole Life - ""
+    - Summary:
+    - Themes:
+      - 
+  - Trying to Talk with a Man - ""
+    - Summary:
+    - Themes:
+      - 
+  - Storm Warnings - ""
+    - Summary:
+    - Themes:
+      - 
+- Paula Meehan
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+- Derek Mahon
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+- Elizabeth Bishop
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+- W.B. Yeats
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
+  - _ - ""
+    - Summary:
+    - Themes:
+      - 
