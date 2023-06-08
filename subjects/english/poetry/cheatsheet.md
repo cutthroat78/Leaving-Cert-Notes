@@ -1,28 +1,48 @@
+# Poetry Cheatsheet
+
 - Adrienne Rich
-  - From a Survivor - ""
+  - From a Survivor
     - Summary:
+    - Quote: ""
     - Themes:
-      - 
-  - Aunt Jennifer's Tigers - ""
+      - Survival
+      - Relationships
+      - Loss
+  - Aunt Jennifer's Tigers
     - Summary:
+    - Quote: "They do not fear the men beneath the tree; / They pace in sleek chivalric certainty. "
     - Themes:
-      - 
-  - The Uncle Speaks in the Drawing Room - ""
+      - Power
+      - Art Versus Life
+      - Relationships
+      - Role of Women
+  - The Uncle Speaks in the Drawing Room
     - Summary:
+    - Quote: "I have seen the mob of late"
     - Themes:
-      - 
-  - Our Whole Life - ""
+      - Power
+      - Snobbery
+      - Class
+  - Trying to Talk with a Man
     - Summary:
+    - Quote: "Out in this desert we are testing bombs,"
     - Themes:
-      - 
-  - Trying to Talk with a Man - ""
+      - Relationships
+      - Violence
+      - Acceptance
+  - Our Whole Life
     - Summary:
+    - Quote: ""
     - Themes:
-      - 
-  - Storm Warnings - ""
+      - Feminism
+      - Oppression
+      - The shortcomings of language
+  - Storm Warnings
     - Summary:
+    - Quote: ""
     - Themes:
-      - 
+      - Depression
+      - Vulnerability
 - Paula Meehan
   - _ - ""
     - Summary:
