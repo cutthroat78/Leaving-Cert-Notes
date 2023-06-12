@@ -21,8 +21,6 @@
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Friday, 09/06/2023 | Maths | Paper 1 State Exam | 14:00 - 16:30 |
-| Monday, 12/06/2023 | Maths | Paper 2 State Exam | 09:00 - 12:00 |
 | Tuesday, 13/06/2023 | Biology | State Exam | 14:00 - 17:00 |
 | Wednesday, 14/06/2023 | French | State Exam | Written: 09:30 - 12:00, Listening: 12:10 - 12:50 |
 | Thursday, 15/06/2023 | Business | State Exam | 09:30 - 12:30 |
