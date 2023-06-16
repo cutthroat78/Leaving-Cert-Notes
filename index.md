@@ -21,8 +21,6 @@
 
 | Date | Subject | Info | Time |
 |-|-|-|-|
-| Wednesday, 14/06/2023 | French | State Exam | Written: 09:30 - 12:00, Listening: 12:10 - 12:50 |
-| Thursday, 15/06/2023 | Business | State Exam | 09:30 - 12:30 |
 | Thursday, 22/06/2023 | Music | State Exam | Listening: 13:30 - 15:00, Composing: 15:15 - 16:45 |
 
 # Calendar
