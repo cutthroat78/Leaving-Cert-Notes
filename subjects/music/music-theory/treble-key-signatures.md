@@ -1,6 +1,6 @@
 # Treble Key Signatures
 
-![Treble Key Signatures](treble-key-signatures/treble-key-signatures.png)
+![Key Signatures](treble-key-signatures/key-signatures.png)
 
 ## Sharps in Major Key Signatures
 

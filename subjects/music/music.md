@@ -39,6 +39,10 @@
 - [Treble Key Signatures](music-theory/treble-key-signatures.md)
 ### Bass
 - [Bass Notes](music-theory/bass-notes.md)
+### Composing Paper Questions
+- [Question 1 - Continuation of a Given Opening](music-theory/composing-questions/continuation-of-a-given-opening.md)
+- [Question 5 - Major Harmony](music-theory/composing-questions/major-harmony.md)
+- [Question 5 - Minor Harmony](music-theory/composing-questions/minor-harmony.md)
 
 ## Set Works (Set A) - [Spotify Playlist](https://open.spotify.com/playlist/2YsunMPZS4k4p2QP54CxPh?si=YVcTWT3iRpaoXHMGYp7SmQ&utm_source=copy-link) - [YouTube](https://www.youtube.com/playlist?list=PLhzQv2f5GyXs00wPZqQgpuBZ6domc7Qvf)
 - [Romeo & Juilet Fantasy Overture by Tchaikovsky](set-works/romeo-and-juliet.md) - [Annotated Score](set-works/romeo-and-juliet.pdf) - [YouTube](https://www.youtube.com/watch?v=_Od7gx3Dc-U) - [Spotify](https://open.spotify.com/track/10q8fqqRVy1uLxUtrGDNqj?si=db53448d919f465d)
