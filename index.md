@@ -17,20 +17,6 @@
 - [Physics](other-subjects/physics.md)
 - [Phys-Chem](other-subjects/phys-chem/phys-chem.md)
 
-# Exam Dates (Only Subjects I Do)
-
-| Date | Subject | Info | Time |
-|-|-|-|-|
-| Thursday, 22/06/2023 | Music | State Exam | Listening: 13:30 - 15:00, Composing: 15:15 - 16:45 |
-
-# Calendar
-
-| Event | Information | Date | Time |
-|-|-|-|-|
-| Debs | Cancelled (from my knowledge), OLD INFO: Doing it with a school called Warrenpoint. It will take place in the Red Cow. Ticket Price will be €80 to €100. All details are subject to change | Wednesday, 23/08/2023 | |
-
-![2023 Exam Timetable](2023-exam-timetable.jpg)
-
 # Resources (For All Subjects)
 - [Line Graph Maker](https://www.rapidtables.com/tools/line-graph.html)
 - [Studyclix](https://studyclix.ie/) - Website with Notes, Previous Exam Questions, Quizzes, Past Papers and Marking Schemes
